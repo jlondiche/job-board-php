@@ -1,10 +1,10 @@
 Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le nom des entreprises comme indiqué dans mon post Medium https://medium.com/@jlondiche/jarr%C3%AAte-le-recrutement-propri%C3%A9taire-je-d%C3%A9marre-l-open-source-6e33463aec9. Vous y trouverez également mon code de conduite que je m'engage à respecter pour chaque process.
 
-Pour postuler, envoyez-moi un MP , commentez l'article en indiquant le numéro du job ou bien envoyez-moi un email à jeanne.londiche@jlrecrutement.com. 
+Pour postuler, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec 2 ou 3 lignes rapides vous concernant.
 
 À bientôt.
 
-==> Avec un seul message via LinkedIn/envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==
+==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -20,6 +20,7 @@ Salaire : selon profil
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 🔨 MANOMANO - l’Amazon français du bricolage 🔨
+
 Domaine : Marketplace e-Commerce
 Où : Paris
 Quoi : marketplace de bricolage avec 1,2 million d'articles proposés, 1,9 millions de clients, 145 employés et un CA de 250M€.
@@ -34,6 +35,7 @@ Profil : Expérience managériale, Aisance relationnelle, Compétences technique
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 📺 CCM BENCHMARK - Groupe Figaro 📺
+
 Domaine : Media
 Où : Paris
 Quoi : CCM Benchmark, 4ème groupe Internet en France avec près de 34 millions de visiteurs uniques et 27M de vidéos vues (novembre 2017, source Médiamétrie).
@@ -50,6 +52,7 @@ Profil : Expérience liée à la gestion de projet, gestion de projet (internes 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 📰 MEDIAPART 📰 
+
 Domaine : Media
 Où : Paris
 Quoi : Site d'informations indépendant,
@@ -63,10 +66,8 @@ Profil : au moins cinq ans d'expérience de product manager ou product owner sur
 Salaire : selon profil
 
 Développeur PHP / Symfony confirmé
-
-Missions :
-
-Profil :
+Stack : PHP / Symfony, Docker, architecture logicielle, message queuing, python
+Profil : 4 ans d'expérience en développement, passionné, motivé par le projet Mediapart
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -83,15 +84,10 @@ Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, 
 Lead dev PHP Backend - Optimisation & Perf
 
 Misisons : le futur lead dev devra réfléchir de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs. Il sera donc dans une logique constante d’optimisation et de remise en question !
-
 Profil : un minimum de 4 ans d’expérience en PHP, facilité à prendre en main des d'importantes architectures et applications.
-
 Salaire : 50/60K€ selon profil
-
 Développeur PHP/Symfony intermédiaire
-
 Missions :
-
 Profil :
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
