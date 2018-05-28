@@ -12,7 +12,6 @@ Pour postuler, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec 2 
 
 Lead Developer
 
-
 Domaine : IoT/GPS
 
 Où : Paris
@@ -43,6 +42,7 @@ Profil : Expérience managériale, Aisance relationnelle, Compétences technique
 📺 CCM BENCHMARK - Groupe Figaro 📺
 
 Domaine : Media
+
 Où : Paris
 Quoi : CCM Benchmark, 4ème groupe Internet en France avec près de 34 millions de visiteurs uniques et 27M de vidéos vues (novembre 2017, source Médiamétrie).
 
@@ -139,6 +139,7 @@ Salaire : selon profil
 Développeur sénior Symfony
 
 Domaine : Web / Market-Place
+
 Où : Paris en face du grand Rex. Un co-working avec 2 autres startups internationales, digitales et toutes cofondées par Denis Fayolle, serial entrepreneur (celui qui a inventé les 50% sur Lafourchette)
 Quoi : Market-place d'oeuvres d'art en C to C et positionnée à l’international.
 Missions : La tech est primordiale chez Singulart, pour permettre à leurs clients d’acheter de l’art avec le même enthousiasme, le même conseil et sans trop hésiter, comme ils le feraient lors d’une foire d’art. R&D pour se différencier complètement de la concurrence : algorithme pour prédiction des oeuvres, application de réalité augmentée.
