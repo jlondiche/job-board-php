@@ -60,6 +60,7 @@ Mediapart a 10 ans et l'un des rares journaux "full on-line" à avoir réussi le
 nouveau modèle économique sans publicité.
 
 Senior Product Manager
+
 Misisons : Construire la roadmap produit, identifier les problèmes et besoins des abonnés et des lecteurs potentiels, comprendre les enjeux des différents métiers internes (rédaction, marketing, relation abonnés, technique, direction générale), concevoir, spécifier et prioriser les évolutions s’intégrant à cette roadmap, suivre les développements, tester, mesurer, communiquer sur la performance du produit
 Profil : au moins cinq ans d'expérience de product manager ou product owner sur des produits numériques (site web ou application mobile) dans des organisations agiles (Scrum, Kanban).
 
@@ -76,25 +77,26 @@ Profil : 4 ans d'expérience en développement, passionné, motivé par le proje
 Domaine : eCommerce
 
 Où : Boulgone Billancourt
-
 Quoi : Igraal est une société rentable et le leader du cashback en France (plus de 3.5 millions de membres) et le n°2 en Allemagne.
-
 Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, RabbitMq
 
 Lead dev PHP Backend - Optimisation & Perf
 
-Misisons : le futur lead dev devra réfléchir de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs. Il sera donc dans une logique constante d’optimisation et de remise en question !
+Misssions : le futur lead dev devra réfléchir de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs. Il sera donc dans une logique constante d’optimisation et de remise en question !
 Profil : un minimum de 4 ans d’expérience en PHP, facilité à prendre en main des d'importantes architectures et applications.
 Salaire : 50/60K€ selon profil
+
 Développeur PHP/Symfony intermédiaire
-Missions :
-Profil :
+
+Missions : Concevoir et développer des fonctionnalités au sein de l'équipe back-end.
+Profil : 2 à 4 ans d'expérience en PHP, bonne maitrise de la POO, connaissances et respect des PSR.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 📺 Prisma Media 📺
 
 Développeur confirmé PHP/Symfony/NodeJS/AWS
+
 Domaine : Media/Web
 Où : Métro Gabriel Peri, Ligne 13 dans le 92
 Quoi : PM est l’un des groupes leaders de l’information en France, très orienté user first et digital.
@@ -127,12 +129,7 @@ Domaine : Web / Market-Place
 Où : Paris en face du grand Rex. Un co-working avec 2 autres startups internationales, digitales et toutes cofondées par Denis Fayolle, serial entrepreneur (celui qui a inventé les 50% sur Lafourchette)
 Quoi : Market-place d'oeuvres d'art en C to C et positionnée à l’international.
 Missions : La tech est primordiale chez Singulart, pour permettre à leurs clients d’acheter de l’art avec le même enthousiasme, le même conseil et sans trop hésiter, comme ils le feraient lors d’une foire d’art. R&D pour se différencier complètement de la concurrence : algorithme pour prédiction des oeuvres, application de réalité augmentée.
-Création des fonctionnalités produits (3 axes: e-commerce, data, traitement d’images)
-
-Participation à l'évolution de la stack technique
-
-Constitution et responsabilités dans une équipe technique en année 2
-
+Création des fonctionnalités produits (3 axes: e-commerce, data, traitement d’images) | Participation à l'évolution de la stack technique |Constitution et responsabilités dans une équipe technique en année 2
 Stack : PHP7 // Symfony 3 // JS
 Profil : Sénior, minimum 5 ans d'expérience.
 Salaire : selon profil
@@ -159,10 +156,14 @@ Salaire : selon profil
 Domaine : Hôtellerie, Présent dans 24 pays avec plus que 4000 hôtels
 Où : Paris 9ème, bureaux à Hong Kong et New York
 Quoi : Acteur majeur de la révolution de l’hôtellerie, démocratise l’hôtel en journée en transformant des établissements haut de gamme en lieux de convivialité et de proximité auprès d’une clientèle locale et nomade. Projet validé par la commission européenne et subventionné.
+
 Développeur Back-end Symfony expérimenté
+
 Missions : Concevoir et développer d'importantes fonctionnalités permettant de travailler sur la connectivité avec les hotels. Refonte prévue pour début 2019 : DDD, Event Sourcing et CQRS avec de nouvelles technologies comme Docker, RabbitMQ, GraphQL, Behat, Varnish, ElasticSearch, etc.
 Stack : PHP 7.2, Symfony 3 et 4, Doctrine, Redis, Mariadb, Mongodb, Sentry, Amazon AWS, Apache, nginx, ReactJS, Circle CI, PHPUnit
 Profil : développeur PHP expérimenté avec la POO, les design patterns, l’architecture logicielle, les bonnes pratiques de développement (tests unitaires, tests fonctionnels, SOLID, etc.).
+
 Engineering Manager
+
 Missions : Manager et recruter l'équipe technique, Suivre, chiffrer et prioriser les projets, Mettre en place les objectifs tech et RH, Collaborer avec l'architecte technique pour prendre les bonnes décisions.
 Profil : Expérience managériale, Aisance relationnelle, Compétences techniques
