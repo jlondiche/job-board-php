@@ -44,7 +44,9 @@ Misisons : l’objectif du Dev Core est de réfléchir en mode R&D pour fluidifi
 Stack : PHP7/Symfony3&4, NodeJS, MySQL et PostGreSQL, Memecache, Redis, Vagrant, git
 Profil : XP en fortes charges, expert symfony, maîtrise prouvable de PHP et des bonnes pratiques associées (concepts SOLID, design patterns, DDD, tests unitaires).
 Salaire : entre 50/55K€ selon profil
+
 Chef de Projet Technique Vidéo
+
 Missions : Suivi et analyse des statistiques liées à la diffusion et la monétisation des vidéos |
 Analyse des besoins, mise en place des évolutions et suivi auprès des demandeurs | Maintenance et développements liés au player vidéo et à son intégration sur chacun de nos sites.
 Profil : Expérience liée à la gestion de projet, gestion de projet (internes et externes) et de réelles compétences en développement Full Stack (javascript, PHP, MySQL). Un bon niveau en anglais (oral et écrit) est indispensable.
