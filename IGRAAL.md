@@ -2,7 +2,7 @@
 
 Domaine : eCommerce
 
-- **Où :** Boulgone Billancourt
+- **Où :** Boulogne Billancourt
 - **Quoi :** Igraal est une société rentable et le leader du cashback en France (plus de 3.5 millions de membres) et le n°2 en Allemagne.
 Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, RabbitMq
 
