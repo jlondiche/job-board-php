@@ -8,7 +8,7 @@ Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, 
 
 ## Lead dev PHP Backend - Optimisation & Perf
 
-- **Misssions :** le futur lead dev devra réfléchir de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs. Il sera donc dans une logique constante d’optimisation et de remise en question !
+- **Missions :** le futur lead dev devra réfléchir de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs. Il sera donc dans une logique constante d’optimisation et de remise en question !
 - **Profil :** un minimum de 4 ans d’expérience en PHP, facilité à prendre en main des d'importantes architectures et applications.
 - **Salaire :** 50/60K€ selon profil
 
