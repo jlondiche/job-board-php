@@ -6,7 +6,7 @@
 
 ## Dev Core R&D
 
-- **Misisons :** l’objectif du Dev Core est de réfléchir en mode R&D pour fluidifier et améliorer en continu l’architecture de CCM ! En collaboration directe avec le Directeur Adjoint, votre rôle sera de concevoir, développer et maintenir les produits transverses backend (plateforme oauth, datamapper) et d’assister les équipes projets symfony pour les migrations ou nouveaux développements.
+- **Missions :** l’objectif du Dev Core est de réfléchir en mode R&D pour fluidifier et améliorer en continu l’architecture de CCM ! En collaboration directe avec le Directeur Adjoint, votre rôle sera de concevoir, développer et maintenir les produits transverses backend (plateforme oauth, datamapper) et d’assister les équipes projets symfony pour les migrations ou nouveaux développements.
 - **Stack :** PHP7/Symfony3&4, NodeJS, MySQL et PostGreSQL, Memecache, Redis, Vagrant, git
 - **Profil :** XP en fortes charges, expert symfony, maîtrise prouvable de PHP et des bonnes pratiques associées (concepts SOLID, design patterns, DDD, tests unitaires).
 - **Salaire :** entre 50/55K€ selon profil
