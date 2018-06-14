@@ -15,7 +15,7 @@ Incubé au sein du Founder Program de Station F | Vos actions agissent directeme
 
 - **Stack :** PHP 7.2, Symfony 3 et 4, Doctrine, Redis, Mariadb, Mongodb, Sentry, Amazon AWS, Apache, nginx, ReactJS, Circle CI, PHPUnit
 
-- **Salaire :** 35-40K€ selon profil
+- **Salaire :** 40-45K€ selon profil
 
 ----
 [Retour a la liste](#file-00readme-md)
