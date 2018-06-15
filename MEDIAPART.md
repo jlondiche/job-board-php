@@ -19,4 +19,4 @@ nouveau modèle économique sans publicité.
 - **Profil :** 4 ans d'expérience en développement, passionné, motivé par le projet Mediapart
 
 ----
-[Retour a la liste](#file-00readme-md)
+<a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
