@@ -6,7 +6,7 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 **==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==**
 
-- [CCM Benchmark - Groupe Figaro](#file-ccmbenchmark-md)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>(#file-ccmbenchmark-md)
 - [DayUse](#file-dayuse-md)
 - [Evaneos](#file-evaneos-md)
 - [iGraal](#file-igraal-md)
