@@ -1,4 +1,4 @@
-# 📺 The Price Hub📺
+# 🏭 The Price Hub 🏭
 
 ## Développeur Back-end PHP/Symfony
 
