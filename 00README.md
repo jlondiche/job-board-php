@@ -6,13 +6,13 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 **==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==**
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>(#file-ccmbenchmark-md)
-- [DayUse](#file-dayuse-md)
-- [Evaneos](#file-evaneos-md)
-- [iGraal](#file-igraal-md)
-- [MANOMANO](#file-manomano-md)
-- [Mediapart](#file-mediapart-md)
-- [My Best Pro](#file-mybestpro-md)
-- [Prisma Media](#file-prismamedia-md)
-- [Singulart](#file-singulart-md)
-- [The Price Hub](#file-the-price-hub-md)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[MANOMANO]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIAPART.md">[Mediapart]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[Singulart]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/THE%20PRICE%20HUB.md">[The Price Hub]</a>
