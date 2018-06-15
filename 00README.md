@@ -15,4 +15,4 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 - [My Best Pro](#file-mybestpro-md)
 - [Prisma Media](#file-prismamedia-md)
 - [Singulart](#file-singulart-md)
-- [Weenect](#file-weenect-md)
+- [The Price Hub](#file-the-price-hub-md)

@@ -1,8 +1,8 @@
-# 📺 Prisma Media 📺
+# 📺 The Price Hub📺
 
 ## Développeur Back-end PHP/Symfony
 
-- **Domaine :** Market-plaxe
+- **Domaine :** Market-place
 
 - **Où :** Paris, incubé à Station F
 
