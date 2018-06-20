@@ -6,7 +6,7 @@
 ## DevOps/SysOps
 
 - **Misisons :** Gérer la migration de plateformes applicatives vers des hébergeurs Cloud (principalement sur AWS) | Monitoring et backup pour l'équipe de dev et les Mises En Production | Lancer les projets de montée de version de systèmes et sous- systèmes | Concevoir des processus d’industrialisation/d'automatisation pour améliorer gestion des environnements techniques
-- **Profil :** au moins 3/4 ans d'expérience en tant que DevOps, Forte xp avec AWS : formations et certifications | Bonne maîtrise du scripting Systèmes (Python, Shell) | Bonne maîtrise des outils standards de plates-formes Web 
+- **Profil :** au moins 2 ans d'expérience en tant que DevOps, Forte xp avec AWS : formations et certifications | Bonne maîtrise du scripting Systèmes (Python, Shell) | Bonne maîtrise des outils standards de plates-formes Web 
 
 ## Développeurs Junior/Intermediaire/Senior PHP/Symfony/NodeJS/AWS
 
