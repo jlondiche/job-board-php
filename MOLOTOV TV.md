@@ -12,8 +12,13 @@
 
 ## Javascript embarqué TV connecté
 
-- **Missions :** Développer les nouvelles fonctionnalités de l'appli | Définir les architectures logicielles | Participer au prototypage de l'application sur différents supports | Rédiger les tests fonctionnels / unitaires |Imaginer des interfaces innovantes pour les TV.
+Intégré(e) à la team TV (composée de 4 développeurs) vous contribuez activement au développement de l'application Molotov sur les TV connectées (Smart TV Samsung, LG)
+
+Soucieux(-ses) des détails et des performances (optimisation), vous développez des produits qualitatifs, performants avec une belle expérience utilisateur. Vous comprenez l'intérêt des tests unitaires et de l'automatisation pour un travail en équipe efficace dans un contexte fun et agile.
+
+- **Missions :** Développer les nouvelles fonctionnalités de l'appli | Définir les architectures logicielles | Participer au prototypage de l'application sur différents supports | Rédiger les tests fonctionnels / unitaires | Imaginer des interfaces innovantes pour les TV.
 - **Profil :** Passionné(e) par le développement, vous aimez développer des applications en JavaScript Natif. Vous êtes intéressé(e) par les environnements TV, sensible à l'expérience utilisateur et vous êtes prêt(e)s à relever les défis techniques et d’architecture. Vous êtes force de proposition et en mesure d’animer une team tech. Vous disposez de l'esprit startup, du goût du challenge et vous souhaitez intégrer une équipe à taille humaine.
+- **Technos à mâitriser** : Javascript ES6 / ES7 hors Framework, Gulp, HTML5 / CSS3, Tizen / WebOS (gros plus !)
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
