@@ -11,10 +11,5 @@
 - **Stack :** PHP 7.2, Symfony 3 et 4, Doctrine, Redis, Mariadb, Mongodb, Sentry, Amazon AWS, Apache, nginx, ReactJS, Circle CI, PHPUnit
 - **Profil :** développeur PHP expérimenté avec la POO, les design patterns, l’architecture logicielle, les bonnes pratiques de développement (tests unitaires, tests fonctionnels, SOLID, etc.).
 
-## Engineering Manager
-
-- **Missions :** Manager et recruter l'équipe technique, Suivre, chiffrer et prioriser les projets, Mettre en place les objectifs tech et RH, Collaborer avec l'architecte technique pour prendre les bonnes décisions.
-- **Profil :** Expérience managériale, Aisance relationnelle, Compétences techniques
-
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
