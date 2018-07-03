@@ -9,7 +9,7 @@
 ## Développeur PHP/Symfony confirmé
 
 - **Missions :** Rechercher et comparer des technologies pouvant répondre aux besoins opérationnels Développer des fonctionnalités du site avec les technologies retenues Travailler sur l’optimisation du site dans une logique de web-marketing très avancée La
-- **Stack :** est la suivante : PHP 7, Symfony3.4 et Symfony4, PHPUnit, Jenkins, MySQL, méthodologies agiles (SCRUM)
+- **Stack :** PHP 7, Symfony3.4 et Symfony4, PHPUnit, Jenkins, MySQL, méthodologies agiles (SCRUM)
 
 
 ## Engineering Manager
