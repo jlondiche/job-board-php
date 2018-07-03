@@ -1,4 +1,4 @@
-# 📺 CCM BENCHMARK - Groupe Figaro 📺
+# 📺 DIGITAL EYEWEAR - ALAIN AFFLELOU 📺
 
 - **Domaine :** Media
 - **Où :** Paris
