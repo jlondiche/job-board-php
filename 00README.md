@@ -15,4 +15,5 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[Singulart]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/THE%20PRICE%20HUB.md">[The Price Hub]</a>
