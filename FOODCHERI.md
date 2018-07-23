@@ -1,4 +1,4 @@
-# 👪  FOODCHERI 👪 
+# 🥕🥑  FOODCHERI 🥕🥑 
 
 - **Domaine :** eCommerce - Food Tech / Cantine Dématérialisée
 - **Où :** Paris - Métro Père Lachaise
@@ -10,7 +10,7 @@
 
 - **Stack :** Symfony 2.8 & 4 + Node.js pour le back-end, Full React pour la partie eCommerce, AWS pour le Devops.
 
-- **Profil :** 2 à 5 ans d'expérience minimum en PHP/Symfony. Une certaine passion ou au moins un intérêt pour la gastronomie/Food Tech est demandée.
+- **Profil :** 2 à 5 ans d'expérience minimum en PHP/Symfony. Une certaine passion ou au moins un intérêt pour la gastronomie/Food Tech est demandé.
 
 - **Salaire :** selon profil.
 
