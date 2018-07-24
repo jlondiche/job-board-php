@@ -8,10 +8,14 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR.md">[Digital Eyewear]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/FOODCHERI.md">[Food Cheri]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEFIGARO.md">[Le Figaro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[MANOMANO]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIAPART.md">[Mediapart]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[Singulart]</a>
