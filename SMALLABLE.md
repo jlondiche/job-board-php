@@ -1,8 +1,8 @@
-# 👪  FOODCHERI 👪 
+# 👪  SMALLABLE 👪 
 
-- **Domaine :** eCommerce - Food Tech / Livraion repas
-- **Où :** Paris - Métro Père Lachaise
-- **Quoi :** En seulement 3 ans, FoodCheri est devenu un incontournable dans le monde très concurrentiel de la livraison de repas. Avec un positionnement orienté sur la qualité, la traçabilité, les circuits courts et le bio, FoodCheri a su s'imposer comme un leader. Racheté par Sodexo en 2018.
+- **Domaine :** eCommerce / Concept Store pour parents et enfants
+- **Où :** Paris - Métro Bastille
+- **Quoi :** Lancé en 2008, Smallable est l'un des tout premiers sites e-Commerce spécialisé sur le lifestyle enfant. Devenu au fil du temps le concept store le plus en vue sur ce segment, Smallable représente aujourd'hui 750 marques et 40 000 références ! De très gros challenges à venir, notamment l'internationalisation du site.
 
 ## Lead Dev PHP/SYMFONY - Elasticsearch
 
