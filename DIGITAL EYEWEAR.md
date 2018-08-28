@@ -1,4 +1,4 @@
-# 📺 SMALLABLE 📺
+# 📺 DIGITAL EYEWEAR - ALAIN AFFLELOU 📺
 
 - **Domaine :** eCommerce / Vente de lunettes de vue sur Internet
 - **Où :** Paris
