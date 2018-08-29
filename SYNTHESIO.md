@@ -1,15 +1,16 @@
 # 📡 SYNTHESIO 📡
 
 **Domaine :** SaaS - Big Data / Solution de veille pour les marques
+
 **Où :** Paris
 
 **En quelques mots :** Synthesio est un outil de veille qui peut anticiper, scanner et déployer ce qui se dit à propos d’une marque sur le web.
 
 **En quelques chiffres :**
 
-* Plus de 60 millions de documents traités par jour presque en temps réel
-* Massive data querying 750TB+ Elasticsearch, 500TB+ MySQL, 50TB+ ScyllaDB
-* Service monitoring (20+ HTTP APIs, 25+ Processing Daemons)
+* Plus de 60 millions de documents traités par jour presque en temps réel.
+* Massive data querying 750TB+ Elasticsearch, 500TB+ MySQL, 50TB+ ScyllaDB.
+* Service monitoring (20+ HTTP APIs, 25+ Processing Daemons).
 
 ## JavaScript Back-End Engineer | Équipe R&D
 
