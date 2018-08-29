@@ -2,7 +2,7 @@
 
 **Domaine :** SaaS - Big Data / Solution de veille pour les marques
 
-**Où :** Paris
+**Où :** Paris 1
 
 **En quelques mots :** Synthesio est un outil de veille qui peut anticiper, scanner et déployer ce qui se dit à propos d’une marque sur le web.
 
@@ -12,7 +12,7 @@
 * Massive data querying 750TB+ Elasticsearch, 500TB+ MySQL, 50TB+ ScyllaDB.
 * Service monitoring (20+ HTTP APIs, 25+ Processing Daemons).
 
-## JavaScript Back-End Engineer | Équipe R&D
+## GO - Back-End Engineer | Équipe R&D
 
 **Missions :**
 
@@ -23,16 +23,6 @@
 * Très grosse utilisation de Kafka.
 
 * Collaboration étroite avec les autres ingénieurs de l’équipe.
-
-**Stack :**
-
-* Côté back : Go, Docker, Vagrant, Ansible, Elasticsearch, Kafka.
-* Des tonnes de Tests Unitaires - 80% de coverage - avec Jest, Mocha, Enzyme…
-* Des images Docker pour être prêt à coder et déployer dès le premier jour
-* Des projets Legacy sous Backbone, Browserify grunt, gulp...
-* Intégration continue Gitlab CI and Jenkins
-* Équipe front basé à 100% sur l'écosystème Javascript : React/Redux, node LTS, ES6, Webpack, Yarn…
-
 
 ## JavaScript Front-End Engineer | Équipe R&D
 
@@ -47,14 +37,13 @@ Améliorer le workflow de développement pour répondre aux besoins des utilisat
 
 * Prendre soin de l’intégration continue, de la livraison continue et suivre les erreurs dès leurs apparitions pour déployer - presque - tous les jours.
 
-**Stack :**
+## Stack
 
-* Basée à 100% sur l'écosystème Javascript : React/Redux, node LTS, ES6, Webpack, Yarn…
-* Des tonnes de Tests Unitaires - 80% de coverage - avec Jest, Mocha, Enzyme…
-* Des images Docker pour être prêt à coder et déployer dès le premier jour
-* Des projets Legacy sous Backbone, Browserify grunt, gulp...
-* Intégration continue Gitlab CI and Jenkins
-* Côté back : Go, Docker, Vagrant, Ansible, Elasticsearch, Kafka.
+* Côté back : GO, Docker, Vagrant, Ansible, Elasticsearch, Kafka.
+* Équipe front basé à 100% sur l'écosystème Javascript : React/Redux, node LTS, ES6, Webpack, Yarn.
+* Des tonnes de Tests Unitaires - 80% de coverage
+* Des images Docker pour être prêt à coder et déployer dès le premier jour.
+* Intégration continue Gitlab CI and Jenkins.
 
 
 ## Organisation
