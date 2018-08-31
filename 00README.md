@@ -8,7 +8,7 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a>
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR.md">[Digital Eyewear]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL EYEWEAR - AFFLELOU.md">[Digital Eyewear - Afflelou]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FOODCHERI.md">[Food Cheri]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a>
@@ -20,5 +20,5 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[Singulart]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/STIMUL #CTO Junior.md">[STIMUL]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[Synthesio]</a>
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/THE%20PRICE%20HUB.md">[The Price Hub]</a>

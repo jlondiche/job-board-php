@@ -1,8 +1,10 @@
 # 📺 MOLOTOV  TV - Le Netflix Français 📺
 
-- **Domaine :** Media
-- **Où :** Paris
-- **Quoi :** Avec ses 5 millions d’utilisateurs en seulement 3 années d'existence, Molotov TV ambitionne de devenir le leader de de la distribution TV en OTT (over-the-top).
+**Domaine :** Media
+
+**Où :** Paris
+
+**Quoi :** Avec ses 5 millions d’utilisateurs en seulement 3 années d'existence, Molotov TV ambitionne de devenir le leader de de la distribution TV en OTT (over-the-top).
 
 ## Dev APIs Back-End Senior, GO
 
