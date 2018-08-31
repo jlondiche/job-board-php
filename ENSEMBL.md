@@ -26,12 +26,12 @@
 
 * Symfony 4 // Postgres 9.5 // Elasticsearch 2.4 // Neo4j // Redis 3.0 // RabbitMQ // neo4j // Polymer // Angular 1.5 // Docker // Heroku // PHPUnit // Behat // Dreed // SauceLabs // Git // PHPStorm // Travis
 * Un peu de GO
-* Outils: PHPStorm
+* Outils : PHPStorm
 
 
 ## À propos - Salaire
 
-* Ambiance Startup. 30 personnes
+* Ambiance Startup - 30 personnes
 * 3 personnes en Marketing Produit et 10 en IT (internes 6, externes 4) dont un responsable technique
 * Equipe IT jeune, compétente et passionnée : 6 développeurs front-end et 3 développeurs back-end
 * Salaire : 45/52K€ selon profil

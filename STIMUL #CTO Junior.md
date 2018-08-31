@@ -1,4 +1,4 @@
-# 📡 STIMUL 📡
+# 👨‍⚕️ STIMUL 🚴
 
 **Domaine :** e-Santé / IoT
 

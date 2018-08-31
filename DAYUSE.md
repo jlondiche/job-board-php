@@ -8,15 +8,15 @@
 
 ## Développeur Back-end Symfony expérimenté
 
-- **Missions :** 
+**Missions :** 
 
 * Concevoir et développer d'importantes fonctionnalités permettant de travailler sur la connectivité avec les hotels. Refonte prévue pour début 2019 : DDD, Event Sourcing et CQRS avec de nouvelles technologies comme Docker, RabbitMQ, GraphQL, Behat, Varnish, ElasticSearch, etc.
 
-- **Stack :** 
+**Stack :** 
 
 * PHP 7.2, Symfony 3 et 4, Doctrine, Redis, Mariadb, Mongodb, Sentry, Amazon AWS, Apache, nginx, ReactJS, Circle CI, PHPUnit
 
-- **Profil :** 
+**Profil :** 
 
 * Développeur PHP expérimenté avec la POO, les design patterns, l’architecture logicielle, les bonnes pratiques de développement (tests unitaires, tests fonctionnels, SOLID, etc.).
 

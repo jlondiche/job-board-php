@@ -9,11 +9,11 @@ Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, 
 
 ## Développeur PHP/Symfony intermédiaire
 
-- **Salaire :** 
+**Salaire :** 
 
 * 45/55K€ selon profil
 
-- **Missions:**
+**Missions:**
 
 * Réfléchir avec l’équipe de manière continue à comment optimiser le backend d’iGraal, la colonne vertébrale de la société, et de tous les services qui en découlent : web, mobile, extensions navigateurs.  
 
@@ -22,7 +22,7 @@ Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, 
 * Concevoir et développer des fonctionnalités.
 
 
-- **Profil :** 
+**Profil :** 
 
 * 2 à 4 ans d'expérience en PHP
 * Bonne maitrise de la POO.
