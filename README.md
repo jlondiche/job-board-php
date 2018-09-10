@@ -8,14 +8,14 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIA/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20LATER%20STAGE%20/DAYUSE.md">[DayUse]</a>
-- <a href="hhttps://github.com/jlondiche/job-board-php/blob/master/ECOMMERCE/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ECOMMERCE/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20EARLY%20STAGE/ENSEMBL.md">[Ensembl]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20LATER%20STAGE%20/EVANEOS.md">[Evaneos]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20EARLY%20STAGE/FOODCHERI.md">[Food Cheri]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ECOMMERCE/IGRAAL.md">[iGraal]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIA/LE%20FIGARO.md">[Le Figaro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20LATER%20STAGE%20/MANOMANO.md">[MANOMANO]</a>
-- <a href="hhttps://github.com/jlondiche/job-board-php/blob/master/MEDIA/MEDIAPART.md">[Mediapart]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIA/MEDIAPART.md">[Mediapart]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STARTUP%20-%20LATER%20STAGE%20/MOLOTOV%20TV.md">[Molotov TV]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a>
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIA/PRISMAMEDIA.md">[Prisma Media]</a>
