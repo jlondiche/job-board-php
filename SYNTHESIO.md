@@ -63,5 +63,9 @@ Améliorer le workflow de développement pour répondre aux besoins des utilisat
 * Synthesio a été désigné comme un des trois leaders dans son domaine par Forrester.
 * Si vous rejoignez Synthesio avant Décembre, vous participerez au Kick-Off qui se déroulera en Floride en Janvier !
 
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

@@ -35,5 +35,9 @@
 * 3 personnes en Marketing Produit et 10 en IT (internes 6, externes 4) dont un responsable technique
 * Equipe IT jeune, compétente et passionnée : 6 développeurs front-end et 3 développeurs back-end
 * Salaire : 45/52K€ selon profil
+
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

@@ -52,5 +52,9 @@
 * Éxpérience liée à la gestion de projet, (internes et externes) et de réelles compétences en développement Full Stack (javascript, PHP, MySQL). 
 * Un bon niveau en anglais (oral et écrit) est indispensable.
 
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

@@ -1,8 +1,10 @@
 # 👪  SMALLABLE 👪 
 
-- **Domaine :** eCommerce / Concept Store pour parents et enfants
-- **Où :** Paris - Métro Bastille
-- **Quoi :** Lancé en 2008, Smallable est l'un des tout premiers sites e-Commerce spécialisé sur le lifestyle enfant. Devenu au fil du temps le concept store le plus en vue sur ce segment, Smallable représente aujourd'hui 750 marques et 40 000 références ! De très gros challenges à venir, notamment l'internationalisation du site.
+**Domaine :** eCommerce / Concept Store pour parents et enfants
+
+**Où :** Paris - Métro Bastille
+
+**Quoi :** Lancé en 2008, Smallable est l'un des tout premiers sites e-Commerce spécialisé sur le lifestyle enfant. Devenu au fil du temps le concept store le plus en vue sur ce segment, Smallable représente aujourd'hui 750 marques et 40 000 références ! De très gros challenges à venir, notamment l'internationalisation du site.
 
 ## Lead Dev PHP/SYMFONY - Elasticsearch
 
@@ -15,6 +17,10 @@
 - **Salaire :** entre 50/60K€ selon profil.
 
 - **Les avantages :** Accompagnement/montée en compétences de dev junior, projet très solide avec plusieurs levées de fonds au compteur, déjà bénéficiaire (positif pour le e-Commerce), challenge technique au RDV avec les problématiques e-Commerce de fort volume, Tickets Restaurant, Mutuelle, locaux magnifiques, du bon café (Kawa Coffee).
+
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

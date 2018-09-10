@@ -20,5 +20,9 @@
 
 * Développeur PHP expérimenté avec la POO, les design patterns, l’architecture logicielle, les bonnes pratiques de développement (tests unitaires, tests fonctionnels, SOLID, etc.).
 
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

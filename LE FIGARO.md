@@ -1,8 +1,10 @@
 # 📰 LE FIGARO 📰 
 
-- **Domaine :** Media - Information
-- **Où :** Paris 9eme
-- **Quoi :** Le Figaro est l'un des plus anciens médias français...donc l'un des plus lus ! Le site lefigaro.fr fait également partie des sites les plus visités en France. Les challenges techniques sont donc au RDV pour répondre à la demande de dizaines de millions de visiteurs par mois.
+**Domaine :** Media - Information
+
+**Où :** Paris 9eme
+
+**Quoi :** Le Figaro est l'un des plus anciens médias français...donc l'un des plus lus ! Le site lefigaro.fr fait également partie des sites les plus visités en France. Les challenges techniques sont donc au RDV pour répondre à la demande de dizaines de millions de visiteurs par mois.
 
 ## Développeur PHP/Symfony Senior
 
@@ -15,6 +17,10 @@
 - **Salaire :** selon profil.
 
 - **Les avantages :** Mutuelle, Tickets Restos, très beaux locaux.
+
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>

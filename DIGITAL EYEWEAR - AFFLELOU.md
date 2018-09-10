@@ -21,7 +21,7 @@
 
 * Avoir plusieurs projets à montrer ou une vraie expérience chez un site reconnu. Technos à maîtriser : PHP 7 et Symfony 3, SCSS + HTML, Javascript
 
-- **Salaire :** entre 40/45K€ selon profil
+**Salaire :** entre 40/45K€ selon profil
 
 **Les avantages :** 
 
@@ -29,6 +29,10 @@
 * Une petite structure à taille humaine, agile et indépendante adossée à un groupe puissant. Des projets développés en internes, toujours en collaboration avec notre équipe marketing et nos opticiens. 
 * Des outils pour travailler dans de bonnes conditions : Slack, PHP Storm, Docker, GitLab, Capistrano, Fabric.
 * De la méthodologie dans la mise en place des travaux : intégration continue et entraide. Des points d’équipe quotidiens.
+
+## Comment postuler ?
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
