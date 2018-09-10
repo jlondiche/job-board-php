@@ -40,4 +40,4 @@
 
 Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 ----
-<a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
