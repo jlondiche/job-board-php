@@ -20,7 +20,7 @@
 
 * Épauler les développeurs plus juniors
 
-* Collecter des informations, notions de data importante pour prévoir la next best action
+* Collecter des informations, notion de data importante pour prévoir la next best action
 
 ## Stack
 

@@ -6,9 +6,9 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 **==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==**
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro] DevCore - 3ans d'expérience min</a>
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse] Dev Back-end Symfony expérimenté</a>
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou] Dev Full-Stack avec première expérience</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a> DevCore - 3ans d'expérience min
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a> Dev Full-Stack avec première expérience
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ENSEMBL.md">[Ensembl]</a> Dev Symfony confirmé
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a> Dev back-end
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FOODCHERI.md">[Food Cheri]</a> Dev PHP Senior
