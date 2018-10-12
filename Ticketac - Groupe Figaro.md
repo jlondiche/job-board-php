@@ -10,12 +10,6 @@ Ticketac souhaite combler ce manque avec une refonte TOTALE du site/produit. L�
 
 **Projet e-Commerce stratégique pour le Groupe Figaro.**
 
-**En quelques chiffres :**
-
-* Plus de 60 millions de documents traités par jour presque en temps réel.
-* Massive data querying 750TB+ Elasticsearch, 500TB+ MySQL, 50TB+ ScyllaDB.
-* Service monitoring (20+ HTTP APIs, 25+ Processing Daemons).
-
 ## Chef de projet technique PHP
 
 **Missions :**
@@ -36,7 +30,7 @@ Ticketac souhaite combler ce manque avec une refonte TOTALE du site/produit. L�
 
 * PHP de manière large...pour le reste tout est à construire !
 
-## Pourquoi postuler
+## Pourquoi postuler ?
 
 Opportunité extraordinaire car la refonte site/produit est totale avec une ambition énorme d’un point de vue business. L’objectif affiché est clairement de devenir numéro 1 sur ce segment.
 
