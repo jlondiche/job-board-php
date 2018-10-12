@@ -26,6 +26,3 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC%20-%20GROUPE%20FIGARO.md">[Ticketac - Groupe Figaro]</a> Chef de projet technique PHP
 
 
-%20-%20
-
-
