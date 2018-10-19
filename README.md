@@ -6,6 +6,7 @@ Pour postuler, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrute
 
 **==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. Faites-moi confiance et gagnez un temps fou. <==**
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior // 70% PHP/SF - 30% JS/React
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCMBENCHMARK.md">[CCM Benchmark - Groupe Figaro]</a> DevCore - 3 ans d'expérience min
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a> Dev Full-Stack avec première expérience
