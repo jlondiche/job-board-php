@@ -12,7 +12,7 @@ Campings.com a démarré un cycle technique de modernisation il y a un an avec l
 
 Le process de refonte a été entamé. Les ambitions technologiques sont très élevées. L’équipe technique est orientée qualité, bonnes pratiques et tests. L’équipe travaille en TDD.
 
-Composition des équipes : 2 features team, 1 team data , 3ème feature team en cours de création
+Composition des équipes : 3 features team, 1 team data , 4ème team en cours de création
 
 => 1 product owner par équipe, 1 scrum tournant, 1 QA.
 
@@ -44,9 +44,8 @@ Composition des équipes : 2 features team, 1 team data , 3ème feature team en 
 
 ## Pourquoi postuler ?
 
-**Budget max pour salaire :** 75K€
 
-**Les avantages :** En plein coeur de Paris - Métro République à partir de Décembre + très beau budget pour le salaire + mission enrichissante !
+**Les avantages :** En plein coeur de Paris - Métro République à partir de Décembre + très beau budget pour le salaire + mission enrichissante + stack technique moderne et projets avec beau challenge  !
 
 ## Comment postuler ?
 
