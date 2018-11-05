@@ -4,7 +4,7 @@
 
 **Où :** Paris
 
-**Quoi :** marketplace de bricolage avec 1,2 million d'articles proposés, 1,9 millions de clients, 145 employés et un CA de 250M€.
+**Quoi :** marketplace de bricolage avec 2 millions d'articles proposés, 1,9 millions de clients, 300+ employés et un VA de 250M€.
 
 **Salaire :** selon profil
 
@@ -14,11 +14,13 @@
 
 * Rechercher et comparer des technologies pouvant répondre aux besoins opérationnels 
 
-* Développer des fonctionnalités du site avec les technologies retenues Travailler sur l’optimisation du site dans une logique de web-marketing très avancée
+* Développer des fonctionnalités du site avec les technologies retenues
+
+* Travailler sur l’optimisation du site dans une logique de web-marketing très avancée
 
 **Stack :** 
 
-* PHP 7, Symfony3.4 et Symfony4, PHPUnit, Jenkins, MySQL, méthodologies agiles (SCRUM)
+* PHP 7.1, Symfony3.4 et Symfony4.1, PHPUnit, Behat, Jenkins, MySQL, méthodologies agiles (SCRUM)
 
 
 ## Engineering Manager
