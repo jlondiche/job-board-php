@@ -1,4 +1,4 @@
-# 📺 DIGITAL EYEWEAR - AFFLELOU 📺
+# 👓 DIGITAL EYEWEAR - AFFLELOU 👓
 
 **Domaine :** eCommerce / Vente de lunettes de vue sur Internet
 
