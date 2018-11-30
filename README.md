@@ -19,9 +19,10 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FOODCHERI.md">[Food Cheri]</a> Dev PHP Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a> Dev PHP/Symfony intermédiaire
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MAILJET.md">[Mailjet]</a> Développeur Backend API *GO*
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[ManoMano]</a> Dev PHP/Symfony confirmé - Engineering Manager - Software Architect
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIAPART.md">[Mediapart]</a> Dev PHP confirmé - Senior Product Manager
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, GO - Javascript embarqué TV connecté
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, *GO* - Javascript embarqué TV connecté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a> Dev Symfony 3-4/Laravel Junior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Devs Junior/Intermediaire/Senior PHP/Symfony/NodeJS/AWS - DevOps/SysOps - Chef de Projet Sécurité Informatique
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STIMUL%20%23CTO%20Junior.md">[STIMUL]</a> CTO Junior PHP/Symfony
