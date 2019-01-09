@@ -4,7 +4,7 @@
 
 **Où :** Paris.
 
-**Quoi :** Pour enfin profiter du networking sans forcément se forcer à fréquenter des cocktails pas funs en soirée et en costard.
+**Quoi :** Où que vous soyez vous savez toujours où se trouvent vos proches.
 
 **Facts & Figures**
 
