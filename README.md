@@ -6,7 +6,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 À bientôt.
 
-**==> Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. _Faites-moi confiance_ et gagnez un temps fou. <==**
+**Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. _Faites-moi confiance_ et gagnez un temps fou.**
 
 #### Les offres
 
