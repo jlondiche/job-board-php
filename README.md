@@ -23,13 +23,10 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDIAPART.md">[Mediapart]</a> Dev PHP confirmé - Senior Product Manager
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, *GO* - Javascript embarqué TV connecté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MYBESTPRO.md">[My Best Pro]</a> Dev Symfony 3-4/Laravel Junior
-<<<<<<< HEAD
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Devs PHP/Symfony/NodeJS/AWS - DevOps/SysOps
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/shapr.md">[Shapr]</a> Dev Back End PHP/Python
-=======
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Devs Junior/Intermediaire/Senior PHP/Symfony/NodeJS/AWS - DevOps/SysOps - Chef de Projet Sécurité Informatique
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Shapr.md">[Shapr]</a> Dev Back End PHP/Python - 1 à 2 ans d'xp min.
->>>>>>> 6dc2effed29ae9c3990067bfad1beeda89628757
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Shapr.md">[Shapr]</a> Dev Back End PHP/Python - 1 à 2 ans d'xp min
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STIMUL%20%23CTO%20Junior.md">[STIMUL]</a> CTO Junior PHP/Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[Synthesio]</a> GO - Back-End Engineer | Équipe R&D - JavaScript Front-End Engineer | Équipe R&D
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Ticketac%20-%20Groupe%20Figaro.md">[Ticketac - Groupe Figaro]</a> Chef de projet technique PHP
