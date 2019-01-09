@@ -7,27 +7,30 @@
 **Quoi :** Living Actor développe et assemble toutes les technologies à la pointe de l’innovation pour donner vie aux chatbots.
 
 
-## Led Dev ou Dev Senior PHP
+## Led Dev et Dev Senior PHP
 
 **Missions :**
 
 * Re-construction de l'ensemble en partant de PHP 5.3
 * Plusieurs grosses évolutions/migrations à prévoir.
 * Gros challenge de revamp du code.
-* Nouveau CTO - Jérome NADAUD : motivé, jeune et prêt pour ce beau challenge technique.
+* Nouveau CTO - Jérôme NADAUD : motivé, jeune et prêt pour ce beau challenge technique.
 
 ## Stack
 
 * Front : VueJS ou ReactJS en discussion.
 * Backoffice : PHP / Symfony 4 -> En train de migrer.
-* API : Moteur NLP (Natural Language programming) en java.
-* API Front : Go ou PHP.
-* API plate-forme ou Christal.
+* Moteur NLP (Natural Language programming) en C++.
+* API: API Platform ou Crystal en discussion.
+* Versioning: Gitlab
+* CI: GitlabCI
+* Deploiements: Ansible
+* Tests: PHPUnit / Behat
 
 
 ## Profil
 
-* Vous n'avez pas peu d'apprendre, de découvrir.
+* Vous n'avez pas peur d'apprendre, de découvrir.
 * Vous êtes ouvert à d'autres technos.
 * Vous devez être prêt à sortir de votre zone de confort.
 
@@ -39,6 +42,7 @@
 * Plein de nouveautés à venir avec le boom de l'IA.
 * De nombreux très gros clients utilisent déjà la solution.
 * ADN entrepreneurial, grande liberté de mouvement.
+* Télétravail
 
 ## Comment postuler ?
 
