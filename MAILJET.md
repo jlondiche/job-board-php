@@ -11,7 +11,7 @@
 Deux milliards d'emails envoyés par mois, 100 000 clients, 150 pays désservis par mailjet, un siège à Paris et des bureaux à New-York, Londres, Berlin, Düsseldorf, Barcelone, Sofia, Toronto, Amsterdam et Hô-Chi-Minh-Ville.
 
 
-## Développeur Backend API
+## Développeur Backend API - GO (autre langage possible si curieux d'apprendre !)
 
 **Missions :**
 

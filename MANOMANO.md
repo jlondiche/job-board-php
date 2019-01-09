@@ -23,11 +23,6 @@
 * PHP 7.1, Symfony3.4 et Symfony4.1, PHPUnit, Behat, Jenkins, MySQL, méthodologies agiles (SCRUM)
 
 
-## Engineering Manager
-
-- **Missions :** Manager et recruter l'équipe technique, Suivre, chiffrer et prioriser les projets, Mettre en place les objectifs tech et RH, Collaborer avec l'architecte technique pour prendre les bonnes décisions.
-- **Profil :** Expérience managériale, Aisance relationnelle, Compétences techniques
-
 ## Software Architect
 
 - **Missions :** Audit de performances et de sécurité, Analyse des erreurs et points d'optimisation de l'architecture technique, définir la roadmap technique avec les architectes et les dev core, permettre au site de monter en trafic, créer une plate-forme évolutive qui répond aux besoins business, coordonner la stratégie avec les équipes business mais aussi les autres équipes techniques (devops datascience)

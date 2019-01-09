@@ -43,7 +43,7 @@ En bref, une tête bien faite avec une bonne mentalité tech/humaine qui apporte
 
 ## Pourquoi postuler ?
 
-**Les avantages :** !
+**Les avantages :** 
 
 * Une stack à la pointe avec des projets tech stimulants.
 * Projet en plein boom avec des équipes internationales.

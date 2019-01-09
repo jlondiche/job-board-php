@@ -40,41 +40,6 @@
 
 **Salaire :** 45-50K€
 
-## Chef de Projet Sécurité Informatique
-
-**Missions**
-
-À la fois dans l’action avec  :
-
-* des simulations de tests d’intrusion, 
-* de nombreux outils de sécurité à mettre en place 
-* des fournisseurs à challenger régulièrement
-
-L’ingénieur Sécurité sera également *chef de projet* sur tout un ensemble de sujets sensibles :
-
-* Mapping d’analyses de risques
-* Définition des procédures et de la politique de sécurité
-* Suivi des incidents
-* Organisation d’audit
-* Veille Technologique
-* Campagne de sensibilisation 
-
-**Les responsabilités**
-
-* Définir et formaliser les axes principaux de la sécurité du Système d’information puis garantir son application 	 		
-* Evaluation des menaces, risques et impacts sur la Production du Groupe (Réseaux, Systèmes, Mobilité, Applications, Données, Postes de travail, Hébergeurs IT Corp & Web, Cloud)
-* Contrôle et garantie de la bonne application des principes de sécurité	
-* Organisation d’audits techniques périodiques et suivi de l’application des recommandations
-
-**Le profil**
-
-* Formation d’ingénieur informatique indispensable
-* Minimum 3 ans d’expérience
-* Très bonne communication orale
-* Bonne maîtrise des sujets techniques mais aussi juridiques
-* Expérience en gestion de projet
-* Connaissance des outils standards de plates-formes Web (Debian, Lamp, Nginx, Varnish, PHP, HAProxy, ElasticSearch, MySql, CDN, ...) et des plates-formes On-Premise (Windows, Oracle, Active Directory,...)
-
 ## Pourquoi postuler ?
 
 * Équipe de 7 personnes : 6 dev sur les nouvelles features et 1 dev sur la maintenance | 
