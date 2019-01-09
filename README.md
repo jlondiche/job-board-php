@@ -8,7 +8,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. _Faites-moi confiance_ et gagnez un temps fou.**
 
-#### Les offres
+## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior // 70% PHP/SF - 30% JS/React
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
