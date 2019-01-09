@@ -30,6 +30,6 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/STIMUL%20%23CTO%20Junior.md">[STIMUL]</a> CTO Junior PHP/Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[Synthesio]</a> GO - Back-End Engineer | Équipe R&D - JavaScript Front-End Engineer | Équipe R&D
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Ticketac%20-%20Groupe%20Figaro.md">[Ticketac - Groupe Figaro]</a> Chef de projet technique PHP
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/weenect.md">[Weenect]</a> Développeur Backend Python Confirmé
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WEENECT.md">[Weenect]</a> Développeur Backend Python Confirmé
 
 
