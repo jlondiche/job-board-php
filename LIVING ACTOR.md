@@ -7,7 +7,7 @@
 **Quoi :** Living Actor développe et assemble toutes les technologies à la pointe de l’innovation pour donner vie aux chatbots.
 
 
-## Led Dev et Dev Senior PHP
+## Lead Dev et Dev Senior PHP
 
 **Missions :**
 
