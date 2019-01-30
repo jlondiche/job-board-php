@@ -13,10 +13,12 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior // 70% PHP/SF - 30% JS/React
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a> dev fullstack : PHP / SF / React
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EASYMOVIE.md">[EasyMovie]</a> Dev PHP/Laravel avec première(s) expérience(s)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a> Sénior Dev back-end Objet, CQRS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FOODCHERI.md">[Food Cheri]</a> Dev PHP Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a> Dev PHP/Symfony intermédiaire
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEBONCOIN.md">[LEBONCOIN]</a> Dev PHP API
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LIVING%20ACTOR.md">[Living Actor]</a> Led Dev ou Dev Senior PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MAILJET.md">[Mailjet]</a> Développeur Backend API *GO*
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[ManoMano]</a> Dev PHP/Symfony confirmé - Engineering Manager - Software Architect
