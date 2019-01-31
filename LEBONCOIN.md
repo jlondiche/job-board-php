@@ -29,16 +29,14 @@ Au sein de l’équipe existante et sous la responsabilité du chef de projet, v
 * Revue de code, mise en place de tests unitaires et automatiques.
 * Partage des bonnes pratiques et collaboration avec l’ensemble des équipes du Boncoin.
 
-## Stack - Dernières versions pour tout !
+## Stack
 
-* Laravel 5.7, PHP 7.2, MySQL 5.7.
-* VanillaJS, jQuery, React.
-* Focus sur la qualité de code (tests unitaires, reviews de codes, etc.).
-* CI/CD. Infrastructure sur AWS (Terraform / Ansible, Packer, Serverless).
-* Des microservices en Go et NodeJS. 
-* Docker.
-* API utilisée par les 2 applications mobiles natives (iOS et Android), GraphQL, web socket. 
-* Organisation Agile, en sprints courts (suivi sur suite Atlassian : Jira, Bitbucket, Confluence).
+PHP/Symfony 4 60% /GO 40%
+BDD : PostgreSQL, Redis
+Auto Scaling, Auto Provisioning
+Test :  behat et PHPUnit. Déjà 90% de coverage, doit être à 100%.
+AWS : SQS
+Concours : système d'automatisation des livraisons.
 
 ## Profil
 
@@ -63,6 +61,8 @@ Tout simplement parce que c’est un leader du web français avec des problémat
 * Conditions de travail au top. La Direction est très proches des collaborateurs.
 * Parcours d’intégration : accorde beaucoup d’importance au nouvelles personnes. Une semaine complète pour les nouveaux est dédiée à l’intégration, tous les services présentent ce qu’ils font. Petit dej' géant avec toute la boite, tous les collaborateurs se présentent.
 * Petit dej dans la semaine d’intégration avec une grande partie du COMEX pour répondre aux interrogations et les connaître.
+
+Salaire : 40-45K + variable et intéressement.
 
 ## Comment postuler ?
 
