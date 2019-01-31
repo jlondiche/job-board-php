@@ -36,7 +36,7 @@ Directement rattaché(e) au CTO et intégré à l’équipe web, votre principal
 
 ## Stack - Dernières versions pour tout !
 
-* Laravel 5.7, PHP 7.2, MySQL 5.7 
+* Laravel 5.7, PHP 7.3, MySQL 5.7 
 * VanillaJS, jQuery, React 
 * Focus sur la qualité de code (tests unitaires, reviews de codes, etc.) 
 * CI/CD. Infrastructure sur AWS (Terraform / Ansible, Packer, Serverless) 
