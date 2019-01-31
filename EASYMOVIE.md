@@ -8,7 +8,8 @@
 
 **Facts & Figures**
 
-* Stack à la pointe
+* Stack à la pointe : dernières versions à jour
+* Contributeurs Laravel dans l'équipe
 * Très forte croissance (x3/an)
 * Rentable
 * 60 collaborateurs
