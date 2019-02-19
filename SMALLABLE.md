@@ -1,7 +1,9 @@
 # 👪 SMALLABLE 👪
 
 **Domaine :** eCommerce / Concept Store pour parents et enfants
+
 **Où :** Paris - Métro Bastille
+
 **Quoi :** Lancé en 2008, Smallable est l'un des tout premiers sites e-Commerce spécialisé sur le lifestyle enfant. Devenu au fil du temps le concept store le plus en vue sur ce segment, Smallable représente aujourd'hui 750 marques et 40 000 références ! De très gros challenges à venir, notamment l'internationalisation du site.
 
 ## Développeur Senior PHP/SYMFONY
@@ -50,7 +52,3 @@ Accompagnement/montée en compétences de dev junior, projet très solide avec p
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/00README.md">[Retour a la liste]</a>
-
-
-----
-<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
