@@ -4,7 +4,7 @@
 
 **Où :** Paris 10, en face de la mairie.
 
-**Quoi :** Leboncoin développe une solution d’import automatisé d’annonces basée sur une architecture orientée services. Les API et interfaces web sont développées avec Symfony 4 et les traitements de données sont réalisés en Go.
+**Quoi :** Leboncoin développe une solution d’imports automatisés d’annonces basée sur une architecture orientée services. Les API et interfaces web sont développées avec Symfony 4 et les traitements de données sont réalisés en Go.
 
 L’ensemble de l’environnement est hébergé sur AWS et s’appuie en partie sur des services managés Amazon.
 
@@ -54,11 +54,11 @@ Vous justifiez d’une expérience de développeur PHP back-end :
 
 Tout simplement parce que c’est un leader du web français avec des problématiques que vous ne trouverez nulle part ailleurs.
 
-* Labellisé great place to work : 7ème du classement. Entreprise où il fait bon vivre.
+* Labellisé great place to work : 7ème du classement Entreprise où il fait bon vivre.
 * 3 jours de séminaire en Septembre. Généralement, le Club Med en Corse ou un bien un village Pierre & Vacances est privatisé.
 * Faible turnover :  13% sur l’ensemble de la boite.
 * PC de folie pour les développeurs.
-* Conditions de travail au top. La Direction est très proches des collaborateurs.
+* Conditions de travail au top. La Direction est très proche des collaborateurs.
 * Parcours d’intégration : accorde beaucoup d’importance au nouvelles personnes. Une semaine complète pour les nouveaux est dédiée à l’intégration, tous les services présentent ce qu’ils font. Petit dej' géant avec toute la boite, tous les collaborateurs se présentent.
 * Petit dej dans la semaine d’intégration avec une grande partie du COMEX pour répondre aux interrogations et les connaître.
 
