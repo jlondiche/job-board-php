@@ -13,9 +13,9 @@
 * 890 M€ CA.
 
 **Missions :** Contribuer au développement de l’activité e-Commerce du premier groupe de vente en ligne d’optique en France.
-* Maintenir le niveau d’excellence en technique pour atteindre les très grandes ambitions du groupe
-* Développement de projets internes, en collaboration avec les équipes marketing et les opticiens du groupe
-* Proposer des pistes d’amélioration pour améliorer le développement dans le respect des Best Practices
+* Maintenir le niveau d’excellence en technique pour atteindre les très grandes ambitions du groupe.
+* Développement de projets internes, en collaboration avec les équipes marketing et les opticiens du groupe.
+* Proposer des pistes d’amélioration pour améliorer le développement dans le respect des Best Practices.
 
 ## Chef de Projet Technique
 
@@ -36,7 +36,7 @@ charges. Gérer la planification des sprints, le rôle de scrum master et vérif
 
 **Stack :** Javascript, React 16+, Redux 4+ o SASS, Bootstrap, Enzyme, Axios.
 
-## DevOPS
+## DevOps
 
 **Le fil rouge :** Contribuer à l’évolution et à la création de nouveaux sites e-commerce sur le framework Symfony. Contribuer à l’évolution du pipeline d’intégration continue, tests automatisés et procédures de déploiements.
 
