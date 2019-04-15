@@ -20,7 +20,7 @@ En bref, Soundcharts souhaite devenir le “Bloomberg” de la musique.
 * Traite plusieurs millions de playlists sur Spotify, Deezer, Apple music...
 * Surveillance en continue des réseaux sociaux.
 * En temps réel, écoute et traite 2 000 radios.
-* Big data pour la Playlist : plus de 1 terra 9.
+* Big data pour la Playlist : plus de 1,9To.
 * Projets en machine learning et prédiction. 
 * Une 40aine de machines pour le moment.
 
