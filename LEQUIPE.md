@@ -9,7 +9,7 @@
 **Facts & Figures**
 
 * 3 Millions VU/jour
-* 1,5 Milliards de pages vues/jour
+* 1,5 Milliards de pages vues/mois
 
 ## Devops
 
