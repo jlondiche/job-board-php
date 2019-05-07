@@ -19,6 +19,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[iGraal]</a> Dev PHP/Symfony intermédiaire
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEBONCOIN.md">[LEBONCOIN]</a> Dev PHP API
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> DevOPS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LIVING%20ACTOR.md">[Living Actor]</a> Led Dev ou Dev Senior PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MAILJET.md">[Mailjet]</a> Développeur Backend API *GO*
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[ManoMano]</a> Dev PHP/Symfony confirmé - Engineering Manager - Software Architect
