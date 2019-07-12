@@ -29,24 +29,40 @@ Au sein de l’équipe existante et sous la responsabilité du chef de projet, v
 * Revue de code, mise en place de tests unitaires et automatiques.
 * Partage des bonnes pratiques et collaboration avec l’ensemble des équipes du Boncoin.
 
+
+## Développeur(se) PHP Biens de Consommation
+
+Récemment intégrée au sein du groupe leboncoin, Videdressing est la première plateforme collaborative française dédiée à la mode et au luxe de seconde main : pionnière de la mode d’occasion, Videdressing s’attache à réconcilier toutes celles et ceux qui veulent renouveler leur garde-robe sans sacrifier leur style, leur budget ou leurs convictions, en leur offrant la plateforme la plus adaptée et la plus sécurisée possible.
+
+**Missions :**
+
+* Participer à la conception des prochaines fonctionnalités
+* Contribuer aux évolutions fonctionnelles des plateformes Web (mobile et desktop)
+* Prendre part aux relectures de code et amélioration des process de développement
+* Être force de proposition sur les choix techniques et architecturaux pour les applications 
+* Renforcer les tests et la CI (Gitlab)
+
+## Profil
+
+* 5 années d’expérience minimum
+* Formation Bac+ 5 ou supérieure en informatique
+* PHP 5, PHP 7
+* HTML5, CSS3, Javascript, Jquery, on n’échappe jamais aux fondamentaux web
+* Git n’a pas de secret pour vous
+* Symfony 2, 3, 4 ou connaissance d’un framework web PHP récent (Laravel, Zend)
+* Prêt à monter en compétences sur d’autres technologies (Go, services AWS)
+* Composer
+* API Rest
+* Bonnes connaissances de l’infra Web
+
 ## Stack
 
-PHP/Symfony 4 60% /GO 40%
+PHP/Symfony 4 60% / GO 40%
 BDD : PostgreSQL, Redis
 Auto Scaling, Auto Provisioning
 Test :  behat et PHPUnit. Déjà 90% de coverage, doit être à 100%.
 AWS : SQS
 Concours : système d'automatisation des livraisons.
-
-## Profil
-
-Vous justifiez d’une expérience de développeur PHP back-end :
-
-* PHP 7, PostgreSQL, Symfony et les API REST.
-* Git n’a pas de secret pour vous.
-* Prêt à monter en compétence sur d'autres technologies (Go, ElasticSearch, Redis, services AWS).
-* Bon niveau en anglais.
-* Prêt à s’ouvrir aux architectures distribuées, au streaming de données et à l’optimisation de performance.
 
 ## Pourquoi postuler ?
 
