@@ -2,16 +2,12 @@
 
 **Domaine :** e-Commerce
 
-**Où :** Boulogne Billancourt
+**Où :** Paris 8 - Métro Gare Saint Lazare - Lignes 3, 12, 13, 14
 
 **Quoi :** Igraal est une société rentable et le leader du cashback en France (plus de 3.5 millions de membres) et le n°2 en Allemagne.
 Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, RabbitMq
 
-## Développeur PHP/Symfony intermédiaire
-
-**Salaire :** 
-
-* 45/55K€ selon profil
+## Team Lead PHP/Symfony - Team code promo
 
 **Missions:**
 
@@ -21,12 +17,15 @@ Stack : PHP / Symfony / Architecture micro services / API Rest, Redis, MongoDB, 
 
 * Concevoir et développer des fonctionnalités.
 
+* 60% développment // 40% gestion de projet
+
 
 **Profil :** 
 
 * 2 à 4 ans d'expérience en PHP
 * Bonne maitrise de la POO.
 * Connaissances et respect des PSR.
+* Bon communicant
 
 ## Comment postuler ?
 
