@@ -49,14 +49,14 @@ Equipe pluridisciplinaire de 5/6 personnes avec un PO et un lead qui travaillent
 
 ## Stack
 
-PHP/Zend/Node.js
-Front : JS / React / TypeScript
-Frameworks : Angular, JQuery
-Hosting Cloud - AWS, Azure
-Architecture micro-services
-JSON & REST 
-Scrum, Jira et Confluence
-Gitlab et Jenkins
+* PHP/Zend/Node.js
+* Front : JS / React / TypeScript
+* Frameworks : Angular, JQuery
+* Hosting Cloud - AWS, Azure
+* Architecture micro-services
+* JSON & REST 
+* Scrum, Jira et Confluence
+* Gitlab et Jenkins
 
 ## Salaire
 
