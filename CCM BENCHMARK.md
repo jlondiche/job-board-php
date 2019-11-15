@@ -2,32 +2,47 @@
 
 **Domaine :** Media
 
-**Où :** Paris
+**Où :** Paris 9 - 94 rue de Provence - Proche gare St Lazare.
 
-**Quoi :** CCM Benchmark, 4ème groupe Internet en France avec près de 34 millions de visiteurs uniques et 27M de vidéos vues (novembre 2017, source Médiamétrie).
+**Quoi :** CCM Benchmark Group, appartenant au group Figaro, est un éditeur web leader en France sur ses marques (L’internaute, JDN, Comment Ça Marche, Journal des Femmes, ...) cumulant plus de 50 M de visiteurs uniques sur ses sites dans le monde.
 
-**Stack :** PHP7/Symfony3&4, NodeJS, MySQL et PostGreSQL, Memecache, Redis, Vagrant, git
+*Chez CCM Benchmark, l’équipe technique évolue dans un contexte de très forte charge. La performance et l’innovation sont au coeur de ses préoccupations du quotidien. Les équipes disposent de temps dédié à la veille / R&D et peuvent assister à des meetups / conférences.*
 
-## Développeur Projet
+**Stack :** 
 
-**Missions :** 
+* PHP7/Symfony3&4 
+* NodeJS
+* MySQL / MariaDB (architecture noSQL / Big Data appréciée) et PostGreSQL
+* Memecache 
+* Redis
+* Vagrant
 
-* Concevoir et développer les nouvelles fonctionnalités des sites CCM à fort trafic
-* Faire évoluer l'architecture technique de notre plateforme 
-* Proposer un code js front propre et innovant
-* Garantir la qualité et la cohérence technique des projets
-* Etre force de proposition sur des solutions techniques / fonctionnelles
-* Participer à la R&D : étude sur des évolutions technologiques, participation à des projets de recherche
+## Développeur PHP/Symfony - Team Open Data
 
-**Profil :** 
+*Vous rejoindrez l’équipe parisienne de 2 personnes qui échange quotidiennement avec le reste de l’équipe Open-Data située à Rennes.*
 
-* PHP 7 et Symfony 3 (Expérience réelle d'au moins 2 ans)
-* Une connaissance pratique du javascript (Front et/ou back jQuery node.JS) est requise
-* MySQL et connaissances appréciées de PostgreSQL, 
-* Memcached, Redis
-* Les bonnes pratiques Web : Optimisation HTTP, SEO, sécurité
+**Missions & Profil :** 
+
+* Conception, développement et maintenance technique des contenus et applications web open-data telle que Linternaute Villes : http://www.linternaute.com/ville/paris/ville-75056
+* Intégré au sein d’une équipe Scrum de 6 personnes, vous participerez aux traitements back-office des données à injecter dans la plate-forme à travers des outils internes ou du marché, ainsi qu’à la réalisation php des applications web exploitant ces données.
+* Expert référent autour de Symfony (3 et 4), et d’une expérience significative en traitement et transformation de données massives, vous avez un bon relationnel vous permettant de partager vos connaissances avec l’équipe technique agile ainsi qu’une rigueur suffisante pour assurer un niveau de qualité des données traitées.
+* Vous avez également une bonne connaissances de MySQL / MariaDB (architecture noSQL / Big Data appréciée).
 
 **Salaire :** selon profil
+
+## Pourquoi postuler ?
+
+**Les avantages :** 
+
+* Statut Cadre CDI
+* CSE
+* Tickets restaurant
+* Activités sportives
+* Participation
+* Mutuelle
+* Meetups / conférences
+
+Salaire : selon profil
 
 ## Comment postuler ?
 
