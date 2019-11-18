@@ -53,7 +53,9 @@
 **Profil** 
 
 Vous apportez 5 ans d’expérience minimum, personnelle ou professionnelle (urls de sites/projets appréciées).
+
 Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+
 Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque ;)
 
 * Langages : PHP (maitrisé)
