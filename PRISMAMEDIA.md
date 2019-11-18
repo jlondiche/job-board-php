@@ -38,7 +38,38 @@
 
 * Profil technique avec expériences de montées en charge. Poste ultra-stimulant au sein d'une équipe technique sénior.
 
-**Salaire :** 45-50K€
+## Développeur H/F PHP sites féminins
+
+**Profil :** 
+
+* Vous apportez 5 ans d’expérience minimum, personnelle ou professionnelle (urls de sites/projets appréciées).
+* Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+* Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque ;)
+
+* Langages : PHP (maitrisé)
+* Maitrise d'un framework PHP, Symfony est un gros plus
+* Bases de données : écriture de requêtes SQL complexes, modélisation, optimisation
+* Vous testez vos applications via des tests unitaires et fonctionnels
+* Outils de versionning collaboratifs (GIT) et process de déploiements web automatisés (GitlabCI , Capistrano...)
+* Notions d'administration de serveur Linux
+* Vous maitrisez l'architecture microservice
+* L'asynchrone n'a plus de secret pour vous
+* La maitrise de solutions cloud est un plus, AWS en particulier
+* NodeJS est un plus, on peut vous former !
+* ElasticSearch est un plus, on peut vous former !
+* Bon relationnel et forte capacité d'adaptation
+* Pragmatisme et sens de l'organisation
+* Autonome et motivé, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
+
+**Missions :** 
+
+* Concevoir et développer les sites et API Féminin.
+* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
+* Vous aiderez les profils juniors et confirmés à monter en compétence. Vous les guiderez à concevoir et suivrez leur implémentation.
+* Contribution à l’innovation et à la conception de nouveaux projets:
+* Vous comprenez votre produit et notre business
+* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
+* Vous savez promouvoir vos idées, et améliorer celles des autres ;)
 
 ## Pourquoi postuler ?
 
@@ -48,6 +79,10 @@
 * Un beau terrain de jeu : 20M de VU/mois !
 * Salaire attractif : 13ème mois, 40 jours de congés, participation * Salle de sport dans les locaux, tournoi de foot et basket le midi * Grosse montée en compétences, autonomie et apprentissage caractérisent ce poste
 * Locaux spacieux
+
+## Salaire
+
+Salaire : 45-50K€
 
 ## Comment postuler ?
 

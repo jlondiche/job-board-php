@@ -1,6 +1,6 @@
 # 🔍 D-EDGE 🔍
 
-**Domaine :**  Hôtellerie - Booking.
+**Domaine :** Éditeur de logiciels -  Hôtellerie - Booking.
 
 **Où :** Paris 2, Métro Grands Boulevards.
 

@@ -26,7 +26,7 @@
 * Conception, développement et maintenance technique des contenus et applications web open-data telle que Linternaute Villes : http://www.linternaute.com/ville/paris/ville-75056
 * Intégré au sein d’une équipe Scrum de 6 personnes, vous participerez aux traitements back-office des données à injecter dans la plate-forme à travers des outils internes ou du marché, ainsi qu’à la réalisation php des applications web exploitant ces données.
 * Expert référent autour de Symfony (3 et 4), et d’une expérience significative en traitement et transformation de données massives, vous avez un bon relationnel vous permettant de partager vos connaissances avec l’équipe technique agile ainsi qu’une rigueur suffisante pour assurer un niveau de qualité des données traitées.
-* Vous avez également une bonne connaissances de MySQL / MariaDB (architecture noSQL / Big Data appréciée).
+* Vous avez également de bonnes connaissances en MySQL / MariaDB (architecture noSQL / Big Data appréciée).
 
 **Salaire :** selon profil
 
@@ -41,8 +41,6 @@
 * Participation
 * Mutuelle
 * Meetups / conférences
-
-Salaire : selon profil
 
 ## Comment postuler ?
 
