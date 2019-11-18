@@ -12,7 +12,7 @@ Le codebase d'Evaneos est aujourd'hui répartie/divisée en une trentaine d'appl
 
 Grâce à leur workflow d'intégration continue, ils déploient en production, en moyenne, 6 fois par jour.
 
-**Missions :** 
+**Missions** 
 
 Participer au développement d'une start-up en pleine croissance. Intégrer une feature team puridisciniplaire avec un product owner, des personnes du marketing et de la production, ainsi que d'autres développeurs.
 
@@ -20,13 +20,13 @@ Evaneos découpe en tribes les différentes étapes du parcours client et en squ
 
 ## Développeur Back-End PHP Senior
 
-**Profil :** 
+**Profil** 
 
 Evaneos recherche avant tout un développeur PHP passionné, aussi bien par la technique que le produit. User-centric, vous accordez également beaucoup d'importance à l'expérience utilisateur. Vous avez des bases solides en design pattern, et êtes exigeant sur la qualité du code. Vous adhérez au Software Craftsmanship Manifesto. DDD, TDD, BDD, tous les trucs en xDD vous font vibrer !
 
 Vous avez minimum 2 à 3 ans d'expérience en développement Back-End PHP/SF.
 
-**Stack :** 
+**Stack** 
 
 * PHP : Symfony 3/4, Silex, (et Framework maison, legacy sous Zend Framework 1)
 * PHPUnit, PHPSpec, Behat
@@ -45,7 +45,7 @@ Grâce à leur workflow d’intégration continue, ils déploient en production 
 
 ## Développeur Front Senior
 
-**Profil :** 
+**Profil** 
 
 Vous justifiez de plusieurs années d’expérience en frontend, vous êtes avant tout passionné, rigoureux, autonome et curieux.
 
@@ -83,7 +83,9 @@ Vous justifiez de plusieurs années d’expérience en frontend, vous êtes avan
 * Goodies, Café/Thé, Fruits de saison, CE, Team building, etc.
 
 Evaneos, c’est aussi une communauté d’un peu plus de 40 développeurs, soudés, et ayant des expertises variées, qui accordent une grande importance au partage de connaissances et à l’entraide.
+
 Une semaine sur deux Evaneos organise un “goûter dev” où l'équipe de Dev se retouve, entre eux, pour présenter au reste de la communauté divers sujet, allant de “How my IDE changed my life!” à “Practical machine learning” en passant par “Les 10 astuces pour une présentation réussie (La n°8 va vous étonner)”.
+
 L’autre semaine sur deux, l'équipe organise des Katas pour mieux appréhender le TDD, ou encore les SOLID Principles, etc…
 
 **Salaire :** 

@@ -40,11 +40,21 @@
 
 ## Développeur H/F PHP sites féminins
 
-**Profil :** 
+**Missions** 
 
-* Vous apportez 5 ans d’expérience minimum, personnelle ou professionnelle (urls de sites/projets appréciées).
-* Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
-* Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque ;)
+* Concevoir et développer les sites et API Féminin.
+* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
+* Vous aiderez les profils juniors et confirmés à monter en compétence. Vous les guiderez à concevoir et suivrez leur implémentation.
+* Contribution à l’innovation et à la conception de nouveaux projets:
+* Vous comprenez votre produit et notre business
+* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
+* Vous savez promouvoir vos idées, et améliorer celles des autres ;)
+
+**Profil** 
+
+Vous apportez 5 ans d’expérience minimum, personnelle ou professionnelle (urls de sites/projets appréciées).
+Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque ;)
 
 * Langages : PHP (maitrisé)
 * Maitrise d'un framework PHP, Symfony est un gros plus
@@ -61,19 +71,9 @@
 * Pragmatisme et sens de l'organisation
 * Autonome et motivé, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
 
-**Missions :** 
-
-* Concevoir et développer les sites et API Féminin.
-* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
-* Vous aiderez les profils juniors et confirmés à monter en compétence. Vous les guiderez à concevoir et suivrez leur implémentation.
-* Contribution à l’innovation et à la conception de nouveaux projets:
-* Vous comprenez votre produit et notre business
-* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
-* Vous savez promouvoir vos idées, et améliorer celles des autres ;)
-
 ## Pourquoi postuler ?
 
-* Équipe de 7 personnes : 6 dev sur les nouvelles features et 1 dev sur la maintenance | 
+* Équipe de 7 personnes : 6 dev sur les nouvelles features et 1 dev sur la maintenance
 * Possibilité de devenir intra-preneur via un programme d’incubation en interne
 * TECHSHARE : événements techniques en interne
 * Un beau terrain de jeu : 20M de VU/mois !

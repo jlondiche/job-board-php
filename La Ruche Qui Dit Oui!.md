@@ -15,7 +15,7 @@
 
 ## DevOps AWS
 
-**Missions :**
+**Missions**
 
 En collaboration avec les squads de développement, la BI et le CTO vous assurerez la maintenance et l'évolution de l'infrastructure hébergée à 100% chez AWS. Vous chercherez aussi à améliorer la productivité de l’équipe technique en fournissant et développant des outils.
 

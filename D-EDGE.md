@@ -20,7 +20,7 @@
 
 ## Lead Dev PHP/JS
 
-**Missions :**
+**Missions**
 
 Concevoir et développer les meilleurs produits possibles. Le département R&D (70 personnes) a une culture collaborative de travail en équipe. Elle conserve un esprit startup avec des équipes ayant une grande liberté d'innovation et d'expérimentation.
 
