@@ -26,13 +26,13 @@
 **Stack** 
 
 * Symfony2.8 monolithe
-* Nouvelle app propre à côté en Symfony4 + API Plateforme
-* Backoffice: twig et bootstrap
+* Nouvelle app propre à côté en Symfony4 + API Platform
+* Backoffice: Twig et Bootstrap
 * ReactJS pour le front
 * AWS pour le Devops
-* Ansible, terraform
-* Logmatic aimerait mettre de ElasticSearch ou Kabana
-* Déploiement : pas assez automatisé pour le moment. GitFlow, gitlab et gitlabCI
+* Ansible, Terraform
+* Logmatic aimerait mettre de ElasticSearch ou Kibana
+* Déploiement : pas assez automatisé pour le moment. GitFlow, Gitlab et Gitlab CI
 * Docker à venir
 * MySQL 5.7
 
