@@ -18,13 +18,11 @@
 
 *D-edge est "Remote Friendly" - Vous pourrez travailler de chez vous 1 jour/semaine.*
 
-## Lead Dev PHP/JS
+## Dev PHP/JS Senior
 
 **Missions**
 
 Concevoir et développer les meilleurs produits possibles. Le département R&D (70 personnes) a une culture collaborative de travail en équipe. Elle conserve un esprit startup avec des équipes ayant une grande liberté d'innovation et d'expérimentation.
-
-Le poste consiste à encadrer une équipe Scrum de petite taille (3 à 5 personnes)
 
 Vous travaillerez sur toutes les étapes du développement :
 
@@ -39,17 +37,16 @@ Equipe pluridisciplinaire de 5/6 personnes avec un PO et un lead qui travaillent
 
 ## Profil
 
-* Solide expérience de développeur ou de Lead (XP de Lead pas obligatoire) Fullstack PHP (5 à 10 ans d’expérience minimum).
+* **Bonne connaissance du Javascript, tous les nouveaux développements sont en JS. PHP n'est utilisé que pour la maintenance.** 
+* Expérience de développeur Fullstack (3 à 5 ans d’expérience minimum).
 * XP en SaaS ou sites à fort trafic, API, TDD et test unitaire.
-* Bonne connaissance du Javascript, de frameworks front comme Angular et du CSS, ainsi qu’une bonne maîtrise de MySQL. L’expérience d’autres langages objet (Java, C#) est un plus.
 * Vous aimez travailler en équipe, et vous avez la capacité à comprendre les besoins des utilisateurs.
 * Vous êtes riguoureux-se, autonome, et vous avez le goût du challenge technique !
-* Anglais courant obligatoire.
 * Vous aimez le code simple et efficace !
 
 ## Stack
 
-* PHP/Zend/Node.js
+* PHP/Node.js
 * Front : JS / React / TypeScript
 * Frameworks : Angular, JQuery
 * Hosting Cloud - AWS, Azure
@@ -60,7 +57,7 @@ Equipe pluridisciplinaire de 5/6 personnes avec un PO et un lead qui travaillent
 
 ## Salaire
 
-Salaire : 65/70K€
+Salaire : 55/60K€
 
 ## Comment postuler ?
 

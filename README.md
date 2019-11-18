@@ -32,6 +32,6 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a> Dev Full Stack PHP/JS/OPS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Shapr.md">[Shapr]</a> Dev Back End PHP/Python
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Dev/Intégrateur Front ReactJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[Soundcharts]</a> Dev Back End PHP/PSymfony | Dev/Intégrateur Front ReactJS
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[Soundcharts]</a> Dev Back End PHP/PSymfony | **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[Synthesio]</a> GO - Back-End Engineer | Équipe R&D - JavaScript Front-End Engineer | Équipe R&D
 
