@@ -4,32 +4,47 @@
 
 **Où :** Paris 11 - Bastille.
 
-**Quoi :** Créée en 2011, la Ruche qui dit Oui ! est un service web qui donne des ailes aux circuits courts. La plate-forme de vente en ligne favorise les échanges directs entre producteurs locaux et communautés de consommateurs qui se retrouvent régulièrement lors de véritables marchés éphémères : les Ruches.
+**Quoi :** Créée en 2011, la Ruche qui dit Oui ! est un service web qui permet à tous de s’approvisionner facilement en produits de qualité. La plate-forme de vente en ligne favorise les échanges directs entre producteurs locaux et communautés de consommateurs qui se retrouvent régulièrement lors de véritables marchés éphémères : les Ruches.
+
 
 **Facts & Figures**
 
 * 8 ans d’activité.
 * 1 500 Ruches se sont créées en Europe (Belgique, Pays-Bas, Allemagne, Suisse, Italie, Espagne).
+* 9 pays
+* 5 000 producteurs
 * Jusqu'à 30 déploiements par jour.
 * Télétravail partiel possible.
 
-## DevOps AWS
+## Dev Back-End
+
+LRQDO recherche un développeur(euse) back-end à même de concevoir, de mettre en œuvre et de faire évoluer les APIs qui servent les clients web et natif, et communiquent avec des APIs tierces.
+
+Votre action prendra place au sein d’une des 4 squads présentes à la Ruche, chacune d’elle étant composée d’un(e) product manager, d’un(e) designer, d’un(e) expert(e) BI et de développeurs(euses) front-end et back-end.
 
 **Missions**
 
-En collaboration avec les squads de développement, la BI et le CTO vous assurerez la maintenance et l'évolution de l'infrastructure hébergée à 100% chez AWS. Vous chercherez aussi à améliorer la productivité de l’équipe technique en fournissant et développant des outils.
+* Développer de nouvelles fonctionnalités pour nos applications web : les technologies utilisées sont principalement Symfony et PostgreSQL.
+* Participer à la R&D de l’équipe back-end comprenant les développeurs des différentes squads : prise en main des nouvelles technologies et principes en cours de mise en œuvre (architecture hexagonale, microservices, PHP 7, Symfony 3).
+* Relire et commenter le code de vos collègues via les revues de code sur GitHub.
+* Contribuer au partage de connaissances entre les différentes équipes.
+* En collaboration avec les squads de développement, la BI et le CTO vous assurerez la maintenance et l'évolution de l'infrastructure hébergée à 100% chez AWS. Vous chercherez aussi à améliorer la productivité de l’équipe technique en fournissant et développant des outils.
 
-À l'occasion, vous êtes même en mesure de faire quelques améliorations dans le backend PHP, et pourquoi pas frontend React ? Simple option bien sur.
 
 ## Profil & Stack
 
-* Pour vous la CI est un art de travailler et vous êtes capable de l'envisager dans chaque maille de la stack.
-* Chef, Packer, Terraform, Kubernetes, ssh, bash, Git, Jenkins, Docker sont vos outils de prédilection.
-* AWS et ses services managés (EC2, Route 53, RDS, ECS) vous sont familiers et vous les fréquentez depuis quelques années, avec plaisir.
-* Vous avez déjà fréquenté de près des équipes de développement Web (front & back) et vous comprenez très bien les contraintes de leur métier, vous êtes là pour les aider.
-* Vous maitrisez Ruby, Postgresql, et un peu Python.
-* Vous avez l'habitude de faire de la review de code, et d'être reviewé.
-* Vous connaissez un peu Php & reactjs.
+* Vous disposez d'une expérience minimum de 3 ans en tant que développeur back-end sur un framework PHP objet, avec idéalement une expérience significative sur Symfony
+* Méthodologie : Agile, XP, SOLID, DRY, KISS, DDD, TDD
+* Anglais écrit et parlé
+* Outils utilisés : Linux (debian/ubuntu), Docker, Composer, PHPUnit, Jenkins, Git, PostgreSQL
+
+* Vous maîtrisez parfaitement la programmation orientée objet et la logique des frameworks MVC
+* Vous savez écrire des tests unitaires ou fonctionnels et le TDD vous a convaincu
+* Vous connaissez des design patterns et aspirez aux meilleures pratiques de développement pour produire du code robuste et élégant
+* Git et Github n’ont pas de secret pour vous
+* En plus de vos compétences back-end, vous êtes capable de toucher à d’autres facettes de l’application web (front-end, infra, etc)
+* Vous n’avez rien non plus contre la programmation fonctionnelle
+
 
 ## Comment postuler ?
 
