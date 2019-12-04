@@ -18,8 +18,6 @@
 
 **Les avantages :** 
 
-Prétention salaire : max 65K€ (fixe + 1 mois de salaire en partie variable payée en 2 fois)
-
 * Ticket resto 9€, 
 * 50% transport, 
 * Au bout de 6 mois: pourcentage de réduction (30% sur un max de 2000€) et des avoirs de 1000€ chez Sezane et 500€ chez Octobre
