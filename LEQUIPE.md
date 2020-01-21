@@ -1,4 +1,4 @@
-# 🔍 LEQUIPE 🔍
+# 🏅 LEQUIPE 🏅
 
 **Domaine :**  Media Sport.
 

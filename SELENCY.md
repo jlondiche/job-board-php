@@ -1,4 +1,4 @@
-# 🔍 SELENCY 🔍
+# 🏷️ SELENCY 🏷️
 
 **Domaine :**  Site e-Commerce & inspirationel.
 

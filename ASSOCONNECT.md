@@ -1,4 +1,4 @@
-# 🔍 ASSOCONNECT 🔍
+# 👐 ASSOCONNECT 👐
 
 **Domaine :**  Éditeur de logiciel - Associatif.
 

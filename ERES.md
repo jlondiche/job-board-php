@@ -1,4 +1,4 @@
-# 🔍 ERES 🔍
+# 💸 ERES 💸
 
 **Domaine :**  Épargne salariale.
 
@@ -16,7 +16,7 @@
 Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
 Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
 
-## Descriptif du poste – développeur back-end PHP / SQL sénior
+## Descriptif du poste – Développeur back-end PHP / SQL sénior
 
 **L’équipe**
 

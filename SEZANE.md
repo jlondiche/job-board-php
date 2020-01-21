@@ -1,4 +1,4 @@
-# 🔍 SEZANE 🔍
+# 👚 SEZANE 👚
 
 **Domaine :**  e-Commerce / Mode.
 

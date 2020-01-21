@@ -1,4 +1,4 @@
-# 🔍 D-EDGE 🔍
+# 💻 D-EDGE 💻
 
 **Domaine :** Éditeur de logiciels -  Hôtellerie - Booking.
 
