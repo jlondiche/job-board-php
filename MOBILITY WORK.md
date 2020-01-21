@@ -43,7 +43,7 @@
 
 **Les avantages :** 
 
-En forte croissance, Mobilit Work recherche des ressources supplémentaires pour développer le produit. Les chantiers ne manquent pas, il y a encore beaucoup à faire. Leur équipe de 6 développeurs a besoin de vrai renfort efficace !
+En forte croissance, Mobility Work recherche des ressources supplémentaires pour développer le produit. Les chantiers ne manquent pas, il y a encore beaucoup à faire. Leur équipe de 6 développeurs a besoin de vrai renfort efficace !
 
 ## Comment postuler ?
 
