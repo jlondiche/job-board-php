@@ -17,12 +17,14 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DIGITAL%20EYEWEAR%20-%20AFFLELOU.md">[Digital Eyewear - Afflelou]</a> Dev fullstack : PHP / SF / React
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EASYMOVIE.md">[EasyMovie]</a> Dev PHP/Laravel avec première(s) expérience(s)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Développeur back-end PHP / SQL sénior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a> Dev back-end **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[La Ruche Qui Dit Oui!]</a> DevOps AWS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEBONCOIN.md">[LEBONCOIN]</a> Dev PHP API
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> DevOPS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[ManoMano]</a> Dev PHP/Symfony confirmé - Engineering Manager - Software Architect
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Mobility%20Work.md">[Mobility Work]</a> DÉVELOPPEUR (SE) FULLSTACK - SYMFONY + VUE JS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, *GO* - Javascript embarqué TV connecté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEXTSTATION.md">[Next Station]</a> Dev PHP Laravel - Lean Start-Up **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Devs PHP/Symfony/NodeJS/AWS - DevOps/SysOps - Développeur H/F PHP sites féminins **[!NEW!]**
