@@ -1,4 +1,4 @@
-# 🔍 SINGULART 🔍
+# 🖼️ SINGULART 📷
 
 **Domaine :**  Marketplace d’oeuvres d’art.
 
@@ -26,14 +26,14 @@ Dans un contexte d’hyper-croissance et une perspective de structuration de l�
 
 ## Stack
 
-PHP/Symfony 
-MySQL
-Elasticsearch
-Redis
-RabbitMQ
-Docker
-AWS
-Gitlab
+* PHP/Symfony 
+* MySQL
+* Elasticsearch
+* Redis
+* RabbitMQ
+* Docker
+* AWS
+* Gitlab
 
 ## Pourquoi postuler ?
 
