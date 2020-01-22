@@ -12,16 +12,17 @@
 * 2nd groupe média sur Internet.
 * 6,2 millions de VU quotidiens.
 
-## DevOps/SysOps
+## Développeur(se) NodeJS/TypeScript
 
-**Misisons :** 
+**Missions :** 
+
+Vous intervenez dans la conception et le développement des outils pour les rédactions. Suivant votre profil, vous travaillerez soit sur les API GraphQL (focus performance et sécurité), soit sur les interfaces avec Material UI (focus stabilité et UX). 
 
 Prisma Media édite de nombreux sites média et magazines, parmi lesquels Capital, FemmeActuelle, Voici, Gala, Geo… Plusieurs centaines de journalistes travaillent au quotidien pour la rédaction des articles, la sélection des photos et le montage des vidéos.
 
 Pour fournir à ces rédactions des outils performants, Prisma Média développe depuis plusieurs années un nouveau back-office éditorial unifié. L’équipe projet se compose de 10 développeurs full-stack, un UX designer, des devops et des chefs de projet. Le projet est organisé en Scrum sur des sprints de 2 semaines.
 
 Après un déploiement réussi dans l'ensemble rédactions, le travail se poursuit sur 3 axes : ajout de fonctionnalités innovantes, création de nouveaux services et déploiement sur les marques du groupe.
-
 
 **Stack**
 
