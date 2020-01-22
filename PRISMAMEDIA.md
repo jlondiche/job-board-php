@@ -6,6 +6,55 @@
 
 **Quoi :** PM est l’un des groupes leaders de l’information en France, très orienté user first et digital. 20M de VU/mois sur l'ensemble de ses sites et applications mobiles.
 
+**Facts & Figures**
+
+* 33 millions de VU mensuels.
+* 2nd groupe média sur Internet.
+* 6,2 millions de VU quotidiens.
+
+## DevOps/SysOps
+
+**Misisons :** 
+
+Prisma Media édite de nombreux sites média et magazines, parmi lesquels Capital, FemmeActuelle, Voici, Gala, Geo… Plusieurs centaines de journalistes travaillent au quotidien pour la rédaction des articles, la sélection des photos et le montage des vidéos.
+
+Pour fournir à ces rédactions des outils performants, Prisma Média développe depuis plusieurs années un nouveau back-office éditorial unifié. L’équipe projet se compose de 10 développeurs full-stack, un UX designer, des devops et des chefs de projet. Le projet est organisé en Scrum sur des sprints de 2 semaines.
+
+Après un déploiement réussi dans l'ensemble rédactions, le travail se poursuit sur 3 axes : ajout de fonctionnalités innovantes, création de nouveaux services et déploiement sur les marques du groupe.
+
+
+**Stack**
+
+// Frontend
+
+* React 16 (hooks, Fiber)
+* TypeScript
+* Material UI
+* GraphQL avec Apollo
+* DraftJS avec Megadraft
+* Webpack, Jest
+* Google Auth
+
+// Backend
+
+* Déploiement AWS
+* Kubernetes / Docker
+* Apollo GraphQL, graphql-platform
+* Node JS
+* TypeScript
+* MariaDB
+* MongoDB
+* ElasticSearch
+
+// Outils
+
+* Gitlab
+* Intégration continue Gitlab CI
+* JIRA
+* Google Mail/Apps
+* Macbook fourni
+* Licences IDE à la demande
+
 ## DevOps/SysOps
 
 **Misisons :** 
