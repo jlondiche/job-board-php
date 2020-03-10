@@ -1,12 +1,12 @@
-# 💻 La Croix - BAYARD PRESSE 💻
+# 💻 La Croix - BAYARD PRESSE 📰
 
 **Domaine :** Groupe Média.
 
 **Où :** 18 rue Barbes, Montrouge. Ligne 4.
 
-**Quoi :** Acteur majeur dans le secteur des médias, Bayard est un éditeur de référence qui inscrit sa singularité autour d’un projet et des valeurs communes que sont la création, les convictions et la relation que nous entretenons avec nos publics.
+**Quoi :** Acteur majeur dans le secteur des médias, Bayard est un éditeur de référence qui inscrit sa singularité autour d’un projet et des valeurs communes que sont la création, les convictions et la relation entretenue avec les publics.
 
-L’intégration de nouveaux talents est indispensable pour favoriser cette agilité qui a débuté il y a 20 ans avec un gros virage numérique. L'enjeu majeur est de développer les abonnements numériques.
+L’intégration de nouveaux talents est indispensable pour favoriser une agilité qui a débuté il y a 20 ans avec un gros virage numérique. L'enjeu majeur est de développer les abonnements numériques.
 
 **Facts & Figures**
 
