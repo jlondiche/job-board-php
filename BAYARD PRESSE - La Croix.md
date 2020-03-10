@@ -30,7 +30,7 @@ L’intégration de nouveaux talents est indispensable pour favoriser une agilit
 
 **Profil**
 
-Vous justifiez de solides compétences techniques web (HTLM, CSS, AngularJS et développement PHP, Symfony) et de 3 à 5 ans d’expérience professionnelle en développement Symfony. 
+Vous justifiez de solides compétences techniques web (HTML, CSS, AngularJS et développement PHP, Symfony) et de 3 à 5 ans d’expérience professionnelle en développement Symfony. 
 
 Rejoindre Bayard, c’est rejoindre une entreprise indépendante, à taille humaine, tournée vers l’avenir et qui investit en permanence sur la formation de ses employés et l’écoute de ses clients.
 
