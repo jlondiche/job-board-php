@@ -15,7 +15,6 @@ Dans un contexte d’hyper-croissance et une perspective de structuration de l�
 * Évolution du Backoffice de management des ventes et la création d’outils pour aider l’équipe opérationnelle
 * Amélioration de la catégorisation de l'inventaire (comment catégoriser des oeuvres d’art uniques !)
 * Intégration de différentes API Automatic Ads Bidding - avec Google Ads notamment
-* Nouveau CTO - Jérôme NADAUD : motivé, jeune et prêt pour ce beau challenge technique.
 
 ## Profil
 

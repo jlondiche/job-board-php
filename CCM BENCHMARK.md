@@ -4,7 +4,7 @@
 
 **Où :** Paris 9 - 94 rue de Provence - Proche gare St Lazare.
 
-**Quoi :** CCM Benchmark Group, appartenant au group Figaro, est un éditeur web leader en France sur ses marques (L’internaute, JDN, Comment Ça Marche, Journal des Femmes, ...) cumulant plus de 50 M de visiteurs uniques sur ses sites dans le monde.
+**Quoi :** CCM Benchmark Group, appartenant au groupe Figaro, est un éditeur web leader en France sur ses marques (L’internaute, JDN, Comment Ça Marche, Journal des Femmes, ...) cumulant plus de 50 M de visiteurs uniques sur ses sites dans le monde.
 
 *Chez CCM Benchmark, l’équipe technique évolue dans un contexte de très forte charge. La performance et l’innovation sont au coeur de ses préoccupations du quotidien. Les équipes disposent de temps dédié à la veille / R&D et peuvent assister à des meetups / conférences.*
 

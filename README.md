@@ -8,7 +8,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. _Faites-moi confiance_ et gagnez un temps fou.**
 
-## Les offres
+## Les offres - Pour cause de crise sanitaire, seuls quelques postes sont encore ouverts. Contactez-moi directement pour postuler et échanger.
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> Archi / Lead Dev Back-End PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack **[!NEW!]**
@@ -18,6 +18,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a> Dev back-end
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev Laravel - FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End - Optim' & Perf - PHP/Symfony  **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[La Ruche Qui Dit Oui!]</a> DevOps AWS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MANOMANO.md">[ManoMano]</a> Dev PHP/Symfony confirmé - Engineering Manager - Software Architect

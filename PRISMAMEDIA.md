@@ -12,18 +12,6 @@
 * 2nd groupe média sur Internet.
 * 6,2 millions de VU quotidiens.
 
-## Développeur(se) NodeJS/TypeScript
-
-**Missions :** 
-
-Vous intervenez dans la conception et le développement des outils pour les rédactions. Suivant votre profil, vous travaillerez soit sur les API GraphQL (focus performance et sécurité), soit sur les interfaces avec Material UI (focus stabilité et UX). 
-
-Prisma Media édite de nombreux sites média et magazines, parmi lesquels Capital, FemmeActuelle, Voici, Gala, Geo… Plusieurs centaines de journalistes travaillent au quotidien pour la rédaction des articles, la sélection des photos et le montage des vidéos.
-
-Pour fournir à ces rédactions des outils performants, Prisma Média développe depuis plusieurs années un nouveau back-office éditorial unifié. L’équipe projet se compose de 10 développeurs full-stack, un UX designer, des devops et des chefs de projet. Le projet est organisé en Scrum sur des sprints de 2 semaines.
-
-Après un déploiement réussi dans l'ensemble rédactions, le travail se poursuit sur 3 axes : ajout de fonctionnalités innovantes, création de nouveaux services et déploiement sur les marques du groupe.
-
 **Stack**
 
 // Frontend
@@ -70,23 +58,17 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 * Bonne maîtrise du scripting Systèmes (Python, Shell)
 * Bonne maîtrise des outils standards de plates-formes Web 
 
-## Développeurs Junior/Intermediaire/Senior PHP/Symfony/NodeJS/AWS
+## Développeur(se) NodeJS/TypeScript
 
 **Missions :** 
 
-* Problématiques de montées en charge, véritables problématiques web grand public
-* Améliorer la gestion du cache qui est déjà très utilisée au sein de l’équipe | Développer de nouvelles fonctionnalités pour les sites de PM, notamment côté utilisateurs
-* Gérer et améliorer constamment le moteur de recherche et l’indexation avec Elasticsearch
-* Participer à la refonte et à la migration du Back Office	
+Vous intervenez dans la conception et le développement des outils pour les rédactions. Suivant votre profil, vous travaillerez soit sur les API GraphQL (focus performance et sécurité), soit sur les interfaces avec Material UI (focus stabilité et UX). 
 
-**Stack :** 
+Prisma Media édite de nombreux sites média et magazines, parmi lesquels Capital, FemmeActuelle, Voici, Gala, Geo… Plusieurs centaines de journalistes travaillent au quotidien pour la rédaction des articles, la sélection des photos et le montage des vidéos.
 
-* NodeJS, PHP, Symfony, Amazon Web Service (DynamoDB, Lambda, Cognito, API gateway), ElasticSearch, Message Queuing, Qualité: Tests Unitaires, Tests fonctionnels, Vagrant, Docker, Ansible
-* Database : MySQL, DynamoDB, Outils : Jira, Gitlab
+Pour fournir à ces rédactions des outils performants, Prisma Média développe depuis plusieurs années un nouveau back-office éditorial unifié. L’équipe projet se compose de 10 développeurs full-stack, un UX designer, des devops et des chefs de projet. Le projet est organisé en Scrum sur des sprints de 2 semaines.
 
-**Profil :** 
-
-* Profil technique avec expériences de montées en charge. Poste ultra-stimulant au sein d'une équipe technique sénior.
+Après un déploiement réussi dans l'ensemble rédactions, le travail se poursuit sur 3 axes : ajout de fonctionnalités innovantes, création de nouveaux services et déploiement sur les marques du groupe.
 
 ## Développeur H/F PHP sites féminins
 
