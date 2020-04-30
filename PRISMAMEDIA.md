@@ -44,6 +44,40 @@
 * Macbook fourni
 * Licences IDE à la demande
 
+## Développeur H/F PHP Symfony confirmé
+
+**Missions** 
+
+* Concevoir et développer les sites et API du groupe Prisma Media.
+* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
+* Vous aiderez les profils juniors et confirmés à monter en compétence. Vous les guiderez à concevoir et suivrez leur implémentation.
+* Contribution à l’innovation et à la conception de nouveaux projets.
+
+**Profil** 
+
+Profil technique avec une expérience de montées en charge. Poste ultra-stimulant au sein d’une équipe technique sénior.
+
+Vous aimez innover/inventer tant sur la conception technique que sur le service à utilisateur.
+
+Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+
+Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque. ;)
+
+* Langages : PHP (maitrisé), , possibilité de côtoyer des équipes JS et Ops.
+* Maitrise de Symfony.
+* Bases de données : écriture de requêtes SQL complexes, modélisation, optimisation.
+* Vous testez vos applications via des tests unitaires et fonctionnels.
+* Outils de versionning collaboratifs (GIT) et process de déploiements web automatisés (GitlabCI , Capistrano...).
+* Notions d'administration de serveur Linux.
+* Vous maitrisez l'architecture microservice.
+* L'asynchrone n'a plus de secret pour vous.
+* La maitrise de solutions cloud est un plus, AWS en particulier
+* NodeJS est un plus, on peut vous former !
+* ElasticSearch est un plus, on peut vous former !
+* Bon relationnel et forte capacité d'adaptation.
+* Pragmatisme et sens de l'organisation.
+* Autonome et motivé, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
+
 ## DevOps/SysOps
 
 **Misisons :** 
@@ -53,7 +87,8 @@
 * Lancer les projets de montée de version de systèmes et sous- systèmes
 * Concevoir des processus d’industrialisation/d'automatisation pour améliorer gestion des environnements techniques
 
-- **Profil :** 
+**Profil :** 
+
 * Au moins 2 ans d'expérience en tant que DevOps, Forte xp avec AWS : formations et certifications
 * Bonne maîtrise du scripting Systèmes (Python, Shell)
 * Bonne maîtrise des outils standards de plates-formes Web 
@@ -69,41 +104,6 @@ Prisma Media édite de nombreux sites média et magazines, parmi lesquels Capita
 Pour fournir à ces rédactions des outils performants, Prisma Média développe depuis plusieurs années un nouveau back-office éditorial unifié. L’équipe projet se compose de 10 développeurs full-stack, un UX designer, des devops et des chefs de projet. Le projet est organisé en Scrum sur des sprints de 2 semaines.
 
 Après un déploiement réussi dans l'ensemble rédactions, le travail se poursuit sur 3 axes : ajout de fonctionnalités innovantes, création de nouveaux services et déploiement sur les marques du groupe.
-
-## Développeur H/F PHP sites féminins
-
-**Missions** 
-
-* Concevoir et développer les sites et API Féminin.
-* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
-* Vous aiderez les profils juniors et confirmés à monter en compétence. Vous les guiderez à concevoir et suivrez leur implémentation.
-* Contribution à l’innovation et à la conception de nouveaux projets:
-* Vous comprenez votre produit et notre business
-* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
-* Vous savez promouvoir vos idées, et améliorer celles des autres ;)
-
-**Profil** 
-
-Vous apportez 5 ans d’expérience minimum, personnelle ou professionnelle (urls de sites/projets appréciées).
-
-Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
-
-Vous souhaitez évoluer dans un environnement dynamique et challenging. L'équipe de PMD est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez mais ce sera réciproque ;)
-
-* Langages : PHP (maitrisé)
-* Maitrise d'un framework PHP, Symfony est un gros plus
-* Bases de données : écriture de requêtes SQL complexes, modélisation, optimisation
-* Vous testez vos applications via des tests unitaires et fonctionnels
-* Outils de versionning collaboratifs (GIT) et process de déploiements web automatisés (GitlabCI , Capistrano...)
-* Notions d'administration de serveur Linux
-* Vous maitrisez l'architecture microservice
-* L'asynchrone n'a plus de secret pour vous
-* La maitrise de solutions cloud est un plus, AWS en particulier
-* NodeJS est un plus, on peut vous former !
-* ElasticSearch est un plus, on peut vous former !
-* Bon relationnel et forte capacité d'adaptation
-* Pragmatisme et sens de l'organisation
-* Autonome et motivé, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
 
 ## Pourquoi postuler ?
 
