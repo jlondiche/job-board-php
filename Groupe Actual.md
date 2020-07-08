@@ -15,6 +15,30 @@
 * 70 000 collaborateurs intérimaires détachés en mission chaque année
 * 6300 personnes formées
 
+## Product Manager H/F
+
+**Missions**
+
+* Gros travail de receuil de besoins sur le terrain avec les agences du groupe.
+* Analyse des points sensibles avec les agences .
+* Création et suivi d'une roadmap de fonctionnalités.
+* Animation d'ateliers en interne.
+* Suivre et organiser le développement des projets.
+
+**Profil**
+
+Bonne maîtrise de :
+
+- Méthodes Agiles
+- Méthodes Scrum
+- Jira
+
+Ce poste est idéal pour tous les profils qui apprécient porter des projets de A à Z en relation directe avec le terrain. Le groupe Actual est composée de plus de 200 agences. Il faut donc réussir à prendre les besoins, les analyser, les découper puis implanter de nouvelles fonctionnalités avec l'équipe Tech. Le CTO attend quelqu'un de très agile, capable d'aller vite dans les process et la prise de décision. Télétravail OK.
+
+## Salaire
+
+Salaire : 45-60K€ selon profil et expérience
+
 ## Développeur PHP Laravel Fullstack H/F
 
 **Missions**

@@ -17,30 +17,69 @@
 * Redis
 * Vagrant
 
-## Développeur PHP/Symfony - Team Open Data
+## Développeur Full Stack H/F
 
-*Vous rejoindrez l’équipe parisienne de 2 personnes qui échange quotidiennement avec le reste de l’équipe Open-Data située à Rennes.*
+**Poste : Au sein d'une équipe auto gérée et motivée vous participerez aux grandes étapes de développement des projets :**
 
-**Missions & Profil :** 
+* Planification / estimation des tâches
+* Sprint de développement sur 2 semaines
+* Démo cliente avec les directions métiers
+* Mise en ligne des nouvelles fonctionnalités
 
-* Conception, développement et maintenance technique des contenus et applications web open-data telle que Linternaute Villes : http://www.linternaute.com/ville/paris/ville-75056
-* Intégré au sein d’une équipe Scrum de 6 personnes, vous participerez aux traitements back-office des données à injecter dans la plate-forme à travers des outils internes ou du marché, ainsi qu’à la réalisation php des applications web exploitant ces données.
-* Expert référent autour de Symfony (3 et 4), et d’une expérience significative en traitement et transformation de données massives, vous avez un bon relationnel vous permettant de partager vos connaissances avec l’équipe technique agile ainsi qu’une rigueur suffisante pour assurer un niveau de qualité des données traitées.
-* Vous avez également de bonnes connaissances en MySQL / MariaDB (architecture noSQL / Big Data appréciée).
+**Votre Travail Consistera à**
 
-**Salaire :** selon profil
+* Développer et faire évoluer le CMS SCRIB
+* Développer des applications webs (clients) se basant sur SCRIB.
+* Participer à la R&D de l'entreprise : étude sur des évolutions technologiques, participation à des projets de recherche.
 
-## Pourquoi postuler ?
+**CMS SCRIB**
 
-**Les avantages :** 
+Scrib est le coeur de gestion de tous les contenus, lus par plus de 20 millions d'internautes tous les mois. Il est actuellement en charge de la gestion de l'intégralité des articles de Linternaute, du Journal du net, du Journal des femmes et d'Hugo l'escargot.
+Scrib est basé sur une architecture de type SPA : Symfony + Backbone JS + API Rest.
+Vous travaillerez sur l'évolution technique et fonctionnel de ce CMS.
 
-* Statut Cadre CDI
-* CSE
-* Tickets restaurant
-* Activités sportives
-* Participation
-* Mutuelle
-* Meetups / conférences
+**Applications Web**
+
+Grâce au CMS vous développerez des applications web avec des fonctionnels variés :
+
+* Gestion de recette de cuisine
+* Fiche de cinéma avec séance
+* Dessin pour enfants
+
+Ces applications réalisant un traffic important vous serez amené à vous confronter à différentes problématiques autour des performances ainsi que de la gestion de forte charge.
+
+**STACK**
+
+* Services : MariaDB, PostgreSQL, memcached, redis, sphinx
+* Frameworks : Symfony, Vue.js, Backbone.js, jQuery
+* Outils : GitLab, Jira, Datadog, Slack
+
+**Profil**
+
+Passionné(e) par le web, vous assurez une veille technologique constante, êtes enthousiaste et force de proposition.
+Vous écrivez du code réutilisable, performant et vous appréciez concevoir des architectures applicatives robustes.
+Vous avez un bon relationnel et savez travailler en équipe.
+
+**Compétences Et Expérience Souhaitées**
+
+* PHP et Symfony (expérience >= 2 ans)
+* MariaDB et connaissances appréciées de PostgreSQL, Memcached, Redis.
+* jQuery
+* Les bonnes pratiques Web : Optimisation HTTP, SEO, ...
+* Connaissance appréciée d'un framework javascript moderne (Backbone js, React, Vue.js, Angular)
+
+**Avantages**
+
+CE, mutuelle, tickets restaurant, participation, activités sportives.
+Vous pourrez assister à des conférences techniques partout en France afin de continuer à développer votre expertise technique, ce qui est un atout majeur de l'équipe.
+
+**Entretiens**
+
+Dans le contexte actuel, les entretiens seront réalisés en visio.
+
+Entreprise : CCM Benchmark Group, appartenant au groupe Figaro, est un éditeur web leader en France sur ses marques (Linternaute, JDN, Comment Ça Marche, Journal des Femmes, ...) cumulant plus de 50 M de visiteurs uniques sur ses sites dans le monde.
+Les équipes sont petites, et donc agiles. Nous travaillons soit en Scrum, soit en Kanban.
+
 
 ## Comment postuler ?
 
