@@ -35,7 +35,7 @@ Vous devrez faire des choix techniques pragmatiques et toujours rechercher les m
 * JSON et REST - une vingtaine de services qui discutent entre eux
 * Beaucoup d’archi orienté asynchrone avec RabbitMQ
 * Beaucoup de challenges autour de la performance et optimisation : milliseconde et data
-* Bases de données : 80% mangoDB / 20% mariaDB et PostGreSQL
+* Bases de données : 80% MongoDB / 20% mariaDB et PostGreSQL
 * Un peu de Python pour le côté Data
 * Un peu de script Go pour des parties OPS
 * Algolia pour recherche
