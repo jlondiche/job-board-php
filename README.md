@@ -32,4 +32,4 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Référent Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Dev/Intégrateur Front ReactJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ZEBET.md">[ZEBET]</a> Dev/Lead Dev Back End PHP/PSymfony
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ZEBET.md">[ZEBET]</a> Dev/Lead Dev Back End PHP/PSymfony **[!NEW!]**
