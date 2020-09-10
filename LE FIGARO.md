@@ -8,19 +8,31 @@
 
 ## Développeur PHP/Symfony Senior
 
-- **Missions :** Refonte du site lefigaro.fr (10M de VU/mois), conception/développement d'une API en Node.js, amélioration/tunning de l'archi du figaro pour maintenir les bonnes pratiques mises en place, développements de nouveaux projets dans l'architecture microservice symfony 4, travail sur l'ensemble des sites du groupe.
+- **Missions :** 
 
 Les missions au sein du Figaro sont transverses. Énormément de projets sont développés en plus du media connu de tous lefigaro.fr. Une équipe tech de plus de **40 personnes développe continuellement de nouveaux projets**. Cette stratégie permet au groupe Figaro de continuer son premier métier (journalisme) tout en évoluant vers un groupe média plus large. 
 
+L'équipe IT est rentrée en phase d'industrialisation avec la création d'une seule plate-forme pour gérer tous les sites du groupe. Le but étant de développer un produit qui est utilisé pour tous les sites (bourse, particulier, l'étudiant...) et pour tous les journalistes.
+
 Les enjeux tech et business sont donc considérables, compte tenu de la **force de frappe du groupe et du budget alloué à la R&D !**
 
-- **Stack :** Symfony 3 & 4 + Node.js pour le back-end. => Ce sont les technos de base utilisées par l'équipe. Chaque projet a des technos différentes.
+- **Stack :** 
 
-- **Profil :** 2 à 5 ans d'expérience minimum en PHP/Symfony. Une certaine appétence pour le Node.js est demandée.
+* php7 / Symfony5
+* Migration des bundles opur etre compatible Sf5
+* Fin d'année devrait mettre du Kubernetes pour monter de version sur PHP7.4
+* Test : PHPUnit, test fonctionnel en Panther
+
+- **Profil :** 2 à 5 ans d'expérience minimum en PHP/Symfony.
 
 - **Salaire :** selon profil.
 
 - **Les avantages :** Mutuelle, Tickets Restos, très beaux locaux.
+
+Pourquoi rejoindre Le Figaro ?
+
+La direction technique a pour mission de gérer la myriade de sites du groupe Figaro. Le projet est entré en phase d'industrialisation et prend de plus en plus d'ampleur au sein du groupe et de la Direction.
+L'ambiance est très sympa et l'équipe travaille sur les dernières technos.
 
 ## Comment postuler ?
 
