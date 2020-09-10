@@ -6,7 +6,7 @@
 
 **Quoi :**  Lancé en 2004 autour du pari hippique et de sa marque ZEturf, le groupe ZEturf prend une nouvelle dimension en entrant dans le marché des paris sportifs en 2014 avec sa marque ZEbet.
 
-## Développeur(se) Full Stack PHP/JS/OPS
+## Développeur / Lead Dev PHP/SF Senior
 
 Avec de solides positions en France, le groupe ZEturf accélère aujourd’hui sa croissance sur de nombreux marchés internationaux, et souhaite renforcer son équipe Production / Exploitation pour accompagner son développement.
 
