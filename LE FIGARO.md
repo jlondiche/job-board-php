@@ -19,7 +19,7 @@ Les enjeux tech et business sont donc considérables, compte tenu de la **force 
 - **Stack :** 
 
 * php7 / Symfony5
-* Migration des bundles opur etre compatible Sf5
+* Migration des bundles pour etre compatible Sf5
 * Fin d'année devrait mettre du Kubernetes pour monter de version sur PHP7.4
 * Test : PHPUnit, test fonctionnel en Panther
 

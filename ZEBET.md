@@ -14,14 +14,6 @@ Le groupe recherche de véritables talents (top gun dans leur jargon) !
 
 L'équipe de développement (10 personnes pour l'instant) est installée à Boulogne, porte de Saint Cloud, elle est placée sous l'autorité d'un Directeur du Développement, lui-même rattaché au DSI. 
 
-**Missions :**
-
-* Pousser du code en production régulièrement (early & often)
-* Participer aux codes reviews et rituels Agiles de la team
-* Travailler sur des workflows complets de features intégrant plusieurs services
-* Monter en compétence et maîtriser les différents niveaux de la marketplace
-* Participer aux codes reviews et rituels agiles de la team
-
 ## Stack
 
 * Symfony, php 7, Jira, SQL, Git, Behat.
