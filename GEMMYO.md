@@ -12,11 +12,11 @@ Le profil du futur développeur Full Stack sera à l'aise en PHP mais ne doit pa
 
 **Missions :** 
 
-* Développement des applications en boutique : ReactJS / NodeJS
-* Relation de la gestion avec les ateliers : automatisation, fluidifier la communication et l'interface pour les ateliers
-* Développement de fonctionnalités pour la gestion des stocks de pierre et de métaux
-* Développement du site international
-* Remplacement de l'ERP
+* Développement des applications en boutique : ReactJS / NodeJS.
+* Relation de la gestion avec les ateliers : automatisation, fluidifier la communication et l'interface pour les ateliers.
+* Développement de fonctionnalités pour la gestion des stocks de pierre et de métaux.
+* Développement du site international.
+* Remplacement de l'ERP.
 
 ## Stack
 
