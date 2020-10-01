@@ -8,7 +8,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous. _Faites-moi confiance_ et gagnez un temps fou.**
 
-## Les offres - Pour cause de crise sanitaire, seuls quelques postes sont encore ouverts. Contactez-moi directement pour postuler et échanger.
+## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> Archi / Lead Dev Back-End PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack

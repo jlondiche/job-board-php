@@ -18,9 +18,17 @@ Le profil du futur développeur Full Stack sera à l'aise en PHP mais ne doit pa
 * Développement du site international.
 * Remplacement de l'ERP.
 
+## Lead Developer (ou en devenir) & Junior - PHP Symfony / React / DevOps
+
+Chez Gemmyo, le futur développeur devra s'intéresser aux problématiques e-Commerce dans leur ensemble. En effet, Gemmyo s'investit énormément dans l'amélioration continue de son métier. C'est dans cette logique que l'équipe IT recherche quotidiennement des solutions, des améliorations pour que Gemmyo reste à la pointe dans son domaine. 
+
+D'un point de vue technique, cela se traduit par la création d'applications pour les employés en boutique par exemple, ou bien la gestion des stocks via des API. La technique est là pour répondre aux besoins métiers de Gemmyo et faciliter la vie de l'entreprise.
+
+Si le domaine d'activité vous plaît, le champ des possibles est très très large !
+
 ## Stack
 
-* PHP, JS, ReactJS, NodeJS, MongoDB. Magento pour l'e-Commerce.
+* Socle PHP, briques applicatives en ReactJS, NodeJS, MongoDB. Magento pour l'e-Commerce.
 
 
 ## Pourquoi rejoindre Gemmyo
