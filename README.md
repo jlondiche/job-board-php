@@ -18,7 +18,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/D-EDGE.md">[D-EDGE]</a> Lead Dev PHP/JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DayUse]</a> Dev Back-end Symfony expérimenté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[Evaneos]</a> Dev back-end
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GEMMYO.md">[GEMMYO]</a> Dev Junior Full Stack PHP/JS **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GEMMYO.md">[GEMMYO]</a> Dev Full Stack PHP/JS / Lead Dev **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> PM - FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Hiflow.md">[HIFLOW]</a> Dev PHP Junior/Intermédiaire
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End - Optim' & Perf - PHP/Symfony  **[!NEW!]**
