@@ -10,7 +10,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 ## Les offres
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[AFFLELOU]</a> Dev Back-End PHP/Symfony Confirmé **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> Dev Back-End PHP/Symfony Confirmé **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> Archi / Lead Dev Back-End PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior // 70% PHP/SF - 30% JS/React - EM / PEOPLE MANAGEMENT & ARCHI **[!NEW!]**
