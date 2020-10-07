@@ -15,7 +15,9 @@
 ## Stack
 
 Front : jQuery, VueJS, Bootstrap, SASS, Webpack, Apollo, Nuxtjs
+
 Back : PHP7, Laravel, Mysql, Redis, AWS, DO, Algolia, Linux, Docker, GraphQL
+
 Services: JIRA, Confluence, Github, Trello, Sentry, Loggly, SEMRush, Sqreen, SauceLab, Keen.io, Cloudflare
 
 ## Développeur PHP/Laravel Fullstack Confirmé/Sénior
