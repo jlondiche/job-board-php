@@ -29,17 +29,11 @@ PHP 7/Symfony, RabbitMQ, ElasticSearch, AWS (gestion de l'hébergement en intern
 
 Entre 50/60K€ selon profil.
 
-## Développeur/Intégrateur Front ReactJS 
+## Lead dev fullstack PHP/Symfony/JS 
 
-À la fois en contact permanent avec l'équipe Dev Back mais aussi avec l'équipe création (vous serez officiellemnt rattaché à l'équipe Créa), votre rôle sera l'intégration complète des projets web.
+Pour collaborer avec l'agence Theodo et créer une équipe fullstack !
 
-* Projets web (refonte site, amélioration UI, UX), ReactJS, progressive web app.
-* Intégrer les maquettes graphiques en HTML5/CSS3 et Javascript dans le respect des normes et si possible directement dans les templates twig du site (de concert avec l'équipe de développement).
-* Vous devrez générer un code compatible avec les principaux navigateurs. Vous serez donc amené à réaliser des sites responsive design.
-
-**Stack :** 
-
- ReactJS, Javascript, HTML5, CSS, Twig, Git.
+## Dev Senior Front JS/ReactJS/NextJS
 
 **Salaire :** 
 

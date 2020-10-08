@@ -11,7 +11,6 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 ## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> Dev Back-End PHP/Symfony Confirmé **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> Archi / Lead Dev Back-End PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior // 70% PHP/SF - 30% JS/React - EM / PEOPLE MANAGEMENT & ARCHI **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> Dev Full Stack H/F **[!NEW!]**
@@ -30,5 +29,5 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Dev NodeJS / TypeScript
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Référent Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Dev/Intégrateur Front ReactJS
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Lead dev fullstack PHP/Symfony/JS - Dev Senior Front JS ReactJS/NextJS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZEBET.md">[ZEBET]</a> Dev/Lead Dev Back End PHP/PSymfony **[!NEW!]**
