@@ -24,7 +24,24 @@ L'équipe de développement (10 personnes pour l'instant) est installée à Boul
 * Les technologies (outils, langages, etc.) recherchées chez les candidats : Symfony (version actuellement en vigueur sur la plateforme : 3.4), php 7, Jira, SQL, Git (versionning), Behat (tests fonctionnels automatisés) 
 * Le candidat doit connâitre les méthodes Agiles. 
 
-Salaire : selon profil
+**Salaire : selon profil**
+
+## Product Owner
+
+**Missions :**
+
+Au centre du process de développement, le poste de PO a vocation à jouer un rôle essentiel entre les équipes Business et IT, afin de concevoir et de spécifier toutes fonctionnalités nécessaires au bon fonctionnement des fronts et applications mobiles du groupe.
+
+Dans ce contexte, les responsabilités du PO sont :
+* Compréhension et définition des besoins
+* Définition et rédaction des spécifications fonctionnelles destinées aux équipes de Développement
+* Priorisation du backlog suivant les orientations choisies
+* Suivi des développements et reporting
+* Participation active aux phases de tests
+* Rédaction de la documentation
+* Analyses et recommandations visant à améliorer l’offre client et les procédures internes
+
+**Salaire : selon profil**
 
 ## Comment postuler ?
 
