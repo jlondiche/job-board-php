@@ -27,6 +27,8 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[Mobility Work]</a> DÉVELOPPEUR (SE) FULLSTACK - SYMFONY + VUE JS 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, *GO* - Javascript embarqué TV connecté
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEXTSTATION.md">[Next Station]</a> Dev PHP Laravel - Lean Start-Up
+
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/NEXTSTATION.md">[PlayPlay]</a> Dev PHP Laravel Back-End OU Full-Stack **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Dev NodeJS / TypeScript
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Référent Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
