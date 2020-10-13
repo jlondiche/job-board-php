@@ -23,7 +23,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End - Optim' & Perf - PHP/Symfony  **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[La Ruche Qui Dit Oui!]</a> DevOps AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Lydia]</a> Dev PHP/Symfony Back-End **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Lydia.md">[Lydia]</a> Dev PHP/Symfony Back-End **[!NEW!]**
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> Dev PHP/Laravel Fullstack Confirmé/Sénior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[Mobility Work]</a> DÉVELOPPEUR (SE) FULLSTACK - SYMFONY + VUE JS 
