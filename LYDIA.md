@@ -10,6 +10,8 @@ Comment ? En exploitant le meilleur des nouvelles technologies pour créer des s
 
 **Facts & Figures**
 
+* Dizaines de milliers de transaction carte par jour
+* 300T de données
 * 3 millions d’utilisateurs en Europe.
 * Lydia a été reconnue comme l’une des startups les plus prometteuses du pays en intégrant le classement “French Tech 120”.
 * Après avoir levé 40 millions d’euros auprès d’investisseurs en 2020, Lydia va accélérer son déploiement à l’international.
@@ -24,7 +26,7 @@ IDE : PhpStorm, Golang, Vim, Emacs
 
 Cloud : Google Cloud Platform
 
-## Développeur Back-End PHP/Symfony
+## Développeur Back-End GO
 
 L'équipe back-end est composée de 11 développeurs/ingénieurs qui partagent la même vision : voir au delà du code et se consacrer à livraison de fonctionnalités et d’un service de qualité.
 Cette culture est indispensable dans un environnement aussi complexe que celui de Lydia où les sujets sont nombreux :
