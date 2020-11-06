@@ -32,7 +32,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PlayPlay]</a> Dev PHP Laravel Back-End OU Full-Stack **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Dev NodeJS / TypeScript
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Référent Symfony
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur(se) PHP/Symfony Senior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Lead dev fullstack PHP/Symfony/JS - Dev Senior Front JS ReactJS/NextJS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZEBET.md">[ZEBET]</a> PO - Dev/Lead Dev Back End PHP/PSymfony **[!NEW!]**

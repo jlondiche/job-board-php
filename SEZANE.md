@@ -1,18 +1,50 @@
 # 👚 SEZANE 👚
 
-**Domaine :**  e-Commerce / Mode.
+**Domaine :**  e-Commerce / Mode
 
-**Où :** Paris - Sentier.
+**Où :** Paris 2e - Sentier
 
 **Quoi :** Créée en 2013 par Morgane Sézalory, Sézane est la première marque de mode française née en ligne.
 
-## Développeur(se) Senior Référent Symfony
+**Facts & Figures:**
 
- Sézane est en refonte complète <strong>Micro-Services</strong> afin d'accompagner la forte croissance que connaît le projet depuis sa création. Vous serez le référent Symfony, en partenariat avec le prestataire, pour mener à bien cette refonte. Vous interviendrez sur tous les sujets techniques du e-Commerce : stock & logisitque, boutique, paiement, caisse, optim de perf.
+* +35 millions de pages vues par mois
 
- Vous avez entre 3 et 5 ans d'expérience et vous maîtrisez tous les rouages de Symfony. Vous n'avez pas besoin d'expérience de Lead Dev pour postuler à ce poste mais vous devez avoir un excellent niveau technique.
+## Développeur(se) PHP/Symfony Senior
 
- Gros challenge technique. Poste idéal pour un développeur déjà solide techniquement et qui souhaite se dépasser pour passer au niveau supérieur.
+En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
+
+* Sites et API : <a href="https://www.sezane.com/fr">Sézane</a>,<a href="https://www.octobre-editions.com/fr">Octobre Editions</a>
+
+Vous êtes sociable, autonome, rigoureux, responsable, force de propositions, motivé et doté d'une grande capacité d'adaptation, à l'écoute et savez gérer vos projets de main de maître.
+
+Votre connaissance de PHP, du framework Symfony, et votre intérêt pour les nouvelles technologies et l'optimisation seront des atouts essentiels pour ce poste.
+
+Vous serez garant du développement et de la mise en place des applications web, de de la qualité du code, et de la satisfaction client interne et externe.
+
+Vous évoluerez au sein de l’équipe Technology de Sézane, et vous serez rattaché au Lead Developer - Architect de l’équipe.
+
+## Missions
+
+* Ajouts de fonctionnalités sur les applications web
+* Les études de faisabilité et délais de livraison
+* La réalisation et le suivi des tests unitaires
+* La performance est au coeur de vos préoccupations du quotidien
+* Le suivi et la maintenance des services
+* La documentation des développements
+* L’archivage des codes sources
+* Assurer un rôle de conseil technique auprès des équipes internes
+* Accompagner les futurs développeurs juniors, résoudre les problèmes et les faire monter en
+compétences
+
+## Expérience / compétences requises
+
+* Parfaite connaissance de Symfony, API Platform et Doctrine
+* Bonne connaissance dans l’architecture micro-service
+* Connaissance en docker et AWS
+* Vous avez déjà travaillé sur des API utilisées par des applications mobiles • Bonne connaissance en Elasticsearch
+* 5 à 6 ans d’expérience professionnelle
+* Langues : Français courant, Anglais technique
 
 ## Pourquoi postuler ?
 
@@ -20,10 +52,10 @@
 
 * Ticket resto 9€, 
 * 50% transport, 
-* Au bout de 6 mois: pourcentage de réduction (30% sur un max de 2000€) et des avoirs de 1000€ chez Sezane et 500€ chez Octobre
+* Au bout de 6 mois: pourcentage de réduction (30% sur un max de 2 000€) et des avoirs de 1 000€ chez Sézane et 500€ chez Octobre.
 * Mutuelle : Alan
 
-Salaire : 50€K/65K€ (fixe + 1 mois de salaire en partie variable payée en 2 fois)
+Salaire : selon profil
 
 ## Comment postuler ?
 
