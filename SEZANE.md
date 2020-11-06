@@ -14,7 +14,7 @@
 
 En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 
-* Sites et API : <a href="https://www.sezane.com/fr">Sézane</a>,<a href="https://www.octobre-editions.com/fr">Octobre Editions</a>
+* Sites et API : <a href="https://www.sezane.com/fr">Sézane</a>, <a href="https://www.octobre-editions.com/fr">Octobre Editions</a>
 
 Vous êtes sociable, autonome, rigoureux, responsable, force de propositions, motivé et doté d'une grande capacité d'adaptation, à l'écoute et savez gérer vos projets de main de maître.
 
@@ -42,7 +42,8 @@ compétences
 * Parfaite connaissance de Symfony, API Platform et Doctrine
 * Bonne connaissance dans l’architecture micro-service
 * Connaissance en docker et AWS
-* Vous avez déjà travaillé sur des API utilisées par des applications mobiles • Bonne connaissance en Elasticsearch
+* Vous avez déjà travaillé sur des API utilisées par des applications mobiles 
+* Bonne connaissance en Elasticsearch
 * 5 à 6 ans d’expérience professionnelle
 * Langues : Français courant, Anglais technique
 
