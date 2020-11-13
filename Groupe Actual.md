@@ -55,7 +55,7 @@ Salaire : 45-60K€ selon profil et expérience
 
 Bonne maîtrise de :
 
-- Laraval
+- Laravel
 - Bootstrap
 - ElasticSearch
 - CI
