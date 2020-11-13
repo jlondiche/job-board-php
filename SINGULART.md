@@ -38,7 +38,7 @@ Dans un contexte d’hyper-croissance et une perspective de structuration de l�
 
 **Les avantages :** 
 
-Singulart a réussi le pari un peu fou de concilier ventre d'arts et Tech. Avec Singulart, l'Art devient ouvert au plus grand nombre et à tous les acheteurs qui souhaitent se procurer une oeuvre. Généralement réservé à des cercles très fermés, le marché de l'art devient ouvert grâce à Singulart.
+Singulart a réussi le pari un peu fou de concilier vente d'arts et Tech. Avec Singulart, l'Art devient ouvert au plus grand nombre et à tous les acheteurs qui souhaitent se procurer une oeuvre. Généralement réservé à des cercles très fermés, le marché de l'art devient ouvert grâce à Singulart.
 
 D'ailleurs, la tech est primordiale chez Singulart, pour permettre aux clients d’acheter de l’art avec le même enthousiasme, le même conseil et sans trop hésiter, comme ils le feraient lors d’une foire d’art.
 
