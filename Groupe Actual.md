@@ -15,6 +15,8 @@
 * 70 000 collaborateurs intérimaires détachés en mission chaque année
 * 6300 personnes formées
 
+## Groupe Actual - Dev fullstack 70% #ReactJS et 30% API en #PHP - Pole Digital du groupe autour de la formation et emplois.
+
 ## Product Manager H/F
 
 **Missions**

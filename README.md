@@ -35,4 +35,5 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur(se) PHP/Symfony Senior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Lead dev fullstack PHP/Symfony/JS - Dev Senior Front JS ReactJS/NextJS **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WHALLER.md">[WHALLER]</a> Développeur Back-End - Gros chantier de performance **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZEBET.md">[ZEBET]</a> PO - Dev/Lead Dev Back End PHP/PSymfony **[!NEW!]**
