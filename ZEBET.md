@@ -20,7 +20,7 @@ L'équipe de développement (10 personnes pour l'instant) est installée à Boul
 
 ## Profil
 
-* Entre 5 ans et 10 anx d'expérience
+* Entre 5 ans et 10 ans d'expérience
 * Les technologies (outils, langages, etc.) recherchées chez les candidats : Symfony (version actuellement en vigueur sur la plateforme : 3.4), php 7, Jira, SQL, Git (versionning), Behat (tests fonctionnels automatisés) 
 * Le candidat doit connâitre les méthodes Agiles. 
 
