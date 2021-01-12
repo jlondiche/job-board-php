@@ -17,7 +17,7 @@ Convelio est la startup qui digitalise la logistique des oeuvres d’art. Commis
 * Deux levées de fonds : 2M€ et 9M€ en décembre dernier
 * Développement US et renforcement de la croissance au niveau europeen
 
-## Développeur(se) PHP Back-End Senior
+## Développeur(se) PHP Back-End Senior / FULL REMOTE
 
 Convelio a développé un algorithme de calcul de prix instantanés, lui donnant un avantage compétitif sur le marché de la logistique et du transport. L’entreprise ambitionne de devenir un leader technologique sur un marché qui n’a jamais vraiment réalisé sa mue digitale, et d’apporter simplicité, transparence et efficacité au marché de la logistique spécialisée grâce à la technologie.
 
