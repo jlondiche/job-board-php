@@ -26,7 +26,7 @@ IDE : PhpStorm, Golang, Vim, Emacs
 
 Cloud : Google Cloud Platform
 
-## Développeur Back-End GO
+## Développeur Back-End GO - FULL REMOTE
 
 L'équipe back-end est composée de 11 développeurs/ingénieurs qui partagent la même vision : voir au delà du code et se consacrer à livraison de fonctionnalités et d’un service de qualité.
 Cette culture est indispensable dans un environnement aussi complexe que celui de Lydia où les sujets sont nombreux :
