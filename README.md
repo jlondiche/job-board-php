@@ -19,7 +19,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Dev Back-end PHP - Confirmé
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev PHP/Laravel - PM - **🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End - Optim' & Perf - PHP/Symfony  **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Marque%20en%20Moins%20.md">[La Marque en Moins]</a> Dev Full Stack Shopify **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Marque%20En%20Moins.md">[La Marque en Moins]</a> Dev Full Stack Shopify **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[La Ruche Qui Dit Oui!]</a> DevOps AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> Dev Back-End GO / **🏠 FULL REMOTE **[!NEW!]**

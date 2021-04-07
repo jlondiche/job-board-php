@@ -1,4 +1,4 @@
-# 🏕️ CAMPINGS 🏕️
+# 🌎 La Marque En Moins 🍂
 
 **Domaine :** e-Commerce
 
@@ -66,7 +66,6 @@ La Marque en Moins recherche une personne ambitieuse, qui aime construire et ext
 * Python
 
 ## Pourquoi postuler ?
-
 
 **Les avantages :** 
 
