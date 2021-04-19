@@ -42,7 +42,6 @@ En parallèle il faudra continuer de faire vivre le run en attendant la fin de l
 * Tu acceptes l’existant comme il est et tu n’hésites pas à le faire évoluer.
 * Tes qualités : Curieux/Curieuse, autonome, dynamique, créatif/créative et sympathique.
 
-
 ## Comment postuler ?
 
 Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
