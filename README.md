@@ -15,6 +15,10 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> PO/PM Senior - Dev Full Stack Senior // 70% PHP/SF - 30% JS/React - EM / PEOPLE MANAGEMENT & ARCHI **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> Dev Full Stack H/F **[!NEW!]**
+	- Lead Dev
+	- Poste CMS
+	- Poste CORE
+	- Open Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / **🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Dev Back-end PHP - Confirmé
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev PHP/Laravel - PM - **🏠 FULL REMOTE **[!NEW!]**
@@ -29,6 +33,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEXTSTATION.md">[Next Station]</a> Dev PHP Laravel - Lean Start-Up
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PlayPlay]</a> Dev PHP Laravel Back-End OU Full-Stack **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Dev NodeJS / TypeScript
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/QUITOQUE.md">[QUITOQUE]</a> Dev Back-End Confirmé PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur(se) PHP/Symfony Senior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Lead dev fullstack PHP/Symfony/JS - Dev Senior Front JS ReactJS/NextJS
