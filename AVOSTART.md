@@ -25,7 +25,7 @@ ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estime
 * Test unitaire PHPUnit
 * Déploiement continue Gitlab, heroku et AWS
 
-## Développeur H/F PHP Symfony confirmé
+## Bras droit du CTO / Lead Dev Back
 
 **Missions** 
 
