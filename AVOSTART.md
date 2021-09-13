@@ -30,7 +30,7 @@ ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estime
 **Missions** 
 
 Avostart a trouvé son business model et ça fonctionne très bien ! 
-* *Maintenant, l’équipe technique souhaite mettre en place une architecture hexagonale, CQRS et DDD pour avoir des bases saines, une platfeorme scalable pour les prochaines années à venir et que tout le business passe par la technique.*
+* **Maintenant, l’équipe technique souhaite mettre en place une architecture hexagonale, CQRS et DDD pour avoir des bases saines, une platfeorme scalable pour les prochaines années à venir et que tout le business passe par la technique.**
 * Modifier l'architecture de la base de données pour plus de scalabilité
 * Utiliser le machine learning et l’intelligence artificielle sur plusieurs projets
 * Chiffrer les données de bout en bout pour 2022 
