@@ -16,19 +16,21 @@
 Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
 Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
 
-## Descriptif du poste – Développeur back-end PHP / SQL sénior
+## Descriptif du poste – Lead Développeur back-end PHP / SQL sénior
 
 **L’équipe**
 
 Eres souhaite étendre et axer son équipe informatique sur l’expérience client et le développement de ses applicatifs. L’équipe technique est composée de 2 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner.
-L’équipe est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 
+L'équipe tech est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 
 
-**Missions :**
+**Missions**
 
+* Vous gèrerez des projest from scratch.
+* Vous encadrerez l'équipe plusieurs développeurs back-end. 
 * Vous interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes. 
 * Vous reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
 
-## Stack
+**Stack**
 
 * Applications web : PHP 7.3 (Symfony/Slim), Wordpress et Drupal
 * Batchs et traitements : PHP 7.3
@@ -39,9 +41,7 @@ L’équipe est en relation directe avec les autres équipes de l’entreprise (
 * Environnement de développement : Docker et Visual Studio Code
 * Contrôle de version : GIT via Gitlab
 
-## Profil
-
-Vos compétences : 
+**Vos compétences**
 
 * SQL avancé (ex : SQL Server / MySql / PostgreSQL)
 * Requêtes complexes et gestion des transactions
@@ -56,27 +56,24 @@ Vos compétences :
 * GIT
 * Shell Linux ou Windows Scripting
 
-Votre profil :
+**Votre profil**
 
 * Vous avez au moins cinq ans d’expérience dans un contexte où vous n’interveniez pas seulement pour développer à partir de spécifications détaillées/d’un ticket, mais où vous apportiez une vision qui challenge le besoin. 
 * Vous êtes diplômé d’une école d’ingénieurs, d’informatique ou d’un équivalent universitaire (Bac +3/+5 idéalement).
 
-## Pourquoi postuler ?
+**Pourquoi postuler ?**
 
-**Les avantages :** 
+Les avantages :
 
-* Des bureaux dans le centre de Paris proche de la place de l’Etoile (avenue Hoche) ; 
-* La souplesse dans votre organisation avec la possibilité de télétravailler ;
-* Des projets et des clients à gogo ;
-
-Les récompenses pour le travail accompli :
-
-* Des primes collectives sous forme de participation et d’intéressement, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients ;
-* La possibilité de devenir actionnaire (programme prévu en 2020) ;
-* Une mutuelle très complète prise en charge à 60 % par l’employeur ; 
-* Des titres restaurant ;
-* Des chèques emploi-service si vous avez des enfants ;
-* Des séminaires régulièrement (Porto, Courchevel, Marrakech, et d’autres à venir) 
+* Des bureaux dans le centre de Paris proche de la place de l’Etoile (avenue Hoche).
+* La souplesse dans votre organisation avec la possibilité de télétravailler.
+* Des projets et des clients à gogo.
+* Des primes collectives sous forme de participation et d’intéressement, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients.
+* La possibilité de devenir actionnaire (programme prévu en 2020).
+* Une mutuelle très complète prise en charge à 60 % par l’employeur.
+* Des titres restaurant.
+* Des chèques emploi-service si vous avez des enfants.
+* Des séminaires régulièrement (Porto, Courchevel, Marrakech, et d’autres à venir).
 
 ## Comment postuler ?
 

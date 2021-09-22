@@ -10,30 +10,23 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 ## Les offres
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> Dev Back-End PHP/Symfony Confirmé **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> Bras Droit du CTO / Archi Hexagonale **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BAYARD%20PRESSE%20-%20La%20Croix.md">[BAYARD PRESSE - LA CROIX]</a> Développeur(se) Fullstack **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AQF.md">[AQF]</a> Développeur Full stack PHP7.4 / Symfony5.2 **🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> PO/PM Senior - Dev Full Stack Senior // 70% PHP/SF - 30% JS/React - EM / PEOPLE MANAGEMENT & ARCHI **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> Dev Full Stack H/F **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> Bras Droit du CTO / **Archi Hexagonale** **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior: 70% PHP,SF / 30% JS, React
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> En cours de rédaction
 	- Lead Dev
 	- Poste CMS
 	- Poste CORE
 	- Open Data
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / **🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Dev Back-end PHP - Confirmé
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev PHP/Laravel - PM - **🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End - Optim' & Perf - PHP/Symfony  **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Marque%20En%20Moins.md">[La Marque en Moins]</a> Dev Full Stack Shopify **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[La Ruche Qui Dit Oui!]</a> DevOps AWS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[Le Figaro]</a> Dev PHP/Symfony Senior
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> Dev Back-End GO / **🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[Mobility Work]</a> DÉVELOPPEUR (SE) FULLSTACK - SYMFONY + VUE JS 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[Molotov TV]</a> Dev APIs Back-End Senior, *GO* - Javascript embarqué TV connecté
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PlayPlay]</a> Dev PHP Laravel Back-End OU Full-Stack **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[Prisma Media]</a> Dev NodeJS / TypeScript
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/QUITOQUE.md">[QUITOQUE]</a> Dev Back-End Confirmé PHP/Symfony **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur(se) PHP/Symfony Senior **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> Développeur(se) Back-End
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SMALLABLE.md">[Smallable]</a> Dev Back End PHP/PSymfony | Lead dev fullstack PHP/Symfony/JS - Dev Senior Front JS ReactJS/NextJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WHALLER.md">[WHALLER]</a> Développeur Back-End PHP - Gros chantier de performance **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / VP Engineering 🏠 FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Lead Dev PHP/Symfony/SQLServer **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev PHP/Laravel intermédiaire - **Lead developer PHP/Laravel🏠 FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End, Optim' & Perf, PHP/Symfony **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[LA RUCHE QUI DIT OUI!]</a> En cours de rédaction
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> Dev Back-End GO / **Engineering Manager GO** 🏠 FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> Dev APIs Back-End Senior GO
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> Dev PHP Laravel Back-End OU Full-Stack **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> En cours de rédaction
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> En cours de rédactions Lead Développeur sénior
+

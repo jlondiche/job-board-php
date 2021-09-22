@@ -28,7 +28,7 @@ Cloud : Google Cloud Platform
 
 ## Développeur Back-End GO - FULL REMOTE
 
-L'équipe back-end est composée de 11 développeurs/ingénieurs qui partagent la même vision : voir au delà du code et se consacrer à livraison de fonctionnalités et d’un service de qualité.
+L'équipe back-end est composée de 20 développeurs/ingénieurs qui partagent la même vision : voir au delà du code et se consacrer à livraison de fonctionnalités et d’un service de qualité.
 Cette culture est indispensable dans un environnement aussi complexe que celui de Lydia où les sujets sont nombreux :
 
 * Le paiement
@@ -40,9 +40,8 @@ Chez nous, les ingénieurs qui développent un projet en ont la responsabilité 
 
 **Missions**
 
-* Encadrer et guider l’équipe back en les accompagnant dans leur montée en compétences tout en construisant et en améliorant les processus de développement existants.
 * Imaginer et développer de nouvelles fonctionnalités tout en maintenant l’existant.
-* Valider la conformité du code en tenant compte de nos exigeances et de nos processus d’ingénierie.
+* Ecrire et déployer du code conforme à nos exigeances et de nos processus d’ingénierie.
 * Veiller à la qualité de ce que vous sortez en testant méticuleusement votre code et en vous appuyant sur l’avis de vos collègues.
 * Définir les grandes lignes de vos projets, les hiérarchiser, y établir des priorités et les tenir.
 
@@ -55,9 +54,25 @@ Chez nous, les ingénieurs qui développent un projet en ont la responsabilité 
 * Vous êtes capable de communiquer en anglais avec vos collègues. Pas besoin de grand style, mais vous savez vous faire comprendre à l’écrit.
 * Vous êtes à l’aise avec l’utilisation de Git dans des environnements d’intégration continue.
 
-## Salaire
+**Salaire**
 
-Salaire : selon profil et expériences.
+Salaire : 50/70K€ selon profil et expériences.
+
+## Engineering Manager Back-end / Responsable des développements Back-end
+
+Le CTO recherche une personne sur qui s'appuyer pour prendre en main l'équipe back-end. 
+
+**Missions**
+* Gérer une équipe d'une 50aine de tech avec un niveau de management intermédiaire.
+* Accompagner la montée en compétences des équipes tout en construisant et en améliorant les processus de développement existants.
+
+**Profil**
+* Expérience souhaitée avec des équipes distribuées.
+* Connaissances demandées sur des systèmes bien sécurisés, sous charge.
+
+**Salaire**
+Budeget entre 80/100K€ selon profil.
+
 
 ## Comment postuler ?
 

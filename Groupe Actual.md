@@ -1,6 +1,6 @@
-# 👐 ACTUAL 👐
+# 👐 GROUPE ACTUAL 👐
 
-**Domaine :** RH - Emploi - Intérim.
+**Domaine :** RH - Emploi - Intérim. Pole Digital du groupe autour de la formation et emplois.
 
 **Où :** FULL REMOTE
 
@@ -15,41 +15,35 @@
 * 70 000 collaborateurs intérimaires détachés en mission chaque année
 * 6300 personnes formées
 
-## Groupe Actual - Dev fullstack 70% #ReactJS et 30% API en #PHP - Pole Digital du groupe autour de la formation et emplois.
-
-## Product Manager H/F
+## Groupe Actual - Lead developpeur PHP / Laravel 
 
 **Missions**
 
-* Gros travail de receuil de besoins sur le terrain avec les agences du groupe.
-* Analyse des points sensibles avec les agences .
-* Création et suivi d'une roadmap de fonctionnalités.
-* Animation d'ateliers en interne.
-* Suivre et organiser le développement des projets.
+* Encadrement d'une équipe de deux développeurs.
+* Gestion des projets de A à Z.
+* Conception et développement des fonctionnalités complexes en back-end.
+* Prise en compte des retours de l'équipe produit ou des utilisateurs et traitement des dysfonctionnements de l'application.
+* Participation aux code reviews.
+* Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais.
 
 **Profil**
+* Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités.
+* Expérience en lead d'équipe et de projets.
+* Expérience en Laravel.
+* GCP et ElasticSearch un plus.
 
-Bonne maîtrise de :
+**Salaire**
 
-- Méthodes Agiles
-- Méthodes Scrum
-- Jira
+Entre 50/65K€ selon profil et expérience.
 
-Ce poste est idéal pour tous les profils qui apprécient porter des projets de A à Z en relation directe avec le terrain. Le groupe Actual est composée de plus de 200 agences. Il faut donc réussir à prendre les besoins, les analyser, les découper puis implanter de nouvelles fonctionnalités avec l'équipe Tech. Le CTO attend quelqu'un de très agile, capable d'aller vite dans les process et la prise de décision. Télétravail OK.
-
-## Salaire
-
-Salaire : 45-60K€ selon profil et expérience
-
-## Développeur PHP Laravel Fullstack H/F
+## Développeur PHP Laravel Fullstack intermédiaire H/F
 
 **Missions**
 
 * Participation au planning poker et pondération des tâches en équipe.
 * Participation au daily.
 * Analyse, prise en charge, conception et développement des user stories qui vous sont attribuées.
-* Conception et développement des fonctionnalités front-end.
-* Prise en compte des retours de l'équipe produit ou des utilisateurs et traitement des dysfonctionnements de l'application.
+* Conception et développement des fonctionnalités back-end.
 * Participation aux code reviews.
 * Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais.
 
@@ -58,15 +52,14 @@ Salaire : 45-60K€ selon profil et expérience
 Bonne maîtrise de :
 
 - Laraval
-- Bootstrap
 - ElasticSearch
 - CI
 
 Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités.
 
-## Salaire
+**Salaire**
 
-Salaire : 45-70K€ selon profil et expérience
+Entre 45-50K€ selon profil et expérience
 
 ## Comment postuler ?
 

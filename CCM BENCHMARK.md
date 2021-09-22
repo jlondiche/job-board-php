@@ -2,7 +2,7 @@
 
 **Domaine :** Media
 
-**Où :** Paris 9 - 94 rue de Provence - Proche gare St Lazare.
+**Où :** Paris 9 - Métro Richelieu Drouot.
 
 **Quoi :** CCM Benchmark Group, appartenant au groupe Figaro, est un éditeur web leader en France sur ses marques (L’internaute, JDN, Comment Ça Marche, Journal des Femmes, ...) cumulant plus de 50 M de visiteurs uniques sur ses sites dans le monde.
 
