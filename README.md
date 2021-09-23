@@ -19,9 +19,14 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- Open Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / VP Engineering 🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Lead Dev PHP/Symfony/SQLServer **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> Dev PHP/Laravel intermédiaire - **Lead developer PHP/Laravel🏠 FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> 🏠 FULL REMOTE 
+	- Dev PHP/Laravel intermédiaire 
+	- **Lead developer PHP/Laravel** **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End, Optim' & Perf, PHP/Symfony **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[LA RUCHE QUI DIT OUI!]</a> En cours de rédaction
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[LA RUCHE QUI DIT OUI!]</a>
+	- Développeur Back-end intermédiaire PHP/Symfony/SOLID/DDD/Qualité
+	- Développeur Front-end JS/ReactJS sénior - Projet from scratch
+	- Développeur Front-end JS/ReactJS junior+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> Dev Back-End GO / **Engineering Manager GO** 🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> Dev APIs Back-End Senior GO
