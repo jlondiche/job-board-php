@@ -18,7 +18,8 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- Poste CORE
 	- Open Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / VP Engineering 🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> Lead Dev PHP/Symfony/SQLServer **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
+ 	- Chef de projet technique PHP / Symfony / SQL sénior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> 🏠 FULL REMOTE 
 	- Dev PHP/Laravel intermédiaire 
 	- **Lead developer PHP/Laravel** **[!NEW!]**

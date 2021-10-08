@@ -1,8 +1,8 @@
 # 💸 ERES 💸
 
-**Domaine :**  Épargne salariale.
+**Domaine :** Épargne salariale.
 
-**Où :** Paris Ouest, Place de l'Étoile.
+**Où :** Paris Ouest, Place de l'Étoile. Télétravail partiel possible. 
 
 **Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié. 
 
@@ -13,27 +13,36 @@
 
 **Facts & Figures**
 
-Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
-Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
+* Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
+* Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
 
-## Descriptif du poste – Lead Développeur back-end PHP / SQL sénior
+## Chef de projet technique PHP / Symfony / SQL
 
-**L’équipe**
-
-Eres souhaite étendre et axer son équipe informatique sur l’expérience client et le développement de ses applicatifs. L’équipe technique est composée de 2 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner.
+L’équipe technique est composée de 15 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner. 
 L'équipe tech est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 
 
 **Missions**
 
-* Vous gèrerez des projest from scratch.
-* Vous encadrerez l'équipe plusieurs développeurs back-end. 
-* Vous interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes. 
-* Vous reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
+Vous travaillerez sur 3 défis majeurs pour l'entreprise :
+
+* Repenser totalement les process et les interfaces pour on-boarder des milliers de nouveaux distributeurs tous les ans et digitaliser totalement la relation avec eux, y compris dans leur acte de conseil auprès de leurs clients ;
+
+* Reprendre la main sur l’expérience client, qui était jusqu’à présent sous-traitée à des banquiers et des assureurs, en créant from-scratch un espace client mélangeant pédagogie, simplicité et conseil ;
+
+* Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues.
+
+Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
+
+Concrètement, vous : 
+* Gèrerez des projest from scratch.
+* Encadrerez une petite équipe de plusieurs développeurs back-end. 
+* Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes. 
+* Reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
 
 **Stack**
 
-* Applications web : PHP 7.3 (Symfony/Slim), Wordpress et Drupal
-* Batchs et traitements : PHP 7.3
+* Applications web : PHP 7.3 et 8 (Symfony/Slim)
+* Batchs et traitements : PHP 7.3 et 8
 * Base de données : SQL Server, MySQL
 * Front : React sur les nouveaux projets, JQuery sur les anciens 
 * Hébergement : Amazon Web Service ou local
@@ -45,21 +54,21 @@ L'équipe tech est en relation directe avec les autres équipes de l’entrepris
 
 * SQL avancé (ex : SQL Server / MySql / PostgreSQL)
 * Requêtes complexes et gestion des transactions
-* Création de procédures stockées, scripts et triggers
 * Conception et optimisation de base de données
 * PHP avancé 
 * Programmation orientée objet
-* Framework (ex : Symfony, Slim)
+* Framework Symfony
 * Flux
 * Webservice REST
-* WEB intermédiaire (CSS 3, HTML, Javascript, webservice REST, JSON/XML)
 * GIT
-* Shell Linux ou Windows Scripting
 
 **Votre profil**
 
 * Vous avez au moins cinq ans d’expérience dans un contexte où vous n’interveniez pas seulement pour développer à partir de spécifications détaillées/d’un ticket, mais où vous apportiez une vision qui challenge le besoin. 
-* Vous êtes diplômé d’une école d’ingénieurs, d’informatique ou d’un équivalent universitaire (Bac +3/+5 idéalement).
+* Vous avez de l'expérience en gestion de projet. 
+
+**Salaire**
+Entre 50 à 60K€ de fixe + avantages financiers = 70/80K€ en package.
 
 **Pourquoi postuler ?**
 
