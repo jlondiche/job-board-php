@@ -55,7 +55,7 @@ Points appréciés:
 * Appétence pour du front end ou SEO
 
 
-## Développeur Core PHP - Équipe transverse
+## Développeur Core PHP - équipe transverse
 
 Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à *Xavier LEUNE, ancien président de l’AFUP.*
 
@@ -77,7 +77,7 @@ Points appréciés:
 * Docker, y compris en production
 * Sensibilité devops (Bash ne vous rebute pas, vous aimez automatiser de la CI et bidouiller des fichiers  kubernetes vous fait envie) 
 
-## Développeur PHP/Data - Équipe OpenData
+## Développeur PHP/Data - équipe OpenData
 
 **Missions**
 

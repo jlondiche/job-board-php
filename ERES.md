@@ -16,12 +16,21 @@
 * Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
 * Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
 
+Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
+
 ## Chef de projet technique PHP / Symfony / SQL
 
 L’équipe technique est composée de 15 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner. 
 L'équipe tech est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 
 
 **Missions**
+
+Concrètement, vous :
+
+* Gèrerez des projets from scratch.
+* Encadrerez une petite équipe de plusieurs développeurs back-end.
+* Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
+* Reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
 
 Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
@@ -30,14 +39,6 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 * Reprendre la main sur l’expérience client, qui était jusqu’à présent sous-traitée à des banquiers et des assureurs, en créant from-scratch un espace client mélangeant pédagogie, simplicité et conseil ;
 
 * Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues.
-
-Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
-
-Concrètement, vous : 
-* Gèrerez des projest from scratch.
-* Encadrerez une petite équipe de plusieurs développeurs back-end. 
-* Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes. 
-* Reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
 
 **Stack**
 
@@ -55,10 +56,8 @@ Concrètement, vous :
 * SQL avancé (ex : SQL Server / MySql / PostgreSQL)
 * Requêtes complexes et gestion des transactions
 * Conception et optimisation de base de données
-* PHP avancé 
-* Programmation orientée objet
+* PHP avancé + Programmation orientée objet
 * Framework Symfony
-* Flux
 * Webservice REST
 * GIT
 

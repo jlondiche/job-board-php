@@ -10,7 +10,9 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 ## Les offres
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> Bras Droit du CTO / **Archi Hexagonale** **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
+	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro **[!NEW!]**
+	- Lead dev back-end, Bras Droit du CTO / **Archi Hexagonale** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior: 70% PHP,SF / 30% JS, React
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
@@ -19,6 +21,8 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / VP Engineering 🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
  	- Chef de projet technique PHP / Symfony / SQL sénior **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
+	- Développeur back-end PHP, POO+++
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> 🏠 FULL REMOTE 
 	- Dev PHP/Laravel intermédiaire 
 	- **Lead developer PHP/Laravel** **[!NEW!]**

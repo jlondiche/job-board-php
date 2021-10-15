@@ -9,8 +9,10 @@ ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estime
 
 **Facts & Figures**
 
+* Avostart fait partie du Future 40 : 40 startups les plus prometteuses de Station F. 
+* Ont triplé leur nombre d'abonnés au premier trimestre 2021. 
+* Tour de seed de 2M€ en 2021 pour offrir une expérience fluide à leurs utilisateurs et partenaires tels qu'Airbnb, Lydia, Luko, Contentsquare, Assurly... pour n'en nommer que quelques-uns.
 * « Leur credo : Notre intérêt : Défendre les vôtres. »
-* Levée de fonds de 2 millions d’€ en juillet 2021
 * Prise en charge immédiate. Disponible 24h/24 et 7j/7. Sans engagement. 
 * Contenus juridiques également proposés en libre-service
 * Ambition Européenne : devenir le réflexe juridique des Français d’abord, puis des Européens.  
@@ -19,11 +21,30 @@ ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estime
 **Stack**
 
 * PHP7.4, Symfony5.3, Algolia, PostGreSQL, Redis, Cache HTTP, Varnish
-* Projet de refonte en front avec du ReactJS ou VueJS (poste front à pourvoir en 2022)
+* Projet de refonte en front avec du ReactJS ou VueJS (le lead fera son choix)
 * API centric / API platform
 * AWS, lambda, sms
 * Test unitaire PHPUnit
 * Déploiement continue Gitlab, heroku et AWS
+
+## Lead Dev JS Front-end
+
+**Missions**
+Vous serez le premier Développeur Front-end et votre mission consistera à développer le site web d'Avostart sous forme de SPA.
+
+* Concevoir de nouvelles fonctionnalités riches et ergonomiques.
+* Intégrer et développer ces fonctionnalités en collaboration avec des développeurs API et des membres de l’équipe UX/UI.
+* Apporter la meilleure expérience possible aux clients et utilisateurs d’Avostart.
+* Produire un code fonctionnel, maintenable, testé et performant.
+* Concevoir les nouvelles architectures en respectant les contraintes de production et de sécurité des plateformes. 
+
+**Profil**
+* Maîtrise des technologies Web (JavaScript, CSS, DOM, HTML, HTTP) Maîtrise d'un framework front
+* Bonne connaissance des stratégies de conception pour le Web (Amélioration progressive, Dégradation gracieuse, Mobile first, Accessibilité)
+* Expérience significative dans le développement d’applications Web modernes 
+* Familiarité avec l’écosystème et outillage Front-End (npm, Webpack, Babel ...) 
+* Autonome, organisé et rigoureux
+
 
 ## Bras droit du CTO / Lead Dev Back
 
@@ -45,12 +66,12 @@ Avostart a trouvé son business model et ça fonctionne très bien !
 
 ## Pourquoi postuler ?
 
-Avostart a besoin des meilleurs talents (et driven) pour permettre de réduire les inégalités d’accès au droit en Europe, permettre à tous d’aborder avec plus de sérénité les situations juridiques quel que soit son niveau de ressource, de connaissances juridiques ou encore l’endroit où l’on réside.
-Venez participer à l’aventure ! 
+* Avostart a besoin des meilleurs talents (et driven) pour permettre de réduire les inégalités d’accès au droit en Europe, permettre à tous d’aborder avec plus de sérénité les situations juridiques quel que soit son niveau de ressource, de connaissances juridiques ou encore l’endroit où l’on réside. Venez participer à l’aventure ! 
+* Package attractif avec equity
 
 ## Salaire
 
-Salaire : 50/60K€ selon profil + BSPCE à venir
+Salaire : 50/60K€ selon profil + BSPCE
 
 ## Comment postuler ?
 
