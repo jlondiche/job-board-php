@@ -18,7 +18,6 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP/Data - Équipe OpenData
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CONVELIO.md">[CONVELIO]</a> Dev PHP Back End Senior / VP Engineering 🏠 FULL REMOTE **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
  	- Chef de projet technique PHP / Symfony / SQL sénior **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
