@@ -51,7 +51,7 @@ Entre 50/65K€ selon profil et expérience.
 
 Bonne maîtrise de :
 
-- Laraval
+- Laravel
 - ElasticSearch
 - CI
 

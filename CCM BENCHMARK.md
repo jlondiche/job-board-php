@@ -2,7 +2,7 @@
 
 **Domaine :** Formation & Media.
 
-**Où :** Paris 9 - Métro Richelieu Drouot. Nantes ou Bordeaux possible. Télétravail partiel. 
+**Où :** Paris 9 - Métro Richelieu Drouot ou Rennes (Chantepie). Nantes ou Bordeaux possible. Télétravail partiel. 
 
 **Quoi :** CCM Benchmark Group, est un éditeur web leader en France . L’activité se structure autour des 2 pôles :  les médias, avec des sites grand public comme Comment ça Marche, l'Internaute ou le Journal des femmes qui touchent plus de 34 millions de visiteurs uniques chaque mois et le marketing digital, avec des filiales comme ZBO Media ou CCM Performance qui sont chargées d'aider les marques à communiquer sur Internet.
 
