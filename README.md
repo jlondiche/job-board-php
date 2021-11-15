@@ -10,21 +10,25 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 
 ## Les offres
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
+	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD **[!NEW!]**
+	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
-	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro **[!NEW!]**
+	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro
 	- Lead dev back-end, Bras Droit du CTO / **Archi Hexagonale** 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> Dev Full Stack Senior: 70% PHP,SF / 30% JS, React
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
+	- Dev Full Stack Senior: 70% PHP,SF / 30% JS, React, Full Remote 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
-	- Développeur PHP/Data - Équipe OpenData
+	- Développeur PHP/Data - équipe OpenData
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
- 	- Chef de projet technique PHP / Symfony / SQL sénior **[!NEW!]**
+ 	- Lead developer PHP / Symfony / SQL sénior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> 🏠 FULL REMOTE 
 	- Dev PHP/Laravel intermédiaire 
-	- **Lead developer PHP/Laravel** **[!NEW!]**
+	- Lead developer PHP/Laravel
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
 	- **Tech Lead PHP Symfony - archi hexagonale**
 	- Développeur sénior PHP Symfony 
@@ -34,11 +38,16 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- Développeur Front-end JS/ReactJS sénior - Projet from scratch
 	- Développeur Front-end JS/ReactJS junior+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> Dev Back-End GO / **Engineering Manager GO** 🏠 FULL REMOTE **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> Dev APIs Back-End Senior GO
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> Développeur Back-End PHP/Laravel **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
+	- Dev Back-End GO 🏠
+	- **Engineering Manager GO** 🏠 FULL REMOTE **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
+	- Dev APIs Back-End Senior GO
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
+	- Développeur Back-End PHP/Laravel **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> En cours de rédaction
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> Développeur PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
+	- Développeur PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony
 	- Lead Développeur PHP/Symfony sénior

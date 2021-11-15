@@ -2,7 +2,7 @@
 
 **Domaine :** Épargne salariale.
 
-**Où :** Paris Ouest, Place de l'Étoile. Télétravail partiel possible. 
+**Où :** Paris Ouest, Place de l'Étoile. Télétravail partiel possible : 4j/semaine en TT. 
 
 **Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié. 
 
@@ -18,7 +18,7 @@
 
 Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
 
-## Chef de projet technique PHP / Symfony / SQL
+## Lead developer PHP / Symfony / SQL
 
 L’équipe technique est composée de 15 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner. 
 L'équipe tech est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 

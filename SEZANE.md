@@ -2,7 +2,7 @@
 
 **Domaine :**  e-Commerce / Mode
 
-**Où :** Paris 2e - Sentier
+**Où :** Paris 2e - Sentier. 
 
 **Quoi :** Créée en 2013 par Morgane Sézalory, Sézane est la première marque de mode française née en ligne.
 

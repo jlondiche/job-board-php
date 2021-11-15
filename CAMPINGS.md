@@ -2,7 +2,7 @@
 
 **Domaine :** e-Commerce // Market-Place
 
-**Où :** Paris - Métro République
+**Où :** Paris - Métro République. Full REMOTE, 2j par mois à Paris.
 
 **Quoi :** Leader de l’hôtellerie en plein air avec 500K clients et 10M de visites chaque année, Campings.com a de nouvelles ambitions business mais surtout technologiques après une grosse levée de fonds !  
 

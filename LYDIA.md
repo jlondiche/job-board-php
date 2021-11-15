@@ -2,7 +2,7 @@
 
 **Domaine :** Solution de paiement mobile.
 
-**Où :** Paris - Sentier
+**Où :** Paris - Sentier. FULL REMOTE 🏠.
 
 **Quoi :** Lydia a pour mission de rendre l’expérience du paiement aussi simple que possible, pour tous.
 
@@ -71,7 +71,7 @@ Le CTO recherche une personne sur qui s'appuyer pour prendre en main l'équipe b
 * Connaissances demandées sur des systèmes bien sécurisés, sous charge.
 
 **Salaire**
-Budeget entre 80/100K€ selon profil.
+Budget entre 80/100K€ selon profil.
 
 
 ## Comment postuler ?

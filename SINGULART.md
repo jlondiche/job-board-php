@@ -2,7 +2,7 @@
 
 **Domaine :** Marketplace d’oeuvres d’art
 
-**Où :** Paris - Montparnasse. Télétravail partiel ou Fullremote
+**Où :** Paris - rue de Rivoli. Télétravail partiel ou Fullremote.
 
 **Quoi :** L’achat d’œuvre d’art simplifié : **SINGULART est une galerie d’art contemporain en ligne** qui permet aux collectionneurs et amateurs d’art d’acheter des œuvres en toute sécurité auprès d’artistes reconnus dans leur pays de résidence: tableau abstraits, peintures figuratives, dessins ou encore graffitis de street art, ils offrent une sélection internationale variée de styles et de techniques. SINGULART aide également les artistes émergents du monde entier à vendre leurs œuvres à des passionnés.
 
