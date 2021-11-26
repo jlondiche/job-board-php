@@ -51,4 +51,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony
 	- Lead Développeur PHP/Symfony sénior
-
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a>
+	- Lead Développeur back-end PHP/Laravel 
+	- Développeur back-end PHP/Laravel
+	- Développeur front-end VueJS confirmé
