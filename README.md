@@ -33,10 +33,6 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- **Tech Lead PHP Symfony - archi hexagonale**
 	- Développeur sénior PHP Symfony 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End, Optim' & Perf, PHP/Symfony **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/La%20Ruche%20Qui%20Dit%20Oui!.md">[LA RUCHE QUI DIT OUI!]</a>
-	- Développeur Back-end intermédiaire PHP/Symfony/SOLID/DDD/Qualité
-	- Développeur Front-end JS/ReactJS sénior - Projet from scratch
-	- Développeur Front-end JS/ReactJS junior+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
@@ -51,4 +47,7 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony
 	- Lead Développeur PHP/Symfony sénior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
+	- Lead développeur back-end PHP / Symfony / API platform / GCP
+
 
