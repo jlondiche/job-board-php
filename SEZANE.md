@@ -47,9 +47,15 @@ compétences
 * 5 à 6 ans d’expérience professionnelle
 * Langues : Français courant, Anglais technique
 
+## Stack
+PHP8 / Symfony5, ReactJS, API Platform, Docker, ElasticSearch, microservices, API
+
 ## Pourquoi postuler ?
 
 **Les avantages :** 
+
+Sézane est une marque engagée, pour une mode plus durable et auprès des enfants avec un grand programme "DEMAIN", ils recherchent des co-équipiers animés par le même sens de l’engagement, mais aussi guidés par l’agilité, l’autonomie, le sens des priorités, la débrouille et le besoin de placer la créativité, l’humain et le progrès au cœur de tout.
+C'est une entreprise avant tout technique. Vous participerez avec l'équipe a de beaux projets.
 
 * Ticket resto 9€, 
 * 50% transport, 
