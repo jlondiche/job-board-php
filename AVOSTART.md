@@ -46,7 +46,7 @@ Vous serez le premier Développeur Front-end et votre mission consistera à dév
 * Autonome, organisé et rigoureux
 
 
-## Bras droit du CTO / Lead Dev Back
+## Développeur back-end confirmé
 
 **Missions** 
 
@@ -55,6 +55,7 @@ Avostart a trouvé son business model et ça fonctionne très bien !
 * Modifier l'architecture de la base de données pour plus de scalabilité
 * Utiliser le machine learning et l’intelligence artificielle sur plusieurs projets
 * Chiffrer les données de bout en bout pour 2022 
+* Faire de la qualité pour construire une stack robuste
 
 **Profil** 
 

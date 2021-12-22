@@ -17,8 +17,8 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 
 **Stack**
 
-* Front : Typescript, VueJS, Vuex, SASS
-* Back : PHP, Laravel, Node.js
+* Front: Typescript, VueJS, Vuex, SASS
+* Back: PHP, Laravel, Node.js
 * Services: GCP, AWS, Ansible, Terraform
 
 ## Développeur Back-End PHP/Laravel

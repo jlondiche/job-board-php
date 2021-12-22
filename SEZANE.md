@@ -47,6 +47,13 @@ compétences
 * 5 à 6 ans d’expérience professionnelle
 * Langues : Français courant, Anglais technique
 
+## Développeur(se) front-end JS/ReactJS Senior
+
+## Missions : 
+* Vous contribuez au développement du site à très fort trafic
+* Vous proposez des solutions itératives, vous vous posez des questions, donnez votre opinion sur les sujets importants ou les améliorations organisationnelles qui permettront à Sézane d’être la nouvelle plateforme e-commerce de demain !
+* Vous participerez également aux différents rituels qui animent notre équipe IT :
+
 ## Stack
 PHP8 / Symfony5, ReactJS, API Platform, Docker, ElasticSearch, microservices, API
 

@@ -77,9 +77,9 @@ D'ailleurs, la tech est primordiale chez Singulart, pour permettre aux clients d
 
 Résultat : le projet, impulsé par Denis Fayolle (La Fourchette, Mano Mano), est en pleine croissance ! 
 
-**Comment postuler ?**
+##**Comment postuler ?**
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
