@@ -2,7 +2,7 @@
 
 **Domaine :** Juridique 
 
-**Où :** Paris 2 - Remote partiel
+**Où :** Paris 2 - FullRemote ok
 
 **Quoi :** L'assistance juridique pour tous. Digitale. Sans engagement. Conseil d'avocats.
 ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estiment incapables de trouver une solution face à un problème juridique. C’est en s’appuyant sur ce constat sévère que Stéphane Le Viet, Pierre Aïdan et Raphaël Jabol décident de s’associer pour fonder Avostart en 2018.

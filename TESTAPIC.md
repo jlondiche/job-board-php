@@ -2,7 +2,7 @@
 
 **Domaine :** Test utilisateurs à distance
 
-**Où :** Paris - télétravail partiel 
+**Où :** Paris - télétravail partiel ou fullremote.
  
 **Quoi?** Solution innovante d'audit / test / optimisation de l'ergonomie & de l'expérience utilisateur grâce à un large panel d'utilisateurs ciblés
 

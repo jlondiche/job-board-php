@@ -2,7 +2,7 @@
 
 **Domaine :** SaaS / Production vidéo hyper facile.
 
-**Où :** Paris - Sentier
+**Où :** Paris - Sentier. Fullremote.
 
 **Quoi :** PlayPlay est l’outil de création vidéo le plus simple au monde ! ✨
 

@@ -29,12 +29,12 @@ Full remote = 🏠
  	- Lead developer PHP / Symfony / SQL sénior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a> 🏠 FULL REMOTE 
-	- Dev PHP/Laravel intermédiaire 
-	- Lead developer PHP/Laravel
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
+	- Dev PHP/Laravel intermédiaire 🏠
+	- Lead developer PHP/Laravel 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
-	- **Tech Lead PHP Symfony - archi hexagonale** 🏠
-	- Développeur sénior PHP Symfony 🏠
+	- **Tech Lead PHP Symfony - archi hexagonale** 
+	- Développeur sénior PHP Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End, Optim' & Perf, PHP/Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
@@ -43,8 +43,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
 	- Dev APIs Back-End Senior GO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
-	- Développeur Back-End PHP/Laravel **[!NEW!]**
-	- Engineering Manager 
+	- Développeur Back-End PHP/Laravel **[!NEW!]** 🏠
+	- Engineering Manager
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> En cours de rédaction
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur back-end PHP/Symfony sénior
