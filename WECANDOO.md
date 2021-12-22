@@ -8,7 +8,7 @@
 
 https://wecandoo.fr/
 
-L'artisanat à portée de main !
+**L'artisanat à portée de main !**
 
 Cette nouvelle offre d’expérience, immersive et responsable, apporte aujourd’hui un revenu complémentaire et une visibilité digitale à plus de 1200 artisans à travers la France.
 

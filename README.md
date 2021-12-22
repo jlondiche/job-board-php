@@ -49,5 +49,9 @@ Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le no
 	- Lead Développeur PHP/Symfony sénior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Lead développeur back-end PHP / Symfony / API platform / GCP
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
+	- Lead Développeur PHP/Laravel sénior
+	- Développeur back-end PHP / Larave
+	- Développeur front-end JS / VueJS
 
 
