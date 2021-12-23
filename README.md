@@ -12,6 +12,8 @@ Full remote = 🏠
 
 ## Les offres
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
+	- Développeur intermédiaire PHP/Symfony 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
 	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD **[!NEW!]**
 	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD **[!NEW!]**
@@ -35,8 +37,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
 	- **Tech Lead PHP Symfony - archi hexagonale** 
 	- Développeur sénior PHP Symfony
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> Dev Back-End, Optim' & Perf, PHP/Symfony **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> Dev PHP/Symfony Senior
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> 
+	- Dev Back-End, Optim' & Perf, PHP/Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
 	- **Engineering Manager** 🏠
@@ -52,6 +54,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony 🏠
 	- Lead Développeur PHP/Symfony 🏠
+	- <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
+	- Architecte systèmes et réseaux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Lead développeur back-end PHP / Symfony / API platform / GCP 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
