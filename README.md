@@ -54,13 +54,13 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony 🏠
 	- Lead Développeur PHP/Symfony 🏠
-	- <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
 	- Architecte systèmes et réseaux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Lead développeur back-end PHP / Symfony / API platform / GCP 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Lead Développeur PHP/Laravel sénior
-	- Développeur back-end PHP / Larave
+	- Développeur back-end PHP / Laravel
 	- Développeur front-end JS / VueJS
 
 
