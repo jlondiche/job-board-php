@@ -4,8 +4,17 @@
 
 **Où :** Paris 2 - FullRemote ok
 
-**Quoi :** L'assistance juridique pour tous. Digitale. Sans engagement. Conseil d'avocats.
-ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estiment incapables de trouver une solution face à un problème juridique. C’est en s’appuyant sur ce constat sévère que Stéphane Le Viet, Pierre Aïdan et Raphaël Jabol décident de s’associer pour fonder Avostart en 2018.
+**Quoi :** Avostart a été fondée par Raphaël Jabol (ex - L’Oréal), Stéphane Le Viet et Pierre Aïdan (co-fondateurs de Legalstart)
+
+Avostart crée l’accès au « droit du quotidien » permettant à chacun et chacune d’entre nous de bénéficier de la réponse d’un avocat en 24h, et ce, pour toutes les petites et grandes questions de la vie.
+
+Notre mission : démocratiser l’accès au droit en s’appuyant sur un réseau exceptionnel d’avocats combiné au machine learning. 
+
+Plus de 100 entreprises (L’Oréal, Contentsquare, PayFit, LinkedIn etc.) partagent notre vision d’avenir et permettent à +20,000 employés de vivre leur vie plus sereinement. 
+
+Nous avons bouclé une levée de fonds en seed de 2M d’euros cet été pour permettre à tous les employés de France (et bientôt d’Europe !) de bénéficier du service Avostart. 
+
+Nos offres d’emploi sont ouvertes à toutes et tous. Venez participer à notre projet et nous aider à accomplir notre mission !
 
 **Facts & Figures**
 
@@ -20,12 +29,12 @@ ll y a un problème d’accès au droit en France : 4 Français sur 5 s’estime
 
 **Stack**
 
-* PHP7.4, Symfony5.3, Algolia, PostGreSQL, Redis, Cache HTTP, Varnish
-* Projet de refonte en front avec du ReactJS ou VueJS (le lead fera son choix)
-* API centric / API platform
+* PHP8.1, Symfony6, Algolia, PostGreSQL, Redis, Cache HTTP, Varnish
+* Projet de refonte en front avec du ReactJS
+* API platform
 * AWS, lambda, sms
-* Test unitaire PHPUnit
-* Déploiement continue Gitlab, heroku et AWS
+* Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpspec fixer
+* Déploiement continue github, heroku et AWS
 
 ## Lead Dev JS Front-end
 
