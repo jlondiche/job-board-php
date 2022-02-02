@@ -10,7 +10,7 @@ Avostart crée l’accès au « droit du quotidien » permettant à chacun et ch
 
 Notre mission : démocratiser l’accès au droit en s’appuyant sur un réseau exceptionnel d’avocats combiné au machine learning. 
 
-Pus de 100 entreprises (L’Oréal, Contentsquare, PayFit, LinkedIn etc.) partagent notre vision d’avenir et permettent à +20,000 employés de vivre leur vie plus sereinement. 
+Plus de 100 entreprises (L’Oréal, Contentsquare, PayFit, LinkedIn etc.) partagent notre vision d’avenir et permettent à +20,000 employés de vivre leur vie plus sereinement. 
 
 Nous avons bouclé une levée de fonds en seed de 2M d’euros cet été pour permettre à tous les employés de France (et bientôt d’Europe !) de bénéficier du service Avostart. 
 
