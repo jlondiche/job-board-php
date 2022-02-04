@@ -24,18 +24,18 @@ https://testapic.com/
 * DevOps : Gitlab / GitlabCI, Google Cloud Platform
 * Tools : Slack, Kanbanize, Google Workspace, Zendesk...
 
-## Lead Développeur Back-end 
+## Développeur Back-end 
 
 **Missions: **
 * Participer activement à la conception et au développement du backend de l’application SaaS (Symfony).
-* Faire évoluer la stack, établir et diffuser les bonnes pratiques, **prendre le lead de l'équipe.**
+* Faire évoluer la stack, établir et diffuser les bonnes pratiques.
 * Pouvoir faire le lien avec le produit. 
 * Evoluer sous la responsabilité du CTO, au sein du pôle Tech et Produit, dont la mission est de développer le meilleur produit possible pour ses utilisateurs.
 * Méthodologie agile, organisation matricielle. L’autonomie et la prise de responsabilité de chacun seront encouragées au quotidien. 
 
 **Profil**
 * Belle expérience produit en pensant aux utilisateurs.
-* Parfaite maîtrise de Symfony, API Plateform et Doctrine.
+* Expérience en Symfony, API Plateform et Doctrine.
 * Travail en équipe, dans un environnement agile.
 * Envie de progresser et d’aider les autres à progresser.
 * Investir du temps pour améliorer la qualité (tests, refacto, automatisation, doc...)
@@ -45,7 +45,7 @@ https://testapic.com/
 La bonne humeur générale, une belle cohésion d’équipe, des valeurs fortes et un environnement technique challengeant, des déjeuners tous ensemble autour d’une Grande table, ou des tournois de pétanque au bord du canal st Martin. 
 
 ## Salaire :
-Entre 50/60K€ selon profil
+Entre 45/50K€ selon profil
 
 ## Comment postuler ?
 

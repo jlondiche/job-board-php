@@ -28,7 +28,7 @@ Full remote = 🏠
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP/Data - équipe OpenData
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
- 	- Lead developer PHP / Symfony / SQL sénior
+ 	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
@@ -37,8 +37,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
 	- **Tech Lead PHP Symfony - archi hexagonale** 
 	- Développeur sénior PHP Symfony
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/IGRAAL.md">[IGRAAL]</a> 
-	- Dev Back-End, Optim' & Perf, PHP/Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
 	- **Engineering Manager** 🏠
@@ -59,7 +57,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
 	- Architecte systèmes et réseaux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
-	- Lead développeur back-end PHP / Symfony / API platform / GCP 🏠
+	- Développeur back-end PHP / Symfony / API platform / GCP 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Lead Développeur PHP/Laravel sénior
 	- Développeur back-end PHP / Laravel

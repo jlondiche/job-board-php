@@ -2,7 +2,7 @@
 
 **Domaine :** Épargne salariale.
 
-**Où :** Paris Ouest, Place de l'Étoile. Télétravail partiel possible : 4j/semaine en TT. 
+**Où :** Paris 2, rue réaumur. Télétravail partiel possible : 4j/semaine en TT. 
 
 **Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié. 
 
@@ -18,19 +18,17 @@
 
 Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
 
-## Lead developer PHP / Symfony / SQL
+## Développeur back-end autour des fluxs, APIs et données
 
-L’équipe technique est composée de 15 personnes et s’appuie sur des ESN ou indépendants pour l’aider et l’accompagner. 
-L'équipe tech est en relation directe avec les autres équipes de l’entreprise (Produit, Gestion d’actifs, Marketing et Service Client). 
+L’équipe technique est composée de 11 personnes et est en relation directe avec les autres équipes de l’entreprise : Produit, Gestion d’actifs, Marketing et Service Client. 
 
 **Missions**
 
 Concrètement, vous :
 
-* Gèrerez des projets from scratch.
-* Encadrerez une petite équipe de plusieurs développeurs back-end.
+* Gèrerez des projets from scratch dans l'équipe "flux" : API, fichiers, synchronisations de données.
 * Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
-* Reprendrez les applicatifs web mis à disposition de nos partenaires distributeurs et clients : l’utilisateur sera véritablement au centre de tout développement.
+* Possibilité sur vous le souhaitez de faire un peu de ReactJS au sein de l'équipe.
 
 Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
@@ -45,7 +43,7 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 * Applications web : PHP 7.3 et 8 (Symfony/Slim)
 * Batchs et traitements : PHP 7.3 et 8
 * Base de données : SQL Server, MySQL
-* Front : React sur les nouveaux projets, JQuery sur les anciens 
+* Front : ReactJS
 * Hébergement : Amazon Web Service ou local
 * OS : Windows Server, Linux (Ubuntu/CentOS)
 * Environnement de développement : Docker et Visual Studio Code
@@ -53,7 +51,8 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
 **Vos compétences**
 
-* SQL avancé (ex : SQL Server / MySql / PostgreSQL)
+* API
+* SQL (SQL Server / MySql / PostgreSQL)
 * Requêtes complexes et gestion des transactions
 * Conception et optimisation de base de données
 * PHP avancé + Programmation orientée objet
@@ -73,7 +72,7 @@ Entre 50 à 60K€ de fixe + avantages financiers = 70/80K€ en package.
 
 Les avantages :
 
-* Des bureaux dans le centre de Paris proche de la place de l’Etoile (avenue Hoche).
+* Des bureaux dans le centre de Paris (métro Bourse).
 * La souplesse dans votre organisation avec la possibilité de télétravailler.
 * Des projets et des clients à gogo.
 * Des primes collectives sous forme de participation et d’intéressement, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients.
@@ -85,7 +84,7 @@ Les avantages :
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
