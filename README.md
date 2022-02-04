@@ -27,7 +27,10 @@ Full remote = 🏠
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP/Data - équipe OpenData
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
+	- Développeur sénior JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
+	- Développeur frontend senior (React.JS)
  	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
