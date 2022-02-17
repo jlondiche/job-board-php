@@ -1,4 +1,4 @@
-# Job Board PHP - JL Recrutement
+# Job Board PHP & JS - JL Recrutement
 
 Voici toutes les opportunités du moment. Vous noterez que je ne cache pas le nom des entreprises comme indiqué dans mon <a href="https://medium.com/@jlondiche/jarr%C3%AAte-le-recrutement-propri%C3%A9taire-je-d%C3%A9marre-l-open-source-6e33463aec9">post Medium</a>. Vous y trouverez également **mon code de conduite** que je m'engage à respecter pour chaque process.
 
@@ -20,9 +20,13 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
 	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro 🏠
 	- Développeur back-end confirmé **Archi Hexagonale** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
+	- Développeur sénior front-end React.JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Dev Full Stack Senior: 70% PHP/Symfony / 30% JS/ReactJS 🏠
 	- Engineering Manager 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
+	- Lead développer fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
