@@ -8,8 +8,8 @@
 
 **Facts & Figures**
 
-* + 15 millions d’utilisateurs dans 180 pays
-* + de 300 collaborateurs répartis entre la France, Les Etats-Unis (New York) et le Portugal. 
+* Plus de 15 millions d’utilisateurs dans 180 pays
+* Plus de 300 collaborateurs répartis entre la France, Les Etats-Unis (New York) et le Portugal. 
 * Plus de 6 milliards d’euros de chiffre d’affaires
 
 
@@ -33,10 +33,11 @@ En tant que développeur senior JS au sein de l’équipe Web :
 * Vous contribuez à la construction des produits de grande qualité tout en assurant la disponibilité des fonctionnalités sur l’ensemble des navigateurs. 
 
 **Profil** 
-•	+ de 4 ans d’expérience en développement frontend
-•	+ de 3 ans d’expérience sur les frameworks Javascript, telle que React.js ou Angular.js
-•	+ de 3 ans d’expérience en développement d’application Web
-•	Anglais courant 
+
+* Minimum 4 ans d’expérience en développement frontend
+* Minimum 3 ans d’expérience sur les frameworks Javascript, telle que React.js ou Angular.js
+* Minimum 3 ans d’expérience en développement d’application Web
+* Anglais courant 
 
 Le + : Connaissances en développement d’extensions navigateur.
 

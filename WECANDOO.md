@@ -92,7 +92,7 @@ La team Tech Wecandoo se divise en 2 squads:
 * Vous justifiez de 3 à 5 ans minimum d’expérience professionnelle dans le développement d’applications Web
 sur des problématiques Front.
 * L’intégration web ne vous fait pas peur et tu adores mettre en place et consolider l’architecture Front d’une application.
-* Vous prenez en compte dans tes développements la simplicité des interfaces, la réutilisabilité des composants, le référencement, la sécurité etc.
+* Vous attachez une importance particulière à la simplicité des interfaces, à la réutilisation des composants ainsi qu’aux stratégies de référencement.
 
 Vous maîtrisez :
 * Côté Front: HTML, CSS, JavaScript, jQuery

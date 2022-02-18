@@ -21,6 +21,7 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 * Back: PHP, Laravel, Node.js
 * Services: GCP, AWS, Ansible, Terraform
 
+
 ## Développeur Back-End PHP/Laravel
 
 **Missions**
@@ -46,45 +47,48 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 
 Salaire : Plusieurs postes. Entre 45/70K€ selon profil et expériences.
 
-## Engineering Manager
-(anglais demandé)
 
-As an engineering manager, you’ll join the PlayPlay tech team to ship a world-class product with a world-class team.
+## Senior Frontend Développeur
 
-Your mission will be to drive the implementation of major product successes on the technical side and to grow the PlayPlay Tech team to unleash its full potential. These will contribute to make PlayPlay a world-class leader in video creation!
+**Missions**
 
-You’re a seasoned engineering manager? You’re looking for a place where product performance is core to the business? You’re eager to work on a truly innovative product?
+* **Construire des interfaces utilisateur complexes sur des technologies Vue.js et Typescript en collaboration avec la team Produit**
+* Transformer les mocks produits en expériences utilisateurs complètes
+* Enrichir le design de l’architecture frontend
+* Promouvoir les meilleurs pratiques d’architecture, en outillage et pour le développement comme le Clean Code, programmation fonctionnel, etc…
 
-**Product Roadmap & Priorisation**
+**Profil**
 
-* Participate in technical strategy and execution plan associated with product strategy.
-* Leverage your software engineering culture, data, and tools to build a holistic view - performance, delivery, quality, technical debt.
+* 5 ans d’expérience dans le développement frontend
+* Expérience significative sur un ou plusieurs projets web complexes
+* Maîtrise d’une ou plusieurs frameworks JS : Vue, React, Angular
+* Maîtrise des outils d’intégrations web
 
-**Grow the engineering team**
 
-* Coach and grow your managees through one-ones, quarterly and yearly objectives (~ 15 people).
-* Handle team members’ career - Recruitment, Onboarding, Compensation, Growth, Offboarding.
-* Maintain PlayPlay culture by fostering a fun, healthy, and collaborative team dynamic.
+## Senior Fullstack Développeur
 
-**Build tech culture internally and externally**
+**Missions**
 
-* Stay tuned with the tech ecosystem whether on tools & technology or on organization and processes to continuously challenge the status quo.
-* Participate actively in our engineering community to improve our processes, workflows, tools and work towards an optimal developer XP.
+* **Construire des interfaces utilisateur complexes avec Vue.js, Vuex et Typescript**
+* Enrichir le design system frontend
+* **Implementer des API et des features back-offices sur PHP8/ Laravel**
+* Contribuer à des projets de R&D liés à la création vidéo - ex : sous-titres, encodage vidéo
+* Implémenter des micro-services en Node.js pour générer des vidéos
+* Etre un Team Player afin de jouer un rôle actif pour les sessions de pair-programming, code reviews et sur l’écriture de tests fonctionnels utilisant Jest, Cypress, PHPUnit
 
-**Profile**
-* 5 years minimum of experience as an engineering manager.
-* Strong software development culture.
-* Master agile and organizational topics.
-* Fond of innovating projects.
-* Is used to rely on cloud infrastructure - AWS, GCP, Azure.
+**Profil**
 
-**YOU’D REALLY BE EXTRA AWESOME IF YOU ARE A... ❤️**
+* 5 ans d’expérience minimum en développement frontend et backend
+* Vous avez déjà travaillé sur des projets web complexes
+* Vous maîtrisez parfaitement une framework backend
+* Vous maîtrisez parfaitement une framework frontend
+* Vous avez l’habitude d’évoluer au sein d’un environnement Cloud (AWS / GCP ou Azure) 
+* Le + : vous êtes à l’aise avec les outils Terraform, Ansible et Docker
 
-* Team player, you’re convinced that there is no solution without a team.
-* Curious, you’re eager to learn and to be confronted with innovative topics.
-* Self-starter who’s solution-oriented, strategic, passionate, and thoughtful about their work.
-* Organized and ambitious mindset to follow the development of the team.
-* Eager to be part of a fun, fast-paced environment.
+
+
+=> **Anglais demandé pour PlayPlay, ils vont ouvrir le marché Américain cette année !!**
+
 
 **Why join Playplay**
 
@@ -110,7 +114,7 @@ You’re a seasoned engineering manager? You’re looking for a place where prod
 
 **Comment postuler ?**
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com, jodia@jlrecrutement.com ou julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

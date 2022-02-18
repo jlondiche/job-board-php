@@ -35,9 +35,7 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
 * Reprendre la main sur l’expérience client, qui était jusqu’à présent sous-traitée à des banquiers et des assureurs, en créant from-scratch un espace client mélangeant pédagogie, simplicité et conseil ;
 
-* Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues.
-
-Postes : 
+* Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues. 
 
 ## Développeur frontend senior (React.JS)
 
