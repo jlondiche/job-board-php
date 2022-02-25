@@ -31,6 +31,8 @@ Full remote = 🏠
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP/Data - équipe OpenData
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CONSONEO.md">[CONSONEO]</a> 
+	- Développeur PHP/Symfony Intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
 	- Développeur sénior JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
@@ -38,6 +40,8 @@ Full remote = 🏠
  	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GLOBEDUCATE.md">[GLOBEDUCATE]</a>
+	- Lead développeur PHP/Symfony 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
 	- Dev PHP/Laravel intermédiaire 🏠
 	- Lead developer PHP/Laravel 🏠
@@ -47,8 +51,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
 	- Engineering Manager 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
-	- **CTO**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
 	- Dev APIs Back-End Senior GO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
@@ -64,8 +66,6 @@ Full remote = 🏠
 	- Lead Développeur PHP/Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
 	- Architecte systèmes et réseaux 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
-	- Développeur back-end PHP / Symfony / API platform / GCP 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Lead Développeur PHP/Laravel sénior
 	- Développeur back-end PHP / Laravel
