@@ -62,7 +62,7 @@ Sans oublier :
 
 ## Salaire
 
-Entre 55K€ et 60K€ selon profil
+Selon profil
 
 ## Comment postuler ?
 
