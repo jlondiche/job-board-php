@@ -2,19 +2,53 @@
 
 **Domaine :**  e-Commerce / Mode
 
-**Où :** Paris 2e - Sentier. 
+**Où :** Locaux magnifiques dans Paris 2e - Sentier. 2 jours de Télétravail par semaine. 
 
 **Quoi :** Créée en 2013 par Morgane Sézalory, Sézane est la première marque de mode française née en ligne.
 
-**Facts & Figures:**
+Sézane place la qualité, la créativité et le prix juste au coeur de ses collections. Certifiée B Corp, Sézane développe ses activités dans un souci d’inter-dépendances avec son écosystème. 
 
-* +35 millions de pages vues par mois
+Sezane souhaite donner du sens à ses activités et construire une nouvelle contribution sociétale plus engageante pour les entreprises.  
 
-## Développeur(se) PHP/Symfony Senior
+**Fact & Figures**
 
-En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
+* Créé en 2013 avec aujourd’hui plus de 200 personnes à travers 7 boutiques physiques
+* 2 millions de vues par mois 
+* Plus de 10 000 commandes par jour
+* Plusieurs centaines de millions de C.A annuel
 
 * Sites et API : <a href="https://www.sezane.com/fr">Sézane</a>, <a href="https://www.octobre-editions.com/fr">Octobre Editions</a>
+
+**Stack**
+
+* Frontend : React.Js, Typescript * Backend : PHP8, Symfony5, API Platform, ElasticSearch
+* Devops : AWS, Docker
+
+## Poste de Développeur(se) frontend JS/React.Js Senior
+
+**Missions** 
+
+Au sein de l’équipe JS qui intervient de manière transversale en collaboration avec les deux squads : CMS & OMS. 
+
+* Vous contribuez au développement du site à très fort trafic afin d’améliorer sa performance
+* Vous proposez des solutions itératives, vous posez des questions, vous donnez votre opinion sur les sujets importants qui permettront à Sézane d’être la nouvelle plateforme e-commerce de demain ! 
+* Designer et implémenter les nouvelles features
+* Vous participez également aux différents rituels qui animent notre équipe IT
+
+**Profil**
+
+Minimum de 6 ans d’expérience en développement frontend avec un belle expérience sur React.Js
+* Vous avez une belle expérience sur Typescript
+* Vous avez une expérience en HTML/CSS
+* Vous êtes prêt à travailler en utilisant les bonnes pratiques : TDD / BDD / DDD / Extreme Programming
+* Vous considérez la qualité du code comme un élément indispensable.
+* Vous accordez une importance particulière à la question de la performance des pages web. 
+* Vous avez une expérience sur ElasticSearch
+
+
+## Poste de Développeur(se) PHP/Symfony Senior
+
+En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 
 Vous êtes sociable, autonome, rigoureux, responsable, force de propositions, motivé et doté d'une grande capacité d'adaptation, à l'écoute et savez gérer vos projets de main de maître.
 
@@ -54,8 +88,6 @@ compétences
 * Vous proposez des solutions itératives, vous vous posez des questions, donnez votre opinion sur les sujets importants ou les améliorations organisationnelles qui permettront à Sézane d’être la nouvelle plateforme e-commerce de demain !
 * Vous participerez également aux différents rituels qui animent notre équipe IT :
 
-## Stack
-PHP8 / Symfony5, ReactJS, API Platform, Docker, ElasticSearch, microservices, API
 
 ## Pourquoi postuler ?
 
@@ -69,7 +101,7 @@ C'est une entreprise avant tout technique. Vous participerez avec l'équipe a de
 * Au bout de 6 mois: pourcentage de réduction (30% sur un max de 2 000€) et des avoirs de 1 000€ chez Sézane et 500€ chez Octobre.
 * Mutuelle : Alan
 
-Salaire : selon profil
+Salaire : 50/60K€ selon profil
 
 ## Comment postuler ?
 

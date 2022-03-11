@@ -26,13 +26,15 @@ Full remote = 🏠
 	- Développeur sénior front-end React.JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Dev Full Stack Senior: 70% PHP/Symfony / 30% JS/ReactJS 🏠
-	- Engineering Manager 🏠
+	- Lead developpeur Sénior 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
 	- Lead développer fullstack JavaScript **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP/Data - équipe OpenData
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
+	- Développeur back-end PHP/Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONSONEO.md">[CONSONEO]</a> 
 	- Développeur PHP/Symfony Intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
@@ -42,8 +44,6 @@ Full remote = 🏠
  	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GLOBEDUCATE.md">[GLOBEDUCATE]</a>
-	- Lead développeur PHP/Symfony 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
 	- Dev PHP/Laravel intermédiaire 🏠
 	- Lead developer PHP/Laravel 🏠
