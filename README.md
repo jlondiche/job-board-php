@@ -12,15 +12,12 @@ Full remote = 🏠
 
 ## Les offres
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
-	- Développeur intermédiaire PHP/Symfony 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
 	- **Sénior front-end ingénieur TypeScript/JS/ReactJS** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
 	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD 
 	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
-	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro 🏠
 	- Développeur back-end confirmé **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur sénior front-end React.JS
@@ -55,6 +52,9 @@ Full remote = 🏠
 	- Engineering Manager 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
 	- Dev APIs Back-End Senior GO
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PLANETMEDIA.md">[PLANET MEDIA]</a> 
+	- CTO
+	- Responsable Technique (encours)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur Back-End PHP/Laravel 🏠
 	- Développeur sénior Front-End JavaScript/VueJS/TypeScript **[!NEW!]** 🏠
@@ -67,8 +67,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony 🏠
 	- Lead Développeur PHP/Symfony 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SUPERPROF.md">[SUPERPROF]</a> 
-	- Architecte systèmes et réseaux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Développeur back-end PHP/Symfony intermédiaire
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 

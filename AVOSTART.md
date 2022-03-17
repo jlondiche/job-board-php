@@ -36,24 +36,6 @@ Nos offres d’emploi sont ouvertes à toutes et tous. Venez participer à notre
 * Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpspec fixer
 * Déploiement continue github, heroku et AWS
 
-## Lead Dev JS Front-end
-
-**Missions**
-Vous serez le premier Développeur Front-end et votre mission consistera à développer le site web d'Avostart sous forme de SPA.
-
-* Concevoir de nouvelles fonctionnalités riches et ergonomiques.
-* Intégrer et développer ces fonctionnalités en collaboration avec des développeurs API et des membres de l’équipe UX/UI.
-* Apporter la meilleure expérience possible aux clients et utilisateurs d’Avostart.
-* Produire un code fonctionnel, maintenable, testé et performant.
-* Concevoir les nouvelles architectures en respectant les contraintes de production et de sécurité des plateformes. 
-
-**Profil**
-* Maîtrise des technologies Web (JavaScript, CSS, DOM, HTML, HTTP) Maîtrise d'un framework front
-* Bonne connaissance des stratégies de conception pour le Web (Amélioration progressive, Dégradation gracieuse, Mobile first, Accessibilité)
-* Expérience significative dans le développement d’applications Web modernes 
-* Familiarité avec l’écosystème et outillage Front-End (npm, Webpack, Babel ...) 
-* Autonome, organisé et rigoureux
-
 
 ## Développeur back-end confirmé
 

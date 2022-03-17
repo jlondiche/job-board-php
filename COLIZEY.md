@@ -34,7 +34,8 @@ DevOps : Varnish, GCP, GitHub, Docker.
 
 ## Pourquoi postuler ?
 
-Vous avez envie d’embarquer dans une aventure sportive et contribuer à l’amélioration des performances d’un point de vue technique 
+* Vous avez envie d’embarquer dans une aventure sportive et contribuer à l’amélioration des performances d’un point de vue technique.
+* Vous êtes sportif, aimez le challenge, le dynamisme et surtout vous avez une relation forte avec le sport pour en comprendre son univers (et ses codes !)
 * Package attractif avec equity
 
 ## Salaire 
