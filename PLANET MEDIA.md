@@ -4,7 +4,7 @@
 
 **Où :** Locaux à Paris
 
-**Quoi :** Groupe média numérique indépendant devenu en quelques années le leader français de la convergence des contenus et services pour les seniors connectés. 
+**Quoi :** **Groupe média numérique indépendant** devenu en quelques années le leader français de la convergence des contenus et services pour les seniors connectés. 
 
 **Fact & Figures**
 
@@ -58,7 +58,7 @@ D’une formation bac +5 en école d’ingénieur, le CTO (H/F) est spécialisé
 * Espace Baby foot, télé et jeux vidéo
 * Carte TR SWILE
 * Mutuelle de niveau 5
-* Intéressement
+* Intéressement 
 
 
 ## Salaire 
