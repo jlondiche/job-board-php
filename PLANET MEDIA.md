@@ -8,10 +8,11 @@
 
 **Fact & Figures**
 
+* Fondé en 2000
 * 11 millions de lecteurs chaque mois 
 * 4 millions d’abonnés
 * 15 personnes dans l'équipe IT et 30 personnes au total
-
+* Valeurs : Proximité, Expertise et Performance
 
 **Stack**
 
@@ -48,16 +49,22 @@ Son rôle de facilitateur doit permettre d'améliorer la communication et la coo
 
 D’une formation bac +5 en école d’ingénieur, le CTO (H/F) est spécialisé dans les usages des nouvelles technologies et mais également des innovations IT. C’est pourquoi vous devez justifier d’une expérience significative dans la direction de projets informatiques de grande ampleur. 
 
-## Pourquoi postuler ?
 
-* **Intégrité et technicité sont les moteurs de la croissance d'ALMA. Les rejoindre c'est s'investir dans une scale-up intelligente, qui joue collectif pour atteindre ses super objectifs.**
-* Des déjeuners thématiques sont organisés tous les mois avec des intervenants CEOs, sportifs, artistes, personnalités publiques etc.
-* Equipe en Full Remote mais leurs bureaux se situent dans le 2ème arrondissement de Paris, à deux pas d’Opéra, dans des locaux flambant neufs et lumineux.
-* A ton arrivée, vous avez le choix de votre équipement (Mac, Windows, Linux).
+## Avantages
+
+* Bureaux situés en plein cœur de Paris
+* Bureaux en Flex office et open space
+* 1 à 2 jours de télétravail par semaine
+* Espace Baby foot, télé et jeux vidéo
+* Carte TR SWILE
+* Mutuelle de niveau 5
+* Intéressement
+
 
 ## Salaire 
 
-* Selon profil 
+* 80/100K€ Selon profil 
+
 
 ## Comment postuler ? 
 
