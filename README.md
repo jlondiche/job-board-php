@@ -73,5 +73,6 @@ Full remote = 🏠
 	- Lead Développeur PHP/Laravel sénior
 	- Développeur back-end PHP / Laravel
 	- Développeur front-end JS / VueJS
-
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUSIGN.md">[YOUSIGN]</a> 
+	- Développeur back-end PHP / Symfony **[!NEW!]**🏠
 
