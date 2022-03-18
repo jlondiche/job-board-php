@@ -21,7 +21,7 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 * PHP7.3/Symfony5 
 * NodeJS
 * MySQL / MariaDB (architecture noSQL / Big Data appréciée) et PostGreSQL
-* Memecache 
+* Memcached
 * Varnish / Akamai
 * Redis
 * Docker
