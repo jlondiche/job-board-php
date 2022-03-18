@@ -21,7 +21,7 @@ Objectif:  référencer 500 partenaires, pour porter son offre à plus d’un mi
 
 **Stack**
 
-* Back end: PHP, Symfony, PostgreSQL, Doctrine, Redi, API Platform, PHPunit, Behat. 
+* Back end: PHP, Symfony, PostgreSQL, Doctrine, Redis, API Platform, PHPunit, Behat. 
 * Front end: Vue,JS. 
 DevOps : Varnish, GCP, GitHub, Docker. 
 
