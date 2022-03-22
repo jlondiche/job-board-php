@@ -68,7 +68,7 @@ D’une formation bac +5 en école d’ingénieur, le CTO (H/F) est spécialisé
 
 ## Comment postuler ? 
 
-* Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+* Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 
