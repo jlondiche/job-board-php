@@ -54,7 +54,6 @@ Full remote = 🏠
 	- Dev APIs Back-End Senior GO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PLANETMEDIA.md">[PLANET MEDIA]</a> 
 	- CTO
-	- Responsable Technique (encours)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur Back-End PHP/Laravel 🏠
 	- Développeur sénior Front-End JavaScript/VueJS/TypeScript **[!NEW!]** 🏠
