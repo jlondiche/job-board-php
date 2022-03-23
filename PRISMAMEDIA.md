@@ -45,6 +45,56 @@
 * Macbook fourni
 * Licences IDE à la demande
 
+## Poste de Développeur back-end PHP / NodeJS (Pôle Féminin)
+
+**Le contexte**
+
+Au sein d'une équipe de 5 développeurs backend, vous travaillerez sur les sites féminins :
+* [Femme Actuelle](http://www.femmeactuelle.fr/)
+* [Cuisine Actuelle](http://www.cuisineactuelle.fr/)
+
+Ainsi que sur les micro services transverses utilisés par les différentes marques de Prisma (Télé Loisir, Voici, Gala, Géo, ...) :
+* API de distribution des contenus
+* API de review / commentaire
+* API de sélections des contenus les plus vus
+* Service de diagnostic
+* ...
+
+**Votre mission**
+
+* Concevoir et développer les sites et API Féminin.
+* Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
+
+Contribution à l’innovation et à la conception de nouveaux projets :
+* Vous comprenez votre produit et notre business
+* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
+* Vous savez promouvoir vos idées et améliorer celles des autres ;)
+
+**Vos compétences**
+
+Vous apportez **5 ans d’expérience minimum**, personnelle ou professionnelle (urls de sites/projets appréciés).
+
+Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+
+Vous souhaitez évoluer dans un environnement dynamique et challenging. Notre dream team est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez, mais ce sera réciproque ;)
+
+Les compétences suivantes sont les bienvenues :
+
+* Langages : PHP et nodeJS
+* Framework : **Symfony**, Express.js
+* Bases de données : ElasticSearch, MySQL, DynamoDB
+* Virtualisation : **Docker**, Kubernetes
+* Vous testez vos applications via des **tests unitaires et fonctionnels**
+* Outils de versioning collaboratifs (git) et process de déploiements web automatisés (**Gitlab CI**)
+* Notions d'administration de serveur Linux
+* Vous maîtrisez l'**architecture microservice**
+* L'**asynchrone** n'a plus de secret pour vous
+* La maîtrise de solutions cloud est un plus, AWS en particulier (SQS, Lambda, IAM, RDS, ...)
+* **Bon relationnel et forte capacité d'adaptation**
+* **Bonne communication**
+* **Pragmatisme et sens de l'organisation**
+* **Autonome et motivé**, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
+
 ## Poste de Développeur back-end NodeJS
 
 **Missions** 
@@ -72,7 +122,7 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 
 
 
-## Pourquoi postuler ?
+### Pourquoi postuler ?
 
 * **Une stack très poussée et continuellement mise à jour. Une équipe pointue techniquement orientée vers le partage de connaissances (techshares réguliers)**
 * Équipe de 7 personnes : 6 dev sur les nouvelles features et 1 dev sur la maintenance
@@ -87,11 +137,11 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 * La possibilité de développer vos idées grâce aux projets innovations et à l'intraprenariat
 
 
-## Salaire
+### Salaire
 
 Salaire : 55-60K€
 
-## Comment postuler ?
+### Comment postuler ?
 
 Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 

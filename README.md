@@ -59,7 +59,8 @@ Full remote = 🏠
 	- Développeur sénior Front-End JavaScript/VueJS/TypeScript **[!NEW!]** 🏠
 	- Développeur sénior FullStack Laravel/VueJS++ **[!NEW!]**🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
-	- **Développeur back-end NodeJS [!NEW!]**
+    - **Développeur back-end PHP / NodeJS (Pôle Féminin) [!NEW!]**
+    - **Développeur back-end NodeJS [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur back-end PHP/Symfony sénior
 	- Développeur front-end JS/ReactJS sénior
