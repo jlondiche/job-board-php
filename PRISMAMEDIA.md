@@ -47,7 +47,8 @@
 
 ## Poste de Développeur back-end PHP / NodeJS (Pôle Féminin)
 
-### LE CONTEXTE
+**LE CONTEXTE**
+
 Au sein d'une équipe de 5 développeurs backend, vous travaillerez sur les sites féminins :
 * [Femme Actuelle](http://www.femmeactuelle.fr/)
 * [Cuisine Actuelle](http://www.cuisineactuelle.fr/)
@@ -59,7 +60,8 @@ Ainsi que sur les micro services transverses utilisés par les différentes marq
 * Service de diagnostic
 * ...
 
-### VOTRE MISSION
+**VOTRE MISSION**
+
 * Concevoir et développer les sites et API Féminin.
 * Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
 
@@ -68,7 +70,8 @@ Contribution à l’innovation et à la conception de nouveaux projets :
 * Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
 * Vous savez promouvoir vos idées et améliorer celles des autres ;)
 
-### VOS COMPÉTENCES
+**VOS COMPÉTENCES**
+
 Vous apportez **5 ans d’expérience minimum**, personnelle ou professionnelle (urls de sites/projets appréciés).
 
 Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
@@ -119,7 +122,7 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 
 
 
-## Pourquoi postuler ?
+### Pourquoi postuler ?
 
 * **Une stack très poussée et continuellement mise à jour. Une équipe pointue techniquement orientée vers le partage de connaissances (techshares réguliers)**
 * Équipe de 7 personnes : 6 dev sur les nouvelles features et 1 dev sur la maintenance
@@ -134,11 +137,11 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 * La possibilité de développer vos idées grâce aux projets innovations et à l'intraprenariat
 
 
-## Salaire
+### Salaire
 
 Salaire : 55-60K€
 
-## Comment postuler ?
+### Comment postuler ?
 
 Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
