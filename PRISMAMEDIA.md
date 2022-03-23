@@ -47,7 +47,7 @@
 
 ## Poste de Développeur back-end PHP / NodeJS (Pôle Féminin)
 
-**LE CONTEXTE**
+**Le contexte**
 
 Au sein d'une équipe de 5 développeurs backend, vous travaillerez sur les sites féminins :
 * [Femme Actuelle](http://www.femmeactuelle.fr/)
@@ -60,7 +60,7 @@ Ainsi que sur les micro services transverses utilisés par les différentes marq
 * Service de diagnostic
 * ...
 
-**VOTRE MISSION**
+**Votre mission**
 
 * Concevoir et développer les sites et API Féminin.
 * Optimiser les sites pour améliorer l’expérience utilisateur (performance, scalabilité, SEO)
@@ -70,7 +70,7 @@ Contribution à l’innovation et à la conception de nouveaux projets :
 * Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
 * Vous savez promouvoir vos idées et améliorer celles des autres ;)
 
-**VOS COMPÉTENCES**
+**Vos compétences**
 
 Vous apportez **5 ans d’expérience minimum**, personnelle ou professionnelle (urls de sites/projets appréciés).
 
