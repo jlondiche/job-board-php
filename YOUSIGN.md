@@ -37,7 +37,7 @@ Le rôle de l’équipe Product & Engineering de Yousign est de concevoir, faire
 
 Au sein d’une équipe autonome, focalisée sur un objectif clé (OKR), collaborer avec développeur•ses, designer et Product Manager afin de concevoir et développer les fonctionnalités nécessaires
 
-* Comprendre et analyser des besoins Produit afin de proposer une architecture et des réponses techniques adaptées (basées sur des Architecture Decision Reviews).
+* Comprendre et analyser des besoins Produit afin de proposer une architecture et des réponses techniques adaptées (basées sur des Architecture Decision Records).
 * Accompagner et mentorer les développeurs de son équipe.
 * Participer au monitoring et à la maintenance des fonctionnalités sous la responsabilité de votre équipe.
 * Veiller à la qualité du code produit par votre équipe : design patterns, maintenabilité et testabilité du code, tests automatisés.
