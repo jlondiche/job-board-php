@@ -13,7 +13,7 @@ Full remote = 🏠
 ## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
-	- **Sénior front-end ingénieur TypeScript/JS/ReactJS** **[!NEW!]** 🏠
+	- **Sénior front-end ingénieur TypeScript / JS / ReactJS** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
 	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD 
 	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD 
@@ -25,13 +25,15 @@ Full remote = 🏠
 	- Dev Full Stack Senior: 70% PHP/Symfony / 30% JS/ReactJS 🏠
 	- Lead developpeur Sénior 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
-	- Lead développer fullstack JavaScript **[!NEW!]** 🏠
+	- Lead développer fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
-	- Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média
+	- Développeur PHP / Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
-	- Développeur PHP/Data - équipe OpenData
+	- Développeur PHP / Data - équipe OpenData
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- Développeur back-end PHP/Symfony
+	- Développeur back-end PHP / Symfony
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/COVERD.md">[COVERD]</a> 
+	- **Développeur PHP / Symfony sénior [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CONSONEO.md">[CONSONEO]</a> 
 	- Développeur PHP/Symfony Intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
@@ -43,7 +45,7 @@ Full remote = 🏠
 	- Développeur back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
 	- Dev PHP/Laravel intermédiaire 🏠
-	- Lead developer PHP/Laravel 🏠
+	- Lead developer PHP / Laravel 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
 	- Tech Lead PHP Symfony - archi hexagonale 
 	- Développeur sénior PHP Symfony
@@ -55,22 +57,25 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PLANETMEDIA.md">[PLANET MEDIA]</a> 
 	- CTO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
-	- Développeur Back-End PHP/Laravel 🏠
-	- Développeur sénior Front-End JavaScript/VueJS/TypeScript **[!NEW!]** 🏠
-	- Développeur sénior FullStack Laravel/VueJS++ **[!NEW!]**🏠
+	- Développeur Back-End PHP / Laravel 🏠
+	- Développeur sénior Front-End JavaScript / VueJS / TypeScript 🏠
+	- Développeur sénior FullStack Laravel / VueJS++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
     - **Développeur back-end PHP / NodeJS (Pôle Féminin) [!NEW!]**
     - **Développeur back-end NodeJS [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
+	- **Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa [!NEW!]**
+	- **Développeur sénior back-end PHP / Symfony / DDD [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
-	- Développeur back-end PHP/Symfony sénior
-	- Développeur front-end JS/ReactJS sénior
+	- Développeur back-end PHP / Symfony sénior
+	- Développeur front-end JS / ReactJS sénior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
 	- Développeur Back-End sénior PHP / Symfony 🏠
-	- Lead Développeur PHP/Symfony 🏠
+	- Lead Développeur PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
-	- Développeur back-end PHP/Symfony intermédiaire
+	- Développeur back-end PHP/Symfony intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
-	- Lead Développeur PHP/Laravel sénior
+	- Lead Développeur PHP / Laravel sénior
 	- Développeur back-end PHP / Laravel
 	- Développeur front-end JS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUSIGN.md">[YOUSIGN]</a> 
