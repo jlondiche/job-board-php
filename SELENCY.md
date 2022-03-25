@@ -28,15 +28,16 @@ Front : symfony et vuejs, pas état de l'art d'où migration sur NuxtJS.
 
 **=> Les nouveaux projets sont développés en PHP8 et Symfony5.4 depuis 5 mois.**
 
-**Organisation de l'équipes technique**
+**Organisation de l'équipe technique**
 
-Pas squad ou feature team, le CTO voulait quelque chose de plus vivant. 
+Pas de squad ou feature team, le CTO voulait quelque chose de plus vivant.
 
-Organisée en OKR : Objectif Key Result. Tous les 3 mois, des objectifs sont définis par C level de la tech et produit, ce qui donne une liste de 5 ou 6 objectifs. L'équipe IT doit construire des équipes, une roadmap. Vous avez la possibilité de réfléchir dès l'études et la reflexion des projet et de  participer aux développements from scratch.
+Equipe organisée en OKR : Objectif Key Result. Tous les 3 mois, des objectifs sont définis par la direction, la tech et le produit, ce qui donne une liste de 5 ou 6 objectifs. L'équipe IT doit construire des équipes & une roadmap. Vous participez aux développements from scratch et contribuez dès le départ et en équipe aux évolutions.
 
-Tous les 3 mois, les équipes et objectifs changent, ce qui vous permet de tourner et travailler sur de nouvelles choses pour casser la routine et toujours continuer de monter en compétences ! 
+Tous les 3 mois, les équipes et objectifs changent, ce qui vous permet de casser la routine et toujours continuer de monter en compétences !
 
-Concrètement, toute l'équipe IT est mélangée et travaille sur une même grande table afin d'échanger au maximum. 
+Concrètement, toute l'équipe IT est mélangée et travaille sur une même grande table afin d'échanger au maximum.
+
 
 ## Poste : Architecte / Lead developer sénior
 
@@ -80,6 +81,10 @@ Monter en compétence et maîtriser les différentes niveaux de la marketplace
 * Vous avez le souci du détail et vous utilisez à bon escient HTML5/ CSS3 (Tailwind), JS Natif (Vanilla.Js) 
 * Vous êtes familier avec les méthodologies Agiles comme Kanban et la continuons delivery
 * Avoir une expérience en e-commerce/marketplace serait un +
+
+**Salaire**
+
+45/55K€ selon profil
 
 
 ## Poste : Backend Engineer PHP / Symfony 
