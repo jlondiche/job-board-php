@@ -34,7 +34,7 @@
 * TypeScript
 * MariaDB
 * MongoDB
-* ElasticSearch
+* Elasticsearch
 
 // Outils
 
@@ -82,7 +82,7 @@ Les compétences suivantes sont les bienvenues :
 
 * Langages : PHP et nodeJS
 * Framework : **Symfony**, Express.js
-* Bases de données : ElasticSearch, MySQL, DynamoDB
+* Bases de données : Elasticsearch, MySQL, DynamoDB
 * Virtualisation : **Docker**, Kubernetes
 * Vous testez vos applications via des **tests unitaires et fonctionnels**
 * Outils de versioning collaboratifs (git) et process de déploiements web automatisés (**Gitlab CI**)
