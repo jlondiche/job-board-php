@@ -66,6 +66,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
 	- **Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa [!NEW!]**
 	- **Développeur sénior back-end PHP / Symfony / DDD [!NEW!]** 
+	- **Développeur sénior front-end JS / VueJS / NuxtJS [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur back-end PHP / Symfony sénior
 	- Développeur front-end JS / ReactJS sénior
