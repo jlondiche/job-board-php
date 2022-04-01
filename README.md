@@ -63,6 +63,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
     - **Développeur back-end PHP / NodeJS (Pôle Féminin) [!NEW!]**
     - **Développeur back-end NodeJS [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANTGAMING.md">[INSTANTGAMING]</a>  
+	- **Développeur fullstack sénior [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
 	- **Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa [!NEW!]**
 	- **Développeur sénior back-end PHP / Symfony / DDD [!NEW!]** 
