@@ -49,7 +49,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
 	- Tech Lead PHP Symfony - archi hexagonale 
 	- Développeur sénior PHP Symfony
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANTGAMING.md">[INSTANT GAMING]</a>  
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- **Développeur fullstack sénior [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
