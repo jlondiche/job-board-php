@@ -1,64 +1,85 @@
-## 🧠 SYNTHESIO 🖥
+# 🖼️ SINGULART 📷
 
-**Domaine :** Social Intelligence
+**Domaine :** Marketplace d’oeuvres d’art
 
-**Où :** Full remote - Locaux à Paris (13ème arrondissement)
+**Où :** Paris - rue de Rivoli. Télétravail partiel ou Fullremote.
 
-**Quoi :** Synthesio aide les plus grandes entreprises et agences à écouter, comprendre et dialoguer avec les internautes sur les médias sociaux. Synthesio fournit en un seul et même outil les KPIs utiles au business. 
-
-**Fact & Figures**
-
-* Fondée en 2006
-* Bureaux à New-York, Paris, Londres et Singapour
-* Filiale du groupe IPSOS, qui travaille dans plus de 90 pays
-* Organisation hyper moderne, fullremote possible, equipe exceptionnelle, très faible turnover
+**Quoi :** L’achat d’œuvre d’art simplifié : **SINGULART est une galerie d’art contemporain en ligne** qui permet aux collectionneurs et amateurs d’art d’acheter des œuvres en toute sécurité auprès d’artistes reconnus dans leur pays de résidence: tableau abstraits, peintures figuratives, dessins ou encore graffitis de street art, ils offrent une sélection internationale variée de styles et de techniques. SINGULART aide également les artistes émergents du monde entier à vendre leurs œuvres à des passionnés.
 
 **Stack**
 
-* Frontend : JavaScript, React.Js, TypeScript
-* Backend : Golang, Node.Js, REST, GraphQL, My SQL, **ElasticSearch**
-* Test unitaires en Jest
-* Services : Git, Docker, Jenkins
+* PHP/Symfony 
+* MySQL
+* Elasticsearch
+* Redis
+* RabbitMQ
+* Docker
+* AWS
+* Gitlab
 
-## Senior Frontend Engineer
+## Développeur(se) Back-End sénior PHP / Symfony
 
-**Missions**
+Dans un contexte d’hyper-croissance et une perspective de structuration de l’équipe début 2020, Singulart cherche à renforcer son équipe tech.
 
-Au sein d’une équipe R&D composée de gens brillants vous relèverez plusieurs challenges tels que : 
+**Missions :**
 
-* Collaborer dans un écosystème JS à jour ( 2 applications mono-page en React.Js, 2 bibliothèques UI et 2 bibliothèques d’utilitaires) construit avec Docker, Node v16, ES6, Webpack et Yarn
-* Prendre la direction de projets et d’équipes pour mener à bien la feuille de route, tout en accompagnant les autres membres à évoluer
-* **Aimer manipuler des milliards de données (70+ millions par jour, 3PB de datastores)** et concevoir des environnements frontend pleinement connectés via API REST
-* Manipuler Elastisearch, en query et rédiger des requêtes 
-* Travailler en étroite collaboration avec l’équipe Produit afin de challenger le produit sur ses fonctionnalités
+* Évolution du Backoffice de management des ventes et la création d’outils pour aider l’équipe opérationnelle
+* Amélioration de la catégorisation de l'inventaire (comment catégoriser des oeuvres d’art uniques !)
+* Intégration de différentes API Automatic Ads Bidding - avec Google Ads notamment
 
 **Profil**
 
-* Formation universitaire sciences informatiques ou pas !
-* 5-7 ans d’expérience en JavaScript moderne et son environnement, notamment avec React.Js (composants, fonctionnels, hooks)
-* Vous considérez les tests et le Clean Code comme indispensable
-* Vous êtes attentif à la qualité du code, à son maintient ainsi qu’à sa capacité à être tester
-* Connaissance sur les domaines du système de conception, en SASS, sur ElasticSearch ainsi que sur les micro-services
-* Vous avez une forte volonté d’apprendre, d’enseigner et de partager vos connaissances avec les autres (mentorat, revues en direct, pair programming) 
-* Vous comprenez parfaitement l'anglais et le français et vous parlez l'une des deux
+* Expérience de 4 ans dans ton langage back de prédilection (PHP, Python, Go, Ruby on Rails)
+* Passionné et curieux, tu suis l’actualité du développement
+* Adaptabilité & Pragmatisme : compréhension du monde de la startup (get things done attitude)
+* Anglais Professionnel (l’équipe de dev est francophone, mais il vous faut pouvoir communiquer avec les autres équipes de Singulart)
 
+## Lead Développeur(se) PHP/Symfony
+
+**Missions :**
+
+* Vous managerez une équipe de développeurs
+* Vous concevrez et développerez les fonctionnalités critiques
+* Vous interviendrez, en collaboration étroite avec le CTO, le Head of Engineering et l’équipe technique, sur des sujets tech cruciaux pour l'évolution de notre business chez SINGULART :
+	* Création de fonctionnalités Produit "core" (3 axes: e-commerce, data, traitement d’images)
+	* Participation à l’évolution du produit et de la stack technique
+	* Diffusion de la culture tech dans l'entreprise (pour les postes sur Paris)
+
+**Profil**
+
+* Expérience en management technique
+* Expertise en développement PHP/Symfony
+* Expérience en forte charge et Ecommerce
+* Très orienté qualité et bonnes pratiques, vous serez un mentor pour votre équipe
 
 ## Pourquoi postuler ?
 
-* Un environnement technique Big Data très pointue en perpétuel évolution,
-* Une autonomie sur la fixation des objectifs et sur son organisation du travail.
-* Codebase propre et homogène, conventionnée et conventionnelle. 
-* **Beaucoup d'exigences sur la qualité du travail**et beaucoup d'humain : possibilité d'évoluer, de changer de carrière, de se ré-orienté au sein de Synthesio. Il y a beaucoup d'opportunités !
-* Des temps de loisirs sont organisés tous les mois avec des intervenants CEOs, sportifs, artistes, personnalités publiques etc.
-* A votre arrivée, vous avez le choix de votre équipement (Mac, Windows, Linux)
+**Les avantages :** 
+* Votre entreprise a une mission : aider les artistes à mieux vivre de leur travail
+* Vous rejoignez une belle startup en forte croissance
+* Votre CTO est cofondateur de CommitStrip
+Plus en détails: 
+	* Full Remote possible
+	* 300€ de matériel informatique de votre choix (souris, clavier, écouteurs...)
+	* Entre 10 et 20% du temps alloué à des side projects
+	* Budget d'équipe pour participer à des conférences ou des événements tech, ou pour organiser des événements de team building
+	* Pour les hommes, congé paternité d'un mois
+	* Réduction de 50% sur le prix prix des oeuvres vendues sur Singulart
+	* Abonnement à la salle de sport Neoness
+	* Un environnement de travail mixte et international
+	* Carte Swile (Ticket restaurant)
+	* Mutuelle Alan
+	* Engagements pour l'inclusion de profils issus de la diversité dans les métiers de la tech.
 
-## Salaire 
+Singulart a réussi le pari un peu fou de concilier vente d'arts et Tech. Avec Singulart, l'Art devient ouvert au plus grand nombre et à tous les acheteurs qui souhaitent se procurer une oeuvre. Généralement réservé à des cercles très fermés, le marché de l'art devient ouvert grâce à Singulart.
 
-* Selon profil 
+D'ailleurs, la tech est primordiale chez Singulart, pour permettre aux clients d’acheter de l’art avec le même enthousiasme, le même conseil et sans trop hésiter, comme ils le feraient lors d’une foire d’art.
 
-## Comment postuler ? 
+Résultat : le projet, impulsé par Denis Fayolle (La Fourchette, Mano Mano), est en pleine croissance ! 
 
-* Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+##**Comment postuler ?**
+
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
