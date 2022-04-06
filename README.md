@@ -77,6 +77,7 @@ Full remote = 🏠
 	- Lead Développeur PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- **Senior front-end engineer 🏠	[!NEW!]** 
+	- **QA Director 🏠	[!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Développeur back-end PHP/Symfony intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
