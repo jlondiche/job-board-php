@@ -43,28 +43,22 @@ Full remote = 🏠
  	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur back-end PHP, POO+++ 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
-	- Dev PHP/Laravel intermédiaire 🏠
-	- Lead developer PHP / Laravel 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a>
-	- Tech Lead PHP Symfony - archi hexagonale 
-	- Développeur sénior PHP Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- **Développeur fullstack sénior [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Dev Back-End GO 🏠
 	- Engineering Manager 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
+	- **VP engineering / Architect[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
 	- Dev APIs Back-End Senior GO
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PLANETMEDIA.md">[PLANET MEDIA]</a> 
-	- CTO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur Back-End PHP / Laravel 🏠
 	- Développeur sénior Front-End JavaScript / VueJS / TypeScript 🏠
 	- Développeur sénior FullStack Laravel / VueJS++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
-    - **Développeur back-end PHP / NodeJS (Pôle Féminin) [!NEW!]**
-    - **Développeur back-end NodeJS [!NEW!]**
+    - Développeur back-end PHP / NodeJS (Pôle Féminin)
+    - Développeur back-end NodeJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
 	- **Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa [!NEW!]**
 	- **Développeur sénior back-end PHP / Symfony / DDD [!NEW!]** 
@@ -85,5 +79,5 @@ Full remote = 🏠
 	- Développeur back-end PHP / Laravel
 	- Développeur front-end JS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUSIGN.md">[YOUSIGN]</a> 
-	- Développeur back-end PHP / Symfony **[!NEW!]**🏠
+	- Développeur back-end PHP / Symfony 🏠
 
