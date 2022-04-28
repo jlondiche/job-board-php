@@ -49,7 +49,7 @@ Full remote = 🏠
 	- Dev Back-End GO 🏠
 	- Engineering Manager 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
-	- **VP engineering / Architect[!NEW!]** 🏠
+	- **VP engineering / Architect CQRS / Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
 	- Dev APIs Back-End Senior GO
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
