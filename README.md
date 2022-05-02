@@ -12,18 +12,16 @@ Full remote = 🏠
 
 ## Les offres
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
+	- **Développeur back-end PHP / Symfony** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
 	- **Sénior front-end ingénieur TypeScript / JS / ReactJS** **[!NEW!]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
-	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD 
-	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
 	- Développeur back-end confirmé **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur sénior front-end React.JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Dev Full Stack Senior: 70% PHP/Symfony / 30% JS/ReactJS 🏠
-	- Lead developpeur Sénior 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
 	- Lead développer fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
