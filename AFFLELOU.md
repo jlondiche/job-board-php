@@ -2,7 +2,7 @@
 
 **Domaine :** eCommerce / Vente de lunettes de vue & lentilles sur Internet.
 
-**Où :** Paris - Boulevard Malesherbes. Télétravail partiel 2j/semaine en TT.
+**Où :** Paris - Boulevard Malesherbes. Télétravail partiel ou total possible.
 
 **Quoi :** Après avoir créé en France la vente de lunettes de vue sur Internet, avec une forte croissance et des plans hyper ambitieux pour conquérir l’optique en ligne, HAPPYVIEW et MALENTILLE ont rejoint le groupe AFFLELOU. Cette association grand groupe/start-up apporte une ambiance unique. L'équipe digitale est en pleine effervescence avec de très très grandes ambitions.
 
@@ -64,12 +64,12 @@ L’équipe technique a une taille de 20+ personnes environ, moitié composée d
 
 ## Les avantages :
 
-• Une équipe jeune, dynamique et super sympa (+20 personnes)
-• Une petite structure à taille humaine, agile et indépendante adossée à un groupe puissant.
-• Des projets développés en internes, toujours en collaboration avec notre équipe marketing et nos opticiens.
-• Des outils pour travailler dans de bonnes conditions : Slack, PHP Storm, Docker, GitLab, Capistrano, Make ...
-• De la méthodologie dans la mise en place des travaux : intégration continue et entraide.
-• Des points d’équipe quotidiens.
+* Une équipe jeune, dynamique et super sympa (+20 personnes)
+* Une petite structure à taille humaine, agile et indépendante adossée à un groupe puissant.
+* Des projets développés en internes, toujours en collaboration avec notre équipe marketing et nos opticiens.
+* Des outils pour travailler dans de bonnes conditions : Slack, PHP Storm, Docker, GitLab, Capistrano, Make ...
+* De la méthodologie dans la mise en place des travaux : intégration continue et entraide.
+* Des points d’équipe quotidiens.
 
 ## Salaire :
 
