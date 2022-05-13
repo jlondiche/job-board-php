@@ -22,6 +22,8 @@ Full remote = 🏠
 	- **Développeur back-end PHP / Symfony** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
 	- **Sénior front-end ingénieur TypeScript / JS / ReactJS** **[!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 
+	- **Développeur back-end Senior** **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
 	- Développeur back-end confirmé **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
