@@ -84,6 +84,8 @@ Full remote = 🏠
 	- Lead Développeur PHP / Laravel sénior
 	- Développeur back-end PHP / Laravel
 	- Développeur front-end JS / VueJS
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WEGLOT.md">[WEGLOT]</a> 
+	- **Développeur confirmé back-end PHP / Symfony [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUDGE.md">[YOUDGE]</a> 	
 	- Développeur back end PHP/Symfony sénior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUSIGN.md">[YOUSIGN]</a> 
