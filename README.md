@@ -19,9 +19,9 @@ Full remote = 🏠
 ## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
-	- **Développeur back-end PHP / Symfony** **[!NEW!]** 🏠
+	- Développeur back-end PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
-	- **Sénior front-end ingénieur TypeScript / JS / ReactJS** **[!NEW!]** 🏠
+	- Sénior front-end ingénieur TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 
 	- **Développeur back-end Senior** **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
@@ -36,12 +36,13 @@ Full remote = 🏠
 	- Développeur PHP / Symfony, niveau intérmédiaire - équipe Média
 	- Développeur Core PHP - équipe Transverse
 	- Développeur PHP / Data - équipe OpenData
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
+	- **Product Owner/Chef d'orchestre/Chef de projet [!NEW!]**
+	- **Lead développeur back end PHP/Laravel [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- Développeur back-end PHP / Symfony
+	- **Product Owner [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COVERD.md">[COVERD]</a> 
-	- **Développeur PHP / Symfony sénior [!NEW!]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CONSONEO.md">[CONSONEO]</a> 
-	- Développeur PHP/Symfony Intermédiaire 
+	- Développeur PHP / Symfony sénior 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
 	- Développeur sénior JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
@@ -66,9 +67,9 @@ Full remote = 🏠
     - Développeur back-end PHP / NodeJS (Pôle Féminin)
     - Développeur back-end NodeJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
-	- **Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa [!NEW!]**
-	- **Développeur sénior back-end PHP / Symfony / DDD [!NEW!]** 
-	- **Développeur sénior front-end JS / VueJS / NuxtJS [!NEW!]** 
+	- Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa
+	- Développeur sénior back-end PHP / Symfony / DDD
+	- Développeur sénior front-end JS / VueJS / NuxtJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur back-end PHP / Symfony sénior
 	- Développeur front-end JS / ReactJS sénior
@@ -76,7 +77,7 @@ Full remote = 🏠
 	- Développeur Back-End sénior PHP / Symfony 🏠
 	- Lead Développeur PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
-	- **Senior front-end engineer 🏠	[!NEW!]** 
+	- Senior front-end engineer 🏠
 	- **QA Director 🏠	[!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
 	- Développeur back-end PHP/Symfony intermédiaire 

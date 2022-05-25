@@ -25,12 +25,12 @@ Objectif:  référencer 500 partenaires, pour porter son offre à plus d’un mi
 * Front end: Vue,JS. 
 DevOps : Varnish, GCP, GitHub, Docker. 
 
-## Développeur Back-end 
+## Product Owner / Chef de projets
 
-* Les missions seront principalement avec les backoffice des employés et des marchands : création, ajout, modification des fonctionnalités.
-* L’intégration des flux produits de tous les marchands partenaires. 
-* Amélioration des performances
-* Veiller à la qualité et la maintenabilité du code comme la mise en place et automatisation des tests. 
+* Poste central au sein des équipes techniques et produits. 
+* En lien constant avec les fondateurs, votre objectif est de réfléchir, analyser et apporter de la valeur aux projets en arrivant à concilier tous les besoins de l’entreprise : sécurité, business, développeurs et infra.
+• Organiser le travail des équipes et faire le suivi des projets.
+• Faire des spec détaillées pour avoir le moins de surprises lors des dév et des tests.
 
 ## Pourquoi postuler ?
 
@@ -40,7 +40,8 @@ DevOps : Varnish, GCP, GitHub, Docker.
 
 ## Salaire 
 
-Selon profil
+Fourchette : entre 50 et 70K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 
