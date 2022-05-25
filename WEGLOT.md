@@ -45,7 +45,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Les équipes sont les mêmes depuis le début, et il y a une bonne raison à ça : Weglot fait tout pour offrir à chacun la possibilité de s’épanouir. 
 
 ## Comment postuler ?
-Tout simplement, envoyez-moi un email à jodia.jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
