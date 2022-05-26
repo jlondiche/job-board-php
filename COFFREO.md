@@ -1,51 +1,85 @@
-## 🌎 WEGLOT 🌏
+## 📑 COFFREO 📑
 
-**Domaine :** Outil de traduction web 
+**Domaine :** Transformation digitale RH
 
-**Où :** Paris 10 - Remote partiel 
+**Où :** Locaux à Paris - équipe tech Full Remote 🏠
 
-**Quoi :** Weglot simplifie la traduction de sites web en proposant une solution clé en main et performante, avec des outils intuitifs de gestion des traductions. Ils s’adressent à tous les propriétaires et développeurs de sites web dans le monde.
+**Quoi :** LE coffre-fort numériques des intérimaires. Leader de la digitalisation des échanges RH : gere le lien entre employeurs et travailleurs sur le domaine du contrat court afin de faciliter la vie aux interimaires / salariés temporaires.
 
 Leur mission :
-Créer le leader mondial de la traduction pour les sites web. Comment? En proposant la meilleure expérience client possible, grâce à une équipe talentueuse et autour de valeurs clés : ambition, curiosité, pragmatisme, bienveillance. 
+Au cœur de la transformation digitale RH, Coffreo a créé une plateforme SaaS pour accélérer et fluidifier les échanges entre les agences d’intérim, les prestataires de l’événementiel, les traiteurs, les sociétés de sécurité, les organismes médicaux, … et leurs salariés temporaires.
+Coffreo est un pure player avec l'ambition d'être considéré comme une Scale-up Tech, cela veut dire qu’ils maintiennent au sein de chaque collaborateur une culture tech moderne.
 
 **Facts & Figures**
-* Fondée en 2016.
-* 50 000+ sites web utilisent déjà Weglot pour le multilingue et la traduction.
-* Une croissance exponentielle depuis 2016. 
-* Une levée de fond de 45 millions d’euros début 2022. 
-* Un engagement : traduire un site en quelques minutes **sans une ligne de code.** 
+* Création en 2007.
+* Equipe technique de 20 personnes, nouveau CTO depuis 2 mois.
+* +de 750 000 contrats de mission signés sur la plateforme chaque mois.
+* +de 800 000 salariés temporaires actifs chaque trimestre.
+* +de 30 000 000 de documents traités annuellement.
+* Plus de 30% du marché français, se développe en Allemagne.
 
 **Stack**
-* Symfony 4 et 5 / PHP 8 / MySQL, AWS / Docker, SQS, Git / GitHub, Ansible
+* Back end: PHP, legacy en Symfony, nouveaux développement & refonte en Laravel en cours, MongoDB, MySQL
+* Front end: ReactJS
 
-
-## Développeur confirmé back end PHP/Symfony  
+## Product Owner / Chef d'orchestre
 
 **Missions**
 
-* Vous rejoindrez l’équipe chargée de la plateforme, l’API et le Back Office.
-* Votre mission sera de concevoir, développer et maintenir les fonctionnalités de Weglot tout en veillant à la qualité du code produit.  
+Pour faire évoluer la plateforme, vous devrez :
+
+* Réfléchir, analyser et apporter de la valeur aux projets en arrivant à concilier tous les besoins de l’entreprise : sécurité, business, développeurs et infra.
+* Organiser le travail des équipes et faire le suivi des projets.
+* Faire des spec détaillées pour avoir le moins de surprises lors des dév et des tests.
+* **Travailler autour de la data #datadriven**
+* Réaliser de la discovery sur certains sujets
+
+ **Profil**
+
+* CTO très charismatique, un vrai leader d'équipe. Vous accomplirez de grandes choses en équipe. 
+* Vous avez du mal à trouver un nouveau poste car vous ne rentrez pas dans une case.
+* Vous souhaitez être le chef d’orchestre d'une équipe / squad pluridisciplinaire et souhaitez relever des beaux défis techniques. 
+* Vous avez un background technique et pouvez si besoin aider l’équipe de développeurs. 
+
+**Salaire**
+Fourchette : 45-65K€.
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+## Lead développeur back end PHP/Laravel   
+
+**Missions**
+
+* Vous coordonnez et accompagnez les travaux de votre équipe de 2/3 développeurs. 
+* Vous êtes le mentor pour les développeurs juniors que vous aidez à faire monter en compétences mais aussi le référent du développement, des choix techniques jusqu’à la conception, et de la qualité des livrables : un beau code, avec tous les tests nécessaires, et des déploiements automatisés.
+* En cas de besoin, vous apportez un soutien technique aux clients et partenaires pour les accompagner. 
+* Vous participez à la définition des standards, aux bonnes pratiques et partagez vos savoirs avec l’équipe.
 
 **Profil**
 
-* 2 ans minimum d’expérience sur Symfony. 
-* Rigoureux dans la qualité du code, tests et autres bonnes pratiques. 
-* Autonome, volontaire, dynamique et entreprenant, souhaitant évoluer dans l’écosystème startup. 
-* Etre à l’aise avec Javascript et connaissances de Git, AWS et Docker sont un plus. 
+** * Vous souhaitez avoir de l'impact dans une équipe technique pluridiscinaire.**
+* Vous aimez les challenges et voulez rejoindre une équipe sympa et bienveillante.
+* Vous maîtrisez PHP 7 / Symfony OU LARAVEL, Docker et Git sont vos amis et MongoDB, RabbitMQ ne vous font pas peur !
+* Vous aimez React? Encore mieux ! 
+* Vous savez documenter, proposer des ADR, et avec le goût des belles architectures et technologies de demain.
+* Vous avez une curiosité technique, êtes toujours en veille pour de nouvelles technologies.
+* Vous êtes de nature à partager et à construire ensemble, travailler en équipe est votre credo !
 
-## Salaire 
+**Salaire** 
 
-50-70K€
+Fourchette : 60/70K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?
 
-* Weglot offre l’équilibre parfait : intégrer une équipe bienveillante tout en évoluant sur des sujets tech hyper intéressants et stimulants. 
-* Les équipes sont les mêmes depuis le début, et il y a une bonne raison à ça : Weglot fait tout pour offrir à chacun la possibilité de s’épanouir. 
+* Pour relever les défis de demain, venez rejoindre une aventure à taille humaine avec des projets ambitieux pour vous permettre de vous dépasser : transformer positivement le quotidien des salariés temporaires alors même qu’il est devenu encore plus incertain avec la crise sanitaire.
+* Aidez un domaine, les interimaires / salariés temporaires à avoir plus de visibilité sur leur missions & salaire. 
+* Coffreo est l’un des trois leaders en tant qu’offreur de bulletins de paie électroniques connectés au Compte Personnel d’Activité (CPA).
+* Chez Coffreo le télétravail existait bien avant la crise sanitaire, et même une partie de l’équipe est en remote complet ! Cela veut dire que **Coffreo recrute partout en France !**
+
 
 ## Comment postuler ?
-Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
-----
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
