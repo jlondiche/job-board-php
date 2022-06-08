@@ -118,25 +118,4 @@ Equipe
 Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
-<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> persévères face aux problèmes techniques.
-
-## Les avantages :
-
-* Une équipe jeune, dynamique et super sympa (+20 personnes)
-* Une petite structure à taille humaine, agile et indépendante adossée à un groupe puissant.
-* Des projets développés en internes, toujours en collaboration avec notre équipe marketing et nos opticiens.
-* Des outils pour travailler dans de bonnes conditions : Slack, PHP Storm, Docker, GitLab, Capistrano, Make ...
-* De la méthodologie dans la mise en place des travaux : intégration continue et entraide.
-* Des points d’équipe quotidiens.
-
-## Salaire :
-
-50/60K€, selon profil
-
-## Comment postuler ?
-
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
-
-----
-<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
-
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 
