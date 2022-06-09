@@ -19,76 +19,74 @@ Full remote = 🏠
 ## Les offres
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
-	- Développeur back-end PHP / Symfony 🏠
+	- Développeur(se) back-end PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
-	- Sénior front-end ingénieur TypeScript / JS / ReactJS 🏠
+	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 
-	- **Développeur back-end Senior** **[!NEW!]**
+	- **Développeur(se) back-end confirmé(e)** **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
-	- Développeur back-end confirmé **Archi Hexagonale** 🏠
+	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
-	- Développeur sénior front-end React.JS
+	- Développeur(se) front-end React.JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- Dev Full Stack Senior: 70% PHP/Symfony / 30% JS/ReactJS 🏠
+	- Développeur(se) Full Stack expérimentée 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
-	- Lead développer fullstack JavaScript 🏠
+	- Lead développeur(se) fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
-	- Développeur PHP / Symfony, niveau intérmédiaire - équipe Média
-	- Développeur Core PHP - équipe Transverse
-	- Développeur PHP / Data - équipe OpenData
+	- Développeur(se) PHP / Symfony, niveau intérmédiaire - équipe Média
+	- Développeur(se) Core PHP - équipe Transverse
+	- Développeur(se) PHP / Data - équipe OpenData
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
-	- **Product Owner/Chef d'orchestre/Chef de projet [!NEW!]**
-	- **Lead développeur back end PHP/Laravel [!NEW!]**
+	- Product Owner/Chef d'orchestre/Chef de projet
+	- **Lead développeur(se) back-end PHP/Laravel [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
 	- **Product Owner [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COVERD.md">[COVERD]</a> 
-	- Développeur PHP / Symfony sénior 🏠
+	- Développeur(se) PHP / Symfony expérimenté(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
-	- Développeur sénior JavaScript 🏠
+	- Développeur(se) JS confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
-	- Développeur frontend senior React.JS 
- 	- Développeur back-end autour des fluxs, APIs et données PHP / Symfony
+	- Développeur(se) front-end React.JS confirmé(e)
+ 	- Développeur(se) back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
-	- Développeur back-end PHP, POO+++ 🏠
+	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
-	- **Développeur fullstack sénior [!NEW!]**
+	- **Développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
-	- Dev Back-End GO 🏠
-	- Engineering Manager 🏠
+	- Developpeur(se) back-end golang 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering / Architect CQRS / Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOLOTOV%20TV.md">[MOLOTOV TV]</a> 
-	- Dev APIs Back-End Senior GO
+	- Developpeur(se) APIs back-end Golang confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
-	- Développeur Back-End PHP / Laravel 🏠
-	- Développeur sénior Front-End JavaScript / VueJS / TypeScript 🏠
-	- Développeur sénior FullStack Laravel / VueJS++ 🏠
+	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
+	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
+	- Développeur(se) fullStack Laravel / VueJS++ confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
-    - Développeur back-end PHP / NodeJS (Pôle Féminin)
-    - Développeur back-end NodeJS
+    - Développeur(se) back-end PHP / NodeJS (Pôle Féminin)
+    - Développeur(se) back-end NodeJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
-	- Architecte / Lead developpeur PHP / Symfony / DDD / Archi Hexa
-	- Développeur sénior back-end PHP / Symfony / DDD
-	- Développeur sénior front-end JS / VueJS / NuxtJS
+	- Architecte / Lead developpeur(se) PHP / Symfony / DDD / Archi Hexa
+	- Développeur(se) back-end PHP / Symfony / DDD confirmé(e)
+	- Développeur(se) front-end JS / VueJS / NuxtJS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
-	- Développeur back-end PHP / Symfony sénior
-	- Développeur front-end JS / ReactJS sénior
+	- Développeur(se) back-end PHP / Symfony confirmé(e)
+	- Développeur(se) front-end JS / ReactJS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SINGULART.md">[SINGULART]</a> 
-	- Développeur Back-End sénior PHP / Symfony 🏠
-	- Lead Développeur PHP / Symfony 🏠
+	- Développeur(se) back-nd PHP / Symfony confirmé(e) 🏠
+	- Lead Développeur(se) PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- Senior front-end engineer 🏠
 	- **QA Director 🏠	[!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TESTAPIC.md">[TESTAPIC]</a> 
-	- Développeur back-end PHP/Symfony intermédiaire 
+	- Développeur(se) back-end PHP/Symfony intermédiaire 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
-	- Lead Développeur PHP / Laravel sénior
-	- Développeur back-end PHP / Laravel
-	- Développeur front-end JS / VueJS
+	- Lead Développeur(se) PHP / Laravel sénior
+	- Développeur(se) back-end PHP / Laravel
+	- Développeur(se) front-end JS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WEGLOT.md">[WEGLOT]</a> 
-	- **Développeur confirmé back-end PHP / Symfony [!NEW!]**
+	- **Développeur(se) back-end PHP / Symfony confirmé(e) [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUDGE.md">[YOUDGE]</a> 	
-	- Développeur back end PHP/Symfony sénior
+	- Développeur(se) back-end PHP/Symfony confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUSIGN.md">[YOUSIGN]</a> 
-	- Développeur back-end PHP / Symfony 🏠
-
+	- Développeur(se) back-end PHP / Symfony confirmé(e) 🏠
