@@ -59,7 +59,8 @@ Excellent relationnel, la persévérance est votre amie, votre créativité vous
 
 **Salaire**
 
-Entre 45-50K€ selon profil et expérience
+Fourchette : 45-55K€ 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

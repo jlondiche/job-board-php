@@ -64,7 +64,7 @@ L'équipe technique est passée en quelques mois de 3 à 15 personnes. Le CTO, V
 65/75K€ selon profil
 
 
-## Poste : Frontend Engineer Vue.js
+## Poste : Développeur(se) front-end Vue.js
 
 **Missions**
 
@@ -84,10 +84,10 @@ Monter en compétence et maîtriser les différentes niveaux de la marketplace
 
 **Salaire**
 
-45/55K€ selon profil
+Fourchette : 45/55K€ 
 
 
-## Poste : Backend Engineer PHP / Symfony 
+## Poste : Développeur(se) PHP / Symfony confirmé(e)
 
 * Vous interviendrez dans une équipe d’expert et participerez à la conception et à l’architecture back end. 
 * L’équipe technique est très orientée bonnes pratiques, vous veillerez à maintenir un code propre et de qualité. L’architecture est en micro services. 
@@ -112,7 +112,9 @@ Monter en compétence et maîtriser les différentes niveaux de la marketplace
 
 ## Salaire 
 
-* Entre 45 et 55 K€ selon profil 
+Fourchette: 45/55 K€ 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ## Comment postuler ? 
 

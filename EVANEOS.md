@@ -39,7 +39,7 @@ Quelques apps Legacy en Zend1 et avec un framework maison en PHP
 * Evaneos, c’est aussi une communauté d’un peu plus de 20 développeurs, soudés, et ayant des expertises variées, qui accordent une grande importance au partage de connaissances et à l’entraide.
 
 
-## Développeur back-end sénior
+## Développeur(se) back-end sénior
 
 **Missions** 
 
@@ -61,6 +61,7 @@ Mobilité interne, Formation, Télétravail, Temps partiel, Flexibilité, Voyage
 
 ## Salaire
 
+Fourchette :45/65K€
 La communauté tech d’Evaneos étant en complète transparence de ses salaires, la rémunération sera définie par les développeurs en comparant le niveau estimé du/de la candidat(e) à celui des développeurs d’Evaneos, afin de lui proposer une rémunération cohérente avec le reste de la communauté.
 
 

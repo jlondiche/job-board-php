@@ -17,7 +17,7 @@
 * AWS
 * Gitlab
 
-## Développeur(se) Back-End sénior PHP / Symfony
+## Développeur(se) back-end sénior PHP / Symfony
 
 Dans un contexte d’hyper-croissance et une perspective de structuration de l’équipe début 2020, Singulart cherche à renforcer son équipe tech.
 
@@ -76,6 +76,11 @@ Singulart a réussi le pari un peu fou de concilier vente d'arts et Tech. Avec S
 D'ailleurs, la tech est primordiale chez Singulart, pour permettre aux clients d’acheter de l’art avec le même enthousiasme, le même conseil et sans trop hésiter, comme ils le feraient lors d’une foire d’art.
 
 Résultat : le projet, impulsé par Denis Fayolle (La Fourchette, Mano Mano), est en pleine croissance ! 
+
+## Salaire
+
+Fourchette 45/70K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ##**Comment postuler ?**
 

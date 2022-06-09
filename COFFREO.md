@@ -41,12 +41,13 @@ Pour faire évoluer la plateforme, vous devrez :
 * Vous souhaitez être le chef d’orchestre d'une équipe / squad pluridisciplinaire et souhaitez relever des beaux défis techniques. 
 * Vous avez un background technique et pouvez si besoin aider l’équipe de développeurs. 
 
-**Salaire**
+## Salaire
+
 Fourchette : 45-65K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-## Lead développeur back end PHP/Laravel   
+## Lead développeur(se) back end PHP/Laravel   
 
 **Missions**
 
@@ -65,7 +66,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Vous avez une curiosité technique, êtes toujours en veille pour de nouvelles technologies.
 * Vous êtes de nature à partager et à construire ensemble, travailler en équipe est votre credo !
 
-**Salaire** 
+## Salaire
 
 Fourchette : 60/70K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**

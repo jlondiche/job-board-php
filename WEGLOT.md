@@ -20,7 +20,7 @@ Créer le leader mondial de la traduction pour les sites web. Comment? En propos
 * Symfony 4 et 5 / PHP 8 / MySQL, AWS / Docker, SQS, Git / GitHub, Ansible
 
 
-## Développeur confirmé back end PHP/Symfony  
+## Développeur(se) confirmé(e) back end PHP/Symfony  
 
 **Missions**
 

@@ -29,6 +29,7 @@
 * Contrôle de version : GIT via Gitlab
 
 ## Défis 
+
 Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
 * Repenser totalement les process et les interfaces pour on-boarder des milliers de nouveaux distributeurs tous les ans et digitaliser totalement la relation avec eux, y compris dans leur acte de conseil auprès de leurs clients ;
@@ -37,7 +38,7 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
 * Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues. 
 
-## Développeur frontend senior (React.JS)
+## Développeur(se) frontend senior (React.JS)
 
 L’équipe technique est composée de 12 personnes réparties en squad de 4 personnes. Chaque squad gère de manière autonome et transparente son domaine fonctionnel et est en relation directe avec les autres équipes de l’entreprise : Produit, Gestion d’actifs, Marketing et Service Client. 
  
@@ -59,7 +60,7 @@ Au sein de la  squad « Free » vous interviendrez en support des deux autres sq
 **Salaire**
 Entre 50 à 60K€ de fixe + avantages financiers = 70/80K€ en package.
 
-## Développeur back-end autour des fluxs, APIs et données
+## Développeur(se) back-end autour des fluxs, APIs et données
 
 L’équipe technique est composée de 12 personnes réparties en squad de 4 personnes. Chaque squad gère de manière autonome et transparente son domaine fonctionnel et est en relation directe avec les autres équipes de l’entreprise : Produit, Gestion d’actifs, Marketing et Service Client. 
 
@@ -87,14 +88,16 @@ Concrètement, vous :
 * Vous avez au moins cinq ans d’expérience dans un contexte où vous n’interveniez pas seulement pour développer à partir de spécifications détaillées/d’un ticket, mais où vous apportiez une vision qui challenge le besoin. 
 * Vous avez de l'expérience en gestion de projet. 
 
-**Salaire**
-Entre 50 à 60K€ de fixe + avantages financiers = 70/80K€ en package.
+## Salaire
+
+Fourchette: 50 à 55K€ de fixe + avantages financiers = 70/80K€ en package.
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 **Pourquoi postuler à ERES ?**
 
 En plus de l’environnement technique challengeant, rejoindre ERES s’est profiter : 
 
-Les avantages :
+## Les avantages :
 
 * Des bureaux dans le centre de Paris (métro Bourse).
 * La souplesse dans votre organisation avec la possibilité de télétravailler.

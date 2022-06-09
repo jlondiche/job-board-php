@@ -63,7 +63,7 @@ De plus, devenir un Dashlaner à bien d’autres avantages :
 
 ## Salaire
 
-Dashlane recherche plusieurs profils dans une fourchette large entre 50K€ à 90K€.
+Fourchette : 50K€ à 90K€.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

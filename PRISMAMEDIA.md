@@ -15,7 +15,7 @@
 
 **Stack**
 
-// Frontend
+// Front-end
 
 * React 16 (hooks, Fiber)
 * TypeScript
@@ -25,7 +25,7 @@
 * Webpack, Jest
 * Google Auth
 
-// Backend
+// Back-end
 
 * Node JS
 * Déploiement AWS
@@ -45,7 +45,7 @@
 * Macbook fourni
 * Licences IDE à la demande
 
-## Poste de Développeur back-end PHP / NodeJS (Pôle Féminin)
+## Poste de Développeur(se) back-end PHP / NodeJS (Pôle Féminin)
 
 **Le contexte**
 
@@ -95,7 +95,7 @@ Les compétences suivantes sont les bienvenues :
 * **Pragmatisme et sens de l'organisation**
 * **Autonome et motivé**, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
 
-## Poste de Développeur back-end NodeJS
+## Poste de Développeur(se) back-end NodeJS
 
 **Missions** 
 
@@ -139,7 +139,9 @@ Après un déploiement réussi dans l'ensemble rédactions, le travail se poursu
 
 ### Salaire
 
-Salaire : 55-60K€
+Fourchette : 55-60K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ### Comment postuler ?
 

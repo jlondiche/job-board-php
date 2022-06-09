@@ -26,7 +26,7 @@ Bedrock est à l’origine d’apps classées au plus haut dans les tops AppStor
 * Data : Python, Scala
 * Mobile : Swift, Kotlin
 
-## Poste de Développeur sénior front-end React.JS
+## Poste de Développeur(se) front-end confirmé(e) React.JS
 
 **Missions**
 
@@ -62,7 +62,8 @@ Sans oublier :
 
 ## Salaire
 
-Selon profil
+Fourchette : 40/50K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

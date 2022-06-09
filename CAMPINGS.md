@@ -26,57 +26,18 @@ Composition des équipes : 3 features team, 1 team data , 4ème team en cours de
 
 Campings.com est dans une logique d'expansion globale sur son marché.  De nombreux partenaires peuvent utiliser Campings.com, notamment via la marketplace et les particuliers mais aussi les agences de voyage (en se connectant à un progiciel) et enfin en marque blanche avec Leclerc ou Cdiscount par exemple. L'enjeu est de réussir à s'interfacer avec le plus de partenaires possibles car plus y aura de partenaires, plus le marché s'aggrandira pour Campings.
 
-## Engineering Manager - PEOPLE MANAGEMENT & ARCHI
 
-L'EM doit avoir un background technique assez fort.
-
-Hands On ! L'idée n'est pas de coder mais de designer l'architecture, savoir comment ça fonctionne en détails et connaît tellement bien la stack qu'il peut développer si besoin. En bref, l'EM ne sera jamais trop loin du Dev s'il le faut.
-Bien entendu, l'EM doit avoir un leadership naturel car il devra manager au quotidien. 
-
-Son rôle sera donc double avec du People Management et de l'Architecture.
-
-Salaire : autour de 80K selon profil
-
-## Dev Full Stack Senior // 70% PHP/SF - 30% JS/React
+## Développeur(se) fullstack confirmé(e) // 70% PHP/SF - 30% JS/React
 
 **Missions :**
 
 * Gestion de l’API en propre et en marque blanche vers les agences de voyages et autres acteurs.
-
 * Diffusion des offres Campings auprès de plusieurs acteurs et via différents canaux : site, API.
-
 * Logique de search très complète et complexe. 
-
 * Amélioration de l’existant : clients, contrats.
-
 * Enjeux UX.
-
 * Contexte de refonte au sein d’un métier riche.
 
-## Senior Product Owner/Manager
-
-**Missions :**
-
-Le pôle Transformation est en charge de l’ensemble des applications de traitement des offres de séjours, des outils de recherche, du calculateur de prix et des API partenaires. En tant que Senior Product Manager vous aurez les missions suivantes :
-
-* Développer une connaissance approfondie des clients et prospects de Campings pour comprendre leurs pain points, leurs défis et leurs besoins.
-* Traduire les tendances du marché en une vision produit et une stratégie convaincantes, et assurer leurs communications internes et externes.
-* Incorporez des données, des recherches et des analyses de marché pour éclairer les stratégies produit et les roadmaps.
-* Travaillez avec les UI/UX et les développeurs pour implémenter et créer de nouvelles fonctionnalités qui répondent à des exigences de simplicité et de qualité.
-* Pilotez le développement des produits, des simples améliorations aux produits entièrement nouveaux dans un contexte agile, en coordination avec différentes équipes (technique, commerciale, grands comptes, relations publiques, juridique).
-* Définir, collecter et mesurer les indicateurs clés du produit afin d'informer du succès/échec de chaque version de fonctionnalité et planifier les améliorations en conséquence.
-* Créez un excellent environnement d'équipe en partenariat avec les développeurs et les équipes métier de campings.com
-* Vous serez chargé de définir et de fournir des résultats sur plusieurs KPI au cœur du modèle économique de Campings.com tels que : le nombre de plateformes d’acquisition , le taux de publishing ou la vitesse de recherche.
-
-**Votre profil/expérience :**
-
-* Vous avez au moins 7 ans d'expérience en Product Management avec une vraie ownership de vos produits.
-* Vous avez une forte mentalité analytique, prenant des décisions stratégiques de produits fondées sur la data.
-* Vous êtes centré sur le client et disposé à être proche du terrain.
-* Vous avez d'excellentes compétences en communication, avec la capacité d'articuler à la fois verbalement et par écrit une vision convaincante.
-* Vous démontrez de solides compétences en leadership, en organisation et en exécution.
-* Une bonne compréhension de l’industrie du travel et une vision de ses futures évolutions est un plus.
-* Vous êtes prêt(e) à évoluer dans un contexte international avec des partenaires et clients présents dans plusieurs pays d’Europe (fluent english is required).
 
 ## Stack
 
@@ -89,8 +50,12 @@ Le pôle Transformation est en charge de l’ensemble des applications de traite
 
 ## Pourquoi postuler ?
 
-
 **Les avantages :** En plein coeur de Paris - Métro République à partir de Décembre + très beau budget pour le salaire + mission enrichissante + stack technique moderne et projets avec beau challenge  !
+
+## Salaire 
+
+Fourchette : 60/75K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

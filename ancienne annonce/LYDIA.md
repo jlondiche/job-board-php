@@ -26,7 +26,7 @@ IDE : PhpStorm, Golang, Vim, Emacs
 
 Cloud : Google Cloud Platform
 
-## Développeur Back-End GO - FULL REMOTE
+## Développeur(se) Back-End Golang
 
 L'équipe back-end est composée de 20 développeurs/ingénieurs qui partagent la même vision : voir au delà du code et se consacrer à livraison de fonctionnalités et d’un service de qualité.
 Cette culture est indispensable dans un environnement aussi complexe que celui de Lydia où les sujets sont nombreux :
@@ -54,24 +54,10 @@ Chez nous, les ingénieurs qui développent un projet en ont la responsabilité 
 * Vous êtes capable de communiquer en anglais avec vos collègues. Pas besoin de grand style, mais vous savez vous faire comprendre à l’écrit.
 * Vous êtes à l’aise avec l’utilisation de Git dans des environnements d’intégration continue.
 
-**Salaire**
+## Salaire
 
-Salaire : 50/70K€ selon profil et expériences.
-
-## Engineering Manager Back-end / Responsable des développements Back-end
-
-Le CTO recherche une personne sur qui s'appuyer pour prendre en main l'équipe back-end. 
-
-**Missions**
-* Gérer une équipe d'une 50aine de tech avec un niveau de management intermédiaire.
-* Accompagner la montée en compétences des équipes tout en construisant et en améliorant les processus de développement existants.
-
-**Profil**
-* Expérience souhaitée avec des équipes distribuées.
-* Connaissances demandées sur des systèmes bien sécurisés, sous charge.
-
-**Salaire**
-Budget entre 80/100K€ selon profil.
+Fourchette: 55/70K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 ## Comment postuler ?

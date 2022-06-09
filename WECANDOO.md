@@ -30,7 +30,7 @@ Cette nouvelle offre d’expérience, immersive et responsable, apporte aujourd�
 * Clean code et qualité
 
 
-## Lead développeur back-end PHP/Laravel
+## Lead développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
@@ -56,7 +56,7 @@ Vous prendrez le lead de la squad Client & Growth, aujourd'hui composée de
 * Autonomie mais aussi le travail en équipe. 
 * Développement web et la qualité/réusabilité de code.
 
-## Développeur back-end PHP/Laravel
+## Développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
@@ -75,7 +75,7 @@ Il y a un poste de dev back-end ouvert dans chaque squad.
 * Autonomie mais aussi le travail en équipe. 
 * Développement web et la qualité/réusabilité de code.
 
-## Développeur front-end JS/VueJS confirmé
+## Développeur(se) front-end JS/VueJS confirmé(e)
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
@@ -109,7 +109,10 @@ Vous êtes intéressé et avez déjà travaillé sur ces sujets :
 
 ## Salaire
 
-Autour de 50K€ selon profil
+Fourchette: 45/55K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ## Comment postuler ?
 

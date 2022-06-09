@@ -28,7 +28,7 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 
 *Plusieurs postes sont à pourvoir :*
 
-## Développeur PHP/ Symfony, niveau intérmédiaire - équipe Média 
+## Développeur(se) PHP/ Symfony, niveau intérmédiaire - équipe Média 
 
 Au sein d'une équipe auto gérée et motivée, vous participerez aux grandes étapes de développement des projets autour de Scribe, le logiciel propriétaire de l’entreprise. Cet outil est *le coeur de gestion de tous les contenus, lus par plus de 20 millions d'internautes tous les mois.* Au cœur de cet outil, se trouvent les mécanismes de publication qui participent au succès de leurs sites, avec un très fort accent SEO. 
 Scribe est construit sur une base Phalcon en cours de migration vers Symfony + Backbone JS + API Rest. 
@@ -55,7 +55,7 @@ Points appréciés:
 * Appétence pour du front end ou SEO
 
 
-## Développeur Core PHP - équipe transverse
+## Développeur(se) Core PHP - équipe transverse
 
 Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à *Xavier LEUNE, ancien président de l’AFUP.*
 
@@ -77,7 +77,7 @@ Points appréciés:
 * Docker, y compris en production
 * Sensibilité devops (Bash ne vous rebute pas, vous aimez automatiser de la CI et bidouiller des fichiers  kubernetes vous fait envie) 
 
-## Développeur PHP/Data - équipe OpenData
+## Développeur(se) PHP/Data - équipe OpenData
 
 **Missions**
 
@@ -117,9 +117,14 @@ Avantages :
 * CE, mutuelle, tickets restaurant, participation, activités sportives.
 * *Vous pourrez assister à des conférences techniques partout en France afin de continuer à développer votre expertise technique, ce qui est un atout majeur de l'équipe.* 
 
+## Salaire 
+
+Fourchette 40/52K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

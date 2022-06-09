@@ -34,7 +34,7 @@ Leur produit est divisé en module :
 * Augmenter le NPS (actuellement ~30 vs ~0 pour les ERPs)
 * Développer les flux de paiements en ligne
 
-## Développeur back-end sénior
+## Développeur(se) back-end confirmé(e)
 
 **Missions :**
 
@@ -112,6 +112,10 @@ Equipe
 * Avantages : ticket resto (7€/jour) + CE (500€/an)
 * 2 jours de présentiel par semaine
 * temps dédié pour participer à une association
+
+## Salaire : 
+Fourchette : 50/65K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

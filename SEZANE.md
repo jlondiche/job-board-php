@@ -24,7 +24,7 @@ Sezane souhaite donner du sens à ses activités et construire une nouvelle cont
 * Frontend : React.Js, Typescript * Backend : PHP8, Symfony5, API Platform, ElasticSearch
 * Devops : AWS, Docker
 
-## Poste de Développeur(se) frontend JS/React.Js Senior
+## Poste de Développeur(se) front-end JS/React.Js 
 
 **Missions** 
 
@@ -46,7 +46,7 @@ Minimum de 6 ans d’expérience en développement frontend avec un belle expér
 * Vous avez une expérience sur ElasticSearch
 
 
-## Poste de Développeur(se) PHP/Symfony Senior
+## Poste de Développeur(se) confirmé(e) PHP/Symfony 
 
 En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 
@@ -101,7 +101,12 @@ C'est une entreprise avant tout technique. Vous participerez avec l'équipe a de
 * Au bout de 6 mois: pourcentage de réduction (30% sur un max de 2 000€) et des avoirs de 1 000€ chez Sézane et 500€ chez Octobre.
 * Mutuelle : Alan
 
-Salaire : 50/60K€ selon profil
+## Salaire 
+
+Fourchette: 50/70K€ 
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ## Comment postuler ?
 

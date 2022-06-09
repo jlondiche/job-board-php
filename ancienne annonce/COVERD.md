@@ -21,7 +21,7 @@ Leur mission : réconcilier le consommateur Français avec les bénéfices d’u
 Jane 
 
 
-## Développeur back-end PHP/Symfony sénior
+## Développeur(se) back-end PHP/Symfony sénior
 
 Concevoir et développer les nouvelles fonctionnalités de www.coverd.co et du backoffice.
 
@@ -55,7 +55,8 @@ Les avantages Coverd sont top :
 
 ## Salaire 
 
-Entre 50 et 65K€ selon profil + BSPCE 
+Fourchette 50/65K€ + BSPCE 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

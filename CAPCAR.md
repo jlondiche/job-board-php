@@ -2,7 +2,7 @@
 
 **Domaine :** Leader du monde de l’Autotech
 
-**Où :** 17ème arrondissement de Paris - 🏠 ou Remote partiel ( à vous de choisir) 
+**Où :** 17ème arrondissement de Paris - 🏠 ou Remote partiel
 
 **Quoi :** CapCar bouleverse depuis 4 ans l’un des plus grands marchés du monde, le marché automobile. Leur mission est d’apporter transparence et confiance, en changeant la façon dont chacun vend et achète sa voiture d’occasion.
 
@@ -46,7 +46,8 @@ Pour CAPCAR, L’année 2022 est pleine d’ambitions concernant la partie techn
 
 ## Salaire
 
-Salaire : Entre 70K€ et 75K€ selon profil
+Fourchette : 65K€/75K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?
 

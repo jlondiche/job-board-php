@@ -21,7 +21,7 @@ Instant Gaming est dans le top 3 au niveau européen des plateformes à forte cr
 * Services : AWS S3, Git, Docker, Rancher, SASS, Apache, 
 * Metric tools : NewRelic, Blackfire, Roller, Papertrail
 
-## Senior fullstack Engineer
+## Développeur(se) fullstack PHP/JS confirmé(e)
 
 **Missions**
 
@@ -39,7 +39,7 @@ Au sein de l’équipe Tech’, vous aurez pour missions principales d’amélio
 * 5 années minimum d’expérience avec PHP, JavaScript et SQL
 * Savoir créer et déployer une application LAMP
 * Vous êtes en capacité d’écrire et comprendre des requêtes SQL complexes
-* Vous avez une expérience significative avec les cache softwares tel que Redis, Memcache, APC, etc…
+* Vous avez une expérience significative avec les caches softwares tel que Redis, Memcache, APC, etc…
 * Vous savez utiliser Docker et son écosystème
 * Vous savez gérer les contraintes de flexibilité et de robustesse
 * Vous êtes curieux, bon communicant et vous adorez les défis techniques
@@ -60,7 +60,8 @@ Au sein de l’équipe Tech’, vous aurez pour missions principales d’amélio
 
 ## Salaire 
 
-* Entre 55 et 60K€ selon profil
+Fourchette: 55/60K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ? 
 

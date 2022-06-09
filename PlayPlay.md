@@ -22,7 +22,7 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 * Services: GCP, AWS, Ansible, Terraform
 
 
-## Développeur Back-End PHP/Laravel
+## Développeur(se) Back-End PHP/Laravel
 
 **Missions**
 
@@ -43,12 +43,7 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 * Expérience sur un framework JS ou avec des problématiques DevOps.
 * Expérience sur des problématiques innovantes et ayant déjà une première vision d’architecture.
 
-**Salaire**
-
-Salaire : Plusieurs postes. Entre 45/70K€ selon profil et expériences.
-
-
-## Senior Frontend Développeur
+## Développeur(se) front-end confirmé(e)
 
 **Missions**
 
@@ -65,7 +60,7 @@ Salaire : Plusieurs postes. Entre 45/70K€ selon profil et expériences.
 * Maîtrise des outils d’intégrations web
 
 
-## Senior Fullstack Développeur
+## Développeur(se) fullstack confirmé(e)
 
 **Missions**
 
@@ -111,6 +106,11 @@ Salaire : Plusieurs postes. Entre 45/70K€ selon profil et expériences.
 * **Ambitious:** Yes, we’re humble as individuals. But together, we’re dreaming big. We’re not afraid to go fast and take risks: if Plan A doesn’t work, we go to Plan B, and so on. 
 
 * **Committed:** We each take ownership of our subjects and put our personalities into our work. As a group of passionate individuals, PlayPlayers are prepared to give it all for the team. We expect the best from each other, but first, we expect the best from ourselves.
+
+## Salaire 
+
+Fourchette 45/75K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 **Comment postuler ?**

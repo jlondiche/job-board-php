@@ -31,7 +31,7 @@ Un taux de croissance annuel en constante évolution.
 Un principe clé, **KISS (Keep It Simple, Stupid)**, guide leurs choix d’architecture et de technologies : faire le meilleur produit avec des solutions simples et éprouvées.
 
 
-## Développeur back end PHP/Symfony
+## Développeur(se) back-end PHP/Symfony
 
 Le rôle de l’équipe Product & Engineering de Yousign est de concevoir, faire évoluer et maintenir l’ensemble des fonctionnalités de notre produit ainsi que les outils permettant son bon fonctionnement. Elle est composée d’une cinquantaine de personnes. 
 
@@ -64,7 +64,9 @@ Au sein d’une équipe autonome, focalisée sur un objectif clé (OKR), collabo
 
 ## Salaire 
 
-Entre 50 et 60K€ selon profil + BSPCE 
+Fourchette : 50/65K€ selon profil + BSPCE 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 
 ## Comment postuler ?

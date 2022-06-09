@@ -54,7 +54,9 @@ Au sein d’une équipe R&D composée de gens brillants vous relèverez plusieur
 
 ## Salaire 
 
-* Selon profil 
+Fourchette : 50/75K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ## Comment postuler ? 
 

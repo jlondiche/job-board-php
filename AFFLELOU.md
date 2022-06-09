@@ -1,4 +1,4 @@
-# 👓 DIGITAL EYEWEAR - AFFLELOU 👓
+# 👓 AFFLELOU 👓
 
 **Domaine :** eCommerce / Vente de lunettes de vue & lentilles sur Internet.
 
@@ -73,7 +73,8 @@ L’équipe technique a une taille de 20+ personnes environ, moitié composée d
 
 ## Salaire :
 
-50/60K€, selon profil
+Fourchette 50/60K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

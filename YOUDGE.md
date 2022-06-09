@@ -19,7 +19,7 @@ Leur mission : Devenir le reflex des consommateur.rice à la recherche d’un fi
 
 * PHP, Symfony4 et 5, Redis, MariaDB, MySQL, ElasticSearch, Docker, Github, GCP. 
 
-## Développeur back end PHP/Symfony sénior
+## Développeur(se) back-end PHP/Symfony confirmé(e)
 
 **Missions**
 
