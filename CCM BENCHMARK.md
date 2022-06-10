@@ -28,7 +28,7 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 
 *Plusieurs postes sont à pourvoir :*
 
-## Lead développeur(se) communautaire PHP / SF - Équipe communautaire
+## Lead développeur(se) PHP / SF - Équipe communautaire
 
 Vous prendrez le lead d'une équipe de 2 développeurs et serez garant de la qualité technique des plateformes communautaires et sociales, sites sur lesquels les internautes peuvent largement contribuer et échanger. 
 

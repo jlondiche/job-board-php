@@ -24,7 +24,7 @@ Contribuer au développement de l’activité e-Commerce du premier groupe de ve
 * Développement de projets internes, en collaboration avec les équipes marketing et les opticiens du groupe.
 * Proposer des pistes d’amélioration pour améliorer le développement dans le respect des Best Practices.
 
-## Développeur Back-End PHP/Symfony sénior
+## Développeur(se) Back-End PHP/Symfony sénior
 
 **Le fil rouge :** 
 
@@ -56,7 +56,7 @@ L’équipe technique a une taille de 20+ personnes environ, moitié composée d
 	* ElasticSearch 
 	* RabbitMQ
 	* Jane
-* Tueshabituéauxméthodesagiles.
+* Tu es habitué aux méthodes agiles.
 * Ton esprit d’analyse est bien aiguisé.
 * Tu t’intègres facilement à une équipe.
 * Tu n’es pas timide et tu oses prendre la parole pour proposer des solutions.

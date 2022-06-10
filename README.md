@@ -24,18 +24,15 @@ Full remote = 🏠
 	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 
 	- **Développeur(se) back-end confirmé(e)** **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur(se) front-end React.JS confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- Développeur(se) Full Stack expérimenté(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
 	- Lead développeur(se) fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
-	- Développeur(se) PHP / Symfony, niveau intérmédiaire - équipe Média
-	- Développeur(se) Core PHP - équipe Transverse
-	- Développeur(se) PHP / Data - équipe OpenData
+	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
+	- Développeur(se) Core PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef d'orchestre/Chef de projet
 	- **Lead développeur(se) back-end PHP/Laravel [!NEW!]**
@@ -48,6 +45,8 @@ Full remote = 🏠
  	- Développeur(se) back-end autour des fluxs, APIs et données PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur(se) back-end PHP, POO+++ 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
+	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- **Développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 

@@ -2,7 +2,7 @@
 
 **Domaine :** Sport / eCommerce 
 
-**Où :** Paris - FullRemote ok
+**Où :** Paris, hybride 3J au bureau.
 
 **Quoi :** Colizey est la start-up française Fondée en 2019 par des passionnés de sport et de e-commerce. 
 
