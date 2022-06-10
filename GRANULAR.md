@@ -19,7 +19,7 @@
 * Services : Azur // Kubernetes // Github Action
 
 
-## Développeur(se) front-end expérimentée
+## Développeur(se) front-end expérimenté(e)
 
 **Missions**
 
@@ -37,12 +37,14 @@ Au sein d’une équipe brillante composée de trois personnes sur le front ,et 
 * Expérience en dataviz/dashboarding nécessaire. Highcharts est un plus
 * Autonome : ne pas avoir peur de prendre des décisions rapides au lieu d'attendre tout un processus de validation lorsque cela a du sens, capable de discuter / fournir un retour sur les spécifications
 * Être capable de faire des suggestions graphiques
-* À l'aise avec les petites équipes et la collaboration à distance * Haut niveau de curiosité, avec un intérêt pour le secteur des énergies propres, et volonté d'intégrer ses points de vue dans le processus de définition du produit
+* À l'aise avec les petites équipes et la collaboration à distance 
+* Haut niveau de curiosité, avec un intérêt pour le secteur des énergies propres, et volonté d'intégrer ses points de vue dans le processus de définition du produit
 
 
 ## Pourquoi postuler ? 
 
-* Rejoindre Granular c’est faire partie d'un projet passionnant à la croisée des marchés de l'énergie et de la transition verte, avec une forte traction de la part des principaux clients et partenaires * Projet très précoce, avec la possibilité d'avoir un impact et de voir l'équipe grandir
+* Rejoindre Granular c’est faire partie d'un projet passionnant à la croisée des marchés de l'énergie et de la transition verte, avec une forte traction de la part des principaux clients et partenaires 
+* Projet très précoce, avec la possibilité d'avoir un impact et de voir l'équipe grandir
 * Hiérarchie plate et organisation flexible
 * Salaire compétitif + équité (BSPCE/EMI)
 
@@ -52,7 +54,7 @@ Fourchette : 55/65K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-##Comment postuler ? 
+## Comment postuler ? 
 
 * Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
