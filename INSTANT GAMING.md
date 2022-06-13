@@ -21,12 +21,13 @@ Instant Gaming est dans le top 3 au niveau européen des plateformes à forte cr
 * Services : AWS S3, Git, Docker, Rancher, SASS, Apache, 
 * Metric tools : NewRelic, Blackfire, Roller, Papertrail
 
-## Développeur(se) fullstack PHP/JS confirmé(e)
+## Lead développeur(se) fullstack PHP/JS confirmé(e)
 
 **Missions**
 
-Au sein de l’équipe Tech’, vous aurez pour missions principales d’améliorer le site d’Instant Gaming ainsi que son expérience utilisateur : 
+Au sein de l’équipe Tech’, vous aurez pour missions principales de mentorer et faire grandir l'équipe : 
 
+* Prendre le lead de l'équipe, accompagner les plus juniors
 * Réfléchir et concevoir les prochaines features Instant Gaming
 * Développer et maintenir le front et le back office via PHP, Vue.Js & jQuery (en migration vers Vue.Js) 
 * Participer à l’écriture des tests unitaires et fonctionnels 
@@ -60,7 +61,7 @@ Au sein de l’équipe Tech’, vous aurez pour missions principales d’amélio
 
 ## Salaire 
 
-Fourchette: 55/60K€
+Fourchette: 60/65K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ? 

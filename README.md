@@ -48,7 +48,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
-	- **Développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
+	- **Lead développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering / Architect CQRS / Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
