@@ -15,7 +15,9 @@
 
 **Stack**
 
-* Frontend : JavaScript // Vue.js // Typescript // Storybook  * Testing : Cypress  * Infrastructure : Openstack * Versioning : Git // Gitlab
+* Frontend : JavaScript // Vue.js // Typescript // Storybook 
+ * Testing : Cypress  
+* Infrastructure : Openstack * Versioning : Git // Gitlab
 * Backend : Python // Django // Microservices
 * Services : Docker // Kubernetes // Ansible // Terraform
 

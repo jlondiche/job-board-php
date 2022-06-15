@@ -71,7 +71,7 @@ Full remote = 🏠
 	- Senior front-end engineer 🏠
 	- QA Director 🏠 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
-	- **Développeur(se) front-end JS / VueJS : junior à confirmé(e)🏠 [!NEW!]** 
+	- **Développeurs(ses) front-end JS / VueJS : juniors à confirmés(es)🏠 [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Lead Développeur(se) PHP / Laravel sénior
 	- Développeur(se) back-end PHP / Laravel
