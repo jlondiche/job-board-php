@@ -69,7 +69,9 @@ Full remote = 🏠
 	- **Binôme du CTO : Développeur(se) back-end PHP / architecte[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- Senior front-end engineer 🏠
-	- **QA Director 🏠	[!NEW!]** 
+	- QA Director 🏠 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
+	- **Développeur(se) front-end JS / VueJS : junior à confirmé(e)🏠 [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Lead Développeur(se) PHP / Laravel sénior
 	- Développeur(se) back-end PHP / Laravel
