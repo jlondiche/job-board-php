@@ -31,7 +31,7 @@ Soundcharts est composé de 3 produits :
 
 - Récupération quotidienne d'environ un demi milliard de données (playlists, audiences, charts, airplay, etc.).
 - Exploitation et restitution en temps réel
-- Dénomarlisation, envoie de notifications, exports customisables, historisation
+- Dénormalisation, envoi de notifications, exports customisables, historisation
 - Microservices internes & architecture event driven
 - Systèmes d'enrichissement / modification des métadonnées (chansons, artistes, albums) automatiques et manuels
 - Infrastructure on premise
@@ -47,8 +47,8 @@ Infra :
 
 Au sein de l'équipe technique (1 dev front / 3 dev back / CTO), vos missions seront :
 - Concevoir et développer sur Symfony les fonctionnalités produits / solutions techniques (Problèmatiques de forts volumes, event driven architecture, etc)
-- Accompagner / Proposer les choix d'architectures et les mettre en place
-- Participer à la montée en compétences de l'équipe
+- Accompagner / Proposer les choix d'architecture et les mettre en place
+- Participer à la montée en compétence de l'équipe
 
 **Missions :**
 
@@ -64,9 +64,9 @@ Outils: RabbitMQ, MySQL, Redis, Elasticsearch, Ansible, Datadog, LXC, Git / Gith
 ## Profil
 
 Prérequis :
-* Maitrise de PHP7.4+, POO, design patterns
+* Maitrise de PHP 7.4+, POO, design patterns
 * Maitrise de Git
-* Maitrise de MySQL, appétence pour les challenges liés aux grosses volumétries (tables plusieurs dizaines de millilards de lignes; 600M de lignes insérées / jour)
+* Maitrise de MySQL, appétence pour les challenges liés aux grosses volumétries (tables de plusieurs dizaines de millilards de lignes; 600M de lignes insérées / jour)
 * Connaissances système (Debian, Apache, etc)
 * Expérience en Infra et devOps
 * Une connaissance de RabbitMQ serait un plus
@@ -83,11 +83,11 @@ Soft skills :
 * Envie de participer à un projet ambitieux avec un engagement long terme.
 * Environnement hyper challengeant. 
 * Equipe de 10 personnes. 
-* Beaucoup de réflexions à apporter.
+* Beaucoup de réflexion à apporter.
 
 Soundcharts est un projet très ambitieux qui risque de modifier le paysage musical dans les prochaines années. Si vous aimez la musique, que l'entrepreneuriat vous branche et que le dev et la manipulation de gros volumes de data vous plaît, alors ce job est pour vous !
 
-Congés illimités, ticket restaurant, mutuelle.
+Full remote, congés illimités, ticket restaurant, mutuelle.
 
 **Salaire :** 
 
