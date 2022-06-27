@@ -49,6 +49,8 @@ Full remote = 🏠
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- **Lead développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
+	- **Développeur(se) front-end confirmé(e) [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering / Architect CQRS / Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
