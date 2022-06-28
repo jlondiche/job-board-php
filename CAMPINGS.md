@@ -13,8 +13,8 @@ L’équipe technique est orientée qualité, bonnes pratiques et tests. L'IT tr
 
 **Facts & Figures**
 
-* + de 3000 campings partenaires référencés 
-* + de 10 millions de visites sur la plateforme par an
+* Plus de 3000 campings partenaires référencés 
+* Plus de 10 millions de visites sur la plateforme par an
 * 500k clients réservent leurs vacances chaque année via Campings.com 
 * Développée en Europe la plateforme de réservation souhaite se développer à l’international 
 
