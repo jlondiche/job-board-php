@@ -30,6 +30,9 @@ Full remote = 🏠
 	- Développeur(se) front-end React.JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
 	- Lead développeur(se) fullstack JavaScript 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
+	- **DevOps junior, developpeur(se) souhaitant devenir Ops [!NEW!]**
+	- Développeur(se) fullstack confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) Core PHP
