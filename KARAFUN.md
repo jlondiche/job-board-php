@@ -13,16 +13,18 @@ KaraFun, c’est à la fois une forte exigence technique pour livrer des produit
 
 * Création en 2005
 * Croissance à 2 chiffres depuis leur début, marché très porteur
-* Leader du Karaoké, dans clients partour dans le monde : toutes les 10 secondes, un client démarre un karaoké avec KaraFun
-* Déjà 2 bar Karaoké : à Lille et à Bruxelles. Lyon et Paris à venir. 
+* Leader du Karaoké, dans clients partout dans le monde : toutes les 10 secondes, un client démarre un karaoké avec KaraFun
+* Déjà 2 bars Karaoké : à Lille et à Bruxelles. Lyon et Paris à venir. 
 * Moyenne d'âge 33ans
 * **Venez participer à un projet FUN et pointu techniquement.**
 
 **Stack**
 
 * Clean Code, Pull Request et Peer Programming sont au rendez-vous!
-* Twig, VanillaJS + VueJS, SASS, GULP
 * PHP8 + MariaDB + Elastic sur le back
+* Framework MVC maison pour plus de performance et de légèreté 
+* Twig, VanillaJS + VueJS, SASS, GULP
+* Cache APC
 * PHPStan
 * Code hébergé sur Github avec CI en Github Actions
 * Hébergement chez OVH, outils de déploiement spécifique
@@ -39,7 +41,7 @@ Le TDD fait partie de votre quotidien et le BDD n’est pas seulement synonyme d
 
 ## Développeur(se) back-end PHP OO 
 
-Karafun recherche plusieurs personnes d'intérmédaire à sénior. Si le projet de l'entreprise et la stack vous intéresse. Contactez-moi.
+Karafun recherche plusieurs personnes de intermédiaire à sénior. Si le projet de l'entreprise et la stack vous intéresse. Contactez-moi.
 
  
 **Missions**
