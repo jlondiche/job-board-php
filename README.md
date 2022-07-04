@@ -39,10 +39,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef d'orchestre/Chef de projet
 	- **Lead développeur(se) back-end PHP/Laravel [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- **Product Owner [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DASHLANE.md">[DASHLANE]</a> 
-	- Développeur(se) JS confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- Développeur(se) front-end React.JS confirmé(e)
  	- Développeur(se) back-end autour des fluxs, APIs et données PHP / Symfony
@@ -85,5 +81,3 @@ Full remote = 🏠
 	- Développeur(se) front-end JS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WEGLOT.md">[WEGLOT]</a> 
 	- **Développeur(se) back-end PHP / Symfony confirmé(e) [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/YOUDGE.md">[YOUDGE]</a> 	
-	- Développeur(se) back-end PHP/Symfony confirmé(e)
