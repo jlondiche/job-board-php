@@ -30,6 +30,10 @@ Full remote = 🏠
 	- Développeur(se) front-end React.JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
 	- Lead développeur(se) fullstack JavaScript 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP&COLLECITF.md">[CAP COLLECTIF]</a> 
+	- **CTO [!NEW!]**
+	- **Développeur(se) PHP/Symfony & ELK [!NEW!]**
+	- **Développeur(se) fullstack PHP/Symfony/JS [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- **DevOps junior, developpeur(se) souhaitant devenir Ops [!NEW!]**
 	- Développeur(se) fullstack confirmé(e)
