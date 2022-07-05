@@ -47,13 +47,13 @@ Actuellement, Cap Collective gère près de 200 instances de leur plateforme Saa
 
 *Plusieurs postes sont à pourvoir :*
 
-## CTO (junior accepté) - PHP / Symfony / JS Moderne
+## CTO (junior accepté(e)) - PHP / Symfony / JS Moderne
 
 Poste ouvert aux Lead Devs qui souhaitent évoluer vers un poste de CTO.
 
 **Missions :**
 
-Vous serez amené à : 
+Vous serez amené(e) à : 
 
 * manager l'équipe de (8+) développeurs full-stack, infrastructure et frontend en l’aidant à progresser ;
 * fluidifier les développements en cours en identifiant les blocages et en proposant des solutions ;
@@ -72,10 +72,10 @@ Vous serez amené à :
 * expérience sur du management d'équipe de développeurs ;
 * 5 ans d’expérience minimum en développement Symfony sur des projets
 conséquents, idéalement un SaaS ;
-* habitué aux problématiques de performance frontend en JavaScript ;
-* curieux et actif sur la veille technique ;
-* passionné par son métier ;
-* **l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.**
+* habitué(e) aux problématiques de performance frontend en JavaScript ;
+* curieux/curieuse et actif/active sur la veille technique ;
+* passionné(e) par votre métier ;
+* **l’envie de vous investir dans une entreprise dont la mission est porteuse de sens.**
 
 **Salaire**
 Fourchette : 80/85K€
@@ -85,7 +85,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 **Missions**
 
-Vous serez amené.e à :
+Vous serez amené(e) à :
 
 * développer en Symfony l’API GraphQL d’une appli réactive pour la rendre la plus fluide et intuitive possible ;
 * écrire des requêtes ElasticSearch en portant une attention particulière à la performance ;
@@ -102,11 +102,11 @@ optimiser les performances pour des sites pour des centaines de milliers de part
 
 * expérience en développement PHP/Symfony ;
 * expérience avec la stack ELK et utilisé la bibliothèque ruflin/elastica ;
-* prêt.e à découvrir GraphQL ;
-* curieux / curieuse et actif / active sur la veille technique ;
+* prêt(e) à découvrir GraphQL ;
+* curieux/curieuse et actif/active sur la veille technique ;
 passionné.e par son métier ;
 * l'envie de faire de la qualité et des tests
-* l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.
+* l’envie de vous investir dans une entreprise dont la mission est porteuse de sens.
 
 **Salaire**
 Fourchette : 44/48K€
@@ -119,10 +119,10 @@ Comme au dessus mais vous serez accompagné !
 
 **Profil**
 
-* première expérience en aternance ou CDI en développement PHP/Symfony ;
-* prêt.e à découvrir GraphQL, ELK, JS ;
-* curieux / curieuse et actif / active sur la veille technique ;
-passionné.e par son métier ;
+* première expérience en aternance ou en CDI en développement PHP/Symfony ;
+* prêt(e) à découvrir GraphQL, ELK, JS ;
+* curieux/curieuse et actif/active sur la veille technique ;
+passionné(e) par son métier ;
 * l'envie de faire de la qualité et des tests
 * l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.
 
@@ -137,6 +137,7 @@ Venez rejoindre la CivicTeam de Cap Collectif et aider à moderniser notre démo
 * Faire avancer la démocratie participative
 * L’opportunité de travailler sur un projet ayant déjà montré tout son potentiel
 * Développer des fonctionnalités innovantes pour un produit en constante évolution
+* Toucher réellement avec un projet d'entreprise à l'opensource
 
 Petits bonus :
 
