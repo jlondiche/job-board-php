@@ -49,6 +49,7 @@ Actuellement, Cap Collective gère près de 200 instances de leur plateforme Saa
 
 ## CTO (junior accepté) - PHP / Symfony / JS Moderne
 
+Poste ouvert aux Lead Devs qui souhaitent évoluer vers un poste de CTO.
 
 **Missions :**
 
@@ -145,7 +146,7 @@ Petits bonus :
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
