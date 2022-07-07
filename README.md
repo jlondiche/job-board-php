@@ -44,8 +44,7 @@ Full remote = 🏠
 	- Product Owner/Chef d'orchestre/Chef de projet
 	- **Lead développeur(se) back-end PHP/Laravel [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
-	- Développeur(se) front-end React.JS confirmé(e)
- 	- Développeur(se) back-end autour des fluxs, APIs et données PHP / Symfony
+	- **Lead développeur(se) charismatique [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 

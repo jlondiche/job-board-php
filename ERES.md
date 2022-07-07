@@ -1,12 +1,12 @@
-# 💸 ERES 💸
+#  ERES 
 
 **Domaine :** Épargne salariale.
 
-**Où :** Paris 2, rue réaumur. Télétravail partiel possible : 4j/semaine en TT. 
+**Où :** Paris 2, rue Réaumur. Télétravail partiel possible : 4j/semaine en TT.
 
-**Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié. 
+**Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié.
 
-**Comment ?** Eres a réussi à conquérir le marché non seulement avec une offre produit plus riche que celle des concurrents mais aussi une plateforme web qui a permis de : 
+**Comment ?**  Eres a réussi à conquérir le marché non seulement avec une offre produit plus riche que celle des concurrents mais aussi une plateforme web qui a permis de :
 * former via le e-learning
 * dématérialiser les workflows, notamment la souscription des contrats
 * permettre à ses partenaires de communiquer avec leurs clients.
@@ -19,8 +19,7 @@
 
 **Stack**
 
-* Applications web : PHP 7.3 et 8 (Symfony/Slim)
-* Batchs et traitements : PHP 7.3 et 8
+* Applications web : PHP 7.3 et 8 / Symfony6 en cours
 * Base de données : SQL Server, MySQL
 * Front : JavaScript / ReactJS
 * Hébergement : Amazon Web Service ou local
@@ -28,7 +27,7 @@
 * Environnement de développement : Docker et Visual Studio Code
 * Contrôle de version : GIT via Gitlab
 
-## Défis 
+## Défis
 
 Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
@@ -36,74 +35,65 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 
 * Reprendre la main sur l’expérience client, qui était jusqu’à présent sous-traitée à des banquiers et des assureurs, en créant from-scratch un espace client mélangeant pédagogie, simplicité et conseil ;
 
-* Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues. 
+* Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues.
 
-## Développeur(se) frontend senior (React.JS)
 
-L’équipe technique est composée de 12 personnes réparties en squad de 4 personnes. Chaque squad gère de manière autonome et transparente son domaine fonctionnel et est en relation directe avec les autres équipes de l’entreprise : Produit, Gestion d’actifs, Marketing et Service Client. 
- 
-**Missions**
+## Lead Développeur(se) charismatique 
 
-Au sein de la  squad « Free » vous interviendrez en support des deux autres squads afin de réguler leurs montées en charge. Concrètement : 
-* Vous interviendrez sur les deux domaines fonctionnels afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
-* Vous contribuerez à la création de la librairie de composants interne, tout en infusant des bonnes pratiques afin d’améliorer la code base. 
+Eres vient d’embaucher un CTO exceptionnel, humain, très technique et avec un vrai leadership. Il recherche un lead développeur pour aider l’équipe technique actuelle à se structurer et à monter en compétences.
 
-**Vos compétences**
+L’équipe IT composée de 12 personnes, vous prendrez en charge une équipe de développeurs. Vous serez en relation direct avec l’équipe produit. 
 
-* Vous avez 5 ans d’expérience sur le développement frontend et idéalement sur la Framework React.js
-* Vous avez une expérience en SQL (SQL Server /MySql / POStgreSQL)
-* Vous connaissez les principes UX/UI
-* Vous êtes curieux et intéressé par la digitalisation des processus métiers
-* Vous aimez travailler de manière transverse 
-* Avoir une grande capacité d’empathie pour comprendre les comportements utilisateurs
-
-**Salaire**
-Entre 50 à 60K€ de fixe + avantages financiers = 70/80K€ en package.
-
-## Développeur(se) back-end autour des fluxs, APIs et données
-
-L’équipe technique est composée de 12 personnes réparties en squad de 4 personnes. Chaque squad gère de manière autonome et transparente son domaine fonctionnel et est en relation directe avec les autres équipes de l’entreprise : Produit, Gestion d’actifs, Marketing et Service Client. 
+Possibilité importante d’évolution sur ce poste.
 
 **Missions**
 
 Concrètement, vous :
 
-* Gèrerez des projets from scratch dans l'équipe "flux" : API, fichiers, synchronisations de données.
+* Accompagnerez l’équipe, managez, participez aux décisions techniques.
+Aidez le CTO a aller vers des solutions dockerisées (Kubernites)
+* Challengerez au quotidien les développeurs back-end et le développeur front-end.
+* Gérerez des projets from scratch dans l’équipe. 
 * Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
-* Possibilité sur vous le souhaitez de faire un peu de ReactJS au sein de l'équipe.
+* Développerez les points critiques.
 
 **Vos compétences**
 
-* API
-* SQL (SQL Server / MySql / PostgreSQL)
+**Un vrai leadership humain** 
+* PHP avancé + Programmation orientée objet
+API
+* Expert SQL (SQL Server / MySql / PostgreSQL)
 * Requêtes complexes et gestion des transactions
 * Conception et optimisation de base de données
-* PHP avancé + Programmation orientée objet
 * Framework Symfony
+* JavaScrip et React 
 * Webservice REST
 * GIT
 
 **Votre profil**
 
-* Vous avez au moins cinq ans d’expérience dans un contexte où vous n’interveniez pas seulement pour développer à partir de spécifications détaillées/d’un ticket, mais où vous apportiez une vision qui challenge le besoin. 
-* Vous avez de l'expérience en gestion de projet. 
+* Vous avez au moins cinq ans d’expérience de développeur et une expérience de lead développeur réussie dans une petite équipe. 
+* Vous souhaitez intégrer une équipe technique qualifiée. 
+* Vous avez de l'expérience en gestion de projet, en management et gestion de congés.
 
 ## Salaire
 
-Fourchette: 50 à 55K€ de fixe + avantages financiers = 70/80K€ en package.
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+Fourchette: 65 à 70K€ de fixe + avantages financiers = 80/95K€ en package.
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 **Pourquoi postuler à ERES ?**
 
-En plus de l’environnement technique challengeant, rejoindre ERES s’est profiter : 
+En plus de l’environnement technique challengeant, rejoindre ERES s’est profiter :
 
 ## Les avantages :
 
 * Des bureaux dans le centre de Paris (métro Bourse).
-* La souplesse dans votre organisation avec la possibilité de télétravailler.
+* 1 jour par semaine dans les locaux, le jeudi.
 * Des projets et des clients à gogo.
+* Une vraie bienveillance au sein d'une entreprise rentable et en pleine croissance.
 * Des primes collectives sous forme de participation et d’intéressement, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients.
-* La possibilité de devenir actionnaire (programme prévu en 2020).
+* La possibilité de devenir actionnairE.
 * Une mutuelle très complète prise en charge à 60 % par l’employeur.
 * Des titres restaurant.
 * Des chèques emploi-service si vous avez des enfants.
@@ -111,8 +101,4 @@ En plus de l’environnement technique challengeant, rejoindre ERES s’est prof
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com (poste back) et julien@jlrecrutemnet (poste front) avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
-
-----
-<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
-
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com et un CV ou bien un profil LinkedIn à jour. À bientôt !
