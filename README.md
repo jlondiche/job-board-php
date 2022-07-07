@@ -28,7 +28,7 @@ Full remote = 🏠
 	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur(se) front-end React.JS confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%COLLECITF.md">[CAP COLLECTIF]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
 	- **CTO [!NEW!]**
 	- **Développeur(se) PHP/Symfony & ELK [!NEW!]**
 	- **Développeur(se) fullstack PHP/Symfony/JS [!NEW!]**
