@@ -20,12 +20,12 @@
 **Stack**
 
 * Applications web : PHP 7.3 et 8 / Symfony6 en cours
-* Base de données : SQL Server, MySQL
+* Bases de données : SQL Server, MySQL
 * Front : JavaScript / ReactJS
 * Hébergement : Amazon Web Service ou local
 * OS : Windows Server, Linux (Ubuntu/CentOS)
 * Environnement de développement : Docker et Visual Studio Code
-* Contrôle de version : GIT via Gitlab
+* Contrôle de version : Git via Gitlab
 
 ## Défis
 
@@ -51,7 +51,7 @@ Possibilité importante d’évolution sur ce poste.
 Concrètement, vous :
 
 * Accompagnerez l’équipe, managez, participez aux décisions techniques.
-Aidez le CTO a aller vers des solutions dockerisées (Kubernites)
+Aidez le CTO a aller vers des solutions dockerisées (Kubernetes)
 * Challengerez au quotidien les développeurs back-end et le développeur front-end.
 * Gérerez des projets from scratch dans l’équipe. 
 * Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
@@ -66,9 +66,9 @@ API
 * Requêtes complexes et gestion des transactions
 * Conception et optimisation de base de données
 * Framework Symfony
-* JavaScrip et React 
+* JavaScript et React 
 * Webservice REST
-* GIT
+* Git
 
 **Votre profil**
 
