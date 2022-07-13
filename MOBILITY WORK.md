@@ -11,9 +11,43 @@
 * +2 millions d’heures de maintenance enregistrées dans la plateforme
 * +200 000 équipements enregistrés dans la plateforme
 
-## VP engineering / Architect
+## VP engineering
 
-Mobility Work recherche son VP / architect avec une solide expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
+Mobility Work recherche son VP engineering. Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
+
+**Missions :**
+
+* Accompagner au scale-up des équipes
+* Mettre en place des process
+* Recruter pour créer une nouvelle feature team
+
+**Contexte** 
+
+* Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
+* Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
+* Une volonté d'amélioration continue (Kaizen)
+* Une culture du résultat et de l'engagement (= responsabilisation et autonomie
+(horaire, localisation))
+* Une écoute bienveillante et une approche décisionnelle collective
+
+**Profil**
+
+Mobility work a un environnement technique très poussé, il faut pour pouvoir postuler à ce poste : 
+
+* Avoir des connaissances techniques pointues en développement PHP mais également en architecture
+* Avoir de l'expérience en scale-up
+* Bon communicant
+* Etre ouvert au fullremote et a une méthodologie de travail moderne
+
+**Salaire**
+
+Autour de 80/90K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+## Lead dev / Architecte
+
+Mobility Work recherche son lead / architect avec une solide expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
 
 **Missions :**
@@ -32,7 +66,7 @@ conventions de la guideline établie
 * Réaliser des features en collaboration avec l'équipe Backend-End
 * S'assurer de la bonne santé applicative (stabilité, performance, sécurité)
 
-## Contexte 
+**Contexte**
 
 * Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
 * Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
@@ -41,7 +75,7 @@ conventions de la guideline établie
 (horaire, localisation))
 * Une écoute bienveillante et une approche décisionnelle collective
 
-## Profil
+**Profil**
 
 * Expert en PHP (7.4, 8.0)
 * Expérience en systèmes distribués
@@ -51,6 +85,11 @@ conventions de la guideline établie
 * Pragmatique & "Problem Solver"
 * Intérêt pour les domaines métiers complexes
 * Sensibilité Business
+
+**Salaire**
+
+Autour de 60/70K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Stack
 
@@ -72,10 +111,6 @@ tests unitaires front jest
 * Financement pour des conférences
 * Des formations ou des interventions d'experts
 * Excellente mutuelle
-
-## Salaire 
-autour de 70K€
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 
