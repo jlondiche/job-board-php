@@ -4,7 +4,7 @@
 
 **Où :** locaux à Lille, postes en fullremote 🏠
 
-**Quoi :** Spécialiste de la musique instrumentale, Karafaun conçoit et distribue à travers le monde des technologies innovantes au service de la musique. Leur équipe réunit des talents de tous horizons avec **pour mission de répandre la joie et la bonne humeur au travers d’applications musicales.**
+**Quoi :** Spécialiste de la musique instrumentale, Karafun conçoit et distribue à travers le monde des technologies innovantes au service de la musique. Leur équipe réunit des talents de tous horizons avec **pour mission de répandre la joie et la bonne humeur au travers d’applications musicales.**
 
 **Comment ?** 
 KaraFun, c’est à la fois une forte exigence technique pour livrer des produits au top et un environnement de travail très agréable, avec l'amour du travail bien fait et la performance tech pour faire grandir le projet collectif.
