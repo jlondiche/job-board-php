@@ -9,11 +9,15 @@
 Cette super startup accompagne des clients aussi bien dans le monde du luxe (Hermès), de l’aéronautique (LISI Aerospace) ou de l’agroalimentaire (Ramondin).   
 
 **Facts & Figures**
+
 * Viens de réaliser une levée de fonds de 2 M€
 * Présente dans le top 100 Challenges des startups où investir 🚀 
 
 **Stack**
-* Frontend : Vuejs + Typescript * Backend : Nodejs * BDD : Firestore + PostegreSQL
+
+* Frontend : Vuejs + Typescript 
+* Backend : Nodejs 
+* BDD : Firestore + PostegreSQL
 * Firebase functions 
 * Continuous Integrations (Gitlab CI)  
 * Google Cloud Platform 
@@ -53,7 +57,9 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 
 ## Comment postuler ? 
 
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.  * À bientôt !
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.  
+
+À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
