@@ -11,6 +11,7 @@ Au cœur de la transformation digitale RH, Coffreo a créé une plateforme SaaS 
 Coffreo est un pure player avec l'ambition d'être considéré comme une Scale-up Tech, cela veut dire qu’ils maintiennent au sein de chaque collaborateur une culture tech moderne.
 
 **Facts & Figures**
+
 * Création en 2007.
 * Equipe technique de 20 personnes, nouveau CTO depuis 2 mois.
 * +de 750 000 contrats de mission signés sur la plateforme chaque mois.
@@ -19,6 +20,7 @@ Coffreo est un pure player avec l'ambition d'être considéré comme une Scale-u
 * Plus de 30% du marché français, se développe en Allemagne.
 
 **Stack**
+
 * Back end: PHP, legacy en Symfony, nouveaux développement & refonte en Laravel en cours, MongoDB, MySQL
 * Front end: ReactJS
 
@@ -41,35 +43,45 @@ Pour faire évoluer la plateforme, vous devrez :
 * Vous souhaitez être le chef d’orchestre d'une équipe / squad pluridisciplinaire et souhaitez relever des beaux défis techniques. 
 * Vous avez un background technique et pouvez si besoin aider l’équipe de développeurs. 
 
-## Salaire
+**Salaire**
 
 Fourchette : 45-65K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-## Lead développeur(se) back end PHP/Laravel   
+## DevOps confirmé Kubernetes
+
+Vous rejoignez une équipe de 2 devOps et participerez au missions suivantes :
 
 **Missions**
 
-* Vous coordonnez et accompagnez les travaux de votre équipe de 2/3 développeurs. 
-* Vous êtes le mentor pour les développeurs juniors que vous aidez à faire monter en compétences mais aussi le référent du développement, des choix techniques jusqu’à la conception, et de la qualité des livrables : un beau code, avec tous les tests nécessaires, et des déploiements automatisés.
-* En cas de besoin, vous apportez un soutien technique aux clients et partenaires pour les accompagner. 
-* Vous participez à la définition des standards, aux bonnes pratiques et partagez vos savoirs avec l’équipe.
+* Mettre en place et optimiser l'automatisation des déploiements
+* Manager les applicatifs sur Kubernetes
+* Mettre en place et entretenir la CI sur gitlab
+* Ecrire et maintenir les helm charts des applications
+* Améliorer la sécurité sur les applicatifs
+* Mettre en place la sécurisation des réseaux à l'intérieur des clusters Kubernetes
+* Améliorer les images Docker pour diminuer les risques (rootless, distroless, etc…)
+* Gestion du monitoring
+* Maintenir une bonne traçabilité réseaux via Datadog
+* Gestion des logs aussi bien technique que métier avec les contraintes de données sensibles
+
+**Stack**
+
+ Kubernertes / Gitlab CI / Datadog / Sentry / Sonarcloud
 
 **Profil**
 
-** * Vous souhaitez avoir de l'impact dans une équipe technique pluridiscinaire.**
-* Vous aimez les challenges et voulez rejoindre une équipe sympa et bienveillante.
-* Vous maîtrisez PHP 7 / Symfony OU LARAVEL, Docker et Git sont vos amis et MongoDB, RabbitMQ ne vous font pas peur !
-* Vous aimez React? Encore mieux ! 
-* Vous savez documenter, proposer des ADR, et avec le goût des belles architectures et technologies de demain.
-* Vous avez une curiosité technique, êtes toujours en veille pour de nouvelles technologies.
-* Vous êtes de nature à partager et à construire ensemble, travailler en équipe est votre credo !
+* Vous justifiez d’au moins 2 ans en tant que devops
+* Vous avez une expérience d’un an minimum sur Kubernetes / Helm
+* Docker et Git sont vos amis et MongoDB, RabbitMQ ne vous font pas peur !
+* Vous maîtrisez l’anglais professionnel.
 
-## Salaire
+**Salaire**
 
-Fourchette : 60/70K€.
+Fourchette : 45/65K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 ## Pourquoi postuler ?
 

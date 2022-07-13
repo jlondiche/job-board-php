@@ -22,7 +22,7 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
 	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- **Développeur(se) back-end confirmé(e)** **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
@@ -42,7 +42,7 @@ Full remote = 🏠
 	- Développeur(se) Core PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef d'orchestre/Chef de projet
-	- **Lead développeur(se) back-end PHP/Laravel [!NEW!]**
+	- **DevOps confirmé Kubernetes [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) charismatique [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
