@@ -60,7 +60,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering[!NEW!]** 🏠
 	- **Lead / Architect CQRS, Event Sourcing [!NEW!]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/Oplit.md">[OPLIT]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/OPLIT.md">[OPLIT]</a> 
 	- **Développeur Fullstack JS (Vuejs & Nodejs) [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
