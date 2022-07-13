@@ -38,7 +38,7 @@ En tant que développeur Web Fullstack, vous serez en lien direct avec le CTO. L
 * Connaissance des bonnes pratiques de développement (test unitaires, code coverage, MR reviews…)  * Familier avec  l’Agilité  et les rituels SCRUM
 
 
-##Pourquoi postuler ?  
+## Pourquoi postuler ?  
 
 * Un projet de terrain en lien direct avec plusieurs usines et des utilisateurs tout simplement incroyables.
 * Une entreprise avec un véritable focus utilisateur. L’idée est d’apporter une expérience radicalement meilleure que les standards du marché.
@@ -46,9 +46,12 @@ En tant que développeur Web Fullstack, vous serez en lien direct avec le CTO. L
 * Un projet stimulant avec une équipe de très haut niveau
 * Un univers de travail agréable et convivial au sein d’une équipe qui prône le partage et le développement des compétences
 
-##Salaire 
+## Salaire 
 
-* Rémunération attractive (salaire + equity): selon profil  * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  ##Comment postuler ? 
+Rémunération attractive (salaire + equity): 45-70K€
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  
+
+## Comment postuler ? 
 
 Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.  * À bientôt !
 
