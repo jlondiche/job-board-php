@@ -43,6 +43,9 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef d'orchestre/Chef de projet
 	- **DevOps confirmé Kubernetes [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
+	- Front-end engineer - Player monetization
+	- Senior front-end enfineer - Ads demand
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) charismatique [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
