@@ -51,7 +51,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## DevOps confirmé Kubernetes
 
-Vous rejoignez une équipe de 2 devOps et participerez au missions suivantes :
+Vous rejoignez une équipe de 2 devOps et participerez aux missions suivantes :
 
 **Missions**
 

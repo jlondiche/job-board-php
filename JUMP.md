@@ -35,6 +35,7 @@ Venez prendre en main et épauler l'équipe back-end de l'usine digitale JUMP ! 
 Au sein de l’équipe Tech’, vous aurez pour missions principales de mentorer et faire grandir l'équipe
 
 **Missions**
+
 Equipe de 6 personnes, vous serez le binôme du PM.
 
 * Participer au développement front et back end sur les points critiques 
@@ -58,6 +59,40 @@ Equipe de 6 personnes, vous serez le binôme du PM.
 * Etre force de proposition et facilitateur
 * Bonne expérience en agilité notamment en SCRUM
 
+**Salaire**
+
+Fourchette: 55/65K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+## Développeur Web Fullstack JS - Angular.js & Node.js
+
+**Missions** 
+
+Au sein de l’équipe Tech’ qui comprend une quinzaine de personnes, vous aurez pour missions principales de :   
+* Concevoir et développer de nouvelles fonctionnalités sur des projets clients variés
+* Développer et améliorer les fonctionnalités existantes sur leur produit principal JUMP
+* Assurer la stabilité du code en production (Tests et QA) 
+* Traiter une grande variété de problèmes techniques 
+* Faire évoluer les interfaces à travers des réflexions UX/UI 
+* Assurer la stabilité des différentes APIs  
+* Résoudre des problématiques de performances en lien avec la masse de données clients  
+
+**Profil**
+
+* Minimum de 3 ans d’expérience en tant que Développeur Fullstack JS, principalement en Node.js
+* Maitrise d’un ou plusieurs frameworks JS - au mieux Angular.js  
+* Expérience significative sur Typescript 
+* Bonne sensibilité UX/UI  
+* Familier avec l’Agilité et les rituels SCRUM  
+* C’est un plus : 
+	* Expérience en animation 3D avec Tree.js  
+	* Expérience en motion Design avec Adobe After Effect
+
+**Salaire**
+
+Fourchette: 50/60K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?
 
@@ -67,12 +102,6 @@ Equipe de 6 personnes, vous serez le binôme du PM.
 * Favorise la prise de décision interne.
 * Forte volonté de recrutement et beaucoup d'ambitions, venez participer à l'aventure.
 * Présent aux évenements PHP, par exemple au symfonylive en avril.
-
-
-## Salaire 
-
-Fourchette: 55/65K€
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ? 
 
