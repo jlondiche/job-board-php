@@ -23,7 +23,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
 	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
-	- **Développeur(se) back-end confirmé(e)** **[!NEW!]**
+	- Développeur(se) back-end confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
@@ -44,8 +44,8 @@ Full remote = 🏠
 	- Product Owner/Chef d'orchestre/Chef de projet
 	- **DevOps confirmé Kubernetes [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
-	- Front-end engineer - Player monetization
-	- Senior front-end enfineer - Ads demand
+	- **Front-end engineer - Player monetization [!NEW!]**
+	- **Senior front-end enfineer - Ads demand [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) charismatique [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
@@ -53,7 +53,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
-	- **Lead développeur(se) fullstack PHP/JS confirmé(e) [!NEW!]**
+	- Lead développeur(se) fullstack PHP/JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
 	- **Développeur(se) front-end confirmé(e) [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
@@ -62,7 +62,7 @@ Full remote = 🏠
 	- **Développeur(se) back-end PHP OO, clean code 🏠 [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering[!NEW!]** 🏠
-	- **Lead / Architect CQRS, Event Sourcing [!NEW!]** 🏠
+	- Lead / Architect CQRS, Event Sourcing 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OPLIT.md">[OPLIT]</a> 
 	- **Développeur Fullstack JS (Vuejs & Nodejs) [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
@@ -91,4 +91,4 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Laravel
 	- Développeur(se) front-end JS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WEGLOT.md">[WEGLOT]</a> 
-	- **Développeur(se) back-end PHP / Symfony confirmé(e) [!NEW!]**
+	- Développeur(se) back-end PHP / Symfony confirmé(e)
