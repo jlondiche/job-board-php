@@ -59,31 +59,58 @@ Fourchette : 45/55K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-## Développeur(se) fullstack confirmé(e)
+## Développeur(se) DDD & TDD - Expert technique
 
 **Missions :**
 
+* Développement en TDD.
 * Gestion de l’API en propre et en marque blanche vers les agences de voyages et autres acteurs.
-* Diffusion des offres Campings auprès de plusieurs acteurs et via différents canaux : site, API.
 * Logique de search très complète et complexe.
 * Amélioration de l’existant : clients, contrats.
-* Enjeux UX.
+* Contexte de refonte au sein d’un métier riche avec une approche en DDD déjà mise en place.
+
+**Profil :**
+
+* 7 ans d’expérience minimum en Symfony/Twig/JS et une appétence pour monter en compétence sur React/Redux.
+* Connaissance et maîtrise des principaux grands patterns du développement.
+* Expérience en DDD et TDD.
+* Solide connaissance en base de données type SQL (Elasticsearch est un plus).
+* Expérience avec API RESTful.
+* Passionné(e) vous souhaitez participer activement au processus de développement Produit et contribuer à l’Innovation aussi bien technologique que métier.
+* Vous êtes prêt(e) à évoluer dans un contexte international avec des partenaires et clients présents dans plusieurs pays d’Europe.
+
+**Salaire**
+
+Fourchette : 60/75K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+## Développeur(se) sénior - traitement asynchrone
+
+**Missions :**
+
+* Traitement asynchrone d'un grand volume de données. 
+* Travail important autour d'Elastic Search, des bases de données, des bus d'événements.
+* Développemetn se font en TDD avec une approche DDD.
+* Gestion de l’API en propre et en marque blanche vers les agences de voyages et autres acteurs.
+* Logique de search très complète et complexe.
+* Amélioration de l’existant : clients, contrats.
 * Contexte de refonte au sein d’un métier riche.
 
 **Profil :**
 
 * 7 ans d’expérience minimum en Symfony/Twig/JS et une appétence pour monter en compétence sur React/Redux.
 * Connaissance et maîtrise des principaux grands patterns du développement.
-* Solide connaissance en base de données type SQL (Elasticsearch est un plus).
-* Expérience avec API RESTful.
+* Expérience en DDD et TDD.
+* Solide connaissance en base de données type SQL et Elasticsearch.
+* Expérience avec des grands volumes de données.
 * Passionné(e) vous souhaitez participer activement au processus de développement Produit et contribuer à l’Innovation aussi bien technologique que métier.
 * Vous êtes prêt(e) à évoluer dans un contexte international avec des partenaires et clients présents dans plusieurs pays d’Europe.
 
-## Salaire
+**Salaire**
 
 Fourchette : 60/75K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 
 ## Pourquoi postuler ?
 
@@ -93,12 +120,10 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **
 * Mission enrichissante - équipe bienveillante 
 * Stack technique moderne et projets très challengeants ! 
 
+
 ## Comment postuler ?
 
 Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com OU jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
-
-
-
 
 
 ----

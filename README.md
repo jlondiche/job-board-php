@@ -24,19 +24,16 @@ Full remote = 🏠
 	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- Développeur(se) back-end confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
-	- Développeur(se) back-end confirmé(e) **Archi Hexagonale** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur(se) front-end React.JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
 	- **CTO [!NEW!]**
 	- **Développeur(se) PHP/Symfony & ELK [!NEW!]**
 	- **Développeur(se) fullstack PHP/Symfony/JS [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAPCAR.md">[CAPCAR]</a> 
-	- Lead développeur(se) fullstack JavaScript 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- **DevOps junior, developpeur(se) souhaitant devenir Ops [!NEW!]**
-	- Développeur(se) fullstack confirmé(e)
+	- DevOps junior, developpeur(se) souhaitant devenir Ops
+	- **Développeur(se) - Expert technique [!NEW!]**
+	- **Développeur(se) sénior - Traitement asynchrone [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a> *Sponsor du ForumPHP 2021*
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) Core PHP
@@ -60,7 +57,7 @@ Full remote = 🏠
 	- **Lead developpeur orienté SCRUM master [!NEW!]** 
 	- **Développeur fullstack JS - Angular.js & Node.js[!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- **Développeur(se) back-end PHP OO, clean code 🏠 [!NEW!]** 
+	- Développeur(se) back-end PHP OO, clean code 🏠 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering[!NEW!]** 🏠
 	- Lead / Architect CQRS, Event Sourcing 🏠
@@ -70,9 +67,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
 	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
 	- Développeur(se) fullStack Laravel / VueJS++ confirmé(e) 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
-    - Développeur(se) back-end PHP / NodeJS (Pôle Féminin)
-    - Développeur(se) back-end NodeJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
 	- Architecte / Lead developpeur(se) PHP / Symfony / DDD / Archi Hexa
 	- Développeur(se) back-end PHP / Symfony / DDD confirmé(e)
