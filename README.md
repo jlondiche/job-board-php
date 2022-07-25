@@ -74,8 +74,10 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur(se) back-end PHP / Symfony confirmé(e)
 	- Développeur(se) front-end JS / ReactJS confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[SOUNDCHARTS]</a>  
-	- **Binôme du CTO : Développeur(se) back-end PHP / architecte[!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[SOUNDCHARTS]</a>
+	- **Binôme du CTO : Développeur(se) back-end PHP / architecte [!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/TANDEMZ.md">[TANDEMZ]</a> 
+	- **Développeur(se) Fullstack JavaScript : React.js & Nest.js [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- Senior front-end engineer 🏠
 	- QA Director 🏠 
