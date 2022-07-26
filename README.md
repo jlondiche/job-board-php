@@ -49,6 +49,8 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/HIFLOW.md">[HIFLOW]</a> 
+	- **Lead Développeur(se) Frontend React.js [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- Lead développeur(se) fullstack PHP/JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
