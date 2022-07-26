@@ -42,7 +42,7 @@ Full remote = 🏠
 	- **DevOps confirmé Kubernetes [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Front-end engineer - Player monetization [!NEW!]**
-	- **Senior front-end enfineer - Ads demand [!NEW!]**
+	- **Senior front-end engineer - Ads demand [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) charismatique [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 

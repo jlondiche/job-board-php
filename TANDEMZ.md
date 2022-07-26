@@ -4,7 +4,7 @@
 
 **Où :** Station F - 13ème arrondissement de Paris 
 
-**Quoi :**  Tandemz, c’est LA plateforme de recrutement de testeurs en libre service. Leur mission est de s’assurer que tous les produits, sites ou applications soient conçus avec une démarche centrée utilisateurs avant d’être mis sur le marché.
+**Quoi :** Tandemz, c’est LA plateforme de recrutement de testeurs en libre service. Leur mission est de s’assurer que tous les produits, sites ou applications soient conçus avec une démarche centrée utilisateurs avant d’être mis sur le marché.
 
  Leur objectif est de permettre aux équipes produit et marketing de gérer des études - interviews, tests de produit… - rapidement et simplement, avec une qualité des participants garantie.   
 
@@ -12,15 +12,17 @@ https://www.tandemz.io/fr/
 
 **Fact & Figures**
 
-* Créé en 2020  
-* A reçue en 2021 la distinction « Future 40 » de Station F  🚀 
-* 7 collaborateurs aujourd’hui’
+* Créée en 2020  
+* A reçu en 2021 la distinction « Future 40 » de Station F  🚀 
+* 7 collaborateurs aujourd’hui
 * Plus de 3500 personnes recrutées pour tester des produits dans plus de 20 pays 
 
 **Stack**
 
-* Frontend : React.js, Typescript * Backend : Nest.js // PostgreSQL // Elasticsearch
-* Devops : AWS // Docker  * Data : EventStore
+* Frontend : React.js, Typescript 
+* Backend : Nest.js // PostgreSQL // Elasticsearch
+* Devops : AWS // Docker  
+* Data : EventStore
 
 ## Développeur(se) Fullstack JavaScript : React.js & Nest.js 
 
@@ -29,9 +31,11 @@ https://www.tandemz.io/fr/
 En tant que développeuse ou développeur fullstack, vous rejoindrez une petite équipe où vos décisions auront un réel impact :  
 
 * Vous participerez au développement des prochaines features
-* Vous challengerez le choix d’architecture technique  * Etre garant de la qualité du code et de la stabilité de la plateforme
+* Vous challengerez le choix d’architecture technique  
+* Etre garant de la qualité du code et de la stabilité de la plateforme
 * Vous participerez à la conception du produit   Si vous le souhaitez, vous pourrez également :  
-* Vous impliquer dans la stratégie de l’entreprise * Participer au recrutement et à la formation des prochains membres de l’équipe technique * Mettre en place des process qui vous tiennent à coeur
+* Vous impliquer dans la stratégie de l’entreprise 
+* Participer au recrutement et à la formation des prochains membres de l’équipe technique * Mettre en place des process qui vous tiennent à coeur
 
 **Profil**
 
@@ -54,9 +58,13 @@ Rejoindre Tandemz c’est :   
 ## Salaire 
 
 Fourchette entre 40 et 55 K€   + equity
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  ##Comment postuler ? 
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  
 
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.   * À bientôt !
+## Comment postuler ? 
+
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.   
+
+À bientôt !
 
 
 

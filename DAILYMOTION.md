@@ -33,6 +33,7 @@ L'équipe Player Monetization occupe une position centrale et unique dans l’or
 * Vous êtes à l’aise en Anglais et vous avez déjà travaillé dans un environnement multiculturel 
 
 Bonus : 
+
  * Expérience en HTML5 Vidéo est un plus 
 * Expérience en Digital Advertising (VMAP,VAST & VPAID) est un plus
 
