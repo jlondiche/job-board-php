@@ -2,7 +2,7 @@
 
 **Domaine :**  e-Commerce / Mode
 
-**Où :** Locaux magnifiques dans Paris 2e - Sentier. 2 jours de Télétravail par semaine. 
+**Où :** Locaux magnifiques dans le 7ème, rue du bac. 2 jours de Télétravail par semaine. 
 
 **Quoi :** Créée en 2013 par Morgane Sézalory, Sézane est la première marque de mode française née en ligne.
 

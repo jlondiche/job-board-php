@@ -2,7 +2,7 @@
 
 **Domaine :** E-Commerce, Tourisme
 
-**Où :** Paris - Métro République, télétravail partiel. 
+**Où :** Paris - Métro République, Fullremote.
 
 **Quoi :** Leader de l’hôtellerie en plein air, Campings.com est la plateforme qui permet de réserver en toute simplicité les meilleurs campings d’Europe.
 Leur mission : digitaliser le domaine dans son ensemble  et moderniser l'ensemble du secteur en apportant des outils innovants. 
