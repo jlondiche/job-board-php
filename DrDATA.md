@@ -1,4 +1,4 @@
-## 💻  DrDATA - Les Docteurs de la données 🩺
+## 💻  Dr DATA - Les Docteurs de la données 🩺
 
 **Domaine :** Protection des données de santé
 
@@ -9,8 +9,11 @@
 DrDATA est parti du constat selon lequel notre environnement quotidien est piloté par l’utilisation massive et systématique de données personnelles, parfois sans en avoir connaissance.  
 
 L’essence de leur projet est de contribuer à la régulation intelligente de l’utilisation de ces données dans l’intérêt commun, tout en accompagnant les acteurs dans la protection de ces données et en garantissant les opportunités économiques pour ces derniers. 
+ 
+https://www.drdata.io/
 
 **Facts & Figures :**
+
 * Créée en 2018
 * Start-up en croissance 🚀
 * 10 collaborateurs 
