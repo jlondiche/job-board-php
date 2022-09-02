@@ -11,8 +11,9 @@
 Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internautes pour les accompagner dans leurs problématiques du quotidien*, qu'il s'agisse de consulter les résultats du Bac, traiter d'un problème de santé ou organiser un week-end. Le tout avec une information la plus claire et la plus honnête possible.
 
 **Facts & Figures**
-- Année de création : 1996
-- 158 collaborateurs
+
+* Année de création : 1996
+* 160 collaborateurs
 * CCM Benchmark est sponsor du ForumPHP 2021.
 * Xavier LEUNE, VP engineering de l’équipe, est un ancien président de l’AFUP et reste aujourd’hui très impliqué dans la communauté. 
 
@@ -37,9 +38,11 @@ Vous serez notamment en charge des forums de **Comment Ça Marche**, 1er site Hi
 Vous aurez également en charge les sites Copains d’Avant, asset historique du groupe ; ainsi que Viadeo, plus récemment intégré.
 
 **Le poste :**
+
 Les plus gros challenges qui vous attendront en prenant le lead de l’équipe seront de continuer à moderniser notre code base, notamment en parachevant la **migration vers Symfony**, en migrant vos applications vers **Docker et Kubernetes et en repensant l’architecture de notre produit phare: les forums et leurs 12 millions de membres.**
 
 **Missions :**
+
 Chez CCM Benchmark nous attendons de vous en tant que lead de remplir les missions suivantes:
 
 * Être garant de la qualité technique de l’application
@@ -50,45 +53,55 @@ Accompagner les développeurs de l’équipe au quotidien (montée en compétenc
 * Défendre les choix techniques de l’équipe
 
 **Salaire**
+
 Fourchette : 50/55K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Développeur(se) Core PHP - équipe transverse
+## Equipe CORE : 2 postes sont ouverts : 
 
-Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à *Xavier LEUNE, ancien président de l’AFUP.*
+**Développeur-(se) PHP**  /  **Développeur-(se) fullstack Javascript**
 
-* Vous interviendrez sur toutes les librairies transverses que la société développent. 
-* Vous participerez à la conception et la mise en œuvre des nouvelles fonctionnalités au sein de ces briques
+Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à Xavier LEUNE, ancien président de l’AFUP.
+
+**Missions**
+
+* Vous interviendrez sur toutes les librairies transverses que la société développent.
+* Vous participerez à la conception et la mise en œuvre des nouvelles fonctionnalités au sein de ces briques. 
 * Vous assisterez les équipes produits dans leur usage. L’équipe maintient notamment toutes les librairies et outils transverses à l’ensemble de nos produits, parmi lesquels: Scribe, notre CMS éditorial ; OD, notre CMS de la donnée ; CCMadmin, notre technologie de forums ; CDA, notre produit de réseaux sociaux. Mais aussi leur DataMapper PHP, notre API de gestion du caches public...
-* *Vous serez sollicité en tant qu’expert technique par les équipes de développement et devrez être en mesure de comprendre rapidement leurs enjeux techniques.*
-* Parmi les préoccupations quotidiennes de l’équipe en 2021: *la performance backend, la migration vers Symfony, vers docker et la montée vers PHP 8.*
+* Vous serez sollicité en tant qu’expert technique par les équipes de développement et devrez être en mesure de comprendre rapidement leurs enjeux techniques.
 
 **Profil**
 
-* Vous avez un profil de développeur confirmé en PHP et souhaitez continuer à progresser en technique.
 * Vous avez d’excellentes capacités de conception technique.
-* Vous maîtrisez symfony aussi bien que les arcanes de php.net. 
 * Vous êtes autonome et doté de bonnes capacités de communication.
 
-Points appréciés:
-* Vous aimez partager vos connaissances
-* Docker, y compris en production
-* Sensibilité devops (Bash ne vous rebute pas, vous aimez automatiser de la CI et bidouiller des fichiers  kubernetes vous fait envie) 
+==> Pour le poste back end PHP: 
+* Vous êtes un(e) développeur-(se) confirmé(e) en PHP et souhaitez continuer à progresser en technique.
+* Vous avez 5 ans d’expérience minimum en développement PHP.
+* Vous maîtrisez Symfony.
+
+==> Pour le poste fullstack JavaScript :
+* Vous êtes un(e) développeur-(se) JS et souhaitez continuer à progresser en technique.
+* Vous maîtrisez Node.JS aussi bien que les mécaniques internes des navigateurs et le JS Vanilla.
+
 
 ## Pourquoi les rejoindre ?
 
 * Leur équipe est stable et place la veille parmi leurs préoccupations quotidiennes. 
-* Vous aurez la possibilité de prendre en main des sujets en toute autonomie et monter en compétences techniquement 
+* Vous aurez la possibilité de prendre en main des sujets en toute autonomie et monter en compétences techniquement.
 * Vous serez immergé dans un environnement très technique mais toujours en contact avec les clients, qui sont les rédactions de leurs sites.  
 * Dès votre premier jour vous bénéficierez d’un onboarding vous permettant de démarrer rapidement des séances de pair programming avec vos collègues, aboutissant jusqu’à réaliser un premier déploiement de votre code dans la semaine qui suivra votre arrivée. 
 
 **Avantages :**
+
 * CE, mutuelle, tickets restaurant, participation, activités sportives.
 * *Vous pourrez assister à des conférences techniques partout en France afin de continuer à développer votre expertise technique, ce qui est un atout majeur de l'équipe.* 
 
 **Salaire**
 
-Fourchette 40/52K€
+Fourchette 40/55K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?

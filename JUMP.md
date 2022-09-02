@@ -1,4 +1,4 @@
-## JUMP
+## 🎓 JUMP 💻 
 
 **Domaine :** Formation 
 
@@ -12,10 +12,9 @@ Bizness, avec leur outil JUMP, propose des parcours de formation innovants et de
 
 **Fact & Figures**
 
-* création en 2017 de l'usine digitale JUMP
+* Création en 2017 de l'usine digitale JUMP
 * JUMP veut casser les codes de la formation, plus individualisée et humanisée
-* Adaptative learning : apprentissage adapté à chaque apprenant grâce à l'interlligence artificielle, des algorithmes, des bases de données importantes et des recherches importantes
-* equipe technique de 
+* Adaptative learning : apprentissage adapté à chaque apprenant grâce à l'interlligence artificielle, des algorithmes, des bases de données importantes et des recherches importantes 
 
 **Stack**
 
@@ -41,14 +40,14 @@ Equipe de 6 personnes, vous serez le binôme du PM.
 * Participer au développement front et back end sur les points critiques 
 * Prendre la main sur l’amélioration continue
 * Collaborer avec le produit et le PM
-* Structurer et aider au rôle de Scrum master : aujourd'hui c’est le PM et un developpeur certifié ui anime l’agilité. 
+* Structurer et aider au rôle de Scrum master : aujourd'hui c’est le PM et un developpeur certifié ui anime l’agilité
 * Documenter les applications pour les développements ultérieurs et la mise en production,
-* Assurer un haut niveau de qualité de code en appliquant la méthodologie et les bonnes pratiques, 
-* Être force de proposition dans l’amélioration des guidelines,
-* Supporter les autres développeurs dans leurs missions d’analyse, d’architecture, de gestion de bases de données et d’administration système,
-* Être pédagogue pour aider les développeurs(ses)  à monter en compétences,
-* Participer à l’élaboration de la stratégie technique de la Digital Factory,
-* Participer aux recrutements (revue des CV, type de profil, entretiens candidats, …).
+* Assurer un haut niveau de qualité de code en appliquant la méthodologie et les bonnes pratiques
+* Être force de proposition dans l’amélioration des guidelines
+* Supporter les autres développeurs dans leurs missions d’analyse, d’architecture, de gestion de bases de données et d’administration système
+* Être pédagogue pour aider les développeurs(ses)  à monter en compétences
+* Participer à l’élaboration de la stratégie technique de la Digital Factory
+* Participer aux recrutements (revue des CV, type de profil, entretiens candidats, …)
 
 **Profil**
 
@@ -61,7 +60,8 @@ Equipe de 6 personnes, vous serez le binôme du PM.
 
 **Salaire**
 
-Fourchette: 55/65K€
+Fourchette: 55/
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
@@ -92,6 +92,7 @@ Au sein de l’équipe Tech’ qui comprend une quinzaine de personnes, vous aur
 **Salaire**
 
 Fourchette: 50/60K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?

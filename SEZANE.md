@@ -21,8 +21,10 @@ Sezane souhaite donner du sens à ses activités et construire une nouvelle cont
 
 **Stack**
 
-* Frontend : React.Js, Typescript * Backend : PHP8, Symfony5, API Platform, ElasticSearch
+* Frontend : React.Js, Typescript 
+* Backend : PHP8, Symfony5, API Platform, ElasticSearch
 * Devops : AWS, Docker
+
 
 ## Poste de Développeur(se) front-end JS/React.Js 
 
@@ -46,7 +48,7 @@ Minimum de 6 ans d’expérience en développement frontend avec un belle expér
 * Vous avez une expérience sur ElasticSearch
 
 
-## Poste de Développeur(se) confirmé(e) PHP/Symfony 
+## Développeur(se) confirmé(e) PHP/Symfony 
 
 En tant que Développeur PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 
@@ -56,9 +58,9 @@ Votre connaissance de PHP, du framework Symfony, et votre intérêt pour les nou
 
 Vous serez garant du développement et de la mise en place des applications web, de de la qualité du code, et de la satisfaction client interne et externe.
 
-Vous évoluerez au sein de l’équipe Technology de Sézane, et vous serez rattaché au Lead Developer - Architect de l’équipe.
+**Missions**
 
-## Missions
+Vous évoluerez au sein de l’équipe Technology de Sézane, et vous serez rattaché au Lead Developer - Architect de l’équipe.
 
 * Ajouts de fonctionnalités sur les applications web
 * Les études de faisabilité et délais de livraison
@@ -71,7 +73,7 @@ Vous évoluerez au sein de l’équipe Technology de Sézane, et vous serez ratt
 * Accompagner les futurs développeurs juniors, résoudre les problèmes et les faire monter en
 compétences
 
-## Expérience / compétences requises
+**Profil**
 
 * Parfaite connaissance de Symfony, API Platform et Doctrine
 * Bonne connaissance dans l’architecture micro-service
@@ -80,13 +82,6 @@ compétences
 * Bonne connaissance en Elasticsearch
 * 5 à 6 ans d’expérience professionnelle
 * Langues : Français courant, Anglais technique
-
-## Développeur(se) front-end JS/ReactJS Senior
-
-## Missions : 
-* Vous contribuez au développement du site à très fort trafic
-* Vous proposez des solutions itératives, vous vous posez des questions, donnez votre opinion sur les sujets importants ou les améliorations organisationnelles qui permettront à Sézane d’être la nouvelle plateforme e-commerce de demain !
-* Vous participerez également aux différents rituels qui animent notre équipe IT :
 
 
 ## Pourquoi postuler ?

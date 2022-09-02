@@ -43,24 +43,11 @@ Au sein d’une équipe R&D composée de gens brillants vous relèverez plusieur
 * Vous comprenez parfaitement l'anglais et le français et vous parlez l'une des deux
 
 
-## Pourquoi postuler ?
-
-* Un environnement technique Big Data très pointue en perpétuel évolution,
-* Une autonomie sur la fixation des objectifs et sur son organisation du travail.
-* Codebase propre et homogène, conventionnée et conventionnelle. 
-* **Beaucoup d'exigences sur la qualité du travail**et beaucoup d'humain : possibilité d'évoluer, de changer de carrière, de se ré-orienté au sein de Synthesio. Il y a beaucoup d'opportunités !
-* Des temps de loisirs sont organisés tous les mois avec des intervenants CEOs, sportifs, artistes, personnalités publiques etc.
-* A votre arrivée, vous avez le choix de votre équipement (Mac, Windows, Linux)
-
 ## Salaire 
 
 Fourchette : 50/75K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
-## Comment postuler ? 
-
-* Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.
 
 
 ## QA Director

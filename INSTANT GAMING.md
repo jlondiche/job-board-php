@@ -32,7 +32,7 @@ Au sein de l’équipe Tech’, vous aurez pour missions principales de mentorer
 * Développer et maintenir le front et le back office via PHP, Vue.Js & jQuery (en migration vers Vue.Js) 
 * Participer à l’écriture des tests unitaires et fonctionnels 
 * Faire évoluer les standards techniques frontend et backend grâce à votre expérience
-* Participer au rituels d’équipe et aux code reviews
+* Participer aux rituels d’équipe et aux code reviews
 * «Véritablement» se mettre à la place des utilisateurs de la plateforme
 
 **Profil**
@@ -55,8 +55,8 @@ Au sein de l’équipe Tech’, vous aurez pour missions principales de mentorer
 
 ## Pourquoi postuler ?
 
-* Un environnement technique très pointue en perpétuel évolution, notamment sur la partie machine learning pour la fixation des prix des jeux vidéos
-* Une équipe technique de 8 personnes très soudée qui se retrouvent autour de nombreuses activités (Jeux vidéos, loisirs, restaurants, etc…)
+* Un environnement technique très pointu en perpétuel évolution, notamment sur la partie machine learning pour la fixation des prix des jeux vidéos
+* Une équipe technique de 8 personnes très soudée qui se retrouve autour de nombreuses activités (Jeux vidéos, loisirs, restaurants, etc…)
 * Une boite en pleine croissance qui mêle technicité et fun autour du jeux vidéos
 
 ## Salaire 

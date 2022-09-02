@@ -39,7 +39,7 @@ Tous les 3 mois, les équipes et objectifs changent, ce qui vous permet de casse
 Concrètement, toute l'équipe IT est mélangée et travaille sur une même grande table afin d'échanger au maximum.
 
 
-## Poste : Architecte / Lead developer sénior
+## Architecte / Lead developer sénior
 
 **Missions**
 
@@ -64,7 +64,7 @@ L'équipe technique est passée en quelques mois de 3 à 15 personnes. Le CTO, V
 65/75K€ selon profil
 
 
-## Poste : Développeur(se) front-end Vue.js
+## Développeur(se) front-end Vue.js
 
 **Missions**
 
@@ -86,8 +86,12 @@ Monter en compétence et maîtriser les différentes niveaux de la marketplace
 
 Fourchette : 45/55K€ 
 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Poste : Développeur(se) PHP / Symfony confirmé(e)
+
+## Développeur(se) PHP / Symfony confirmé(e)
+
+**Missons**
 
 * Vous interviendrez dans une équipe d’expert et participerez à la conception et à l’architecture back end. 
 * L’équipe technique est très orientée bonnes pratiques, vous veillerez à maintenir un code propre et de qualité. L’architecture est en micro services. 
@@ -112,7 +116,8 @@ Fourchette : 45/55K€
 
 ## Salaire 
 
-Fourchette: 45/55 K€ 
+Fourchette: 45/55K€ 
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 

@@ -20,8 +20,6 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
 	- Développeur(se) back-end PHP / Symfony 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ALMA.md">[ALMA]</a> 
-	- Développeur(se) front-end confirmé(e) TypeScript / JS / ReactJS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- Développeur(se) back-end confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
@@ -40,8 +38,9 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef d'orchestre/Chef de projet 🏠
 	- **DevOps confirmé Kubernetes [!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
+	- **Développeur(se) back-end PHP / Symfony [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
-	- **Front-end engineer - Player monetization** 🏠
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DRDATA.md">[DR DATA]</a>
 	- **Senior Frontend Developper React.js/Next.js ⚛️[!NEW!]**
@@ -53,22 +52,20 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/HIFLOW.md">[HIFLOW]</a> 
-	- **Lead Développeur(se) Frontend React.js [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
 	- Lead développeur(se) fullstack PHP/JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
-	- **Développeur(se) front-end confirmé(e) [!NEW!]** 🏠
+	- Développeur(se) front-end confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
-	- **Lead developpeur orienté SCRUM master [!NEW!]** 🏠
-	- **Développeur fullstack JS - Angular.js & Node.js[!NEW!]** 🏠
+	- Lead developpeur orienté SCRUM master 🏠
+	- Développeur fullstack JS - Angular.js & Node.js 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
 	- Développeur(se) back-end PHP OO, clean code 🏠 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
+	- **Développeur(se) back-end PHP / migration Laravel vers Symfony, profil intermédiaire [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **VP engineering[!NEW!]** 🏠
 	- Lead / Architect CQRS, Event Sourcing 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/OPLIT.md">[OPLIT]</a> 
-	- **Développeur Fullstack JS (Vuejs & Nodejs) [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
 	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
@@ -82,8 +79,6 @@ Full remote = 🏠
 	- Développeur(se) front-end JS / ReactJS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[SOUNDCHARTS]</a>
 	- **Binôme du CTO : Développeur(se) back-end PHP / architecte [!NEW!]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/TANDEMZ.md">[TANDEMZ]</a> 
-	- **Développeur(se) Fullstack JavaScript : React.js & Nest.js [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- Senior front-end engineer 🏠
 	- QA Director 🏠 

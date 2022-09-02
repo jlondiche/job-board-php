@@ -14,8 +14,8 @@ Bedrock est à l’origine d’apps classées au plus haut dans les tops AppStor
 **Facts & Figures**
 
 * Plus de 45 millions d’utilisateurs final
-* + de 12 ans d’expérience dans le streaming video
-* + de 400 personnes au de la société
+* Plus de 12 ans d’expérience dans le streaming video
+* Plus de 400 personnes au de la société
 * Remporte le trophée « Google Play Awards » du choix du public pour la meilleur application en 2021
 
 **Stack**
@@ -63,6 +63,7 @@ Sans oublier :
 ## Salaire
 
 Fourchette : 40/50K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?

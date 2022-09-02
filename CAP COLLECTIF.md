@@ -55,30 +55,32 @@ Poste ouvert aux Lead Devs qui souhaitent évoluer vers un poste de CTO.
 
 Vous serez amené(e) à : 
 
-* manager l'équipe de (8+) développeurs full-stack, infrastructure et frontend en l’aidant à progresser ;
-* fluidifier les développements en cours en identifiant les blocages et en proposant des solutions ;
-* développer en Symfony et JS moderne des parties critiques du code ;
-* participer activement au bon fonctionnement de l’infrastructure et la résolution des problématiques de scalabilité du SaaS ;
-* être force de proposition sur les évolutions du produit et la roadmap, en estimant les temps et la complexité des développements ;
-* participer activement aux revues de code pour améliorer la qualité, augmenter la couverture de tests unitaires et fonctionnels ;
-* optimiser les performances pour accueillir des centaines de milliers de participants ;
-* concevoir, maintenir et faire évoluer l'API GraphQL interne et publique ;
-* être force de proposition sur l’évolution de la stack technique et la résolution des problèmes soulevés par les différents pôles lors des rétrospectives ;
-* être au contact des clients lors d’auditions techniques ;
-* gérer les contributions externes de notre code open source : https://github.com/cap-collectif
+* Manager l'équipe de (8+) développeurs full-stack, infrastructure et frontend en l’aidant à progresser ;
+* Fluidifier les développements en cours en identifiant les blocages et en proposant des solutions ;
+* Développer en Symfony et JS moderne des parties critiques du code ;
+* Participer activement au bon fonctionnement de l’infrastructure et la résolution des problématiques de scalabilité du SaaS ;
+* Etre force de proposition sur les évolutions du produit et la roadmap, en estimant les temps et la complexité des développements ;
+* Participer activement aux revues de code pour améliorer la qualité, augmenter la couverture de tests unitaires et fonctionnels ;
+* Optimiser les performances pour accueillir des centaines de milliers de participants ;
+* Concevoir, maintenir et faire évoluer l'API GraphQL interne et publique ;
+* Etre force de proposition sur l’évolution de la stack technique et la résolution des problèmes soulevés par les différents pôles lors des rétrospectives ;
+* Etre au contact des clients lors d’auditions techniques ;
+* Gérer les contributions externes de notre code open source : https://github.com/cap-collectif
 
 **Profil**
 
-* expérience sur du management d'équipe de développeurs ;
+* Expérience sur du management d'équipe de développeurs ;
 * 5 ans d’expérience minimum en développement Symfony sur des projets
 conséquents, idéalement un SaaS ;
-* habitué(e) aux problématiques de performance frontend en JavaScript ;
-* curieux/curieuse et actif/active sur la veille technique ;
-* passionné(e) par votre métier ;
-* **l’envie de vous investir dans une entreprise dont la mission est porteuse de sens.**
+* Habitué(e) aux problématiques de performance frontend en JavaScript ;
+* Curieux/curieuse et actif/active sur la veille technique ;
+* Passionné(e) par votre métier ;
+* **L’envie de vous investir dans une entreprise dont la mission est porteuse de sens.**
 
 **Salaire**
+
 Fourchette : 80/85K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Développeur(se) PHP / Symfony - ELK 
@@ -97,7 +99,6 @@ optimiser les performances pour des sites pour des centaines de milliers de part
 * remettre en question régulièrement les pratiques de l’équipe (revues de code, rétrospectives, conférences, être force de proposition sur l’évolution de la stack technique) ;
 * participer à notre blog technique et contribuer à nos projets open source.
 
-
 **Profil**
 
 * expérience en développement PHP/Symfony ;
@@ -109,12 +110,15 @@ passionné.e par son métier ;
 * l’envie de vous investir dans une entreprise dont la mission est porteuse de sens.
 
 **Salaire**
+
 Fourchette : 44/48K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Développeur(se) fullstack PHP/Symfony/JS
 
 **Missions**
+
 Comme au dessus mais vous serez accompagné !
 
 **Profil**
@@ -127,7 +131,9 @@ passionné(e) par son métier ;
 * l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.
 
 **Salaire:**
+
 Fourchette : 40/44K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi les rejoindre ?

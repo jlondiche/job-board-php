@@ -17,7 +17,8 @@
 
 * Frontend : JavaScript // Vue.js // Typescript // Storybook 
  * Testing : Cypress  
-* Infrastructure : Openstack * Versioning : Git // Gitlab
+* Infrastructure : Openstack 
+* Versioning : Git // Gitlab
 * Backend : Python // Django // Microservices
 * Services : Docker // Kubernetes // Ansible // Terraform
 
@@ -26,13 +27,16 @@
 **Missions** 
 
 Au sein d’une équipe SCRUM, composée d’un PO, 2/4 développeurs fullstack Python, 1 développeur frontend, 1 UX Designer, vous serez amené à :  
+
 * Participer à l’architecture et au développement de nouvelles briques logicielles du Front-end d’Unyc
 * Améliorer l’outil de pilotage et de productivité de nos partenaires (Opérateurs, Revendeurs…)
 * Faire « vivre » les maquettes mises au point par l’UX designer (sous Figma)
 * Développer une librairie de composants Vue.js, en utilisant Storybook
 * Assurer la qualité du code grâce à la mise en place d’intégration continue
 * Résoudre efficacement les bugs
-* Documenter votre code  ** Domaines d’interventions** 
+* Documenter votre code  
+
+** Domaines d’interventions** 
 
 En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-stages » dans chacune des squads afin de trouver le projet qui vous correspond le mieux :  
 
@@ -67,6 +71,7 @@ En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-s
 ## Salaire 
 
 Fourchette: 40/60K€
+
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  ##Comment postuler ? 
 
 * Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
