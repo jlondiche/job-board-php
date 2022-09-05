@@ -1,4 +1,4 @@
-# ERES 
+# 💸 ERES 💸
 
 **Domaine :** Épargne salariale.
 

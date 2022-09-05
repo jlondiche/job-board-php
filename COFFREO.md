@@ -24,7 +24,7 @@ Coffreo est un pure player avec l'ambition d'être considéré comme une Scale-u
 * Back end: PHP, legacy en Symfony, nouveaux développement & refonte en Laravel en cours, MongoDB, MySQL
 * Front end: ReactJS
 
-## Product Owner / Chef d'orchestre
+## Product Owner / Chef(fe) d'orchestre
 
 **Missions**
 
@@ -49,7 +49,7 @@ Fourchette : 45-65K€.
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-## DevOps confirmé Kubernetes
+## DevOps confirmé(e) Kubernetes
 
 Vous rejoignez une équipe de 2 devOps et participerez aux missions suivantes :
 

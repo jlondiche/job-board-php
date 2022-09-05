@@ -1,4 +1,4 @@
-# CAP COLLECTIF
+# ☝️ CAP COLLECTIF 📢 
 
 **Domaine :** Démocratie participative #civitech #techforgood
 

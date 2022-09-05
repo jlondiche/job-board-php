@@ -23,15 +23,28 @@ De ce fait, c'est toute l'expérience d'achat d'articles de sport que la sociét
 * Front end: Vue,JS. 
 * DevOps : Varnish, GCP, GitHub, Docker. 
 
-## Développeur Back-end 
+## Développeur(se) Back-end 
 
-Les missions seront principalement avec les backoffice des employés et des marchands, création, ajout, modification des fonctionnalités.
-L’intégration des flux produits de tous les marchands partenaires. 
-Amélioration des performances, veiller à la qualité et la maintenabilité du code comme la mise en place et automatisation des tests. 
+**Missions :** 
+
+* Création, ajout, modification des fonctionnalités au niveau des back offices des employés et des marchands. 
+* Intégration des flux produits de tous les marchands partenaires. 
+* Amélioration des performances. 
+* Veiller à la qualité et la maintenabilité du code comme la mise en place et l’automatisation des tests. 
+
+**Profil :**
+
+* Maitrise du PHP.
+* Travail en méthode agile.
+* Connaitre Symfony, ou les grands principes tel que MVC, l’injection de dépendance. 
+* Bien connaitre le SQL, postgreSQL est un plus, et savoir travailler avec un ORM.
 
 ## Pourquoi postuler ?
 
-Vous avez envie d’embarquer dans une aventure sportive et contribuer à l’amélioration des performances d’un point de vue technique.
+* Vous avez envie d’embarquer dans une aventure sportive et contribuer à l’amélioration des performances d’un point de vue technique.
+* Vous êtes ingénieux et avez le sens du détail.
+* Vous aimez travailler sur de grosses volumétries de données et sur des flux financiers.
+* Vous avez l’esprit d’équipe et souhaite relever des défis dans une équipe soudée. 
 * Package attractif avec equity.
 
 ## Salaire 
@@ -42,7 +55,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou à jodia.jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou à jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
