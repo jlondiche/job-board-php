@@ -59,7 +59,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
 	- Développeur(se) front-end confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
-	- Lead developpeur(se) orienté(e) SCRUM master 🏠
+	- Lead developpeur(se) PHP8 / Symfony6 🏠
 	- Développeur(se) fullstack JS - Angular.js & Node.js 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
 	- Développeur(se) back-end PHP OO, clean code 🏠 
