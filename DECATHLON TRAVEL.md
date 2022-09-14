@@ -1,6 +1,6 @@
 ##  DECATHLON TRAVEL 
 
-**Domaine :** 
+**Domaine :** Sport & Voyage
 
 **Où :** Annecy et Lyon. Télétravail possible : 4 jours par semaine.
 
@@ -14,15 +14,13 @@ https://www.decathlontravel.com/concept
 
 **Fact & Figures**
 
-* Création en 2019
+* Création en 2021
 * Adossé au groupe Décathlon
 * 2 projets :
 	* les voyages sportifs outdoor
 	* le ski : projet initial qui a lancé Décathlon travel
-* Service client basé en France
+* Service client basé en France dans les Alpes
 * Expertise locale et sportive
-
-Pour mener à bien ce projet, qui de mieux que des passionnés experts du voyage et des sports outdoor ? 
 
 Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decathlon, fin connaisseurs de leur sport, ainsi que de techniciens informatiques aguerris. Réunis autour de mêmes valeurs et d'un enthousiasme sans limite, Decathlon travel a sélectionné soigneusement ses agences partenaires spécialistes de leur destination et de leur sport. 
 
@@ -37,7 +35,7 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 **Approche bien découpée, orientée Produit.**
 
 
-## Lead développeur(se) back-end PHP / Symfony 
+## Lead tech PHP / Symfony 
 
 **Missions**
 
@@ -129,7 +127,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ? 
 
-* Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com ou julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+* Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 ----
