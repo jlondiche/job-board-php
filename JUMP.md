@@ -14,12 +14,12 @@ Bizness, avec leur outil JUMP, propose des parcours de formation innovants et de
 
 * Création en 2017 de l'usine digitale JUMP
 * JUMP veut casser les codes de la formation, plus individualisée et humanisée
-* Adaptative learning : apprentissage adapté à chaque apprenant grâce à l'interlligence artificielle, des algorithmes, des bases de données importantes et des recherches importantes 
+* Adaptative learning : apprentissage adapté à chaque apprenant grâce à l'intelligence artificielle, des algorithmes, des bases de données importantes et des recherches importantes 
 
 **Stack**
 
 * Backend : PHP 8.0, Symfony6, PostgreSQL et MySQL, PHPUnit, Node.Js (NestJS). NoSQL à venir. Branchement sur de la data : ETL en cours
-* Frontend : Javascript, AngularJS, Vanilla.Jss, jQuery
+* Frontend : Javascript, AngularJS, Vanilla.Js, jQuery
 * Mercure, Messenger, Tests automatisés
 * Kubernetes, Gitlab, SonarCube, JIRA
 * Applications PWA et mobiles hybrides
@@ -40,8 +40,6 @@ Equipe de 6 personnes, vous serez le binôme du PM.
 * Participer au développement front et back end sur les points critiques 
 * Prendre la main sur l’amélioration continue
 * Collaborer avec le produit et le PM
-* Structurer et aider au rôle de Scrum master : aujourd'hui c’est le PM et un developpeur certifié ui anime l’agilité
-* Documenter les applications pour les développements ultérieurs et la mise en production,
 * Assurer un haut niveau de qualité de code en appliquant la méthodologie et les bonnes pratiques
 * Être force de proposition dans l’amélioration des guidelines
 * Supporter les autres développeurs dans leurs missions d’analyse, d’architecture, de gestion de bases de données et d’administration système
@@ -99,7 +97,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 ## Pourquoi postuler ?
 
 Rejoindre JUMP c’est prendre part à un projet avec de réels ambitions. 
-Le groupe BIZZNESS est un acteur majeur d’un secteur en pleine mutation : la formation.   En plus, d’un secteur en pleine explosion, vous bénéficierez de :  
+Le groupe BIZNESS est un acteur majeur d’un secteur en pleine mutation : la formation.   En plus, d’un secteur en pleine explosion, vous bénéficierez de :  
 * Superbe locaux près du palais de justice à Toulouse : Fullremote possible partout en France 🏠 
 * Une équipe soudée, innovante et sympathique toujours partante pour partager des moments tous ensemble : apéro, sémaire, sortie d’équipe 
 * D’opportunités liés au fort développement du groupe Bizzness 🚀

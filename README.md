@@ -22,8 +22,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Symfony 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- **Développeur(se) front-end JS / Vue.js : Cybersécurité [!NEW!]** 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
-	- Développeur(se) back-end confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur(se) front-end React.JS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
@@ -35,7 +33,7 @@ Full remote = 🏠
 	- **Développeur(se) - Expert(e) technique [!NEW!]** 🏠
 	- **Développeur(se) sénior - Traitement asynchrone [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
-	- **Lead Développeur(se) PHP / Symfony - équipe Média communautaire [!NEW!] **
+	- **Lead Développeur(se) PHP / Symfony - équipe Média communautaire [!NEW!]**
 	- Développeur(se) Core PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COFFREO.md">[COFFREO]</a> 
 	- Product Owner/Chef(fe) d'orchestre/Chef de projet 🏠
@@ -44,12 +42,13 @@ Full remote = 🏠
 	- **Développeur(se) back-end PHP / Symfony [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Senior front-end engineer - Ads demand** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
+	- **Lead developpeur(se) PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy[!NEW!]**
+	- **Développeur(se) back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DrDATA.md">[DR DATA]</a>
 	- **Senior Frontend Developper React.js/Next.js ⚛️[!NEW!]**
 	- **Senior Backend Developper PHP / Symfony 🐘[!NEW!]**
 	- **Senior fullstack Developper PHP / JS 🐘[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
-	- Lead développeur(se) PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
 	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
@@ -84,8 +83,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur(se) back-end PHP / Symfony confirmé(e)
 	- Développeur(se) front-end JS / ReactJS confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SOUNDCHARTS.md">[SOUNDCHARTS]</a>
-	- **Binôme du CTO : Développeur(se) back-end PHP / architecte [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
 	- Senior front-end engineer 🏠
 	- QA Director 🏠 
