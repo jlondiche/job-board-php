@@ -10,42 +10,22 @@
 
 * +2 millions d’heures de maintenance enregistrées dans la plateforme
 * +200 000 équipements enregistrés dans la plateforme
+* **Architecture à la pointe, CQRS, event sourcing, DDD**
 
-## VP engineering
+## Stack
 
-Mobility Work recherche son VP engineering. Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
+* PHP 7.4 (volonté d'upgrade php 8.x en cours)
+* Symfony 5.x
+* MySQL 8.x, AWS, RabbitMQ, ElasticSearch, MongoDB
+* Approche DDD et CQRS sur l'ensemble des nouveaux développements
+* EventSourcing
+* Docker en dev et en CI
+* 3000-4000 tests fonctionnels behat, 1000 tests unitaires back, 150 tests cypress, 240
+tests unitaires front jest
+* ES6, VueJS, Sass, Vuetify
+* Legacy avec Twig/Bootstrap/jQuery en cours de migration vers VueJS
 
-**Missions :**
-
-* Accompagner au scale-up des équipes
-* Mettre en place des process
-* Recruter pour créer une nouvelle feature team
-
-**Contexte** 
-
-* Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
-* Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
-* Une volonté d'amélioration continue (Kaizen)
-* Une culture du résultat et de l'engagement (= responsabilisation et autonomie
-(horaire, localisation))
-* Une écoute bienveillante et une approche décisionnelle collective
-
-**Profil**
-
-Mobility work a un environnement technique très poussé, il faut pour pouvoir postuler à ce poste : 
-
-* Avoir des connaissances techniques pointues en développement PHP mais également en architecture
-* Avoir de l'expérience en scale-up
-* Bon communicant
-* Etre ouvert au fullremote et a une méthodologie de travail moderne
-
-**Salaire**
-
-Autour de 80/90K€
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
-## Lead dev / Architecte
+## Lead developpeur(se) back-end / Architecte
 
 Mobility Work recherche son lead / architect avec une solide expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
@@ -91,18 +71,46 @@ conventions de la guideline établie
 Autour de 60/70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Stack
+## Senior Frontend développeur(se) VueJS  
 
-* PHP 7.4 (volonté d'upgrade php 8.x en cours)
-* Symfony 5.x
-* MySQL 8.x, AWS, RabbitMQ, ElasticSearch, MongoDB
-* Approche DDD et CQRS sur l'ensemble des nouveaux développements
-* EventSourcing
-* Docker en dev et en CI
-* 3000-4000 tests fonctionnels behat, 1000 tests unitaires back, 150 tests cypress, 240
-tests unitaires front jest
-* ES6, VueJS, Sass, Vuetify
-* Legacy avec Twig/Bootstrap/jQuery en cours de migration vers VueJS
+Mobility Work recherche un senior frontend développeur avec une solide expérience sur le framework VueJS ainsi qu’une maîtrise du VanillaJS.  
+
+Une volonté de rendre accessible à tous notre solution de gestion de maintenance utilisée dans des contextes industriels très variés (bruyant, sombre, des utilisateurs plus ou moins à l’aise avec l’outil informatique, etc…)   
+
+En relation avec un Engineering Manager, et l’équipe produit ainsi que l’intervention ponctuel d’un Product Designer, vous êtes attaché(e) à la qualité, à l’expérience utilisateur, à la stabilité, à la performance tout en étant pragmatique. 
+
+Vous savez itérer rapidement en apportant régulièrement de la valeur pour nos utilisateurs et notre stratégie.   
+
+**Quelques challenges en cours : **
+
+* Finaliser la migration vers une Single Page Application 
+* Inverser la pyramide des test et améliorer notre couverture de test sur nos applications
+* Isoler le déploiement de l’application front 
+* Améliorer les performances 
+
+**Missions**
+
+  * Réaliser des features en collaboration avec l’équipe backend 
+* Améliorer les méthodologies de développement 
+* Participer à la montée en compétence de l’équipe 
+* Participer à la volonté de modernisation de la plate-forme : restructuration du projet, suppression de Jquery, etc…  * Participer à la conception et à la documentation 
+* Optimiser les différentes couches Javascript de l’application 
+* Coordonner l’intégration de toutes les fonctionnalités   
+
+**Profil**
+
+* Vous faites preuve d’un excellent relationnel et d’une forte capacité d’écoute ainsi que d’une compréhension aiguisée des problématiques techniques  
+* Vous êtes un véritable expert Javascript, particulièrement sur VueJS, avec une expérience d’au minimum 7 ans 
+* Vous maîtrisez le français et l’anglais  
+* **Vous maitrisez l’approche CQRS et L’EventSourcing en bonus : in-house, projetions sync & async)** 
+ * Vous avez un intérêt et de la curiosité pour les langages fonctionnels 
+
+
+## Salaire 
+
+* Rémunération : fouchette 50/60K€
+
+  * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST. 
 
 ## Pourquoi postuler ?
 
@@ -114,7 +122,7 @@ tests unitaires front jest
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com (poste front) ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

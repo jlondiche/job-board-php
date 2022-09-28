@@ -53,24 +53,24 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/INSTANT%20GAMING.md">[INSTANT GAMING]</a>  
-	- Lead développeur(se) fullstack PHP/JS confirmé(e)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
+	- Tech Lead PHP Symfony (H/F) **craftmanship** **[!NEW!]**
+	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship** **[!NEW!]**
+	- Développeur(se) senior frontend ReactJS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
 	- Développeur(se) front-end confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
 	- Lead developpeur(se) PHP8 / Symfony6 🏠
 	- Développeur(se) fullstack JS - Angular.js & Node.js 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- Développeur(se) back-end PHP OO, clean code 🏠 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
-	- **Développeur(se) back-end PHP / migration Laravel vers Symfony, profil intermédiaire [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
-	- VP engineering 🏠
-	- Lead / Architect CQRS, Event Sourcing 🏠
+	- **Senior Frontend développeur(se) VueJS   [!NEW!]**🏠
+	- Lead / Architect DDD, CQRS, Event Sourcing 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
 	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
 	- Développeur(se) fullStack Laravel / VueJS++ confirmé(e) 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/QUANTIC%20TELECOM.md">[QUANTIC TELECOM]</a> 
+	- Développeur(se) Fullstack Laravel 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- **Développeur(se) back-end PHP8 / Symfony6 / AWS confirmé(e) [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
