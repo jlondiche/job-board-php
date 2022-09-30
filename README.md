@@ -39,7 +39,7 @@ Full remote = 🏠
 	- Product Owner/Chef(fe) d'orchestre/Chef de projet 🏠
 	- **DevOps confirmé(e) Kubernetes [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- **Développeur(se) back-end PHP / Symfony [!NEW!]** 🏠
+	- **Développeur(se) back-end PHP / Symfony [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
@@ -72,7 +72,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/QUANTIC%20TELECOM.md">[QUANTIC TELECOM]</a> 
 	- Développeur(se) Fullstack Laravel 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
-	- **Développeur(se) back-end PHP8 / Symfony6 / AWS confirmé(e) [!NEW!]** 🏠
+	- **Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
 	- **Développeur(se) back-end PHP8 / Symfony5 confirmé(e) [!NEW!]** Lyon / Paris
 	- **Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) [!NEW!]** Lyon / Paris
