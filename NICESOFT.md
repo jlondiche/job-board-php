@@ -16,21 +16,21 @@ Nicesoft est une filiale du groupe SoftWayMedical qui a pour vocation depuis 25a
 * Le groupe Softway médical représente 800 collaborateurs au total. 
 
 
-**NICESOFT TRAVAILLE SUR DEUX PROJETS :**
+**NICESOFT TRAVAILLE SUR DEUX PROJETS :** 
 
 **Un projet de facturation nommé Mycelium :**
 L’objectif de cette API est de centraliser et exposer les fonctionnalités de formatage et de sécurisation des flux entre les différents systèmes d'informations du groupe SoftWayMedical. 
 
-**Le projet est de refondre le moteur de facturation en micro service avec du software craftsmanship et du TDD, afin de proposer une solution tenable dans le temps.**
+> **Le projet est de refondre le moteur de facturation en micro service avec du software craftsmanship et du TDD, afin de proposer une solution tenable dans le temps.**
 Aujourd’hui l’équipe est composée de 3 personnes et recherche plusieurs personnes pour les aider dans cette belle mission.
 
-## Stack : 
+### Stack : 
 
-Backend : PHP8/Symfony6/PHP Unit
-Frontend : Nodes/Vuejs 3/Nightwatch
-DB: Doctrine (MySQL/Oracle)
-GitlabCi/Docker/Openshift/Postman/Newman
-Nginx, Keycloak, Minio (S3), traefik, redis, graylog, rabbitmq (Stomp)
+* Backend : PHP8/Symfony6/PHP Unit
+* Frontend : Nodes/Vuejs 3/Nightwatch
+* DB: Doctrine (MySQL/Oracle)
+* GitlabCi/Docker/Openshift/Postman/Newman
+* Nginx, Keycloak, Minio (S3), traefik, redis, graylog, rabbitmq (Stomp)
 
 2 postes sont ouverts dans l’équipe Facturation : Dev back-end + Testeur
 
@@ -73,7 +73,7 @@ Nginx, Keycloak, Minio (S3), traefik, redis, graylog, rabbitmq (Stomp)
 
 =====
 
-**Le projet Système d’Information Radiologique (RIS) nommé VENUS :**
+***Le projet Système d’Information Radiologique (RIS) nommé VENUS :***
 https://www.nicesoft.fr/fr/venus-ris/ 
 
 Permet aux professionnels de santé de couvrir toutes les fonctionnalités de la prise de rendez-vous des patients, l’accueil des patients, jusqu’à la facturation des actes médicaux, en passant par la gestion des comtes-rendus etc. 
@@ -81,9 +81,9 @@ Une création from scratch, avec du software craftsmanship et du TDD, encadrée 
 
 ### Stack:
 
-Backend : PHP7.4/Legacy/Symfony6 
-Frontend : Js/JQuery
-DB: MySQL/Oracle/SQLServer
+* Backend : PHP7.4/Legacy/Symfony6 
+* Frontend : Js/JQuery
+* DB: MySQL/Oracle/SQLServer
 
 Plusieurs postes ouverts également sur ce projet:
 
@@ -125,7 +125,7 @@ Pour maintenir et accompagner l'équipe de developpeurs sur ce beau projet :
 * Le SQL et les SGBD relationnels n’ont pas de secrets pour vous.
 * Vous êtes familier avec les procédures de tests et le déploiement continue.
 
-## Salaire
+### Salaire
 
 La fourchette pour ces postes est de 55K€/75K€. 
 
@@ -133,7 +133,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. 
 
 ——
 
-## Pourquoi postuler à cette entreprise?
+### Pourquoi postuler à cette entreprise?
 
 Nicesoft est avant tout une aventure humaine, au delà des compétences métiers si vous vous  pensez « out of the box » que vous aimez les responsabilités, la persévérance alors vous trouverez votre place dans cette équipe jeune et dynamique. 
  Nicefost travaille autour d’un projet avec du sens #techforgood. Vous travaillerez dans le domaine médical et essayerez d’apporter votre pierre à l’édifice.
