@@ -30,7 +30,7 @@ Full remote = 🏠
 	- **Développeur(se) fullstack PHP/Symfony/JS [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- DevOps junior, developpeur(se) souhaitant devenir Ops 🏠
-	- **Développeur(se) - Expert(e) technique [!NEW!]** 🏠
+	- **Développeur(se) - Webperf & Optimisation [!NEW!]** 🏠
 	- **Développeur(se) sénior - Traitement asynchrone [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- **Lead Développeur(se) PHP / Symfony - équipe Média communautaire [!NEW!]**
@@ -62,6 +62,9 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
 	- Lead developpeur(se) PHP8 / Symfony6 🏠
 	- Développeur(se) fullstack JS - Angular.js & Node.js 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
+	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
+	- **Développeur(se) front-end JS / ReactJS / Typescript [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **Senior Frontend développeur(se) VueJS   [!NEW!]**🏠
 	- Lead / Architect DDD, CQRS, Event Sourcing 🏠
