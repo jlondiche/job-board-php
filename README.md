@@ -49,8 +49,6 @@ Full remote = 🏠
 	- **Senior Frontend Developper React.js/Next.js ⚛️[!NEW!]**
 	- **Senior Backend Developper PHP / Symfony 🐘[!NEW!]**
 	- **Senior fullstack Developper PHP / JS 🐘[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/EVANEOS.md">[EVANEOS]</a> 
-	- Développeur(se) back-end PHP, POO+++ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
@@ -59,15 +57,16 @@ Full remote = 🏠
 	- Développeur(se) senior frontend ReactJS **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
 	- Développeur(se) front-end confirmé(e) 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
-	- Lead developpeur(se) PHP8 / Symfony6 🏠
-	- Développeur(se) fullstack JS - Angular.js & Node.js 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
 	- **Développeur(se) front-end JS / ReactJS / Typescript [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **Senior Frontend développeur(se) VueJS   [!NEW!]**🏠
 	- Lead / Architect DDD, CQRS, Event Sourcing 🏠
+- - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
+	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship [!NEW!]** 
+	- **Testeur**
+	- **DevOps**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
 	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠

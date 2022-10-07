@@ -76,8 +76,8 @@ Aujourd’hui l’équipe est composée de 3 personnes et recherche plusieurs pe
 ***Le projet Système d’Information Radiologique (RIS) nommé VENUS :***
 https://www.nicesoft.fr/fr/venus-ris/ 
 
-Permet aux professionnels de santé de couvrir toutes les fonctionnalités de la prise de rendez-vous des patients, l’accueil des patients, jusqu’à la facturation des actes médicaux, en passant par la gestion des comtes-rendus etc. 
-Une création from scratch, avec du software craftsmanship et du TDD, encadrée par une équipe de 3 développeurs et un team manager. 
+> **Permet aux professionnels de santé de couvrir toutes les fonctionnalités de la prise de rendez-vous des patients, l’accueil des patients, jusqu’à la facturation des actes médicaux, en passant par la gestion des comtes-rendus etc. 
+Une création from scratch, avec du software craftsmanship et du TDD, encadrée par une équipe de 3 développeurs et un team manager.** 
 
 ### Stack:
 
