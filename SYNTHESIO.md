@@ -1,4 +1,4 @@
-## 🧠 SYNTHESIO 🖥
+# 🧠 SYNTHESIO 🖥
 
 **Domaine :** Social Intelligence
 

@@ -44,7 +44,7 @@ Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujet
 
 **Profil**
 
-* + de 3 ans d’Xp en tant que développeur frontend, principalement sur React.js/Nest.js
+* Plus de 3 ans d’Xp en tant que développeur frontend, principalement sur React.js/Nest.js
 * Vous avez une bonne connaissance de Typescript
 * Vous avez une véritable sensibilité UX/UI
 * Vous aimez produire un code propre, lisible et de qualité

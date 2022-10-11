@@ -1,4 +1,4 @@
-## 🌎 WEGLOT 🌏
+# 🌎 WEGLOT 🌏
 
 **Domaine :** Outil de traduction web 
 

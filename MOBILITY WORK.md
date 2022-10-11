@@ -25,7 +25,7 @@ tests unitaires front jest
 * ES6, VueJS, Sass, Vuetify
 * Legacy avec Twig/Bootstrap/jQuery en cours de migration vers VueJS
 
-## **Lead developpeur(se) back-end / Architecte**
+## Lead developpeur(se) back-end / Architecte
 
 Mobility Work recherche son lead / architect avec une solide expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
@@ -71,7 +71,7 @@ conventions de la guideline établie
 Autour de 60/70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## **Senior Frontend développeur(se) VueJS  **
+## Senior Frontend développeur(se) VueJS  
 
 Mobility Work recherche un senior frontend développeur avec une solide expérience sur le framework VueJS ainsi qu’une maîtrise du VanillaJS.  
 
@@ -93,7 +93,8 @@ Vous savez itérer rapidement en apportant régulièrement de la valeur pour nos
   * Réaliser des features en collaboration avec l’équipe backend 
 * Améliorer les méthodologies de développement 
 * Participer à la montée en compétence de l’équipe 
-* Participer à la volonté de modernisation de la plate-forme : restructuration du projet, suppression de Jquery, etc…  * Participer à la conception et à la documentation 
+* Participer à la volonté de modernisation de la plate-forme : restructuration du projet, suppression de Jquery, etc…  
+* Participer à la conception et à la documentation 
 * Optimiser les différentes couches Javascript de l’application 
 * Coordonner l’intégration de toutes les fonctionnalités   
 
@@ -103,7 +104,7 @@ Vous savez itérer rapidement en apportant régulièrement de la valeur pour nos
 * Vous êtes un véritable expert Javascript, particulièrement sur VueJS, avec une expérience d’au minimum 7 ans 
 * Vous maîtrisez le français et l’anglais  
 * **Vous maitrisez l’approche CQRS et L’EventSourcing en bonus : in-house, projetions sync & async)**
- * Vous avez un intérêt et de la curiosité pour les langages fonctionnels 
+* Vous avez un intérêt et de la curiosité pour les langages fonctionnels 
 
 
 ## Salaire 

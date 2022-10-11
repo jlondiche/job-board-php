@@ -1,4 +1,4 @@
-## ⚡️GRANULAR ⚡️
+# ⚡️GRANULAR ⚡️
 
 **Domaine :** Energies renouvelables 
 
