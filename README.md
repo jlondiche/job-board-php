@@ -2,7 +2,7 @@
 
 Développeuses, développeurs, voici toutes les opportunités du moment. Vous noterez que je ne cache pas le nom des entreprises comme indiqué dans mon <a href="https://medium.com/@jlondiche/jarr%C3%AAte-le-recrutement-propri%C3%A9taire-je-d%C3%A9marre-l-open-source-6e33463aec9">post Medium</a>. Vous y trouverez également **mon code de conduite** que je m'engage à respecter pour chaque process.
 
-**Pour postuler**, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrutement.com">jeanne.londiche@jlrecrutement.com</a> avec 2 ou 3 lignes rapides vous concernant.
+**Pour postuler**, envoyez-moi un email à <a href="mailto:jeanne.londiche@jlrecrutement.com">jeanne.londiche@jlrecrutement.com</a>.
 
 **Points importants :** 
 1. Si rien ne vous intéresse dans la liste ci-dessous, n'hésitez pas à m'envoyer un e-mail afin de voir ce que j'ai pour vous dans mon réseau élargi. J'ai d'autres cordes à mon arc ;).
@@ -30,8 +30,8 @@ Full remote = 🏠
 	- **Développeur(se) fullstack PHP/Symfony/JS [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- DevOps junior, developpeur(se) souhaitant devenir Ops 🏠
-	- **Développeur(se) - Webperf & Optimisation [!NEW!]** 🏠
-	- **Développeur(se) sénior - Traitement asynchrone [!NEW!]** 🏠
+	- Développeur(se) - Webperf & Optimisation 🏠
+	- Développeur(se) sénior - Traitement asynchrone 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- **Lead Développeur(se) PHP / Symfony - équipe Média communautaire [!NEW!]**
 	- Développeur(se) Core PHP
@@ -39,31 +39,32 @@ Full remote = 🏠
 	- Product Owner/Chef(fe) d'orchestre/Chef de projet 🏠
 	- **DevOps confirmé(e) Kubernetes [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- **Développeur(se) back-end PHP / Symfony [!NEW!]**
+	- Développeur(se) back-end PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
-	- **Lead developpeur(se) PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy[!NEW!]**
-	- **Développeur(se) back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy[!NEW!]**
+	- **Lead developpeur(se) PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy [!NEW!]**
+	- **Développeur(se) back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DrDATA.md">[DR DATA]</a>
-	- **Senior Frontend Developper React.js/Next.js ⚛️[!NEW!]**
-	- **Senior Backend Developper PHP / Symfony 🐘[!NEW!]**
-	- **Senior fullstack Developper PHP / JS 🐘[!NEW!]**
+	- Senior Frontend Developper React.js/Next.js ⚛️
+	- Senior Backend Developper PHP / Symfony 🐘
+	- Senior fullstack Developper PHP / JS 🐘
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
+	- **Développeur frontend React.js/Nest.js ⚛️** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship** **[!NEW!]**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship** **[!NEW!]**
 	- Développeur(se) senior frontend ReactJS **[!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/JOBTEASER.md">[JOBTEASER]</a> 
-	- Développeur(se) front-end confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
-	- **Développeur(se) front-end JS / ReactJS / Typescript [!NEW!]** 🏠
+	- **Développeur(se) front-end JS / ReactJS / Typescript** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
-	- **Senior Frontend développeur(se) VueJS   [!NEW!]**🏠
+	- **Senior Frontend développeur(se) VueJS   [!NEW!]** 🏠
 	- Lead / Architect DDD, CQRS, Event Sourcing 🏠
-- - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
+	- **Développeur(se) PHP DDD, CQRS, Event Sourcing [!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
 	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship [!NEW!]** 
 	- **Testeur**
 	- **DevOps**
