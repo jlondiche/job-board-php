@@ -15,15 +15,15 @@
 ## Stack
 
 * PHP 7.4 (volonté d'upgrade php 8.x en cours)
-* Symfony 5.x
+* Symfony 5.x (upgrade en cours)
 * MySQL 8.x, AWS, RabbitMQ, ElasticSearch, MongoDB
 * Approche DDD et CQRS sur l'ensemble des nouveaux développements
-* EventSourcing
+* EventSourcing (in-house, projections sync & async)
+* Message Bus (messenger)
 * Docker en dev et en CI
 * 3000-4000 tests fonctionnels behat, 1000 tests unitaires back, 150 tests cypress, 240
 tests unitaires front jest
 * ES6, VueJS, Sass, Vuetify
-* Legacy avec Twig/Bootstrap/jQuery en cours de migration vers VueJS
 
 ## Lead developpeur(se) back-end / Architecte
 
@@ -32,19 +32,16 @@ Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recrute
 
 **Missions :**
 
-* Améliorer les méthodologies de développement
-* Raffinement produit en collaboration avec le PM, le PO et des experts métiers
-* Technical Spikes et expérimentations (PoC)
-* Participer à la monter en compétence de l'équipe
-* Participer à la volonté de modernisation de la plate-forme (restructuration du projet,
-etc.)
-* Conception et garant des guidelines & best-practices
-* Coordination des intégrations de toutes les fonctionnalités (intégrations tierces,
-mobile app, etc.)
-* Documentation et formation des équipes aux respects des bonnes pratiques et
-conventions de la guideline établie
-* Réaliser des features en collaboration avec l'équipe Backend-End
-* S'assurer de la bonne santé applicative (stabilité, performance, sécurité)
+* Focus on tech
+* Excellence technique et innovation
+* Architecture et intégrations tierces
+* Mentoring et alignement avec la vision technique et produit
+* Spikes et PoC
+* Code Reviews & Feedbacks
+* Code Quality Assurance & Code Churn
+* Production Issues Escalation
+* DX efficiency
+* **Prise en main de sujets R&D, réalisation de POC et partage avec les équipes une fois les solutions trouvées.** 
 
 **Contexte**
 
@@ -57,18 +54,20 @@ conventions de la guideline établie
 
 **Profil**
 
-* Expert en PHP (7.4, 8.0)
-* Expérience en systèmes distribués
-* Expérience notable en CQRS
-* Expérience notable en EventSourcing
-* Curiosité et veille technique régulière (partage et restitution)
-* Pragmatique & "Problem Solver"
-* Intérêt pour les domaines métiers complexes
-* Sensibilité Business
+* Vous faites preuve d’un excellent relationnel et d’une forte capacité d’écoute ainsi que d’une compréhension aiguisée des problématiques techniques.
+* Vous maîtrisez **l’approche CQRS et l’Event-Sourcing (in-house, projections sync & async)** 
+* Excellente organisation (mentoring des équipes sur les choix techniques, gestion des coûts, respects des budgets et suivi des développements dans le temps)
+* Rigueur
+* Pragmatisme et créativité
+* Sens du détails et capacité à prendre du recul
+* Grande autonomie et capacité d’initiative
+* Implication
+* Suivi de la DX
+
 
 **Salaire**
 
-Autour de 60/70K€
+Autour de 70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Senior Frontend développeur(se) VueJS  
@@ -115,11 +114,16 @@ Vous savez itérer rapidement en apportant régulièrement de la valeur pour nos
 
 ## Pourquoi postuler ?
 
-* Full-remote
 * Kaizen très ancré dans notre culture
-* Financement pour des conférences
-* Des formations ou des interventions d'experts
+* Budget pour participations à des conférences
+* Des formations ou des interventions d’experts
+* CDI à temps plein, à pourvoir dès que possible
+* Environnement bienveillant et résultat driven
+* Rémunération selon profil
+* Full-remote
+* Locaux à disposition en plein cœur de Paris 08 (prox. parc Monceau)
 * Excellente mutuelle
+* **Et surtout l'occasion de rejoindre une équipe et un projet en pleine évolution 🚀**
 
 ## Comment postuler ?
 
