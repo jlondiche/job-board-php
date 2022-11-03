@@ -9,7 +9,6 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 2. Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 3. J'accompagne certaines entreprises depuis plus de 10ans, elles recrutent régulièrement, c'est donc normal de voir ces entreprises toujours présentes dans mon github car **elles sont en perpétuelles croissance & développement.**
 
-
 À bientôt j'espère.
 
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous, et bien plus encore. _Faites-moi confiance_ et gagnez un temps fou.**
@@ -40,6 +39,8 @@ Full remote = 🏠
 	- **DevOps confirmé(e) Kubernetes [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
 	- Développeur(se) back-end PHP / Symfony
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CLIPR.md">[CLIPR]</a> 
+	- Tech Lead / VP Backend & Ops
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
@@ -50,7 +51,7 @@ Full remote = 🏠
 	- Senior Backend Developper PHP / Symfony 🐘
 	- Senior fullstack Developper PHP / JS 🐘
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
-	- **Développeur frontend React.js/Nest.js ⚛️** **[!NEW!]** 🏠
+	- **Développeur frontend React.js/Next.js ⚛️** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
@@ -72,8 +73,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
 	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
 	- Développeur(se) fullStack Laravel / VueJS++ confirmé(e) 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/QUANTIC%20TELECOM.md">[QUANTIC TELECOM]</a> 
-	- Développeur(se) Fullstack Laravel 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- **Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
@@ -95,5 +94,3 @@ Full remote = 🏠
 	- Lead Développeur(se) PHP / Laravel sénior 🏠
 	- Développeur(se) back-end PHP / Laravel 🏠
 	- Développeur(se) front-end JS / VueJS 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WEGLOT.md">[WEGLOT]</a> 
-	- Développeur(se) back-end PHP / Symfony confirmé(e)

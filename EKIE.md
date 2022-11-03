@@ -26,13 +26,13 @@ Ils ont bouclé une levée de fonds en seed de 2M d’euros cet été pour perme
 **Stack**
 
 * PHP8.1, Symfony6, Algolia, PostGreSQL, Redis, Cache HTTP, Varnish
-* JS, React.JS, Nest.JS, Test E2E : Cypress,  SaaS, GraphQL
+* JS, React.JS, Next.JS, Test E2E : Cypress,  SaaS, GraphQL
 * API platform
 * AWS, lambda, sms
 * Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpspec fixer
 * Déploiement continue github, heroku et AWS
 
-## Développeur frontend React.js/Nest.js ⚛️
+## Développeur frontend React.js/Next.js ⚛️
 
 **Missions**
 
