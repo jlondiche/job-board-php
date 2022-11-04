@@ -35,53 +35,6 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 **Approche bien découpée, orientée Produit.**
 
 
-## Lead tech PHP / Symfony 
-
-**Missions**
-
-En tant que Lead Tech, vous avez pour principale mission de manager la tech au quotidien : **Mettre en œuvre la stratégie technique de la plateforme définie par le CTO et coordonner son développement.**
-
-Vous travaillez en étroite collaboration avec les product manager, le product designer, et régulièrement avec l’équipe centrale IT de Décathlon. 
-
-Vos missions sont :
-* Débloquer des situations qui demandent un haut niveau technique sur les outils et technos que nous utilisons.
-* Accompagner  l'équipe de développeurs au quotidien en répondant rapidement et précisément à leurs questions et en les faisant monter en compétence. 
-* Garantir la fiabilité du code et des fonctionnalités en recettant chaque livraison avant leur déploiement.
-* Participer au développement d’ une plateforme robuste et performante intégrant toutes les fonctionnalités et interfaces (Interfaces front-end & back-end, fonctionnalités SEO, CRM et la BI). 
-* Participer aux choix des solutions techniques les mieux adaptées aux problèmes rencontrés, et mener des réunions sur les choix d’architecture.
-
-Vous reportez hiérarchiquement au CTO de Décathlon Travel.
-
-
-**Profil**
-
-* Vous maîtrisez : PHP, Symfony, API Platform, Docker, Postgresql, Redis, RabbitMQ, AWS.
-Vous savez : 
-* Vous construisez des interfaces performantes, fiables et sécurisées. La qualité du code compte.
-* Vous créez un code stable, faire des tests, de l’intégration et faire de la livraison continue une priorité.
-* Vous mettez en application les protocoles et modèles d’architecture applicative.
-* Vous aimez résoudre des problèmes complexes grâce à des solutions logicielles évolutives et résilientes.
-* Vous aimez accompagner les développeurs et les aider à développer dans le respect de standards élevés. 
-* Vous êtes autonome et sais préserver l’objectif commun de l’équipe et de l’entreprise.
-* Vous êtes passionné.e de sport, de voyage et de tech.
-* **Vous avez un profil entrepreneurial, un état d’esprit positif toujours à la recherche de solutions.**
-
-**Prérequis**
-
-* Formation ingénieur ou informatique 
-* 3 à 4  ans d’expérience dans un rôle similaire 
-* Techniques de management Agile
-* Bon niveau d’Anglais 
-* Disponibilité pour un poste à Lyon ou à Annecy
-
-
-**Salaire**
-
-Fourchette: 55/70K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 ## Développeur(se) back-end PHP / Symfony
 
 **Missions** 

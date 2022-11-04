@@ -39,8 +39,6 @@ Full remote = 🏠
 	- **DevOps confirmé(e) Kubernetes [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
 	- Développeur(se) back-end PHP / Symfony
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CLIPR.md">[CLIPR]</a> 
-	- Tech Lead / VP Backend & Ops
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DAILYMOTION.md">[DAILYMOTION]</a>
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
@@ -54,6 +52,8 @@ Full remote = 🏠
 	- **Développeur frontend React.js/Next.js ⚛️** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
+	- **Développeur(se) back-end PHP/Laravel intermédiaire [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship** **[!NEW!]**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship** **[!NEW!]**
@@ -69,10 +69,6 @@ Full remote = 🏠
 	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship [!NEW!]** 
 	- **Testeur**
 	- **DevOps**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PlayPlay.md">[PLAYPLAY]</a> 
-	- Développeur(se) back-end PHP / Laravel confirmé(e) 🏠
-	- Développeur(se) front-end JavaScript / VueJS / TypeScript confirmé(e)🏠
-	- Développeur(se) fullStack Laravel / VueJS++ confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- **Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
