@@ -15,16 +15,15 @@
 * 70 000 collaborateurs intérimaires détachés en mission chaque année
 * 6300 personnes formées
 
-## Développeur(se) PHP Laravel Fullstack junior+ / intermédiaire H/F
-
 **Stack:**
 
-*Devops:* Terraform, Docker, GithubAction, GCP, Kubernetes
-*Data:* BigQuery, SqlServer, Talend, StitchData, Google DataStudio
-*Backend:* Php 8.1, Laravel 9, Mysql 8, Redis 5, ElasticSearch 7, Google Pub/Sub
-*FrontEnd:* TypeScript, React JS, React Native, Material UI, StoryBook, 
+ * Backend : Php 8.1, Laravel 9, Mysql 8, Redis 5, ElasticSearch 7, Google Pub/Sub 
+ * Frontend : TypeScript, React JS, React Native, Material UI, StoryBook, Jest  
+* DevOps : Terraform, Docker, GithubAction, GCP, Kubernetes  
+* Data : BigQuery, SqlServer, Talend, StitchData, Google DataStudio 
 
 **Equipe:**
+
 Equipe au sein de la digital factory : 
 26 personnes dont
 16 développeurs
@@ -43,6 +42,31 @@ Mots clés supplémentaires :
 #datadriven
 #softwarecraftsmanship
 #solid
+
+## Poste : Développeur Frontend React.js Junior   
+
+**Missions**  
+
+* Conception et développement de fonctionnalités front-end
+* Participation aux code reviews
+* Ecrire et déployer du code conformes aux exigences et aux processus 
+* Imaginer et développer des parcours utilisateurs intuitifs
+* Surveiller et améliorer les performances front-end en production   
+
+**Profil** 
+
+* Première expérience réussie en tant que développeur front en React.Js
+* Maîtrise de Typescript  
+* Expérience sur du test unitaire via Jest
+* Sensibilité UX/UI 
+ 
+**Salaire** 
+
+ Fourchette : 42-45K€ 
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+## Poste : Développeur(se) PHP Laravel Fullstack junior+ / intermédiaire H/F
 
 **Missions**
 
