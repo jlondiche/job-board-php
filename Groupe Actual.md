@@ -43,7 +43,7 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
-## Poste : Développeur Frontend React.js Junior   
+## Poste : Développeur(se) Frontend React.js Junior   
 
 **Missions**  
 
