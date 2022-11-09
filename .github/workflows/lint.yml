@@ -1,0 +1,22 @@
+name: Lint files
+
+on: push
+
+jobs:
+  check-links:
+    name: Check links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        name: Check links
+
+  check-spelling:
+    name: Check spelling
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout
+      - uses: rojopolis/spellcheck-github-actions@0.27.0
+        name: Spellcheck
