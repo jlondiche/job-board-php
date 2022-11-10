@@ -52,7 +52,7 @@ Full remote = 🏠
 	- **Lead développeur(se) PHP / Symfony - Qualité & bonnes pratiques [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a>
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
 	- **Développeur Frontend React.js Junior   [!NEW!]** 🏠
 	- **Développeur(se) back-end PHP/Laravel intermédiaire [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
