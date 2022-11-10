@@ -46,9 +46,10 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DrDATA.md">[DR DATA]</a>
 	- Senior Frontend Developper React.js/Next.js ⚛️
 	- Senior Backend Developper PHP / Symfony 🐘
-	- Senior fullstack Developper PHP / JS 🐘
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- **Développeur frontend React.js/Next.js ⚛️** **[!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
+	- **Lead développeur(se) PHP / Symfony - Qualité & bonnes pratiques [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
 	- Développeur(se) front-end JS expérimenté(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a>
