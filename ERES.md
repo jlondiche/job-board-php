@@ -15,17 +15,17 @@
 
 * Eres c’est aussi une entreprise en hyper-croissance avec des résultats qui augmentent de 25% chaque année.
 * Créée en 2005, l’entreprise a rapidement convaincu des milliers de partenaires distributeurs (conseillers en gestion de patrimoine, pour leur majorité) pour qu’ils vendent des produits d’épargne salariale et retraite à leurs clients.
-* Eres gère aujourd’hui 4 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
+* Eres gère aujourd’hui 5 milliards d’euros d’épargne pour 15 000 entreprises clientes et leurs 200 000 salariés.
 
 **Stack**
 
-* Applications web : PHP 7.3 et 8 / Symfony6 en cours
-* Bases de données : SQL Server, MySQL
+* Applications web : PHP 7.4 / Symfony 5
+* Bases de données : MySQL / SQL Server
 * Front : JavaScript / ReactJS
-* Hébergement : Amazon Web Service ou local
-* OS : Windows Server, Linux (Ubuntu/CentOS)
-* Environnement de développement : Docker et Visual Studio Code
-* Contrôle de version : Git via Gitlab
+* Hébergement : Amazon Web Service
+* OS : Linux (Debian) / Windows Server
+* Environnement de développement : Docker / VS Code / PhpStorm
+* Contrôle de version : Git
 
 ## Défis
 
@@ -38,11 +38,11 @@ Vous travaillerez sur 3 défis majeurs pour l'entreprise :
 * Après avoir conquis les conseillers en gestion de patrimoine, qui est aujourd’hui son principal axe de développement, Eres se développe désormais en allant chercher des clients en direct, notamment par le web, et va chasser sur le terrain des Fintech. Toute leurs interfaces clients et distributeurs vont donc être refondues.
 
 
-## Lead Développeur(se) PHP / Symfony 
+## Lead Développeur(se) PHP / Symfony
 
-Eres recherche un lead développeur pour aider l’équipe technique actuelle à se structurer, à monter en compétences et à accompagner les équipes sur la qualité et les bonnes pratiques.
+Eres recherche un lead développeur pour aider l’équipe technique actuelle à se structurer, à continuer monter en compétence sur la qualité et les bonnes pratiques.
 
-L’équipe IT composée de 12 personnes. Vous serez en relation direct avec l’équipe produit. 
+L’équipe IT est composée de 14 personnes. Vous serez en relation direct avec le CTO et l’équipe produit.
 
 Possibilité importante d’évolution sur ce poste.
 
@@ -50,35 +50,30 @@ Possibilité importante d’évolution sur ce poste.
 
 Concrètement, vous :
 
-* Accompagnerez l’équipe, managez, participez aux décisions techniques.
-Aidez le CTO a aller vers des solutions dockerisées (Kubernetes)
-* Challengerez au quotidien les développeurs back-end et le développeur front-end.
-* Gérerez des projets from scratch dans l’équipe. 
-* Interviendrez sur les applicatifs métiers afin de mieux les interconnecter, tirer parti des données disponibles et proposer de nouvelles solutions innovantes.
-* Développerez les points critiques.
+* Accompagnerez l’équipe (code review, pair programming) et managez les développeurs.
+* Participez à la réalisation et à l'amélioration de l'architecture orientée service (SOA) et évenement (EDA).
+* Challengez au quotidien les développeurs back-end et front-end.
+* Serez garant d'un très haut niveau de qualité (architecture logicielle, tests etc..).
+* Développerez les points critiques avec l'équipe.
 
 **Vos compétences**
 
-* Qualité et bonnes pratiques 
-* PHP avancé + Programmation orientée objet
-API
-* Expert SQL (SQL Server / MySql / PostgreSQL)
-* Requêtes complexes et gestion des transactions
-* Conception et optimisation de base de données
+* PHP avancé, programmation orientée objet, tests & qualité (SOLID / Design Patterns)
+* Expert SQL (MySQL / SQL Server), modélisation de base de données relationnelles
 * Framework Symfony
-* JavaScript et React 
-* Webservice REST
+* API REST
+* Système de messages (rabbitMQ / AmazonMQ)
 * Git
 
 **Votre profil**
 
-* Vous avez au moins cinq ans d’expérience de développeur et une expérience de lead développeur réussie dans une petite équipe. 
-* Vous souhaitez intégrer une équipe technique qualifiée. 
-* Vous avez de l'expérience en gestion de projet, en management et gestion de congés.
+* Vous avez au moins cinq ans d’expérience de développeur et une expérience de lead développeur réussie dans une petite équipe.
+* Vous souhaitez intégrer une équipe technique qualifiée et en pleine croissance.
+* Vous avez de l'expérience en gestion de projet technique, une appétence pour le management.
 
 ## Salaire
 
-Fourchette: 65 à 70K€ de fixe + avantages financiers = 80/95K€ en package.
+Fourchette: 65 à 70K€ de fixe + avantages financiers = 87/95K€ en package.
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
@@ -88,16 +83,15 @@ En plus de l’environnement technique challengeant, rejoindre ERES s’est prof
 
 ## Les avantages :
 
-* Des bureaux dans le centre de Paris (métro Bourse).
+* Des bureaux neufs et très bien équipés dans le centre de Paris (métro Bourse).
 * 1 jour par semaine dans les locaux, le jeudi.
 * Des projets et des clients à gogo.
 * Une vraie bienveillance au sein d'une entreprise rentable et en pleine croissance.
-* Des primes collectives sous forme de participation et d’intéressement, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients.
-* La possibilité de devenir actionnairE.
+* Des primes collectives (30% bruts, soit 21,3% nets !) sous forme de participation et d’intéressement versées chaque année, nous appliquons réellement les logiques de partage du profit que nous vantons auprès de nos clients.
 * Une mutuelle très complète prise en charge à 60 % par l’employeur.
 * Des titres restaurant.
-* Des chèques emploi-service si vous avez des enfants.
-* Des séminaires régulièrement (Porto, Courchevel, Marrakech, et d’autres à venir).
+* Un séminaire par an (dernièrement Bruxelles et Amsterdam).
+* D'autres avantages salariés complémentaires
 
 ## Comment postuler ?
 
