@@ -43,9 +43,6 @@ Full remote = 🏠
 	- **Senior front-end engineer - Ads demand** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
 	- **Développeur(se) back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DrDATA.md">[DR DATA]</a>
-	- Senior Frontend Developper React.js/Next.js ⚛️
-	- Senior Backend Developper PHP / Symfony 🐘
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- **Développeur frontend React.js/Next.js ⚛️** **[!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
@@ -75,16 +72,12 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
 	- **Développeur(se) back-end PHP8 / Symfony5 confirmé(e) [!NEW!]** Lyon / Paris
 	- **Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) [!NEW!]** Lyon / Paris
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
-	- Architecte / Lead developpeur(se) PHP / Symfony / DDD / Archi Hexa
-	- Développeur(se) back-end PHP / Symfony / DDD confirmé(e)
-	- Développeur(se) front-end JS / VueJS / NuxtJS confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur(se) back-end PHP / Symfony confirmé(e)
 	- Développeur(se) front-end JS / ReactJS confirmé(e)
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SYNTHESIO.md">[SYNTHESIO]</a> 
-	- Senior front-end engineer 🏠
-	- QA Director 🏠 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/TIIME.md">[TIIME]</a> 
+	- **Développeur(se) back-end PHP / Symfony - *ENTREPRISE LIBERÉE* [!NEW!]** 🏠
+	- **Développeur(se) front-end JS / AngularJS - *ENTREPRISE LIBERÉE* [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- **Développeurs(ses) front-end JS / VueJS : de junior à confirmé 🏠 [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
