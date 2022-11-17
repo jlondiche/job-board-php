@@ -44,7 +44,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
 	- **Développeur(se) back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
-	- **Développeur frontend React.js/Next.js ⚛️** **[!NEW!]** 🏠
+	- **Développeur frontend React.js/Next.js ⚛️** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) PHP / Symfony - Qualité & bonnes pratiques [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GRANULAR.md">[GRANULAR]</a> 
@@ -56,6 +56,9 @@ Full remote = 🏠
 	- Tech Lead PHP Symfony (H/F) **craftmanship** **[!NEW!]**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship** **[!NEW!]**
 	- Développeur(se) senior frontend ReactJS **[!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
+	- Développeur(se) senior front-end JavaScript / Electron **[!NEW!]**
+	- Développeurs(ses) intermédiaires -> séniors back-end PHP / Symfony **[!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
 	- **Développeur(se) front-end JS / ReactJS / Typescript** 🏠
@@ -72,6 +75,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
 	- **Développeur(se) back-end PHP8 / Symfony5 confirmé(e) [!NEW!]** Lyon / Paris
 	- **Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) [!NEW!]** Lyon / Paris
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SELENCY.md">[SELENCY]</a>    
+	- Développeur(se) back-end PHP / Symfony / DDD confirmé(e)
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a> 
 	- Développeur(se) back-end PHP / Symfony confirmé(e)
 	- Développeur(se) front-end JS / ReactJS confirmé(e)
