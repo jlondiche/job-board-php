@@ -2,7 +2,7 @@
 
 **Domaine :** Artisanat. Fabriquer un objet unique dans l’atelier d’un artisan. 
 
-**Où :** Au coeur de Lyon - télétravail partiel : 2j par semaine, ou OK pour du fullremote. 🏠
+**Où :** Au coeur de Lyon - télétravail partiel : 2j par semaine.
 
 **Quoi :** Poussez les portes d'un atelier, rencontrez nos artisans, pratiquez leur savoir-faire et repartez avec votre création. Vivez des expériences uniques ! 
 

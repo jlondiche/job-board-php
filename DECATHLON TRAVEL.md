@@ -34,8 +34,9 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 * AWS
 **Approche bien découpée, orientée Produit.**
 
+Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus !
 
-## Développeur(se) back-end PHP / Symfony
+## Développeur(se) intermédiaire back-end PHP / Symfony
 
 **Missions** 
 
@@ -65,7 +66,7 @@ Vous reportez hiérarchiquement au Technical Lead Decathlon travel.
 
 **Salaire**
 
-Fourchette: 50/60K€
+Fourchette: 42/45K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

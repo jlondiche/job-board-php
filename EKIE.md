@@ -32,11 +32,12 @@ Ils ont bouclé une levée de fonds en seed de 2M d’euros cet été pour perme
 * Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpspec fixer
 * Déploiement continue github, heroku et AWS
 
-## Développeur frontend React.js/Next.js ⚛️
+## Référent frontend React.js/Next.js ⚛️
 
 **Missions**
 
 Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujets tel que :
+* Prendre en main la partie Front-end
 * Faire évoluer la plateforme en intégration de nouveaux services
 * Stabiliser l’existant afin de permettre des montées en charge sur l’application
 * Continuer à tester les chemins critiques de l’application

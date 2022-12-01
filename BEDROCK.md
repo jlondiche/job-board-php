@@ -2,7 +2,7 @@
 
 **Domaine :** Streaming vidéo  
 
-**Où :** Lyon (7ème arrondissement) // Télétravail partiel. 
+**Où :** Lyon (7ème arrondissement) // Télétravail partiel 2,5j/semaine. 
 
 **Quoi :** Ça vous tente de rejoindre une société qui révolutionne le streaming vidéo ? 
 Bedrock est le leader Européen dans la conception et le développement de plateformes de streaming pour les grands groupes de médias. Fondée par M6 et Bertelsmann / RTL Group, les 400 collaborateurs sont répartis entre les locaux de Paris et de Lyon.

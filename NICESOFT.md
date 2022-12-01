@@ -39,7 +39,8 @@ Aujourd’hui l’équipe est composée de 3 personnes et recherche plusieurs pe
 **Missions**
 
 * Concevoir et développer from scratch des fonctionnalités back-end. 
-* Concevoir et modéliser les bases de données. * Compréhension de cahiers des charges complexes
+* Concevoir et modéliser les bases de données. 
+* Compréhension de cahiers des charges complexes
 * Prendre en compte les retours de l’équipe produit ou des utilisateurs et traiter les dysfonctionnements de l’application.
 * Participer aux code reviews et maintenir un juste équilibre entre code « parfait » et respect des délais.
 * Étendre/migrer les applications déployées en production.

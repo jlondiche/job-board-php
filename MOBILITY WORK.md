@@ -25,23 +25,28 @@
 tests unitaires front jest
 * ES6, VueJS, Sass, Vuetify
 
-## Lead developpeur(se) back-end / Architecte
+## Developpeur(se) back-end
 
-Mobility Work recherche son lead / architect avec une solide expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
-Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recruter une personne pour devenir le relai de la vision technique.
+Mobility Work recherche un développeur back-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 
-**Missions :**
+En relation avec le Tech Lead et l’Engineering Manager, vous êtes attaché·e à la qualité, à l’expérience utilisateur, à la stabilité, à la performance tout en étant pragmatique, vous savez itérer rapidement en apportant régulièrement de la valeur pour nos utilisateurs et notre stratégie, et vous adaptez au contexte et à la maturité organisationnelle du moment.
 
-* Focus on tech
-* Excellence technique et innovation
-* Architecture et intégrations tierces
-* Mentoring et alignement avec la vision technique et produit
-* Spikes et PoC
-* Code Reviews & Feedbacks
-* Code Quality Assurance & Code Churn
-* Production Issues Escalation
-* DX efficiency
-* **Prise en main de sujets R&D, réalisation de POC et partage avec les équipes une fois les solutions trouvées.** 
+Vous accordez de l’importance à l’humain, faites preuve d’une constante bienveillance et savez être pédagogue et à l’écoute.
+
+**Quelques challenges en cours :**
+
+- Systématisation de nos développements autour d’une approche CQRS et Event Sourcing
+- Migration en PHP 8
+- Volonté DDD
+
+**Missions principales**
+
+- Réaliser des features en collaboration avec l'équipe Back-end
+- Améliorer les méthodologies de développement
+- Participer à la volonté de modernisation de la plate-forme (restructuration du projet, etc.)
+- Conception et garant des guidelines
+- Coordination des intégrations de toutes les fonctionnalités
+- Documentation et respects des bonnes pratiques et conventions de la guideline établie
 
 **Contexte**
 
@@ -52,65 +57,23 @@ Le CTO est de plus en plus sur la partie Produit et métier, il souhaite recrute
 (horaire, localisation))
 * Une écoute bienveillante et une approche décisionnelle collective
 
-**Profil**
+Profil :
 
-* Vous faites preuve d’un excellent relationnel et d’une forte capacité d’écoute ainsi que d’une compréhension aiguisée des problématiques techniques.
-* Vous maîtrisez **l’approche CQRS et l’Event-Sourcing (in-house, projections sync & async)** 
-* Excellente organisation (mentoring des équipes sur les choix techniques, gestion des coûts, respects des budgets et suivi des développements dans le temps)
-* Rigueur
-* Pragmatisme et créativité
-* Sens du détails et capacité à prendre du recul
-* Grande autonomie et capacité d’initiative
-* Implication
-* Suivi de la DX
-
+* De intermédiaire à senior
+* Maîtrise de PHP (Symfony), vous maîtrisez les environnements liés à ces langages et
+problématiques inhérents.
+* Expérience notable en production dans la mise en place d’une approche CQRS(Event
+Sourcing en bonus)
+* Vous maîtrisez le français et l'anglais
+* Intérêt et curiosité pour les langages fonctionnels bienvenus
+* La connaissance d’un langage fonctionnel est un plus
 
 **Salaire**
 
-Autour de 70K€
+Fourchette large car le profil recherché peut-être intermédiaire jusqu'à sénior : 45/60K€
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Senior Frontend développeur(se) VueJS  
-
-Mobility Work recherche un senior frontend développeur avec une solide expérience sur le framework VueJS ainsi qu’une maîtrise du VanillaJS.  
-
-Une volonté de rendre accessible à tous notre solution de gestion de maintenance utilisée dans des contextes industriels très variés (bruyant, sombre, des utilisateurs plus ou moins à l’aise avec l’outil informatique, etc…)   
-
-En relation avec un Engineering Manager, et l’équipe produit ainsi que l’intervention ponctuel d’un Product Designer, vous êtes attaché(e) à la qualité, à l’expérience utilisateur, à la stabilité, à la performance tout en étant pragmatique. 
-
-Vous savez itérer rapidement en apportant régulièrement de la valeur pour nos utilisateurs et notre stratégie.   
-
-**Quelques challenges en cours : **
-
-* Finaliser la migration vers une Single Page Application 
-* Inverser la pyramide des test et améliorer notre couverture de test sur nos applications
-* Isoler le déploiement de l’application front 
-* Améliorer les performances 
-
-**Missions**
-
-  * Réaliser des features en collaboration avec l’équipe backend 
-* Améliorer les méthodologies de développement 
-* Participer à la montée en compétence de l’équipe 
-* Participer à la volonté de modernisation de la plate-forme : restructuration du projet, suppression de Jquery, etc…  
-* Participer à la conception et à la documentation 
-* Optimiser les différentes couches Javascript de l’application 
-* Coordonner l’intégration de toutes les fonctionnalités   
-
-**Profil**
-
-* Vous faites preuve d’un excellent relationnel et d’une forte capacité d’écoute ainsi que d’une compréhension aiguisée des problématiques techniques  
-* Vous êtes un véritable expert Javascript, particulièrement sur VueJS, avec une expérience d’au minimum 7 ans 
-* Vous maîtrisez le français et l’anglais  
-* **Vous maitrisez l’approche CQRS et L’EventSourcing en bonus : in-house, projetions sync & async)**
-* Vous avez un intérêt et de la curiosité pour les langages fonctionnels 
-
-
-## Salaire 
-
-* Rémunération : fouchette 50/60K€
-
-* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !   L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST. 
 
 ## Pourquoi postuler ?
 
