@@ -66,11 +66,13 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- **Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
-	- **Développeur(se) back-end PHP8 / Symfony5 confirmé(e) [!NEW!]** Lyon / Paris
-	- **Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) [!NEW!]** Lyon / Paris
+	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
+	- Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) - Lyon / Paris
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
+	- **Développeur(se) back-end PHP / Symfony - DDD & archi hexa & TDD [!NEW!]**
+	- **Référent(e) Frontend React.js/Redux   [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TIIME.md">[TIIME]</a> 
 	- **Développeur(se) back-end PHP / Symfony - *ENTREPRISE LIBERÉE* [!NEW!]** 🏠
-	- **Développeur(se) front-end JS / AngularJS - *ENTREPRISE LIBERÉE* [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- **Développeurs(ses) front-end JS / VueJS : de junior à confirmé 🏠 [!NEW!]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
