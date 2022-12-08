@@ -31,7 +31,7 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 
 **Missions**
 
- Syment est en forte croissance et à besoin de renfort pour développer de nouvelles fonctionnalités : 
+ Syment est en forte croissance et a besoin de renfort pour développer de nouvelles fonctionnalités : 
 * Développer de nouvelles fonctionnalités sur leur API 
 * Intégration d’API partenaire
 * Développement de scripts d’import pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
