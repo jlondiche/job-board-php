@@ -59,6 +59,7 @@ Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujet
 ## Salaire
 
 Salaire : 50/60K€ selon profil + BSPCE
+
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?

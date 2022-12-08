@@ -47,41 +47,6 @@ Actuellement, Cap Collective gère près de 200 instances de leur plateforme Saa
 
 *Plusieurs postes sont à pourvoir :*
 
-## CTO (junior accepté(e)) - PHP / Symfony / JS Moderne
-
-Poste ouvert aux Lead Devs qui souhaitent évoluer vers un poste de CTO.
-
-**Missions :**
-
-Vous serez amené(e) à : 
-
-* Manager l'équipe de (8+) développeurs full-stack, infrastructure et frontend en l’aidant à progresser ;
-* Fluidifier les développements en cours en identifiant les blocages et en proposant des solutions ;
-* Développer en Symfony et JS moderne des parties critiques du code ;
-* Participer activement au bon fonctionnement de l’infrastructure et la résolution des problématiques de scalabilité du SaaS ;
-* Etre force de proposition sur les évolutions du produit et la roadmap, en estimant les temps et la complexité des développements ;
-* Participer activement aux revues de code pour améliorer la qualité, augmenter la couverture de tests unitaires et fonctionnels ;
-* Optimiser les performances pour accueillir des centaines de milliers de participants ;
-* Concevoir, maintenir et faire évoluer l'API GraphQL interne et publique ;
-* Etre force de proposition sur l’évolution de la stack technique et la résolution des problèmes soulevés par les différents pôles lors des rétrospectives ;
-* Etre au contact des clients lors d’auditions techniques ;
-* Gérer les contributions externes de notre code open source : https://github.com/cap-collectif
-
-**Profil**
-
-* Expérience sur du management d'équipe de développeurs ;
-* 5 ans d’expérience minimum en développement Symfony sur des projets
-conséquents, idéalement un SaaS ;
-* Habitué(e) aux problématiques de performance frontend en JavaScript ;
-* Curieux/curieuse et actif/active sur la veille technique ;
-* Passionné(e) par votre métier ;
-* **L’envie de vous investir dans une entreprise dont la mission est porteuse de sens.**
-
-**Salaire**
-
-Fourchette : 80/85K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Développeur(se) PHP / Symfony - ELK 
 

@@ -31,10 +31,10 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 
 **Missions**
 
- Syment est en forte croissance et a besoin de renfort pour développer de nouvelles fonctionnalités : 
+ Syment est en forte croissance et à besoin de renfort pour développer de nouvelles fonctionnalités : 
 * Développer de nouvelles fonctionnalités sur leur API 
 * Intégration d’API partenaire
- * Développement de scripts d’import pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
+* Développement de scripts d’import pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
 * Mise en place de tests unitaires 
 * Faire de la qualité pour construire une stack robuste 
 * Participer aux réflexions, à l’intégration de nouveaux éléments comme le DDD 
@@ -42,9 +42,10 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 
 **Profil**
 
-* Vous avez déjà développé des API et/ou des applications à l’aide de Symfony ou d’un framework PHP.
-* Vous avez une bonne maitrise des BDD relationnelles ainsi qu’en SQL. * Vous avez une bonne maitrise du développement d’API scalables et en POO
- * Vous aimez le projet    
+* Vous avez déjà développé des API et/ou des applications à l’aide de Symfony ou d’un framework PHP
+* Vous avez une bonne maitrise des BDD relationnelles ainsi qu’en SQL
+* Vous avez une bonne maitrise du développement d’API scalables et en POO
+* Vous aimez le projet    
 
 ## Référent(e) Frontend React.js/Redux   
 
@@ -54,8 +55,9 @@ En tant que référent(e) front, vous aurez la main sur la totalité du front de
 
 * Développer des nouvelles routes de leur API 
 * Créer des parcours utilisateurs simples et efficaces 
-* Créer de nouveaux composants React * Construire de nouvelles pages 
- 
+* Créer de nouveaux composants React 
+* Construire de nouvelles pages 
+
 **Profil**
 
   * Vous avez de l’expérience en développement d’applications Reactjs/Nextjs 
@@ -66,7 +68,7 @@ En tant que référent(e) front, vous aurez la main sur la totalité du front de
 
 ## Pourquoi postuler ?
 
- * Syment cherche des profils motivés qui ont envie de participer à un projet qui apporte une forte valeur ajouté à ses clients et qui a pour but de bousculer l’ordre établi du secteur.
+* Syment cherche des profils motivés qui ont envie de participer à un projet qui apporte une forte valeur ajouté à ses clients et qui a pour but de bousculer l’ordre établi du secteur.
 * Des bureaux dans Paris. 
 * Une équipe dynamique et sur-motivée.
 

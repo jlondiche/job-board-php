@@ -23,7 +23,6 @@ Full remote = 🏠
 	- Développeur(se) front-end React.JS confirmé(e)
 	- Développeur(se) back-end PHP/Symfony/DDD
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
-	- CTO [!NEW!]**
 	- Développeur(se) PHP/Symfony & ELK
 	- Développeur(se) fullstack PHP/Symfony/JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
@@ -44,6 +43,8 @@ Full remote = 🏠
 	- **Référent frontend React.js/Nest.js ⚛️** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Lead développeur(se) PHP / Symfony - Qualité & bonnes pratiques [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
+	- **Développeur(se) Symfony / Sylius [!NEW!]**   
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/Groupe%20Actual.md">[GROUPE ACTUAL]</a>
 	- **Développeur Frontend React.js Junior   [!NEW!]** 🏠
 	- **Développeur(se) back-end PHP/Laravel intermédiaire [!NEW!]** 🏠
@@ -54,6 +55,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
 	- Développeur(se) senior front-end JavaScript / Electron **[!NEW!]**
 	- Développeurs(ses) intermédiaires -> séniors back-end PHP / Symfony **[!NEW!]**
+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
 	- **Développeur(se) front-end JS / ReactJS / Typescript** 🏠
