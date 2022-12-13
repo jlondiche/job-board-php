@@ -55,10 +55,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
 	- Développeur(se) senior front-end JavaScript / Electron **[!NEW!]**
 	- Développeurs(ses) intermédiaires -> séniors back-end PHP / Symfony **[!NEW!]**
-
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
-	- **Développeur(se) back-end PHP et / ou Golang [!NEW!]** 🏠
-	- **Développeur(se) front-end JS / ReactJS / Typescript** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
 	- **Développeur(se) PHP DDD, CQRS, Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
@@ -77,5 +73,6 @@ Full remote = 🏠
 	- **Développeur(se) back-end PHP / Symfony - *ENTREPRISE LIBERÉE* [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- **Développeurs(ses) front-end JS / VueJS : de junior à confirmé 🏠 [!NEW!]** 
+	- **Développeur(ses) back-end PHP /Symfony : de junior à confirmé 🏠 [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Développeur(se) back-end PHP / Laravel

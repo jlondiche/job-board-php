@@ -15,7 +15,8 @@
 
 **Stack**
 
-* Frontend : JavaScript // Vue.js // Typescript // Storybook 
+* Frontend : JavaScript // Vue.js // Typescript // Storybook
+* Backend : PHP// Symfony //Python // Django // Microservices 
  * Testing : Cypress  
 * Infrastructure : Openstack 
 * Versioning : Git // Gitlab
@@ -55,6 +56,26 @@ En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-s
 * Sensibilité UX/UI pour concevoir des interfaces faciles et agréables à utiliser
 * **Aimer l’aventure et faire preuve de curiosité, d’initiatives ** 
 * Bien s’exprimer en Anglais
+
+
+## Développeur(se) back end PHP/Symfony
+
+Vous rejoindrez une Squad en création, actuellement composée d’un lead développeur, l’équipe se développera jusqu’à 4 personnes et vous travaillerez sur un outil référent d’UNYC.
+
+**Missions**
+
+* Participer à l’architecture et au développement de nouvelles briques logicielles
+* Participer à une importante refonte back end
+* Assurer la qualité du code grâce à la mise en place d’intégration continue
+* Résoudre efficacement les bugs
+* Documenter votre code
+
+**Profil**
+
+* 3 ans+ d’expérience en développement back end PHP
+* Maitrise du framework Symfony
+* Appétence pour les tests et la qualité du code
+* Anglais : lu et écrit
 
 
 ## Pourquoi postuler ? 
