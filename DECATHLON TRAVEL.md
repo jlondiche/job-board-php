@@ -27,6 +27,7 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 **Stack**
 
 * PHP, Symfony, API Platform
+* HTML5/CSS3, Tailwind CSS, Webpack, NPM, React.js, Figma, Svelte
 * Docker
 * Postgresql
 * Redis
@@ -66,9 +67,32 @@ Vous reportez hiérarchiquement au Technical Lead Decathlon travel.
 
 **Salaire**
 
-Fourchette: 42/45K€
+Fourchette: entre 42/45K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+  
+## Développeur(se) sénior(e) front-end
+
+**Missions**
+
+En tant que développeur(se) front, vous avez pour principale mission de faire évoluer la plateforme de réservation de Décathlon Travail en assurant la solidité et la stabilité des solutions implémentées :  
+
+* Faire évoluer l’architecture front-end afin d’améliorer la qualité 
+* Faire évoluer le Design System actuellement en place  
+* Travailler sur la qualité de la code base à travers l’évolution des pratiques de développements 
+* Mise en place de tests unitaires * Continuer à implémenter de nouvelles features en lien avec le designer et l’équipe Produit  
+
+**Profil**
+
+* Vous avez une belle expérience en développement et en architecture front-end 
+* Vous avez une bonne sensibilité UX/UI et une expérience réussie dans l’évolution d’un design system 
+* Vous avez à coeur de produire du code de qualité 
+
+**Salaire  **
+
+Fourchette: entre 50 et 55 K€   
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.   
 
 ## Pourquoi postuler ?
 
@@ -78,10 +102,9 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Une rémunération attractive et des opportunités de carrière.
 * Des horaires de travail flexibles et du télétravail.
 
+## Comment postuler ?   
 
-## Comment postuler ? 
-
-* Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+* Tout simplement, envoyez-nous un mail à jodia@jlrecrutement.com et jeanne@jlrecrutement.com pour le back et à julien@jlrecrutement.com pour le front avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 ----
