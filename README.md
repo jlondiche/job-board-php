@@ -60,8 +60,10 @@ Full remote = 🏠
 	- **Développeur(se) PHP DDD, CQRS, Event Sourcing [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
 	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship [!NEW!]** 
-	- **Testeur**
-	- **DevOps**
+	- Testeur
+	- DevOps
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
+	- **Développeur(se) fullstack PHP / Symfony / ReactJS / AWS [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- **Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
