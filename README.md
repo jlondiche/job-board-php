@@ -35,8 +35,8 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend React.js/Nest.js ⚛️ 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE ACTUAL.md">[Groupe%20Actual]</a> 
-	- **Head of Data [NEW]**  🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE ACTUAL.md">[GROUPE%20ACTUAL]</a> 
+	- **Head of Data [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
