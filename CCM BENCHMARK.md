@@ -29,7 +29,7 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 
 *Plusieurs postes sont à pourvoir :*
 
-## Lead développeur(se) PHP / SF - Équipe communautaire
+# Lead développeur(se) PHP / SF - Équipe communautaire
 
 Vous prendrez le lead d'une équipe de 2 développeurs et serez garant de la qualité technique des plateformes communautaires et sociales, sites sur lesquels les internautes peuvent largement contribuer et échanger. 
 
@@ -41,7 +41,7 @@ Vous aurez également en charge les sites Copains d’Avant, asset historique du
 
 Les plus gros challenges qui vous attendront en prenant le lead de l’équipe seront de continuer à moderniser notre code base, notamment en parachevant la **migration vers Symfony**, en migrant vos applications vers **Docker et Kubernetes et en repensant l’architecture de notre produit phare: les forums et leurs 12 millions de membres.**
 
-**Missions :**
+## Missions :
 
 Chez CCM Benchmark nous attendons de vous en tant que lead de remplir les missions suivantes:
 
@@ -52,26 +52,26 @@ Accompagner les développeurs de l’équipe au quotidien (montée en compétenc
 * Mettre en place ou challenger les normes, standards et procédures (tests unitaires, performances, …)
 * Défendre les choix techniques de l’équipe
 
-**Salaire**
+## Salaire : 
 
 Fourchette : 50/55K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Equipe CORE : 2 postes sont ouverts : 
+# Equipe CORE : 2 postes sont ouverts : 
 
 **Développeur-(se) PHP**  /  **Développeur-(se) fullstack Javascript**
 
 Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à Xavier LEUNE, ancien président de l’AFUP.
 
-**Missions**
+## Missions :
 
 * Vous interviendrez sur toutes les librairies transverses que la société développent.
 * Vous participerez à la conception et la mise en œuvre des nouvelles fonctionnalités au sein de ces briques. 
 * Vous assisterez les équipes produits dans leur usage. L’équipe maintient notamment toutes les librairies et outils transverses à l’ensemble de nos produits, parmi lesquels: Scribe, notre CMS éditorial ; OD, notre CMS de la donnée ; CCMadmin, notre technologie de forums ; CDA, notre produit de réseaux sociaux. Mais aussi leur DataMapper PHP, notre API de gestion du caches public...
 * Vous serez sollicité en tant qu’expert technique par les équipes de développement et devrez être en mesure de comprendre rapidement leurs enjeux techniques.
 
-**Profil**
+## Profil :
 
 * Vous avez d’excellentes capacités de conception technique.
 * Vous êtes autonome et doté de bonnes capacités de communication.
@@ -98,7 +98,7 @@ Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez s
 * CE, mutuelle, tickets restaurant, participation, activités sportives.
 * *Vous pourrez assister à des conférences techniques partout en France afin de continuer à développer votre expertise technique, ce qui est un atout majeur de l'équipe.* 
 
-**Salaire**
+## Salaire :
 
 Fourchette 40/55K€
 

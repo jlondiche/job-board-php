@@ -25,7 +25,7 @@
 tests unitaires front jest
 * ES6, VueJS, Sass, Vuetify
 
-## Developpeur(se) back-end
+# Developpeur(se) back-end
 
 Mobility Work recherche un développeur back-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 
@@ -39,7 +39,7 @@ Vous accordez de l’importance à l’humain, faites preuve d’une constante b
 - Migration en PHP 8
 - Volonté DDD
 
-**Missions principales**
+## Missions principales :
 
 - Réaliser des features en collaboration avec l'équipe Back-end
 - Améliorer les méthodologies de développement
@@ -48,7 +48,7 @@ Vous accordez de l’importance à l’humain, faites preuve d’une constante b
 - Coordination des intégrations de toutes les fonctionnalités
 - Documentation et respects des bonnes pratiques et conventions de la guideline établie
 
-**Contexte**
+## Contexte : 
 
 * Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
 * Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
@@ -57,7 +57,7 @@ Vous accordez de l’importance à l’humain, faites preuve d’une constante b
 (horaire, localisation))
 * Une écoute bienveillante et une approche décisionnelle collective
 
-Profil :
+## Profil :
 
 * De intermédiaire à senior
 * Maîtrise de PHP (Symfony), vous maîtrisez les environnements liés à ces langages et
@@ -68,7 +68,7 @@ Sourcing en bonus)
 * Intérêt et curiosité pour les langages fonctionnels bienvenus
 * La connaissance d’un langage fonctionnel est un plus
 
-**Salaire**
+## Salaire :
 
 Fourchette large car le profil recherché peut-être intermédiaire jusqu'à sénior : 45/60K€
 

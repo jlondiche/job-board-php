@@ -39,12 +39,12 @@ Les challenges vous motivent et vous inspirent l’envie de produire des archite
 Le TDD fait partie de votre quotidien et le BDD n’est pas seulement synonyme de base de données pour vous. Vous êtes capable de comprendre rapidement les problématiques métier et d’établir un langage commun entre les différents intervenants d'un projet (approche DDD).
 
 
-## Développeur(se) back-end PHP OO 
+# Développeur(se) back-end PHP OO 
 
 Karafun recherche plusieurs personnes de intermédiaire à sénior. Si le projet de l'entreprise et la stack vous intéresse. Contactez-moi.
 
  
-**Missions**
+## Missions :
 
 En rejoignant l'équipe technique de passionnés, vous pourrez :
 
@@ -54,7 +54,7 @@ En rejoignant l'équipe technique de passionnés, vous pourrez :
 * Contribuer à la qualité du code en participant notamment aux code reviews et en mettant en place les best practices de développement (dont tests)
 
 
-**Salaire**
+## Salaire :
 
 Fourchette entre 45/60K€
 

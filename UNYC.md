@@ -23,9 +23,9 @@
 * Backend : Python // Django // Microservices
 * Services : Docker // Kubernetes // Ansible // Terraform
 
-## Développeur(se) front-end JS / Vue.Js
+# Développeur(se) front-end JS / Vue.Js
 
-**Missions** 
+## Missions :
 
 Au sein d’une équipe SCRUM, composée d’un PO, 2/4 développeurs fullstack Python, 1 développeur frontend, 1 UX Designer, vous serez amené à :  
 
@@ -37,7 +37,7 @@ Au sein d’une équipe SCRUM, composée d’un PO, 2/4 développeurs fullstack 
 * Résoudre efficacement les bugs
 * Documenter votre code  
 
-** Domaines d’interventions** 
+## Domaines d’interventions :
 
 En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-stages » dans chacune des squads afin de trouver le projet qui vous correspond le mieux :  
 
@@ -47,7 +47,7 @@ En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-s
 * Data : Développement de nouvelles fonctionnalités pour leurs partenaires pour la commande et la gestion de leurs fibres & ADSLs.
 * Machines Virtuelles : création d’une solution de vente et déploiement de machines virtuelles sur un cloud privé Openstack.
 
-**Profil**
+## Profil :
 
 * 1 à 5 ans d'expérience en développement front-end 
 * Connaissances opérationnelles de JavaScript, HTML/CSS
@@ -58,11 +58,11 @@ En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-s
 * Bien s’exprimer en Anglais
 
 
-## Développeur(se) back end PHP/Symfony
+# Développeur(se) back end PHP/Symfony
 
 Vous rejoindrez une Squad en création, actuellement composée d’un lead développeur, l’équipe se développera jusqu’à 4 personnes et vous travaillerez sur un outil référent d’UNYC.
 
-**Missions**
+## Missions :
 
 * Participer à l’architecture et au développement de nouvelles briques logicielles
 * Participer à une importante refonte back end
@@ -70,13 +70,12 @@ Vous rejoindrez une Squad en création, actuellement composée d’un lead déve
 * Résoudre efficacement les bugs
 * Documenter votre code
 
-**Profil**
+## Profil :
 
 * 3 ans+ d’expérience en développement back end PHP
 * Maitrise du framework Symfony
 * Appétence pour les tests et la qualité du code
 * Anglais : lu et écrit
-
 
 ## Pourquoi postuler ? 
 
@@ -93,9 +92,9 @@ Vous rejoindrez une Squad en création, actuellement composée d’un lead déve
 
 Fourchette: 40/60K€
 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.  ##Comment postuler ? 
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez !**  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.  ##Comment postuler ?** 
 
-* Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com (front) et jodia@jlrecrutement.com (back) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

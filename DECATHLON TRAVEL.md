@@ -37,9 +37,9 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 
 Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus !
 
-## Développeur(se) intermédiaire back-end PHP / Symfony
+# Développeur(se) intermédiaire back-end PHP / Symfony
 
-**Missions** 
+## Missions : 
 
 En tant que développeur back, vous avez pour principale mission de développer la plateforme de réservation Decathlon Travel en assurant la robustesse des solutions livrées. 
 
@@ -55,8 +55,7 @@ Vos missions sont :
 
 Vous reportez hiérarchiquement au Technical Lead Decathlon travel. 
 
-
-**Profil**
+## Profil :
 
 * Vous savez créer un code stable, lisible et propre.
 * Vous utilisez les best-practices en cours aujourd’hui.
@@ -64,17 +63,16 @@ Vous reportez hiérarchiquement au Technical Lead Decathlon travel.
 * Vous savez travailler dans un environnement exigeant, incluant des échéances et des objectifs ambitieux.
 * **Vous êtes passionné.e de sport, de voyage et de tech.**
 
-
-**Salaire**
+## Salaire :
 
 Fourchette: entre 42/45K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
   
-## Développeur(se) sénior(e) front-end
+# Développeur(se) sénior(e) front-end
 
-**Missions**
+## Missions : 
 
 En tant que développeur(se) front, vous avez pour principale mission de faire évoluer la plateforme de réservation de Décathlon Travail en assurant la solidité et la stabilité des solutions implémentées :  
 
@@ -83,13 +81,13 @@ En tant que développeur(se) front, vous avez pour principale mission de faire �
 * Travailler sur la qualité de la code base à travers l’évolution des pratiques de développements 
 * Mise en place de tests unitaires * Continuer à implémenter de nouvelles features en lien avec le designer et l’équipe Produit  
 
-**Profil**
+## Profil :
 
 * Vous avez une belle expérience en développement et en architecture front-end 
 * Vous avez une bonne sensibilité UX/UI et une expérience réussie dans l’évolution d’un design system 
 * Vous avez à coeur de produire du code de qualité 
 
-**Salaire  **
+## Salaire   :
 
 Fourchette: entre 50 et 55 K€   
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.   

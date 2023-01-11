@@ -16,15 +16,15 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 * Déjà 15 000 professionnels de santé formés via la plateforme 
 * Agréée par l’Agence nationale du DPC et reconnue par l’Éta
 
-## Stack
+**Stack**
 
 * Back-end: PHP, Symfony, PostgreSQL, NSQ.
 * Front-end : JavaScript, ReactJS, Typescript, Cypress.
 * Autres : GCP, GitHub, Git, Debian, Sentry.
 
-## Développeur(se) back-end PHP8 / Symfony5 confirmé(e)
+# Développeur(se) back-end PHP8 / Symfony5 confirmé(e)
 
-**Missions**
+## Missions :
 
 * Mettre en place les bonnes pratiques d’architecture et de qualité de développement.
 * Développer des services backend multi-langages et multi-frameworks (PHP 8.0, Symfony 5.4, Python, NodeJS).
@@ -36,7 +36,7 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 
 **Les équipes sont en charge du build et du run : vous construisez, déployez puis maintenez ce que vous avez construit. En bref, vous êtes responsables de bout en bout du service que vous proposez !**
 
-**Profil**
+## Profil :
 
 * Tu as une expérience d’un an minimum sur un framework PHP tels que Symfony ou Laravel.
 * Tu es à l’aise avec linux et les CLI sont ta deuxième maison.
@@ -44,8 +44,7 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 * Tu es habitué aux principes d’intégration continue.
 * Tu es sensible à l’approche DevOps.
 
-
-## Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) 
+# Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) 
 
 * Mettre en place les bonnes pratiques d’architecture et de qualité de développement.
 * Développer des services frontend.
@@ -54,13 +53,12 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 * Surveiller et améliorer les performances frontend en production.
 * Expérimenter de nouvelles idées avec des prototypes rapides.
 
-**Profil**
+## Profil :
 
 * Tu as une expérience d’un an minimum sur un framework JavaScript tels que Next, VueJS, Nuxt, etc. 
 * Tu es l’aise avec linux et les CLI sont ta deuxième maison. 
 * Tu es habitué aux principes d’intégration continue. 
 * Tu es sensible à l’approche DevOps. 
-
 
 ## Pourquoi postuler ?
  
@@ -70,12 +68,11 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 * Bureaux modernes et canons à Lyon (Confluence). 
 * Une rémunération attractive. 
 
-
 ## Salaire
 
-40/55K€.
+Fourchette : 40/55K€.
 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

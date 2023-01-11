@@ -32,9 +32,9 @@ Ils ont bouclé une levée de fonds en seed de 2M d’euros cet été pour perme
 * Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpspec fixer
 * Déploiement continue github, heroku et AWS
 
-## Référent frontend React.js/Next.js ⚛️
+# Référent frontend React.js/Next.js ⚛️
 
-**Missions**
+## Missions :
 
 Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujets tel que :
 * Prendre en main la partie Front-end
@@ -43,7 +43,7 @@ Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujet
 * Continuer à tester les chemins critiques de l’application
 * Automatiser les chemins de test sur la partie frontend
 
-**Profil**
+## Profil :
 
 * Plus de 3 ans d’Xp en tant que développeur frontend, principalement sur React.js/Nest.js
 * Vous avez une bonne connaissance de Typescript
@@ -56,7 +56,7 @@ Au sein de l’équipe technique d’Ekie, vous interviendrez sur de beaux sujet
 * Ekie a besoin des meilleurs talents (et driven) pour permettre de réduire les inégalités d’accès au droit en Europe, permettre à tous d’aborder avec plus de sérénité les situations juridiques quel que soit son niveau de ressource, de connaissances juridiques ou encore l’endroit où l’on réside. Venez participer à l’aventure !
 * Package attractif avec de l'equity
 
-## Salaire
+## Salaire :
 
 Salaire : 50/60K€ selon profil + BSPCE
 

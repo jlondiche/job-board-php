@@ -23,7 +23,7 @@ La vidéo est l'avenir de la narration en ligne et Clipr a pour mission de const
 * Plus de 5 millions de vues par jour dans le monde entier, plus de 200 millions d'événements quotidiens et des performances supérieures aux KPI.
 * Une équipe de plus de 10 personnes passionnées en Europe, issues d'horizons divers.
 
-## Poste : Tech Lead / VP Backend & Ops
+# Tech Lead / VP Backend & Ops
 
 **Stack:**
 
@@ -33,7 +33,7 @@ La vidéo est l'avenir de la narration en ligne et Clipr a pour mission de const
 * Tech & Services: EC2, ECS, S3, ELB, Cloudwatch, Docker, Terraform, Athena, Kinesis, Glue, MySQL, MongoDB, RDS, Redis.
 * CDN with Akamai
 
-## **Missions:**
+## Missions :
 
 *Vision technique et exécution de la feuille de route*.
 
@@ -55,7 +55,7 @@ La vidéo est l'avenir de la narration en ligne et Clipr a pour mission de const
 - Définir les objectifs du sprint et organiser la charge de travail (planning) au sein de l'équipe.
 - Être la voix de votre équipe pour toute communication à travers l'entreprise et aider à améliorer notre marque employeur tech (blog tech, event, monter sur scène...).
 
-## **Profil:**
+## Profil :
 
 * Vous êtes autonome et très orienté solutions.
 * Vous êtes capable de prendre des décisions, même dans un environnement en évolution rapide.
@@ -80,7 +80,7 @@ La vidéo est l'avenir de la narration en ligne et Clipr a pour mission de const
 - Expérience du langage de programmation Python (de préférence) ou Golang et des scripts.
 - Expérience au sein d'une entreprise SaaS B2B en pleine croissance.
 
-## **Pourquoi postuler ?**
+## Pourquoi postuler ?
 
 * Des défis uniques pour conquérir le marché de la vidéo.
 * Une opportunité de rejoindre une start-up en pleine croissance au sein d'une équipe qui va doubler l'année prochaine.
@@ -91,8 +91,7 @@ La vidéo est l'avenir de la narration en ligne et Clipr a pour mission de const
 * Une forte exposition dans l'écosystème technologique, membre de Station F & accès à un grand réseau d'entrepreneurs, d'investisseurs, de grands clients internationaux.
 * Possibilité de travailler à distance.
 
-
-**Salaire**
+## Salaire :
 
 Fourchette 70/75K€
 

@@ -29,17 +29,17 @@ Hermès fait ressentir, au travers du code et de l’architecture de leur platef
 * Moteur de recherche : ElasticSearch
 
 
-## Tech Lead PHP Symfony (H/F)
+# Tech Lead PHP Symfony (H/F)
 
 En tant que Tech Lead PHP Symfony vous aurez pour mission de *concevoir et développer ce projet ambitieux,* au sein d’une équipe pluridisciplinaire composée de Tech Lead, Product Owner, Développeurs et Ops. Plusieurs postes de tech lead à pourvoir.
 
-**Missions :** 
+## Missions :
 
 * Vous portez la vision technique du produit. Vous identifiez les contraintes d’architecture et participez à la conception technique du composant en collaboration avec l’architecte du produit.
 * Vous êtes le *garant technique* et méthodologique de l’équipe de développement que vous encadrez. Vous codez en binôme avec les développeurs de votre équipe et guidez cette dernière vers l’excellence technique et l’autonomie.
 * Vous adoptez les postures suivantes : Transfert de connaissances, expertise, coach, mentor et facilitateur. 
 
-**Profil**
+## Profil :
 
 * Vous avez 10 ans d’expérience en développement PHP.
 * Vous avez une belle expérience en Symfony et en accompagnement d’équipe. 
@@ -53,22 +53,22 @@ En tant que Tech Lead PHP Symfony vous aurez pour mission de *concevoir et déve
 * Vous êtes attentif au suivi de production de systèmes avec des flux complexes (sécurité, performance, charge, résilience), monitoring, alerting, backup afin de concevoir des applications exploitables.
 Vous êtes humble, rigoureux.se, curieux.se. Vous êtes bon.ne communicant.e et avez un bon sens relationnel. Vous avez l’esprit d’équipe et le sens du service.
 
-**Salaire**
+## Salaire :
 
 Entre 70/75K€+ selon profil.
 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-## Développeur(se) intermédiaire PHP/Symfony 
+# Développeur(se) intermédiaire PHP/Symfony 
 
-**Missions :** 
+## Missions :
 
 * Vous participerez à la conception technique de ce projet ambitieux en collaboration avec l’architecte du produit.
 * Vous coderez en binôme avec les développeurs de votre équipe.
 * Vous participerez aux transferts de connaissances, à des formations, meetups…
 
-**Profil** 
+## Profil : 
 
 * Vous avez minimum 3 ans d’expérience en développement PHP.
 * Vous avez une belle expérience en Symfony.
@@ -78,12 +78,13 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 * Vous connaissez les outils d’automatisation de tests unitaires et fonctionnels ou tests de charge. 
 Vous êtes humble, rigoureux.se, curieux.se. Vous êtes bon.ne communicant.e et avez un bon sens relationnel. Vous avez l’esprit d’équipe et le sens du service.
 
-## Salaire
+## Salaire :
 
 Entre 45/65K€ selon profil. 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Développeur(se) senior frontend ReactJS 
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+# Développeur(se) senior frontend ReactJS 
 
 Au sein d’une feature team composée de développeurs fullstacks, d’un PO et d’un UX designer, vous aurez pour missions de : 
 
@@ -92,7 +93,7 @@ Au sein d’une feature team composée de développeurs fullstacks, d’un PO et
 * Assurer un niveau de qualité, de sécurité et de performances élevées en faisant de la revue de code en collaboration avec vos pairs.
 * Réaliser une veille technique afin de pouvoir alimenter et échanger avec vos pairs.
 
-**Profil**
+## Profil :
 
 * Vous avez une expérience de 3 à 5 ans minimum en tant que développeur(se) frontend.
 * Vous avez une expérience réussie avec un framework SPA Javascript : VueJS/ ReactJS / Angular.
@@ -102,12 +103,11 @@ Au sein d’une feature team composée de développeurs fullstacks, d’un PO et
 * Vous êtes sensible à l’expérience utilisateur.
 * Vous avez l’esprit d’équipe.
 
-## Salaire
+## Salaire :
 
 Entre 50/65K€ selon profil.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 
 ## Pourquoi postuler ?
 
@@ -122,7 +122,7 @@ Tout simplement, envoyez un email :
 Pour le back end : à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com
 Pour le front : julien@jlrecrutement.com
 avec un CV ou bien un profil LinkedIn à jour.
- À bientôt !
+À bientôt !
 
 
 ----

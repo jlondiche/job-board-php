@@ -26,15 +26,15 @@ Bedrock est à l’origine d’apps classées au plus haut dans les tops AppStor
 * Data : Python, Scala
 * Mobile : Swift, Kotlin
 
-## Poste de Développeur(se) front-end confirmé(e) React.JS
+# Développeur(se) front-end confirmé(e) React.JS
 
-**Missions**
+## Missions
 
 Au sein de l'équipe plateforme Web, vous pourrez utiliser vos connaissances approfondies du développement web pour construire une plateforme vidéo complexe qui sera utilisée quotidiennement par des millions de personnes en Europe et bientôt dans le monde.
-* Vous aurez pour rôle d'être l’ambassadeur de la qualité, la stabilité et la performance de la plateforme tout en faisant le bonheur des utilisateurs en rendant leur expérience la plus simple et la plus agréable possible. 
+* Vous aurez pour rôle d'être l’***ambassadeur de la qualité, la stabilité et la performance de la plateforme** tout en faisant le bonheur des utilisateurs en rendant leur expérience la plus simple et la plus agréable possible. 
 * Vous serez également amenés à travailler avec de nombreux autres métiers (product manager, data analyst, back-end developers…).
 
-**Profil**
+## Profil
 
 * De formation ingénieur ou autodidacte, vous êtes avant tout un(e) technophile passionné(e)
 * Vous disposez d'une expérience profesionnelle à minima de 3 ans en développement front Javascript avec un framework moderne tel que React
@@ -55,7 +55,7 @@ Sans oublier :
 
 ## Pourquoi postuler ?
 
-* Les rejoindre, c’est prendre part à une aventure unique en Europe, partager une vision commune, et intégrer une société pariant sur des talents capables de créer en interne les technologies streaming de demain en s’appuyant sur plus de 10 ans d’expérience et de solides actionnaires dans le monde des médias.
+* **Les rejoindre, c’est prendre part à une aventure unique en Europe,** partager une vision commune, et intégrer une société pariant sur des talents capables de créer en interne les technologies streaming de demain en s’appuyant sur plus de 10 ans d’expérience et de solides actionnaires dans le monde des médias.
 * Rejoindre une équipe d'experts dans leurs domaines : Kotlin, JS , IOS, Android où vous pourrez apprendre et échanger avec des pointures.
 * Bénéficier de perspectives d’évolution professionnelles à court et moyen terme
 * Mais aussi : des fruits frais livrés chaque semaine, des petits-déjeuners, des afterworks, des pauses-déj animées entre jeux de société et jeux vidéos, des team building, le LFT (Last Friday Talk)...

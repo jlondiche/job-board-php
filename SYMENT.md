@@ -18,7 +18,7 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 * C’est aussi la réalisation de plus de 5 000 AG(s). 
 * Made with ♥︎ in France.
 
-## Stack
+**Stack**
 
 * PHP 8, Symfony 5.4, API Platform, MySQL, Redis, Architecture Hexagonale, DDD, Socket.io.
 * Front en JS/Typescript avec React 17, Bootstrap, TailwindCSS 3, Redux, ReactQuery. 
@@ -27,9 +27,9 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 * Déploiement continue Github, docker et AWS.
 
 
-## Développeur(se) Back end PHP/Symfony
+# Développeur(se) Back end PHP/Symfony
 
-**Missions**
+## Missions :
 
  Syment est en forte croissance et a besoin de renfort pour développer de nouvelles fonctionnalités : 
 * Développer de nouvelles fonctionnalités sur leur API 
@@ -40,16 +40,16 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 * Participer aux réflexions, à l’intégration de nouveaux éléments comme le DDD 
 * Problématiques intéressantes sur du temps réel
 
-**Profil**
+## Profil :
 
 * Vous avez déjà développé des API et/ou des applications à l’aide de Symfony ou d’un framework PHP
 * Vous avez une bonne maitrise des BDD relationnelles ainsi qu’en SQL
 * Vous avez une bonne maitrise du développement d’API scalables et en POO
 * Vous aimez le projet    
 
-## Référent(e) Frontend React.js/Redux   
+# Référent(e) Frontend React.js/Redux   
 
-**Missions**  
+## Missions : 
 
 En tant que référent(e) front, vous aurez la main sur la totalité du front de Syment.   Epaulé par le CTO, et en lien avec une équipe tech’ composée de 5 personnes ( 3 backs et 2 PO) , vous serez en charge de :   
 
@@ -58,13 +58,12 @@ En tant que référent(e) front, vous aurez la main sur la totalité du front de
 * Créer de nouveaux composants React 
 * Construire de nouvelles pages 
 
-**Profil**
+## Profil :
 
   * Vous avez de l’expérience en développement d’applications Reactjs/Nextjs 
 * Vous avez une bonne maitrise du HTML et CSS 
 * Vous avez une bonne maitrise de Typescript et de l’éco-système JS 
 * Vous avez une bonne connaissance des solutions d’accessibilité 
-
 
 ## Pourquoi postuler ?
 

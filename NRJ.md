@@ -10,7 +10,6 @@
 Ces différents facteurs ont permis à l'entreprise de s'inscrire dans une dynamique de croissance hissant le Groupe NRJ au rang d'acteur économique majeur au sein des groupes de média privés français.
  Côté tech? L’équipe d’E-NRJ est animée par la passion des nouvelles technologies, assure le déploiement des marques du groupe sur le digital. Elle transpose, décline et développe quotidiennement les programmes radios et TV du groupe sur l'ensemble des supports digitaux : sites, applis, boxes, YouTube…
 
-
 **Facts & Figures**
 
 * NRJ GROUP c’est 1600 collaborateurs. 
@@ -18,7 +17,7 @@ Ces différents facteurs ont permis à l'entreprise de s'inscrire dans une dynam
 * 1er groupe privé de radio digitale en France.  
 * Présent dans 14 pays.  
 
-## Stack
+**Stack :**
 
 * Symfony, PHP, API Rest / graphQL
 * Js, ReactJS, ES6, Webpack, TypeScript
@@ -28,13 +27,13 @@ Ces différents facteurs ont permis à l'entreprise de s'inscrire dans une dynam
 * Cloud AWS
 
 
-## Développeur(se) Fullstack 70% PHP/Symfony / 30%ReactJS  
+# Développeur(se) Fullstack 70% PHP/Symfony / 30%ReactJS  
 
 Au sein du pôle technique de 8 personnes vous accompagnez la modernisation et l’industrialisation de l’ensemble des plateformes digitales et services associés  : les 4 sites des radios + le site de replay des chaines TV + enceintes connectées. 
 Avec un fort niveau d’exigence sur la performance et la qualité du code produit.
 
 
-**Missions** 
+## Missions :
 
 * Evolutions fonctionnelles et techniques des sites et API (Symfony 4 et 5)
 * Dynamisation des sites en React.js
@@ -50,7 +49,7 @@ Avec un fort niveau d’exigence sur la performance et la qualité du code produ
 * Participation en équipe à la refonte du site NRJ play
 
 
-**Profil**
+## Profil :
 
 * 5 ans d’expérience minimum en tant que développeur Full Stack notamment en environnement PHP/Symfony et React.JS.
 * Vous avez travaillé sur des plateformes digitales structurées et dimensionnées dans un contexte agile. 
@@ -75,7 +74,7 @@ Avec un fort niveau d’exigence sur la performance et la qualité du code produ
 
 Fourchette : 55K€/60K€  
 
-Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 ## Comment postuler ?

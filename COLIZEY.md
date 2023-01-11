@@ -23,16 +23,16 @@ De ce fait, c'est toute l'expérience d'achat d'articles de sport que la sociét
 * Front end: Vue,JS. 
 * DevOps : Varnish, GCP, GitHub, Docker. 
 
-## Développeur(se) Back-end 
+# Développeur(se) Back-end 
 
-**Missions :** 
+## Missions :
 
 * Création, ajout, modification des fonctionnalités au niveau des back offices des employés et des marchands. 
 * Intégration des flux produits de tous les marchands partenaires. 
 * Amélioration des performances. 
 * Veiller à la qualité et la maintenabilité du code comme la mise en place et l’automatisation des tests. 
 
-**Profil :**
+## Profil :
 
 * Maitrise du PHP.
 * Travail en méthode agile.
@@ -47,7 +47,7 @@ De ce fait, c'est toute l'expérience d'achat d'articles de sport que la sociét
 * Vous avez l’esprit d’équipe et souhaite relever des défis dans une équipe soudée. 
 * Package attractif avec equity.
 
-## Salaire 
+## Salaire :
   
 Fourchette 45/60K€ selon profil. 
 

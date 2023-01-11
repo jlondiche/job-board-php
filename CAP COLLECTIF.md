@@ -48,9 +48,9 @@ Actuellement, Cap Collective gère près de 200 instances de leur plateforme Saa
 *Plusieurs postes sont à pourvoir :*
 
 
-## Développeur(se) PHP / Symfony - ELK 
+# Développeur(se) PHP / Symfony - ELK 
 
-**Missions**
+## Missions :
 
 Vous serez amené(e) à :
 
@@ -64,7 +64,7 @@ optimiser les performances pour des sites pour des centaines de milliers de part
 * remettre en question régulièrement les pratiques de l’équipe (revues de code, rétrospectives, conférences, être force de proposition sur l’évolution de la stack technique) ;
 * participer à notre blog technique et contribuer à nos projets open source.
 
-**Profil**
+## Profil :
 
 * expérience en développement PHP/Symfony ;
 * expérience avec la stack ELK et utilisé la bibliothèque ruflin/elastica ;
@@ -74,19 +74,19 @@ passionné.e par son métier ;
 * l'envie de faire de la qualité et des tests
 * l’envie de vous investir dans une entreprise dont la mission est porteuse de sens.
 
-**Salaire**
+## Salaire :
 
 Fourchette : 44/48K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-## Développeur(se) fullstack PHP/Symfony/JS
+# Développeur(se) fullstack PHP/Symfony/JS
 
-**Missions**
+## Missions :
 
 Comme au dessus mais vous serez accompagné !
 
-**Profil**
+## Profil :
 
 * première expérience en aternance ou en CDI en développement PHP/Symfony ;
 * prêt(e) à découvrir GraphQL, ELK, JS ;
@@ -95,7 +95,7 @@ passionné(e) par son métier ;
 * l'envie de faire de la qualité et des tests
 * l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.
 
-**Salaire:**
+## Salaire :
 
 Fourchette : 40/44K€
 

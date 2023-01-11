@@ -25,7 +25,7 @@ Tout le monde y est gagnant !
 * Deux super fondateurs : Arbia et Allan
 * Très bonne ambiance et beaucoup d'ambition
 
-## Stack
+**Stack**
 
 * PHP8.1 / Symfony6
 * AWS
@@ -38,9 +38,9 @@ Tout le monde y est gagnant !
 => PRAGMATIQUE - Reste une startup, Pas un projet opensource, mais font les choses bien et en équipe. 
 
 
-## Développeur(se) back-end PHP / Symfony / AWS 
+# Développeur(se) back-end PHP / Symfony / AWS 
 
-**Missions**
+## Missions :
 
 Vous travaillerez en fullremote, en équipe :
 
@@ -48,13 +48,12 @@ Vous travaillerez en fullremote, en équipe :
 * Travaillez sur des algo pour faire de l'analyse financiere (calcul du reste à vivre...)
 * Développez des outils pour la connectique avec les sytstèmes bancaires & RH 
 
-**Profil**
+## Profil :
 
 * Expérience en PHP / Symfony
 * Pragmatique
 * Curieux et touche à tout
 * A l'aise en algo
-
 
 ## Pourquoi postuler ?
 
@@ -67,9 +66,9 @@ Vous travaillerez en fullremote, en équipe :
 * Une opportunité unique de rejoindre une des startups les plus excitantes et innovantes en fintech à impact social depuis le début de l’aventure
 
 
-## Salaire
+## Salaire :
 
-Salaire : 50/70K€
+Fourchette : 50/70K€
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 

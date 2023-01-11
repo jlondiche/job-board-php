@@ -30,14 +30,14 @@ Cette nouvelle offre d’expérience, immersive et responsable, apporte aujourd�
 * Clean code et qualité
 
 
-## Lead développeur(se) back-end PHP/Laravel
+# Lead développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
 * *Client & Growth* : en charge du développement des produits directement interfacés avec nos clients B2C et B2B. 
 Vous prendrez le lead de la squad Client & Growth, aujourd'hui composée de 
 
-**Missions**
+## Missions :
 
 * Vous devrez faire évoluer l'outil Wecandoo.fr sous toutes ses formes (Web, mobile et API). Il faudra donc faire : 
 	* l’étude et la spécification technique des différentes fonctionnalités et projets, 
@@ -49,45 +49,45 @@ Vous prendrez le lead de la squad Client & Growth, aujourd'hui composée de
 * Vous prendrez le lead de l'équipe petit à petit avec beaucoup de développement au début et du management à venir.
 
 
-**Profil**
+## Profil :
 
 * Maîtrise de PHP, **Laravel** (ou Symfony), MySQL. Un côté front ou une appétence front JavaScript, idéalement un framework réactive : **VueJS** de préférence (ou ReactJS). 
 * Connaissances en **design patterns** de développement informatique et les **notions de clean code / clean architecture**
 * Autonomie mais aussi le travail en équipe. 
 * Développement web et la qualité/réusabilité de code.
 
-## Développeur(se) back-end PHP/Laravel
+# Développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
 * *Client & Growth* : en charge du développement des produits directement interfacés avec nos clients B2C et B2B. 
 Il y a un poste de dev back-end ouvert dans chaque squad.
 
-**Missions**
+## Missions :
 
 * Avec votre équipe, vous devrez faire évoluer l'outil Wecandoo.fr sous toutes ses formes (Web, mobile et API). 
 * Vous participerez à des **sujets de performances, qualité et intégration continue afin que le produit atteigne progressivement l’état de l’art sur toutes les facettes du développement web, cela au regard du scale des opérations et du volume de la plateforme.**
 
-**Profil**
+## Profil :
 
 * Maîtrise de PHP, **Laravel** (ou Symfony), MySQL. Un côté front ou une appétence front JavaScript, idéalement un framework réactive : **VueJS** de préférence (ou ReactJS). 
 * Connaissances en **design patterns** de développement informatique et les **notions de clean code / clean architecture**
 * Autonomie mais aussi le travail en équipe. 
 * Développement web et la qualité/réusabilité de code.
 
-## Développeur(se) front-end JS/VueJS confirmé(e)
+# Développeur(se) front-end JS/VueJS confirmé(e)
 
 La team Tech Wecandoo se divise en 2 squads:
 * *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
 * *Client & Growth* : en charge du développement des produits directement interfacés avec nos clients B2C et B2B. 
 
-**Missions**
+## Missions :
 
 * Avec votre équipe, vous devrez faire évoluer l'outil Wecandoo.fr sous toutes ses formes (Web, mobile et API). 
 * Vous participerez à des **sujets de performances, qualité et intégration continue afin que le produit atteigne progressivement l’état de l’art sur toutes les facettes du développement web, cela au regard du scale des opérations et du volume de la plateforme.**
 
 
-**Profil**
+## Profil :
 
 * Vous justifiez de 3 à 5 ans minimum d’expérience professionnelle dans le développement d’applications Web
 sur des problématiques Front.
@@ -107,12 +107,11 @@ Vous êtes intéressé et avez déjà travaillé sur ces sujets :
 * **Le projet Wecandoo est très ambitieux mais aussi très humain avec sa portée sociale !** L’ambition se retrouve aussi dans le produit qui devra être utilisé à terme par des milliers de personnes : clients, entreprises, équipes business et artisans !  L’équipe Product chez Wecandoo se structure et se professionnalise autour de deux squads, afin de répondre aux besoins grandissants des différents utilisateurs. **L’environnement est à la fois challengeant et très enrichissant afin d’apporter un maximum de valeur ajoutée à tous les utilisateurs.**
 * Les bureaux lyonnais sont au coeur de la ville et accueillent l’équipe Tech ainsi que l’équipe Commerciale de la région Sud-Est. **Les équipes de Wecandoo sont jeunes et dynamiques toujours motivées pour passer de bons moments !**
 
-## Salaire
+## Salaire :
 
 Fourchette: 45/55K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 
 ## Comment postuler ?
 
