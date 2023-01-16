@@ -19,6 +19,7 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a> 	- **Senior(e) développeur(se) back-end PHP / Symfony [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
