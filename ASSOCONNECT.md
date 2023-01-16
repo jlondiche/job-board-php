@@ -114,7 +114,7 @@ Equipe
 * temps dédié pour participer à une association
 
 ## Salaire : 
-Fourchette : 50/65K€
+Fourchette : 50/60K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
