@@ -27,7 +27,7 @@ Full remote = 🏠
 	- Développeur(se) PHP/Symfony & ELK
 	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CALMEDICA.md">[CALMEDICA]</a>
-	- **Lead Développeur(se) PHP/Symfony/JS / Référent technique [NEW]**
+	- **Lead Développeur(se) PHP/Symfony/JS / Référent technique / Archi Hexa [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- DevOps junior, developpeur(se) souhaitant devenir Ops
 	- Développeur(se) - Webperf & Optimisation 🏠
@@ -64,6 +64,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- Développeurs(ses) front-end JS / VueJS : de junior à confirmé
 	- Développeur(ses) back-end PHP /Symfony : de junior à confirmé
+	- Product Owner / Adepte du Scrum H/F **[!NEW!]**
 
 ## À Lille : 
 

@@ -4,7 +4,8 @@
 
 **Où :** Le Mans / Nantes et Paris (2ème arrondissement) // Hybride - Remote partiel
 
-**Quoi :**  Unyc occupe une place unique dans le monde des Télécom B2B. Ils offrent une solution globale de télécommunication (Voip, Visio, Mobile, Liens d’accès, Cloud…) et d’outils de collaboration à destination des entreprises.
+**Quoi :** Unyc, l'opérateur qui unifie les télécommunications de votre entreprise : téléphonie fixe ou mobile, internet et réseau d'entreprise et offres cloud.
+
  Aujourd’hui, Ils accompagnent au quotidien plus de 350 000 utilisateurs dans 17 000 entreprises à travers un réseau de 700 partenaires revendeurs et distributeurs.   
 
 **Facts & Figures**
@@ -94,7 +95,29 @@ Fourchette: 40/60K€
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez !**  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.  ##Comment postuler ?** 
 
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com (front) et jodia@jlrecrutement.com (back) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+
+# Product Owner - Adepte de SCRUM (H/F) Création d'une nouvelle squad
+
+**Missions**  
+
+Au sein de l’équipe Produit (2 PO et 1 Lead PO), vous serez en charge de prendre la nouvelle squad en cours de constructino. Véritable chef d’orchestre d’une équipe de développeurs (2 à 4 développeurs fullstack Python/Vue.js), vous missions seront de :  
+
+* L’évangélisation et l’implémentation de Scrum
+* La participation et l’animation des cérémonies Agiles (Daily / Sprint Planning / Rétro / Démo…)
+* La rédaction des user-stories pour les développeurs afin d’enrichir les fonctionnalités des différentes solutions 
+* La communication de la roadmap produit auprès des parties prenantes (le marketing, la Direction, les développeurs, les clients…) 
+* L’animation des instances d’arbitrage et de priorisation * Le traitement et l’organisation des tâches (gestion du backlog) * La réalisation des tests utilisateurs 
+* Trouver des solutions en se basant sur la Data
+ 
+**Profil**
+
+* 1 à 4 ans d’expérience professionnelle sur la gestion de produits SaaS
+* Une expérience en développement  (Python, PHP ou JavaScript…) * Très orienté Tech’ et évolution des pratiques  
+* Vous avez déjà pratiqué l’agilité et plus particulièrement : SCRUM 
+* Vous savez communiquer avec les différentes parties prenantes ( Comm, Tech’, Admin, etc..) * Vous êtes à l’aise en Anglais 
+
+
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com (front et PO) et jodia@jlrecrutement.com (back) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

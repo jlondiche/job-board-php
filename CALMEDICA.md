@@ -4,7 +4,9 @@
 
 **Où :** Paris - 8ème -  Remote hybride 
 
-**Quoi :** Participer à la santé digitale de demain grâce à la technologie est la mission quotidienne de Calmedica. Cette start-up française créée en 2013 s’est spécialisée dans la gestion du parcours de soin. Elle a mis au point l’outil MemoQuest, un système de télésurveillance multicanal permettant aux hôpitaux et cliniques de suivre les patients à domicile.  
+**Quoi :** Calmedica édite des solutions de télésuivi dans le domaine médicale en utilisant l'Intelligence Artificielle pour révolutionner le rapport entre le patient et le système de soin.
+
+Participer à la santé digitale de demain grâce à la technologie est la mission quotidienne de Calmedica. Cette start-up française créée en 2013 s’est spécialisée dans la gestion du parcours de soin. Elle a mis au point l’outil MemoQuest, un système de télésurveillance multicanal permettant aux hôpitaux et cliniques de suivre les patients à domicile.  
 
 **Leur mission : mettre la e-santé à la portée de tous!**
 
@@ -21,7 +23,13 @@
 
 # Lead développeur(se) PHP/Symfony   / Référent technique
 
-**Rejoignez une équipe où la capacité d'apprentissage et la volonté de partager sont au rdv.  En bonus, un super CTO qui vous accompagnera au quotidien !** 
+**Rejoignez une équipe de 11 developpeurs + 2 PO où la capacité d'apprentissage et la volonté de partager sont au rdv.  En bonus, un super CTO qui vous accompagnera au quotidien !** 
+
+## Contexte : 
+
+La plateforme actuelle a 8 ans, le fondateur a créé le projet, en php natif puis symfony. 
+Aujourd'hui, la complexité et dette technique deviennent trop importantes. Cette année, le CTO souhaite refondre la plateforme module par module et a besoin d'un référent technique pour l'accompagner. Expérience en archi HEXAGONALE et CLEAN CODE un plus car l'équipe est en demande. 
+Contrainte d'infra importante, compétences Docker necessaire.
 
 ## Missions : 
 
