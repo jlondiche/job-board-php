@@ -80,7 +80,7 @@ Full remote = 🏠
 	- Développeur(se) front-end React.JS confirmé(e)
 	- Développeur(se) back-end PHP/Symfony/DDD
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
-	- Développeur(se) intermédiaire back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy
+	- Développeur(se) senior back-end PHP8 / Symfony6 / GCP en DDD : Lyon ou Annecy
 	- Développeur(se) sénior(e) front-end
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
 	- Développeur(se) Symfony / Sylius
