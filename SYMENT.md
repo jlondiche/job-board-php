@@ -27,26 +27,6 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 * Déploiement continue Github, docker et AWS.
 
 
-# Développeur(se) Back end PHP/Symfony
-
-## Missions :
-
- Syment est en forte croissance et a besoin de renfort pour développer de nouvelles fonctionnalités : 
-* Développer de nouvelles fonctionnalités sur leur API 
-* Intégration d’API partenaire
-* Développement de scripts d’import pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
-* Mise en place de tests unitaires 
-* Faire de la qualité pour construire une stack robuste 
-* Participer aux réflexions, à l’intégration de nouveaux éléments comme le DDD 
-* Problématiques intéressantes sur du temps réel
-
-## Profil :
-
-* Vous avez déjà développé des API et/ou des applications à l’aide de Symfony ou d’un framework PHP
-* Vous avez une bonne maitrise des BDD relationnelles ainsi qu’en SQL
-* Vous avez une bonne maitrise du développement d’API scalables et en POO
-* Vous aimez le projet    
-
 # Référent(e) Frontend React.js/Redux   
 
 ## Missions : 

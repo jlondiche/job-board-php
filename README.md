@@ -24,8 +24,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
-	- Développeur(se) PHP/Symfony & ELK
-	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]**
+	- Développeur(se) PHP/Symfony & ELK 🏠
+	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CALMEDICA.md">[CALMEDICA]</a>
 	- **Lead Développeur(se) PHP/Symfony/JS / Référent(e) technique / Archi Hexa [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
@@ -37,6 +37,8 @@ Full remote = 🏠
 	- Développeur(se) Core PHP
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
 	- Développeur(se) back-end PHP / Symfony
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DAYUSE]</a> 
+	- **Développeur(se) back-end Symfony 6 & API PLATFORM [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend React.js/Nest.js ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
@@ -46,10 +48,8 @@ Full remote = 🏠
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
-	- **Développeur(se) back end PHP/Symfony [NEW]**
+	- **Développeur(se) back-end PHP/Symfony [NEW]**
 	- Senior(e) Product Owner
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MOBILITY%20WORK.md">[MOBILITY WORK]</a> 
-	- Développeur(se) PHP DDD, CQRS, Event Sourcing 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
 	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship** 
 	- Testeur
@@ -61,8 +61,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
-	- Développeur(se) back-end PHP / Symfony - DDD & archi hexa & TDD 🏠
-	- **Référent(e) Frontend React.js/Redux   [!NEW!]**
+	- **Référent(e) Frontend React.js/Redux   [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- Développeurs(ses) front-end JS / VueJS : de junior à confirmé
 	- Développeur(ses) back-end PHP /Symfony : de junior à confirmé
