@@ -89,6 +89,11 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Développeur(se) back-end PHP / Laravel
 
+## À Strasbourg :
+
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SPORTYMA.md">[SPORTYMA]</a> 
+	- **Lead développeur·se Symfony #DDD #architecturehexagonale [!NEW!]** 
+
 ## À Toulouse :
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a> 
