@@ -93,6 +93,7 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPORTYMA.md">[SPORTYMA]</a> 
 	- **Lead développeur·se Symfony #DDD #architecturehexagonale [!NEW!]** 
+	- **Lead développeur·se React Native [!NEW!]** 
 
 ## À Toulouse :
 

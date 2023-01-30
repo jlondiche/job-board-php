@@ -72,15 +72,40 @@ Des notions de JavaScript moderne, Docker et de la méthodologie SCRUM sont un p
 - Agile - Scrum
 - CI/CD
 
+# Développeur(se) React Native 
+
+Rattaché-e aux pôles développement et expertise, vous rejoindrez les 5 développeurs déjà présent chez Sportyma. L’ambition est de réécrire totalement l’application afin de l’assainir et la solidifier en vu d’une montant en charge sur l’année 2023.   
+
+**Missions** 
+
+Concernant les missions, vous :  
+* Assurerez le développement, la réécriture et l’optimisation de l’application mobile en React Native
+* Assurerez une veille des évolutions technologiques au sein de l’écosystème mobile
+* Participerez à la définition des recommandations techniques afin de faire évoluer les fonctionnalités
+* Optimiserez l’expérience utilisateur sur l’application 
+* Ferez évoluer la qualité des développements : notamment sur les pratiques de test E2E, unitaires et de performances 
+
+**Profil**  
+
+* Expérience significative en développement mobile React native
+* Expérience en React.js / Redux / Typescript 
+* Expérience dans le refactoring poussé d’une application mobile
+* Expérience sur Firebase - Notamment Firebase Cloud Messaging  
+* Connaissances des bonnes pratiques de développement : Clean code, Pair programming, etc… 
+* Connaissances en Atomic design 
+* Vous êtes à l’aise pour travailler à la fois en équipe et également de manière autonome    
+
 ## Pourquoi postuler ?
 
-* Un vrai respect du bien être de chacun, une entreprise très à l'écoute * Une équipe ambitieuse et dynamique où beaucoup d’importance est accordée au partage d’idées innovantes
-* Parce que tu es fait.e pour travailler dans un environnement startup où tu pourras prendre part aux décisions sur les évolutions de l’application mobile et du site internet
-* Parce que tu es à la recherche de bonne humeur, d'entraide et d’énergie positive
+* Un vrai respect du bien être de chacun, une entreprise très à l'écoute 
+* Une équipe ambitieuse et dynamique où beaucoup d’importance est accordée au partage d’idées innovantes
+* Parce que vous êtes fait.e pour travailler dans un environnement startup où vous pourrez prendre part aux décisions sur les évolutions de l’application mobile et du site internet
+* Parce que vous êtes à la recherche de bonne humeur, d'entraide et d’énergie positive
 
 ## Salaire
 
-Salaire :  45K€ - 55K€  
+Salaire :  45K€ - 55K€   pour les deux postes
+
 Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
