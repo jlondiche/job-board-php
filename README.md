@@ -26,8 +26,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
 	- Développeur(se) PHP/Symfony & ELK 🏠
 	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CALMEDICA.md">[CALMEDICA]</a>
-	- **Lead Développeur(se) PHP/Symfony/JS / Référent(e) technique / Archi Hexa [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- DevOps junior, developpeur(se) souhaitant devenir Ops
 	- Développeur(se) - Webperf & Optimisation 🏠
