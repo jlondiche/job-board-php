@@ -4,19 +4,19 @@
 
 **Où :** 19/20ème arrondissement de Paris - Hybride (2-3 jours de remote/semaine) 
 
-**Quoi :**  La Ruche qui dit Oui ! est un service web qui donnes des ailes aux circuits courts. Ils allient culture de l’entrepreneuriat social et de l’innovation numérique pour proposer un modèle unique de start-up social et solidaire.   
+**Quoi :**   La Ruche qui dit Oui ! est un service web qui donnes des ailes aux circuits courts. Ils allient culture de l’entrepreneuriat social et de l’innovation numérique pour proposer un modèle unique de start-up social et solidaire.   
 
 Ils ont développé une plateforme web de vente en ligne favorisant les échanges directs entre producteurs locaux et communautés de consommateurs qui se retrouvent régulièrement lors de véritables marchés éphémères : les Ruches 🐝  
 
 Leur objectif : Permettre au plus grand nombre de mieux manger en soutenant l’agriculture locale et en rémunérant justement les producteurs !    
 
-**Facts & Figures**
+**Facts & Figures :**
 
-* Crée en 2011 
+* Crée en 2011.
 * Plus de 1 200 ruches crées en France, en Belgique, Espagne, Italie, Allemagne et en Suisse. 
-* Plus de 10 000 producteurs actifs et 210 000 membres commandent régulièrement
- 
-**Stack**
+* Plus de 10 000 producteurs actifs et 210 000 membres commandent régulièrement.
+
+**Stack :**
 
 * Frontend : JS, backboneJS, ReactJS, Redux, Saas, class-component, WebPack, React Native  
 * Backend : PHP, Symfony, API Rest, PostgreSQL, Elasticsearch  
@@ -29,14 +29,14 @@ Vous intégrerez l’équipe Produit/Tech’ de La Ruche. L’équipe est actuel
 
   **Afin de compléter leur équipe, ils recherchent un troisième développeur(se) fullstack avec une forte expertise front et l’envie d’évoluer un petit peu sur la partie backend.**   
 
-**Missions** 
+**Missions :** 
 
 * Développer de nouvelles fonctionnalités pour leurs applications Web et moderniser le code : les technologies utilisées sont React, Redux, WebPack, PHP, Symfony, etc… 
 * S’assurer de la qualité du code en respectant et en améliorant les outils et méthodologies utilisées par les développeurs : test (unitaires, fonctionnels, etc…) quand c’est nécessaire, revues de code sur Github, tester manuellement les modifications avant de déployer, etc…  
 * Assurer le suivi post déploiement de manière à éviter de mettre des bugs en production et s’assurer de la solidité des features ajoutées/modifiées  
 * Contribuer au partage de connaissances à l’échelle de l’équipe  
 
-**Profil**
+**Profil :**
 
 * Vous disposez d’au moins 5 ans d’expériences sur leurs technologies front : React.js ainsi qu’une bonne connaissance de PHP/Symfony 
 * Vous savez ce que signifie Mobile First et avez déjà développé des applications responsive 
