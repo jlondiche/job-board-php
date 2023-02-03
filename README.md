@@ -60,6 +60,8 @@ Full remote = 🏠
 	- **Senior DevOps / SRE [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
+	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- **Référent(e) Frontend React.js/Redux   [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
