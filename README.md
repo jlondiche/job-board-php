@@ -47,6 +47,8 @@ Full remote = 🏠
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LA%20RUCHE%20QUI%20DIT%20OUI.md">[LA RUCHE QUI DIT OUI]</a> 
 	- **Développeur(se) fullstack React.js/Symfony - Start-up sociale et solidaire 🐝   [NEW]**
+- - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
+	- **Développeur(se) Back-End Golang - Fraud Fighting [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NEW]**
 	- Senior(e) Product Owner
