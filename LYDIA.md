@@ -2,7 +2,7 @@
 
 **Domaine :** Solution de paiement mobile.
 
-**Où :** Paris - Sentier. FULL REMOTE 🏠.
+**Où :** Paris - Sentier.
 
 **Quoi :** Lydia a révolutionné le paiement entre proches pour des millions de Français.
 Aujourd’hui, Lydia réinvente votre compte courant et sa carte associée, ainsi que la gestion de votre buget seul et à plusieurs. Lydia propose aussi une solution de trading et du cashback intégré.

@@ -33,10 +33,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) Core PHP
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/COLIZEY.md">[COLIZEY]</a> 
-	- Développeur(se) back-end PHP / Symfony
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DAYUSE.md">[DAYUSE]</a> 
-	- **Développeur(se) back-end Symfony 6 & API PLATFORM [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend React.js/Nest.js ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
@@ -47,7 +43,11 @@ Full remote = 🏠
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LA%20RUCHE%20QUI%20DIT%20OUI.md">[LA RUCHE QUI DIT OUI]</a> 
 	- **Développeur(se) fullstack React.js/Symfony - Start-up sociale et solidaire 🐝   [NEW]**
-- - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
+	- **Développeur(se) back-end PHP/Symfony [!NEW!]**
+	- **Développeur(se) back-end PHP/Symfony équipe LiveVideo [!NEW!]**
+	- **Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- **Développeur(se) Back-End Golang - Fraud Fighting [NEW]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NEW]**
@@ -66,16 +66,11 @@ Full remote = 🏠
 	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- **Référent(e) Frontend React.js/Redux   [!NEW!]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TIKETAC]</a>  
+	- **Lead developpeur / CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
-	- Développeurs(ses) front-end JS / VueJS : de junior à confirmé
-	- Développeur(ses) back-end PHP /Symfony : de junior à confirmé
-	- Product Owner / Adepte du Scrum H/F **[!NEW!]**
-
-## À Lille : 
-
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- Développeur(se) senior front-end JavaScript / Electron **[!NEW!]**
-	- Développeurs(ses) intermédiaires -> séniors back-end PHP / Symfony **[!NEW!]**
+	- Développeur(ses) back-end PHP/Zend : de junior à confirmé
+	- Product Owner / Adepte du Scrum H/F
 
 ## À Lyon : 
 
