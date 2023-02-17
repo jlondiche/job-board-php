@@ -21,7 +21,7 @@ Cette équipe travaille aussi derrière billetterie.lefigaro.fr, un écrin premi
 
 **Stack**
 
-Site à fort trafic
+/!\ Site à fort trafic /!\
 
 * Backend : Php (Symfony 4.4 ~ 5.4), Mysql, Elasticsearch, RabbitMQ, Redis
 * Frontent : JS Natif, Vue.js
