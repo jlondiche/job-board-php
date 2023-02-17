@@ -67,7 +67,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- **Référent(e) Frontend React.js/Redux   [!NEW!]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TIKETAC]</a>  
-	- **Lead developpeur / CTO [!NEW!]**
+	- **Lead developpeur(se) / CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- Développeur(ses) back-end PHP/Zend : de junior à confirmé
 	- Product Owner / Adepte du Scrum H/F
