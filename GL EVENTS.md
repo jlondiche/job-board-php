@@ -21,11 +21,11 @@ GL events propose à ses clients une offre globale :  
 
 **Stack**
 
-* Back : PHP 7 / Symfony 5 & Sylius, MariaDb, Redis,  Solr,  
+* Back: PHP 7 / Symfony 5 & Sylius, MariaDb, Redis,  Solr,  
 * Déploiement : Git / Gitlab  / Gitlab CI  
-* Tests : Phpunit, Panther, Analyse statique & qualité code  
-* Front : html / twig / sass / bootstrap 4 / JQuery  
-* Environnement de développement : Ubuntu, Docker  
+* Tests: Phpunit, Panther, Analyse statique & qualité code  
+* Front: html / twig / sass / bootstrap 4 / JQuery  
+* Environnement de développement: Ubuntu, Docker  
 
 # Développeur(se) Symfony / Sylius   
 

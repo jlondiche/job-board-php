@@ -6,7 +6,7 @@
 
 **Quoi :**   La Ruche qui dit Oui ! est un service web qui donnes des ailes aux circuits courts. Ils allient culture de l’entrepreneuriat social et de l’innovation numérique pour proposer un modèle unique de start-up social et solidaire.   
 
-Ils ont développé une plateforme web de vente en ligne favorisant les échanges directs entre producteurs locaux et communautés de consommateurs qui se retrouvent régulièrement lors de véritables marchés éphémères : les Ruches 🐝  
+Ils ont développé une plateforme web de vente en ligne favorisant les échanges directs entre producteurs locaux et communautés de consommateurs qui se retrouvent régulièrement lors de véritables marchés éphémères : les Ruches
 
 Leur objectif : Permettre au plus grand nombre de mieux manger en soutenant l’agriculture locale et en rémunérant justement les producteurs !    
 

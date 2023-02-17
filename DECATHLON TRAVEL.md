@@ -35,7 +35,7 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 * AWS
 **Approche bien découpée, orientée Produit.**
 
-Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus !
+Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus!
 
 # Développeur(se) sénior back-end PHP / Symfony
 

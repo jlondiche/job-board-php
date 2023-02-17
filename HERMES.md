@@ -20,13 +20,13 @@ Hermès fait ressentir, au travers du code et de l’architecture de leur platef
 **Stack**
 
 * PHP 8, Javascript
-* Frameworks : Symfony 6, VueJS
+* Frameworks: Symfony 6, VueJS
 * Web services : RESTful
-* Cloud : AWS
-* Orchestration et conteneurs : Kubernetes, Docker
-* Automatisation : Terraform
-* Architecture événementielle : Kinesis, SQS
-* Moteur de recherche : ElasticSearch
+* Cloud: AWS
+* Orchestration et conteneurs: Kubernetes, Docker
+* Automatisation: Terraform
+* Architecture événementielle: Kinesis, SQS
+* Moteur de recherche: ElasticSearch
 
 
 # Tech Lead PHP Symfony (H/F)
@@ -34,6 +34,8 @@ Hermès fait ressentir, au travers du code et de l’architecture de leur platef
 En tant que Tech Lead PHP Symfony vous aurez pour mission de *concevoir et développer ce projet ambitieux,* au sein d’une équipe pluridisciplinaire composée de Tech Lead, Product Owner, Développeurs et Ops. Plusieurs postes de tech lead à pourvoir.
 
 ## Missions :
+
+Vous aurez pour missions : 
 
 * Vous portez la vision technique du produit. Vous identifiez les contraintes d’architecture et participez à la conception technique du composant en collaboration avec l’architecte du produit.
 * Vous êtes le *garant technique* et méthodologique de l’équipe de développement que vous encadrez. Vous codez en binôme avec les développeurs de votre équipe et guidez cette dernière vers l’excellence technique et l’autonomie.

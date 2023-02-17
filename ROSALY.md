@@ -33,7 +33,7 @@ Tout le monde y est gagnant !
 * PostGreSQL
 * Infra terraform
 * Test en phpunit
-* Legere couche de reactNative avec la web view
+* Légère couche de reactNative avec la web view
 
 => PRAGMATIQUE - Reste une startup, Pas un projet opensource, mais font les choses bien et en équipe. 
 

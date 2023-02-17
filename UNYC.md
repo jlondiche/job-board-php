@@ -17,7 +17,7 @@
 **Stack**
 
 * Frontend : JavaScript // Vue.js // Typescript // Storybook
-* Backend : PHP// Symfony //Python // Django // Microservices 
+* Backend : PHP// Laminas //Python // Django // Microservices 
  * Testing : Cypress  
 * Infrastructure : Openstack 
 * Versioning : Git // Gitlab
@@ -59,7 +59,7 @@ En intégrant l’équipe Engineering, vous pourrez démarrer par des « mini-s
 * Bien s’exprimer en Anglais
 
 
-# Développeur(se) back end PHP/Symfony
+# Développeur(se) back end PHP/Laminas
 
 Vous rejoindrez une Squad en création, actuellement composée d’un lead développeur, l’équipe se développera jusqu’à 4 personnes et vous travaillerez sur un outil référent d’UNYC.
 
@@ -74,7 +74,7 @@ Vous rejoindrez une Squad en création, actuellement composée d’un lead déve
 ## Profil :
 
 * 3 ans+ d’expérience en développement back end PHP
-* Maitrise du framework Symfony
+* Maitrise du framework Laminas
 * Appétence pour les tests et la qualité du code
 * Anglais : lu et écrit
 
@@ -112,7 +112,8 @@ Au sein de l’équipe Produit (2 PO et 1 Lead PO), vous serez en charge de pren
 **Profil**
 
 * 1 à 4 ans d’expérience professionnelle sur la gestion de produits SaaS
-* Une expérience en développement  (Python, PHP ou JavaScript…) * Très orienté Tech’ et évolution des pratiques  
+* Une expérience en développement  (Python, PHP ou JavaScript…) 
+* Très orienté Tech’ et évolution des pratiques  
 * Vous avez déjà pratiqué l’agilité et plus particulièrement : SCRUM 
 * Vous savez communiquer avec les différentes parties prenantes ( Comm, Tech’, Admin, etc..) * Vous êtes à l’aise en Anglais 
 

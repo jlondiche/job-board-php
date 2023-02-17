@@ -29,33 +29,6 @@ Cette nouvelle offre d’expérience, immersive et responsable, apporte aujourd�
 * Git et Notion.so
 * Clean code et qualité
 
-
-# Lead développeur(se) back-end PHP/Laravel
-
-La team Tech Wecandoo se divise en 2 squads:
-* *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
-* *Client & Growth* : en charge du développement des produits directement interfacés avec nos clients B2C et B2B. 
-Vous prendrez le lead de la squad Client & Growth, aujourd'hui composée de 
-
-## Missions :
-
-* Vous devrez faire évoluer l'outil Wecandoo.fr sous toutes ses formes (Web, mobile et API). Il faudra donc faire : 
-	* l’étude et la spécification technique des différentes fonctionnalités et projets, 
-	* le développement, 
-	* la mise en place, 
-	* la documentation,
-	* et la maintenance de nouveaux outils et fonctionnalités.
-* Vous aurez aussi l’occasion de travailler sur des **sujets de performances, qualité et intégration continue afin que le produit atteigne progressivement l’état de l’art sur toutes les facettes du développement web, cela au regard du scale des opérations et du volume de la plateforme.**
-* Vous prendrez le lead de l'équipe petit à petit avec beaucoup de développement au début et du management à venir.
-
-
-## Profil :
-
-* Maîtrise de PHP, **Laravel** (ou Symfony), MySQL. Un côté front ou une appétence front JavaScript, idéalement un framework réactive : **VueJS** de préférence (ou ReactJS). 
-* Connaissances en **design patterns** de développement informatique et les **notions de clean code / clean architecture**
-* Autonomie mais aussi le travail en équipe. 
-* Développement web et la qualité/réusabilité de code.
-
 # Développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:

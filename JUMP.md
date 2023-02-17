@@ -24,6 +24,7 @@ Bizness, avec leur outil JUMP, propose des parcours de formation innovants et de
 * Kubernetes, Gitlab, SonarCube, JIRA
 * Applications PWA et mobiles hybrides
 
+
 # Lead Développeur(se) Fullstack Laravel/Angular
 
 ## Missions :
@@ -46,12 +47,12 @@ Au sein de l’équipe Tech’ qui comprend une quinzaine de personnes, vous aur
 * Expérience significative sur Typescript 
 * Bonne sensibilité UX/UI - Appétence pour le Design System * Familier avec l’Agilité et les rituels SCRUM  
 
-* Les + : 
+Les + : 
 * Expérience en animation 3D avec Tree.js  
 * Expérience en motion Design avec Adobe After Effect * Expérience sur Nest.js
 * Notions dans le développement mobile  
 
-## Salaire :
+## Salaire:
 
  Fourchette : 60-70 K€ (package avec Equity)  
 
@@ -59,7 +60,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Pourquoi postuler ?
 
-Rejoindre JUMP c’est prendre part à un projet avec de réels ambitions. Le groupe BIZZNESS est un acteur majeur d’un secteur en pleine mutation :  la formation.   
+Rejoindre JUMP c’est prendre part à un projet avec de réels ambitions. Le groupe BIZZNESS est un acteur majeur d’un secteur en pleine mutation : la formation.   
 
 En plus, d’un secteur en pleine explosion, vous bénéficierez de :   
 * Superbe locaux près du palais de justice à Toulouse 

@@ -27,9 +27,8 @@ Full remote = 🏠
 	- Développeur(se) PHP/Symfony & ELK 🏠
 	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- DevOps junior, developpeur(se) souhaitant devenir Ops
 	- Développeur(se) - Webperf & Optimisation 🏠
-	- Développeur(se) sénior - Traitement asynchrone 🏠
+	- Développeur(se) sénior - CMS headless 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) Core PHP

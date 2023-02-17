@@ -26,6 +26,13 @@ Ces différents facteurs ont permis à l'entreprise de s'inscrire dans une dynam
 * Kubernetes, Docker
 * Cloud AWS
 
+**Process**
+
+Questions techniques + échanges avec le CTO & adjoint CTO
+Rencontre avec les équipes techiques
+Proposition
+Vous pourrez même visiter le studio radio :)
+
 
 # Développeur(se) Fullstack 70% PHP/Symfony / 30%ReactJS  
 
