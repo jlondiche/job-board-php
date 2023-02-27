@@ -49,7 +49,7 @@ Votre objectif sera de manager l’équipe Data, qui est une création de pôle 
 
 Également, vous contribuerez fortement à l'excellence du "parcours candidat": permettre au groupe ACTUAL de trouver la solution RH au plus grand nombre. 
   
-## Missions :
+**Missions :**
 
   * Constituer et gérer l’équipe DATA, notamment les ingénieurs data, les data analystes et les data scientistes 
 * Gérer la communication entre cette équipe DATA et les autres équipes commerciales et techniques travaillant avec des données * Gérer un backlog en lien avec la feuille de route du Groupe et de l’équipe DATA 
@@ -57,7 +57,7 @@ Votre objectif sera de manager l’équipe Data, qui est une création de pôle 
 * Construire des tableaux de bord BI et des applications data pour visualiser et analyser les données
  * Travailler avec les équipes métiers pour développer différents modèles ou analyses * Travailler main dans la main avec l’équipe Produit  
 
-## Environnement Technique :
+**Environnement Technique :**
 
 * Infrastructure Cloud GCP codée via Terraform  
 * Airflow, Kubernetes, Stitch, Talend pour le transport de la donnée 
@@ -67,7 +67,7 @@ Votre objectif sera de manager l’équipe Data, qui est une création de pôle 
 * Github, Cloud Build, Logging, Alerting pour le contrôle de version, le déploiement et la surveillance
 * LookerStudio, Sisense pour la visualisation  
 
-## Profil :
+**Profil :**
 
 * Maîtrise en data science (SQL, Python, pandas/numpy, Databricks/Jupyter, Notebooks, etc…), idéalement avec une expérience dans les environnements de production, et vous avez déjà fait face à des problématiques de forts volumes
 * Expérience en management d’équipe de taille moyenne (minimum de 5 personnes)
@@ -77,15 +77,89 @@ Votre objectif sera de manager l’équipe Data, qui est une création de pôle 
 * Expérience en création, déploiement et test de dashboards BI 
 * Vous avez travaillé en collaboration avec les équipes business avec des méthodes Agiles
 
-## Salaire :
+**Salaire :**
 
 Fourchette : 75/80 K€   
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!**  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.  **
 
+# Développeur(se) frontend React.js senior - Full remote 🏠 & New !
+
+**Missions**
+
+* Conception et développement de fonctionnalités front-end 
+* Participation aux code reviews
+* Mettre en place de nouvelles pratiques pour améliorer la qualité et la fiabilité du code ainsi que des futures orientations techniques
+* Ecrire et déployer du code conformes aux exigences et aux processus déjà établis
+* Imaginer et développer des parcours utilisateurs précis et intuitifs
+* Surveiller et améliorer les performances front-end en production
+
+**Profil**
+
+* Un minimun de 5 ans d'expérience en tant que développeur.se JS avec une facilité à collaborer en Agile
+* Une expertise poussée sur JS - maîtrise d'un ou plusieurs frameworks modernes avec un vif intérêt pour la veille sur l'écosystème frontend
+* Expertise sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
+* Sensibilité UX/UI afin de proposer une UX à l'état de l'art
+
+# Développeur(se) expert frontend React.js - Full remote 🏠 & New !
+
+**Missions**
+
+* Conception et développement de fonctionnalités front-end 
+* Participation aux code reviews
+* Mettre en place de nouvelles pratiques pour améliorer la qualité et la fiabilité du code ainsi que des futures orientations techniques
+* Ecrire et déployer du code conformes aux exigences et aux processus déjà établis
+* Imaginer et développer des parcours utilisateurs précis et intuitifs
+* Surveiller et améliorer les performances front-end en production
+
+**Profil**
+* Un minimun de 3 ans d'expérience en tant que développeur.se JS avec une facilité à collaborer en Agile
+* Une expertise sur JS - maîtrise d'un ou plusieurs frameworks modernes avec un vif intérêt pour la veille sur l'écosystème frontend
+* Expérience réussie sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
+* Sensibilité UX/UI afin de proposer une UX à l'état de l'art
+
+**Salaire**
+
+* Fourchette : entre 50 et 65 K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+# Développeur(se) PHP Laravel Fullstack senior
+
+**Missions**
+
+* Participation au planning poker et pondération des tâches en équipe.
+* Participation au daily.
+* Analyse, prise en charge, conception et développement des user stories qui vous sont attribuées.
+* Conception et développement des fonctionnalités back-end.
+* Participation aux code reviews.
+* Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais.
+
+**Profil**
+
+Bonne maîtrise de :
+
+- Laravel
+- ElasticSearch
+- CI
+
+Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités.
+
+**Salaire**
+
+Fourchette : 45-55K€ 
+
+Pour rappel :  
+Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+# Product Manager senior
+
+en cours de rédaction
+
+
 ## Comment postuler ?
  
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-nous un email à julien@jlrecrutement.com, jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

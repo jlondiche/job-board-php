@@ -36,6 +36,10 @@ Full remote = 🏠
 	- Référent frontend React.js/Nest.js ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Head of Data [NEW]** 🏠
+	- **Développeur(se) frontend React.js senior [NEW]** 🏠
+	- **Développeur(se) frontend React.js expert(e) [NEW]** 🏠
+	- **Product Manager senior [NEW]** 🏠
+	- **Développeur(se) PHP Laravel Fullstack senior [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
@@ -46,17 +50,22 @@ Full remote = 🏠
 	- **Développeur(se) back-end PHP/Symfony [!NEW!]**
 	- **Développeur(se) back-end PHP/Symfony équipe LiveVideo [!NEW!]**
 	- **Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
+	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NEW!]**
+	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
-	- **Développeur(se) Back-End Golang - Fraud Fighting [NEW]**
+	- Développeur(se) Back-End Golang - Fraud Fighting
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MAKESENS.md">[MAKESENS]</a> 
+	- **Développeur(se) JS junior.e - 🌍 Impact! [!NEW!]**
+	- **Développeur(se)JS confirmé(e) - 🌍 Impact ! [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NEW]**
-	- Senior(e) Product Owner
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
 	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship** 
 	- Testeur
 	- DevOps
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
-	- **Développeur(se) fullstack PHP / Symfony / ReactJS / AWS [!NEW!]**
+	- Développeur(se) fullstack PHP / Symfony / ReactJS / AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
 	- **Senior DevOps / SRE [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
@@ -64,7 +73,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
 	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
-	- **Référent(e) Frontend React.js/Redux   [!NEW!]** 🏠
+	- Référent(e) Frontend React.js/Redux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TIKETAC]</a>  
 	- **Lead developpeur(se) / CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 

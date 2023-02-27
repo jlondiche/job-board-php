@@ -28,36 +28,6 @@ Grâce à sa logique d'expansion globale sur son marché, de nombreux partenaire
 * Archictecture Micro Services avec un accent mis sur la récup' des datas et des flux de données via RABBITMQ et KAFKA.
 
 
-# Développeur(se) - devOps junior
-
-**Rare opportunité ! Campings.com sont prêts à donner la chance à un bon développeur(se) qui souhaite devenir Ops.**
-
-## Missions :
-
-* Tester et déployer les nouvelles versions des fonctionnalités 
-* Maintenir les composants de l’infra et monitoring 
-* Veiller aux défis de l’infrastructure : évolutivité, stabilité, couts… 
-* Collaborer avec les feature teams
-* Soutenir l'approche d'urbanisation basée sur les modèles de micro-services
-* Mettre en place une documentation qui facilite la maintenabilité et l'évolution de l'infrastructure et des outils.
-
-## Profil :
-
-**Surtout l'envie et la motivation de basculer du côté Ops !** 
-* 3/5 ans d'expérience en tant que développeur.
-* Connaissance de base de PHP/Bash.
-* Connaissance pratique des bases de données SQL, Elasticsearch, RabbitMQ et des systèmes Linux.
-* Une bonne connaissance de Docker et Kubernetes est un plus.
-* Sensibilisation à la culture DevOps et aux principes Agile.
-* Connaître les principales pratiques en matière de processus CI et de mesures de sécurité des systèmes.
-* Connaître Google Cloud Platform est un plus.
-
-## Salaire :
-
-Fourchette : 45/55K€
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 # Développeur(se) DDD & TDD - Expert technique
 
 ## Missions :
@@ -80,20 +50,21 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **
 
 ## Salaire :
 
-Fourchette : 60/75K€
+Fourchette : 60/70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-# Développeur(se) sénior - traitement asynchrone
+# Développeur(se) sénior - web perf & headless
 
 ## Missions :
 
-* Traitement asynchrone d'un grand volume de données. 
+* Interconnection d'un CMS avec un SI - CMS headless
 * Travail important autour d'Elastic Search, des bases de données, des bus d'événements.
-* Développemetn se font en TDD avec une approche DDD.
+* Travail important autour de la web perf. 
+* Développement se font en TDD avec une approche DDD.
 * Gestion de l’API en propre et en marque blanche vers les agences de voyages et autres acteurs.
 * Logique de search très complète et complexe.
-* Amélioration de l’existant : clients, contrats.
+* Amélioration de l’existant: clients, contrats.
 * Contexte de refonte au sein d’un métier riche.
 
 ## Profil :
