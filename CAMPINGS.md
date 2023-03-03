@@ -54,22 +54,23 @@ Fourchette : 60/70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-# Développeur(se) sénior - web perf & headless
+# Développeur(se) sénior - DDD et TDD, projet from scratch
 
 ## Missions :
 
-* Interconnection d'un CMS avec un SI - CMS headless
+* Développeement d'un CMS maison from scratch. L'équipe est en cours de création, vous arriverez dès le départ !
+* Interconnection d'un CMS avec un SI - CMS headless afin de créer du contenu qui soit SEO friendly. Pas un simple wordpress qu’on gère à côté mais un CMS qui est interconnecté à l’ensemble du SI de Campings.com pour pouvoir piloter de l’affichage dynamique => Developpement assez lourd.
 * Travail important autour d'Elastic Search, des bases de données, des bus d'événements.
 * Travail important autour de la web perf. 
 * Développement se font en TDD avec une approche DDD.
-* Gestion de l’API en propre et en marque blanche vers les agences de voyages et autres acteurs.
-* Logique de search très complète et complexe.
-* Amélioration de l’existant: clients, contrats.
 * Contexte de refonte au sein d’un métier riche.
+
+
 
 ## Profil :
 
-* 7 ans d’expérience minimum en Symfony/Twig/JS et une appétence pour monter en compétence sur React/Redux.
+* 6-7 ans d’expérience minimum en Symfony/Twig/JS 
+* Expérience en SEO et Web-perf un plus
 * Connaissance et maîtrise des principaux grands patterns du développement.
 * Expérience en DDD et TDD.
 * Solide connaissance en base de données type SQL et Elasticsearch.
@@ -79,7 +80,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **
 
 ## Salaire :
 
-Fourchette : 60/75K€
+Fourchette : 60/70K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?

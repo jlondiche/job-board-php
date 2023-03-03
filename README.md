@@ -28,7 +28,7 @@ Full remote = 🏠
 	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
-	- Développeur(se) sénior - CMS headless 🏠
+	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) Core PHP
@@ -39,6 +39,7 @@ Full remote = 🏠
 	- **Développeur(se) frontend React.js senior [NEW]** 🏠
 	- **Développeur(se) frontend React.js expert(e) [NEW]** 🏠
 	- **Product Manager senior [NEW]** 🏠
+	- **Product Designer [NEW]** 🏠
 	- **Développeur(se) PHP Laravel Fullstack senior [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
@@ -74,7 +75,7 @@ Full remote = 🏠
 	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) Frontend React.js/Redux 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TIKETAC]</a>  
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TICKETAC]</a>  
 	- **Lead developpeur(se) / CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a> 
 	- Développeur(ses) back-end PHP/Zend : de junior à confirmé
