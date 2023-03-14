@@ -61,14 +61,12 @@ Full remote = 🏠
 	- **Développeur(se)JS confirmé(e) - 🌍 Impact ! [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NEW]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/NICESOFT.md">[NICESOFT]</a> 
-	- Développeurs(ses) back end PHP8/Symfony6 / **software craftmanship** 
-	- Testeur
-	- DevOps
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
 	- Développeur(se) fullstack PHP / Symfony / ReactJS / AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
 	- **Senior DevOps / SRE [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/RESEE.md">[RESEE]</a>
+		- **CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
