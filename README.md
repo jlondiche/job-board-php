@@ -15,6 +15,7 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 
 
 ## Les offres classées par ville.
+
 Full remote = 🏠
 
 ## À Paris : 
@@ -66,7 +67,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
 	- **Senior DevOps / SRE [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/RESEE.md">[RESEE]</a>
-		- **CTO [!NEW!]**
+	- **CTO [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
