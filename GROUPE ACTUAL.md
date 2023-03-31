@@ -43,49 +43,59 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
-# Head of Data 📊  
+# Quality Assurance 
 
-Votre objectif sera de manager l’équipe Data, qui est une création de pôle au sein de la DDDI (Direction Digital Data Innovation) du groupe, afin de gérer les différents projets liés au Familles Métier (Interim, Formation, Réinsertion, etc).   Les thématiques sont nombreuses tout comme les challenge à relever : matching et profiling de candidats, défis commerciaux, agrégation de data externe, l’analyse financière et l’efficacité opérationnelle.  
+## Contexte 
 
-Également, vous contribuerez fortement à l'excellence du "parcours candidat": permettre au groupe ACTUAL de trouver la solution RH au plus grand nombre. 
-  
-**Missions :**
+Au sein d’un pole digital en pleine croissance, le poste d’engineer QA qui s’ouvre, vise à mettre en place tous les processus d’amélioration de la Quality Assurance. Il travaillera en étroite collaboration avec les lead-dev et les product manager (plusieurs équipes) pour garantir la qualité et la pérénité des produits développés et concevoir la stratégie de tests.
 
-  * Constituer et gérer l’équipe DATA, notamment les ingénieurs data, les data analystes et les data scientistes 
-* Gérer la communication entre cette équipe DATA et les autres équipes commerciales et techniques travaillant avec des données * Gérer un backlog en lien avec la feuille de route du Groupe et de l’équipe DATA 
-* Construire et maintenir la base de code dbt pour gérer les transformations de données
-* Construire des tableaux de bord BI et des applications data pour visualiser et analyser les données
- * Travailler avec les équipes métiers pour développer différents modèles ou analyses * Travailler main dans la main avec l’équipe Produit  
+## Descriptif du poste
 
-**Environnement Technique :**
+* Vous contribuerez et interviendrez dans la mise en place de nos futurs outils de test, de la méthodologie de test et de l’optimisation de celui-ci.
+* Vous travaillerez en étroite collaboration avec les équipes de dev, produit et devops pour garantir le bon fonctionnement des différents produits (CI/CD, suites de tests et tests de non régression)
+* Concevoir et maintenir la stratégie tests automatisés (Fonctionnels, Performance et de non régression) sur nos applications Backend, Api et Frontend
+* Définir avec les Product Managers les critères d’acceptances et les scénarios utilisateurs
+* Alimenter, suivre et partager Fournir les différents rapports et métriques
+* Surveiller la production, communiquer sur l’état de santé des applications et alerter en cas d’incident ;
+* Contribuer à l’amélioration du monitoring et au reporting des états dégradés.
 
-* Infrastructure Cloud GCP codée via Terraform  
-* Airflow, Kubernetes, Stitch, Talend pour le transport de la donnée 
-* Dbt pour la modélisation et la transformation des données
-* Datalake via Google Cloud Storage et Big Query
-* Ecosystème de données Python comme principal langage de script et d’analyse
-* Github, Cloud Build, Logging, Alerting pour le contrôle de version, le déploiement et la surveillance
-* LookerStudio, Sisense pour la visualisation  
+## Hard skills 
 
-**Profil :**
+* Maîtrise des outils de test et d’automatisation
+* Avoir une bonne culture des usages Web et Mobile Connaissance des méthodes agiles
 
-* Maîtrise en data science (SQL, Python, pandas/numpy, Databricks/Jupyter, Notebooks, etc…), idéalement avec une expérience dans les environnements de production, et vous avez déjà fait face à des problématiques de forts volumes
-* Expérience en management d’équipe de taille moyenne (minimum de 5 personnes)
-* Vous maîtrisez parfaitement les données et les chiffres : donner un sens à de nombreuses données afin de les transformer en une histoire cohérente
-* Etre curieux et autonome - il est essentiel d’avoir l’esprit d’initiative pour ce poste
-* Vous êtes un(e) problem solver : vous êtes en mesure d’écouter et de comprendre les problèmes et les exigences du groupe ACTUAL afin de proposer des solutions pragmatiques en matière de données 
-* Expérience en création, déploiement et test de dashboards BI 
-* Vous avez travaillé en collaboration avec les équipes business avec des méthodes Agiles
+## Soft skills
 
-**Salaire :**
+* Rigueur, esprit de synthèse et sens de la schématisation Proactivité
+* Bonne communication écrite et orale
+* Empathie et sens de l’équipe
 
-Fourchette : 75/80 K€   
+## Bonus
 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!**  L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.  **
+* Connaissance de l’écosystème Google Cloud Platform.
+* Connaissance aux choix des langages et technologies de notre stack : Javascript/Typescript (React et React Native) & PHP (Framework Laravel)
 
-# Développeur(se) frontend React.js senior - Full remote 🏠 & New !
+## Missions 
+* Mise en place de stratégies de tests selon les produits
+* Automatisation des tests end 2 end (selenium / Laravel Dusk / BrowserStack / Ghost Inspector ou autre)
+* Reporting des résultats : 
+	* Aux developpeurs(ses) (retours pour correction feature)
+	* En interne et en externe : visibilité de l’avancement / dégradation de la qualité globale d’un projet / des projets)
+* Mise en place d’un cahier de recette et de critères d’acceptances sur les US
+* Mise en place pour les applications en production 
+* Mise en place d’un SLA interne
+* Définir une stratégie de support utilisateur interne final
 
-**Missions**
+## Salaire : 
+
+Fourchette : 45/50K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+
+# Développeur(se) frontend React.js confirmé(e) - Full remote 🏠
+
+## Missions
 
 * Conception et développement de fonctionnalités front-end 
 * Participation aux code reviews
@@ -94,68 +104,18 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **N
 * Imaginer et développer des parcours utilisateurs précis et intuitifs
 * Surveiller et améliorer les performances front-end en production
 
-**Profil**
+## Profil
 
 * Un minimun de 5 ans d'expérience en tant que développeur.se JS avec une facilité à collaborer en Agile
 * Une expertise poussée sur JS - maîtrise d'un ou plusieurs frameworks modernes avec un vif intérêt pour la veille sur l'écosystème frontend
 * Expertise sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
 * Sensibilité UX/UI afin de proposer une UX à l'état de l'art
 
-# Développeur(se) expert frontend React.js - Full remote 🏠 & New !
+## Salaire
 
-**Missions**
+Fourchette : 40/45K€ 
 
-* Conception et développement de fonctionnalités front-end 
-* Participation aux code reviews
-* Mettre en place de nouvelles pratiques pour améliorer la qualité et la fiabilité du code ainsi que des futures orientations techniques
-* Ecrire et déployer du code conformes aux exigences et aux processus déjà établis
-* Imaginer et développer des parcours utilisateurs précis et intuitifs
-* Surveiller et améliorer les performances front-end en production
-
-**Profil**
-* Un minimun de 3 ans d'expérience en tant que développeur.se JS avec une facilité à collaborer en Agile
-* Une expertise sur JS - maîtrise d'un ou plusieurs frameworks modernes avec un vif intérêt pour la veille sur l'écosystème frontend
-* Expérience réussie sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
-* Sensibilité UX/UI afin de proposer une UX à l'état de l'art
-
-**Salaire**
-
-* Fourchette : entre 50 et 65 K€ 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-# Développeur(se) PHP Laravel Fullstack senior
-
-**Missions**
-
-* Participation au planning poker et pondération des tâches en équipe.
-* Participation au daily.
-* Analyse, prise en charge, conception et développement des user stories qui vous sont attribuées.
-* Conception et développement des fonctionnalités back-end.
-* Participation aux code reviews.
-* Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais.
-
-**Profil**
-
-Bonne maîtrise de :
-
-- Laravel
-- ElasticSearch
-- CI
-
-Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités.
-
-**Salaire**
-
-Fourchette : 45-55K€ 
-
-Pour rappel :  
-Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-# Product Manager senior
-
-en cours de rédaction
-
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 ## Comment postuler ?
  
