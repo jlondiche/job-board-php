@@ -20,14 +20,15 @@ Full remote = 🏠
 ## À Paris : 
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
- 	- **Senior(e) développeur(se) back-end PHP / Symfony [NEW]**
+ 	- **Senior(e) développeur(se) back-end PHP / Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
 	- Développeur(se) PHP/Symfony & ELK 🏠
-	- **Développeur(se) fullstack PHP/Symfony/JS [NEW]** 🏠
+	- **Développeur(se) fullstack PHP/Symfony/JS [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NEW]** 🏠
+	- Développeur(se) - Webperf & Optimisation 🏠
+	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- **Développeur(se) PHP sénior - équipe Open data [!NOUVEAU!]**
@@ -52,21 +53,29 @@ Full remote = 🏠
 	- Développeur(se) Back-End Golang - Fraud Fighting
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- **Développeur(se) Backend Python/Django + Data [!NEW!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
+	- **Développeur(se) back-end PHP/Symfony [!NOUVEAU!]**
+	- **Développeur(se) back-end PHP/Symfony équipe LiveVideo [!NOUVEAU!]**
+	- **Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes [!NOUVEAU!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
+	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NOUVEAU!]**
+	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NOUVEAU!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
+	- Développeur(se) Back-End Golang - Fraud Fighting
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
-	- **Développeur(se) back-end PHP/Symfony [NEW]**
+	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
 	- Développeur(se) fullstack PHP / Symfony / ReactJS / AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
-	- **Senior DevOps / SRE [!NEW!]**
+	- **Senior DevOps / SRE [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
-	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NEW!]**
+	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) Frontend React.js/Redux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TICKETAC]</a>  
 	- **Lead developpeur(se) / CTO [!NEW!]**
-
 
 ## À Lyon : 
 
