@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow
+
+name: "Links"
+
+on:
+    pull_request: null
+    push:
+        branches:
+        - "master"
+
+permissions:
+    contents: "read"
+
+concurrency:
+    group: "${{ github.workflow }}-${{ github.ref }}"
+    cancel-in-progress: true
+
+jobs:
+    link_check:
+        name: "Link check"
+        runs-on: "ubuntu-22.04"
+        timeout-minutes: 1
+        steps:
+        -
+            name: "Checkout repository"
+            uses: "actions/checkout@v3"
+        -
+            name: "Search for duplicate HTML links"
+            run: |
+                DUPLICATES="$(grep --extended-regexp --only-matching --no-filename 'href="[^"]+"' README.md | sort | uniq --repeated)"
+                if [ -n "${DUPLICATES}" ]; then
+                    echo "::error::Duplicate links in README"
+                    echo "${DUPLICATES}"
+                    exit 10
+                fi
+        -
+            name: "Search for duplicate Markdown links"
+            run: |
+                DUPLICATES="$(grep --extended-regexp --only-matching --no-filename '\]\([^)]+\)' README.md | sort | uniq --repeated)"
+                if [ -n "${DUPLICATES}" ]; then
+                    echo "::error::Duplicate links in README"
+                    echo "${DUPLICATES}"
+                    exit 11
+                fi
+        -
+            name: "Check HTML-linked files existence"
+            run: |
+                if ! grep --extended-regexp --only-matching --no-filename \
+                    'href="https://github.com/jlondiche/job-board-php/blob/master/[^"]+"' README.md \
+                    | cut -d '"' -f 2 \
+                    | sed -e 's#^.\+/##' \
+                    | perl -p -e 's/\%([A-Fa-f0-9]{2})/pack("C", hex($1))/seg' \
+                    | xargs -I % -- ls %
+                then
+                    echo "::error::Missing linked files"
+                    exit 12
+                fi
+        -
+            name: "Check Markdown-linked files existence"
+            run: |
+                if ! grep --extended-regexp --only-matching --no-filename \
+                    '\]\([^)]+\)' README.md \
+                    | sed -n -e 's#\](\(.\+\))#\1#p' \
+                    | perl -p -e 's/\%([A-Fa-f0-9]{2})/pack("C", hex($1))/seg' \
+                    | xargs -I % -- ls %
+                then
+                    echo "::error::Missing linked files"
+                    exit 13
+                fi
