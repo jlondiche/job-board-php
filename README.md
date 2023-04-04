@@ -44,7 +44,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LA%20RUCHE%20QUI%20DIT%20OUI.md">[LA RUCHE QUI DIT OUI]</a> 
 	- Développeur(se) fullstack React.js/Symfony - Start-up sociale et solidaire 🐝  
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
-	- Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes
+	- Lead développeur(se) front-end JS/HTML/css, équipe de 6 personnes
 	- Développeur(se) back-end PHP/Symfony équipe CMS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
 	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NOUVEAU!]**
@@ -66,7 +66,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) Frontend React.js/Redux 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/TICKETAC.md">[TICKETAC]</a>  
-	- **Lead developpeur(se) / CTO [!NEW!]**
+	- **Lead développeur(se) / CTO [!NEW!]**
 
 ## À Lyon : 
 
