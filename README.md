@@ -49,8 +49,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
 	- Dévelopeur(se) confirmé(e) PHP/Symfony
 	- Développeur-se confirmé-e Frontend Vue.js/Nuxt
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
-	- Développeur(se) Back-End Golang - Fraud Fighting
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- **Développeur(se) Backend Python/Django + Data [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
