@@ -44,22 +44,15 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LA%20RUCHE%20QUI%20DIT%20OUI.md">[LA RUCHE QUI DIT OUI]</a> 
 	- Développeur(se) fullstack React.js/Symfony - Start-up sociale et solidaire 🐝  
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
-	- Développeur(se) back-end PHP/Symfony équipe LiveVideo
 	- Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
-	- Dévelopeur(se) confirmé(e) PHP/Symfony
-	- Développeur-se confirmé-e Frontend Vue.js/Nuxt
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
-	- **Développeur(se) Backend Python/Django + Data [!NEW!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
-	- **Développeur(se) back-end PHP/Symfony [!NOUVEAU!]**
-	- **Développeur(se) back-end PHP/Symfony équipe LiveVideo [!NOUVEAU!]**
-	- **Lead développeur(se) front-end JS/HTML/css, équipe de 6personnes [!NOUVEAU!]**
+	- Développeur(se) back-end PHP/Symfony équipe CMS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
 	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NOUVEAU!]**
 	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LYDIA.md">[LYDIA]</a> 
 	- Développeur(se) Back-End Golang - Fraud Fighting
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
+	- **Développeur(se) Backend Python/Django + Data [!NEW!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
