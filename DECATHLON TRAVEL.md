@@ -37,38 +37,6 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 
 Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus!
 
-# Développeur(se) sénior back-end PHP / Symfony
-
-## Missions : 
-
-En tant que développeur back, vous avez pour principale mission de développer la plateforme de réservation Decathlon Travel en assurant la robustesse des solutions livrées. 
-
-Vous travaillez en étroite collaboration avec les équipes informatiques de DECATHLON. 
-
-Vos missions sont :
-
-* Écrire du code de qualité, efficace, réutilisable et documenté.
-* Développer de nouvelles fonctionnalités pour répondre aux exigences de l’équipe produit.
-* Maintenir la plateforme actuelle afin d’améliorer l’expérience client
-* Faire partie du projet de la phase de conception à la phase de production finale.
-* Prendre soin de la dette technique
-
-Vous reportez hiérarchiquement au Technical Lead Decathlon travel. 
-
-## Profil :
-
-* Vous savez créer un code stable, lisible et propre.
-* Vous utilisez les best-practices en cours aujourd’hui.
-* Vous aimez résoudre des problèmes complexes grâce à des solutions logicielles évolutives et résilientes
-* Vous savez travailler dans un environnement exigeant, incluant des échéances et des objectifs ambitieux.
-* **Vous êtes passionné.e de sport, de voyage et de tech.**
-
-## Salaire :
-
-Fourchette: entre 45/55K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
   
 # Développeur(se) sénior(e) front-end
 

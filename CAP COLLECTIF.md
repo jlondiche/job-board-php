@@ -80,27 +80,6 @@ Fourchette : 44/50K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Développeur(se) fullstack PHP/Symfony/JS
-
-## Missions :
-
-Comme au dessus mais vous serez accompagné !
-
-## Profil :
-
-* première expérience en aternance ou en CDI en développement PHP/Symfony ;
-* prêt(e) à découvrir GraphQL, ELK, JS ;
-* curieux/curieuse et actif/active sur la veille technique ;
-passionné(e) par son métier ;
-* l'envie de faire de la qualité et des tests
-* l’envie de s’investir dans une entreprise dont la mission est porteuse de sens.
-
-## Salaire :
-
-Fourchette : 40/44K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 ## Pourquoi les rejoindre ?
 
 Venez rejoindre la CivicTeam de Cap Collectif et aider à moderniser notre démocratie et notre société !

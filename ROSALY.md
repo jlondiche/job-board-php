@@ -50,6 +50,7 @@ Vous travaillerez en fullremote, en équipe :
 
 ## Profil :
 
+* Bac+5
 * Expérience en PHP / Symfony
 * Pragmatique
 * Curieux et touche à tout

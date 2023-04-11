@@ -55,36 +55,6 @@ Les principales missions du quotidient seront :
 * Expérience en développement de stratégie de test
 
 
-## Développeur(se) back-end PHP/Symfony - Equipe CMS
-
-L'équipe CMS a pour mission principale de développer l'outil éditorial à destination des journalistes des différentes rédactions du groupe. Cet outil bi-média améliorer et facilite la production d'articles web et print. 
-
-Aujourd'hui composée de 14 personnes (1 EM, 2 PO, 2 UX/UI Designer, 2 dévs. front, 1 lead tech. et 6 dévs. back), l'équipe CMS cible plusieurs enjeux : 
-
-* Intéger les différentes rédactions dans l'outil de développement 
-* Développer la partie bi-média
-* Améliorer les performances et la stabilité de l'outil
-* Faire évoluer les stratégies de tests
-
-**Missions** 
-
-Vos principales missions quotidiennes seront : 
-
-* Maintenir et faire évoluer les fonctionnalités du CMS 
-* Participer activement à la code review 
-* Participer aux conceptions techniques : différentes fonctionnalités à développer,accompagner les migrations à prévoir, etc...
-* Améliorer et faire évoluer les stragégie de test
-* Participer à l'évolution future du socle technique 
-* Participer aux différents rituels Agile autour de la méthodologie SCRUM 
-
-**Profil** 
-
-* Minimun de 3 ans d'expérience en tant que développeur PHP/Symfony
-* Expérience sur un framework JavaScript : React ou Node est un + 
-* Vous êtes attentif à la qualité de votre code et êtes à l'aise avec les différentes startégies de test
-* Vous avez l'esprit d'équipe - vous disposez d'un bon sens de l'écoute et vous avez à coeur de partager vos connaissances 
-
-
 ## Pourquoi postuler ?
 
 Vous travaillerez au sein d’un des principaux groupes de médias en France sur des projets coeurs pour l'ensemble du groupe FIGARO . Au delà de l'enjeu technique, vous profiterez : 
