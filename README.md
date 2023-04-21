@@ -21,8 +21,8 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAP%20COLLECTIF.md">[CAP COLLECTIF]</a> 
-	- Développeur(se) PHP/Symfony & ELK 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
+	- **CTO 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
 	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
@@ -31,6 +31,8 @@ Full remote = 🏠
 	- **Développeur(se) PHP sénior - équipe Open data [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend ReactJS/NextJS ⚛️ 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
+	- **Lead Développeur(se) PHP / Symfony [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Quality assurance [NEW]** 🏠
 	- Développeur(se) frontend React.js confirmé(e) 🏠
@@ -38,11 +40,9 @@ Full remote = 🏠
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
 	- Développeur(se) senior frontend ReactJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LA%20RUCHE%20QUI%20DIT%20OUI.md">[LA RUCHE QUI DIT OUI]</a> 
-	- Développeur(se) fullstack React.js/Symfony - Start-up sociale et solidaire 🐝  
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
 	- Lead développeur(se) front-end JS/HTML/css, équipe de 6 personnes
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a>
 	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NOUVEAU!]**
 	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
