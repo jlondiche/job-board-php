@@ -45,6 +45,7 @@ Full remote = 🏠
 	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- **Développeur(se) Backend Python/Django + Data [!NOUVEAU!]**
+	- **Développeur(se) frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 

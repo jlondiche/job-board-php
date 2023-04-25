@@ -63,7 +63,7 @@ Au sein de l'équipe technique de 6 personnes, vous serez en lien avec l'équipe
 
 Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes.Ne vous inquiétez pas et postulez!L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
-# Développeur frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]
+# Développeur(se) frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]
 
 ## Missions
 
