@@ -21,8 +21,6 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
 	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
-	- **CTO 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
 	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
@@ -74,4 +72,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Développeur(se) back-end PHP / Laravel
 
-
+## À Toulouse : 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
+	- **CTO 🏠 [!NOUVEAU!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a>
+	- **Lead Développeur(se) back-end PHP / Symfony [!NOUVEAU!]**

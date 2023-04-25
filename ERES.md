@@ -6,7 +6,11 @@
 
 **Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié et d’accompagner chaque salarié dans sa démarche d’épargne personnelle.
 
-**Comment ?**  Eres a réussi à conquérir le marché avec une offre de produits et services plus riche que celle des concurrents et construit une plateforme web qui permet de : * déployer toute son expertise métier pour former les distributeurs et les salariés via le e-learning * dématérialiser les workflows, notamment la souscription et la gestion des contrats *  Offrir une expérience utilisateur riche et à forte valeur ajoutée.
+**Comment ?**  Eres a réussi à conquérir le marché avec une offre de produits et services plus riche que celle des concurrents et construit une plateforme web qui permet de : 
+
+* déployer toute son expertise métier pour former les distributeurs et les salariés via le e-learning 
+* dématérialiser les workflows, notamment la souscription et la gestion des contrats 
+* offrir une expérience utilisateur riche et à forte valeur ajoutée.
 
 **Facts & Figures**
 
