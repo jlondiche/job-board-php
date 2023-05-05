@@ -93,30 +93,6 @@ Fourchette : 45/50K€
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-# Développeur(se) frontend React.js confirmé(e) - Full remote 🏠
-
-## Missions
-
-* Conception et développement de fonctionnalités front-end 
-* Participation aux code reviews
-* Mettre en place de nouvelles pratiques pour améliorer la qualité et la fiabilité du code ainsi que des futures orientations techniques
-* Ecrire et déployer du code conformes aux exigences et aux processus déjà établis
-* Imaginer et développer des parcours utilisateurs précis et intuitifs
-* Surveiller et améliorer les performances front-end en production
-
-## Profil
-
-* Un minimun de 5 ans d'expérience en tant que développeur.se JS avec une facilité à collaborer en Agile
-* Une expertise poussée sur JS - maîtrise d'un ou plusieurs frameworks modernes avec un vif intérêt pour la veille sur l'écosystème frontend
-* Expertise sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
-* Sensibilité UX/UI afin de proposer une UX à l'état de l'art
-
-## Salaire
-
-Fourchette : 40/45K€ 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
 ## Comment postuler ?
  
 Tout simplement, envoyez-nous un email à julien@jlrecrutement.com, jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 

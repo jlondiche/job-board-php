@@ -75,7 +75,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeannea@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 

@@ -29,11 +29,8 @@ Full remote = 🏠
 	- **Développeur(se) PHP sénior - équipe Open data [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend ReactJS/NextJS ⚛️ 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
-	- **Lead Développeur(se) PHP / Symfony [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Quality assurance [NEW]** 🏠
-	- Développeur(se) frontend React.js confirmé(e) 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
@@ -48,8 +45,6 @@ Full remote = 🏠
 	- **Développeur(se) frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
-	- Développeur(se) fullstack PHP / Symfony / ReactJS / AWS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
 	- **Senior DevOps / SRE [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
@@ -76,5 +71,7 @@ Full remote = 🏠
 ## À Toulouse : 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
 	- **CTO 🏠 [!NOUVEAU!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/JUMP.md">[JUMP]</a>
-	- **Lead Développeur(se) back-end PHP / Symfony [!NOUVEAU!]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BIZNESS.md">[BIZNESS]</a> 
+	- **Lead développeur(se) Angular [!NOUVEAU!]**
+	- **Lead Développeur(se) PHP/Symfony [!NOUVEAU!]**
+	- **Product Manager Storiz [!NOUVEAU!]**
