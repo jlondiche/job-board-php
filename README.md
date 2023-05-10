@@ -46,15 +46,17 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
-	- **Senior DevOps / SRE [!NOUVEAU!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ROSALY.md">[ROSALY]</a>    
-	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6 / AWS 🏠
+	- Senior DevOps / SRE
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
 	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) Frontend React.js/Redux 🏠
+
+## À Lille :
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
+	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 
 ## À Lyon : 
 
