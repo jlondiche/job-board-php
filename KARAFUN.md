@@ -38,7 +38,7 @@ Passionné(e) de développement et de challenges, vous aimez toujours apprendre 
 
 Les challenges vous motivent et vous inspirent l’envie de produire des architectures modernes, maintenables et adaptées. Votre parcours vous a amené à rencontrer diverses problématiques métiers et techniques et vous en êtes ressorti grandi.
 
-Les test font partis de votre quotidien et le BDD n’est pas seulement synonyme de base de données pour vous. Vous êtes capable de comprendre rapidement les problématiques métier et d’établir un langage commun entre les différents intervenants d'un projet.
+Les test font partis de votre quotidien. Vous êtes capable de comprendre rapidement les problématiques métier et d’établir un langage commun entre les différents intervenants d'un projet.
 
 Karafun est très impliqué dans la communauté PHP : sponsor des différents évènements AFUP ces dernières années dont le Forum PHP, Afup Day à Lille ... Et surtour ils ont conçu ces [jolies peluches](https://twitter.com/karafungroup/status/1529037981545336833/photo/1 "jolies peluches") elePHPant !! 
 
