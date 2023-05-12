@@ -57,6 +57,8 @@ Full remote = 🏠
 ## À Lille :
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/EXOTEC.md">[EXOTEC]</a> 
+	- **Développeur(se) Front JS/Vue.Js [NOUVEAU]**
 
 ## À Lyon : 
 
