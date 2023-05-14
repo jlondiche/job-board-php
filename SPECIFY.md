@@ -39,7 +39,7 @@ Au sein de l’équipe Tech’ , vous viendrez enrichir la solution de Specify �
 
 * Plus de 3 ans d’XP en tant que développeur dans un contexte start-up 
 * Solide expertise en TypeScript
-* Forte connaissance de Docker, des outils réseau :RabbitMQ, Kafka et des bases de données : PostgreSQL, Redi
+* Forte connaissance de Docker, des outils réseau :RabbitMQ, Kafka et des bases de données : PostgreSQL, Redis
 * Solides connaissances avec Git (branch, rebase, cherry-pick, squash, submodule, etc…) 
 * Fluent en Anglais  * Capacité à travailler dans un environnement Mono-Repo
 * Connaissance des bonnes pratiques de développement (test unitaires, code coverage, MR reviews…) 
