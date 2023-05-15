@@ -24,9 +24,11 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
 	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
+	- **Lead developpeur(se) / CTO [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
-	- **Développeur(se) PHP sénior - équipe Open data [!NOUVEAU!]**
+	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent frontend ReactJS/NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
