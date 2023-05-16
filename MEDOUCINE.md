@@ -13,13 +13,13 @@
 * Une vingtaine de collaborateurs
 * Mise relation pour les particuliers et aussi les entreprises (séminaires, 
 
-## Stack
+**Stack**
 
 * Back : PHP7, Symfony6.0, Mysql, Redis, AWS, DO, Algolia, Linux, Docker, GraphQL
 * Front : jQuery, VueJS, Bootstrap, SASS, Webpack, Apollo, Nuxtjs
 * Services: JIRA, Confluence, Github, Trello, Sentry, Loggly, SEMRush, Sqreen, SauceLab, Keen.io, Cloudflare
 
-# Développeur(se) back end PHP/Symfony
+# Développeur(se) back end PHP / Symfony
 
 Vous rejoindrez une équipe de 4 personnes. Actuellement la plateforme est en cours de migration de Laravel vers Symfony. 
 

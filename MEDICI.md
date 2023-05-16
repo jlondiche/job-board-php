@@ -63,33 +63,6 @@ Au sein de l'équipe technique de 6 personnes, vous serez en lien avec l'équipe
 
 Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes.Ne vous inquiétez pas et postulez!L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
-# Développeur(se) frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]
-
-## Missions
-
-En lien avec l'équipe Produit (3 personnes) et le reste de l'équipe de développement(6 personnes), vous aurez pour responsabilités : 
-
-* Participer aux évolutions de la plateforme et du design system
-* Optimiser l'application pour la rendre encore plus rapide et accessible (WCAG!) 
-* Mettre en place une démarche qualité: notamment sur du testing automatisé
-* Interagir avec l'équipe backend sur les API(s) à mettre en place
-* Rédaction de la documentation technique 
-* Etre force de proposition et partager les bonnes pratiques de développement
-
-## Profil
-
-* + de 2/3 ans d'expérience sur les technologies principales de la stack : NuxtJS et/ou VueJS, intégration Scss
-* Expertise avec Github Actions
-* Expérience sur des problématiques de traffic
-* Orienté bonnes pratiques de développement et qualité de code
-
-## Salaire
-
-Fourchette entre 45 et 50 K€
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
-
 # Comment postuler ?
 
 Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com (back) et julien@jlrecrutement.com (front) avec un CV ou bien un profil LinkedIn à jour. À bientôt !

@@ -51,9 +51,9 @@ En tant que développeur(se) front, vous avez pour principale mission de faire �
 
 ## Profil :
 
-* Vous avez une belle expérience en développement et en architecture front-end 
-* Vous avez une bonne sensibilité UX/UI et une expérience réussie dans l’évolution d’un design system 
-* Vous avez à coeur de produire du code de qualité 
+* Vous avez une belle expérience en développement et en architecture front-end .
+* Vous avez une bonne sensibilité UX/UI et une expérience réussie dans l’évolution d’un design system .
+* Vous avez à coeur de produire du code de qualité .
 
 ## Salaire   :
 

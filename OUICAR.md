@@ -19,14 +19,14 @@ Today, as part of the US Turo group, OuiCar is growing rapidly and the team is c
 
 > **Important point : The French IT team is human-sized and will remain so, however, it will have to manage new worldwide issues in the coming months and adapt the ouicar IT platform to new markets. A real challenge for the Ops / SRE team.**
 
-## Stack 
+**Stack**
 
  PHP, Symfony, Python, NodeJs, JavaScript, ReactJS, jQuery, Ruby, Golang, Ansible, Kubernetes, Terraform, GitHub, Docker, AWS. 
+
 
 # Senior DevOps / SRE   
 
 About the team : The Paris team is Turo’s newest engineering team and the first one to be based outside of the United States. The team is currently working on the migration and integration off OuiCar toward the Turo global platform. Therefore, the team will transition their focus on this growing global Turo car sharing platform.
-
 
 ## Missions
 
@@ -39,7 +39,6 @@ About the team : The Paris team is Turo’s newest engineering team and the firs
 * Help them improve the overall operational health of their software.  
 * Use your skills to raise the technical bar and guide architectural judgments and  proposals. 
 * Establish monitoring and alerting production systems to enable observability using SLIs,  SLOs, and SLAs.  
-
 
 ## Profil 
 
@@ -56,7 +55,6 @@ About the team : The Paris team is Turo’s newest engineering team and the firs
 * Excellent troubleshooting and problem-solving skills. 
 * Understanding of CI/CD pipelines and tools used to manage those. 
 * Managing multi-region deployments. * Strong synthesizing and analytical skills. 
-
 
 ## Why apply ?
 

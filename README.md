@@ -19,48 +19,49 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ARSEN.md">[ARSEN]</a> 
-	- Senior(e) développeur(se) fullstack : NodeJS / VueJS
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
+	- **Lead developpeur(se) / CTO [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
 	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- **Lead developpeur(se) / CTO [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
-	- Référent frontend ReactJS/NextJS ⚛️ 🏠
+	- Référent(e) frontend ReactJS / NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Quality assurance [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
-	- Développeur(se) intermédiaire PHP/Symfony, **craftmanship**
+	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
-	- Lead développeur(se) front-end JS/HTML/css, équipe de 6 personnes
+	- Lead développeur(se) front-end JS / HTML / css, équipe de 6 personnes
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a>
-	- **Dévelopeur(se) confirmé(e) PHP/Symfony [!NOUVEAU!]**
-	- **Développeur-se confirmé-e Frontend Vue.js/Nuxt [!NOUVEAU!]**
+	- Dévelopeur(se) confirmé(e) PHP / Symfony
+	- Développeur(se) confirmé-e frontend Vue.js / Nuxt
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
-	- **Développeur(se) Backend Python/Django + Data [!NOUVEAU!]**
-	- **Développeur(se) frontend Nuxt.js/Vue.Js 🎻 [!NOUVEAU!]**
+	- **Développeur(se) backend Python/Django + Data [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
+	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
+	- **Product Owner H/F [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
-	- Senior DevOps / SRE
+	- Senior DevOps / SRE H/F
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SPECIFY.md">[SPECIFY]</a>    
-	- **Développeur backend Typescript/Node.js - Tech’ for Tech’ 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
-	- Référent(e) Frontend React.js/Redux 🏠
+	- Référent(e) front-end React.js / Redux 🏠
 
 ## À Lille :
+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
+	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EXOTEC.md">[EXOTEC]</a> 
-	- **Développeur(se) Front JS/Vue.Js [NOUVEAU]**
+	- **Développeur(se) front-end JS / Vue.Js [NOUVEAU]**
+	- **Développeur(se) back-end PHP / Laravel [NOUVEAU]**
+	- **Lead Développeur(se) back end PHP / Laravel [NOUVEAU]**
 
 ## À Lyon : 
 
@@ -75,9 +76,10 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Laravel
 
 ## À Toulouse : 
+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
 	- **CTO 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BIZNESS.md">[BIZNESS]</a> 
-	- **Lead développeur(se) Angular [!NOUVEAU!]**
+	- **Lead développeur(se) front-end JS / Angular [!NOUVEAU!]**
 	- **Lead Développeur(se) PHP/Symfony [!NOUVEAU!]**
 	- **Product Manager Storiz [!NOUVEAU!]**

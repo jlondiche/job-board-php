@@ -11,6 +11,8 @@ Grâce à sa logique d'expansion globale sur son marché, de nombreux partenaire
 
 **L’équipe technique est orientée qualité, bonnes pratiques et tests. L'IT travaille en TDD, DDD, les ambitions technologiques sont très élevées. Ils ont récemment mis en place une architecture Microservices.** 
 
+https://www.campings.com/fr/
+
 **Facts & Figures**
 
 * Plus de 3000 campings partenaires référencés 
@@ -58,14 +60,12 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **
 
 ## Missions :
 
-* Développeement d'un CMS maison from scratch. L'équipe est en cours de création, vous arriverez dès le départ !
+* Développeement d'un CMS maison from scratch. L'équipe est en cours de création, vous arriverez dès le départ!
 * Interconnection d'un CMS avec un SI - CMS headless afin de créer du contenu qui soit SEO friendly. Pas un simple wordpress qu’on gère à côté mais un CMS qui est interconnecté à l’ensemble du SI de Campings.com pour pouvoir piloter de l’affichage dynamique => Developpement assez lourd.
 * Travail important autour d'Elastic Search, des bases de données, des bus d'événements.
 * Travail important autour de la web perf. 
 * Développement se font en TDD avec une approche DDD.
 * Contexte de refonte au sein d’un métier riche.
-
-
 
 ## Profil :
 
@@ -81,14 +81,14 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **
 ## Salaire :
 
 Fourchette : 60/70K€
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?
 
 **Les avantages :**
 * Tout d'abord, une boite sans chichi, avec une vraie bienveillances, des équipes exceptionnelles. Venez intégrer une belle entreprise et travailler sur des projets de qualité.
-* En plein coeur de Paris - Métro République 
-* Mission enrichissante - équipe bienveillante 
+* En plein coeur de Paris - Métro République.
+* Mission enrichissante - équipe bienveillante.
 * Stack technique moderne et projets très challengeants ! 
 
 ## Comment postuler ?

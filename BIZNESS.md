@@ -25,7 +25,7 @@ Bizness propose via les différents outils des parcours de formation innovants e
 * Applications PWA et mobiles hybrides
 
 
-# Lead développeur(se) Angular 
+# Lead développeur(se) JS / Angular 
 
 Afin de travailler sur un outil multi-plateforme de formation nouvelles génération, ils recherchent un lead frontend afin de prendre en main l'équipe front 
 
