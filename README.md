@@ -30,6 +30,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent(e) frontend ReactJS / NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
+	- **BI/Data Analyst - Pôle DATA [NEW]** 🏠
+	- **Lead data engineer - Pôle DATA [NEW]** 🏠
 	- **Quality assurance [NEW]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**

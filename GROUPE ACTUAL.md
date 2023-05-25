@@ -17,8 +17,8 @@
 
 **Stack:**
 
- * Backend : Php 8.1, Laravel 9, Mysql 8, Redis 5, ElasticSearch 7, Google Pub/Sub 
- * Frontend : TypeScript, React JS, React Native, Material UI, StoryBook, Jest  
+* Backend : Php 8.1, Laravel 9, Mysql 8, Redis 5, ElasticSearch 7, Google Pub/Sub 
+* Frontend : TypeScript, React JS, React Native, Material UI, StoryBook, Jest  
 * DevOps : Terraform, Docker, GithubAction, GCP, Kubernetes  
 * Data : BigQuery, SqlServer, Talend, StitchData, Google DataStudio 
 
@@ -42,6 +42,81 @@ Mots clés supplémentaires :
 #datadriven
 #softwarecraftsmanship
 #solid
+
+# BI/Data Analyst - Pôle DATA 
+
+## Contexte
+
+Au sein de l'équipe DATA, vous serez en charge de la construction des solutions d'analyse de données. Vous travaillerez en étroite collaboration avec les équipes opérationnelles pour comprendre les besoins métier et fournir des insights exploitables à travers des outils de restitution d’analyses et de data visualisation.
+
+## Descriptif du poste
+
+* Développer des outils de data visualisation pour un suivi de la performance et des prises de décisions business
+* Collaborer avec les équipes internes pour identifier et résoudre les problèmes liés aux données, en assurant la qualité et la cohérence des informations
+* Participer à la définition des KPI et à la mise en place de mécanismes de suivi pour évaluer les performances de l'entreprise
+* Identifier les opportunités d'optimisation des processus métier grâce à l'analyse des données
+* Travailler en étroite collaboration avec les autres équipes techniques au sein du groupe Actual
+
+## Hard skills
+
+* Plus de 3 ans d'expérience en tant que BI Analyst ou Data Analyst
+* Solide compréhension des concepts et des méthodologies de l'analyse de données
+* Connaissance d’une ou plusieurs solutions BI : Data Studio, PowerBI, ...
+* Idéalement connaissance en programmation SQL
+
+## Soft skills
+
+* Capacité à travailler de manière autonome et à gérer plusieurs projets simultanéments
+* Fortes compétences analytiques et capacité à transformer les données en insights exploitables
+* Excellentes compétences en communication pour collaborer efficacement avec les différentes parties prenantes
+
+## Salaire : 
+
+Fourchette comprise entre 50 et 60 K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# Lead data engineer - Pôle DATA
+
+## Contexte
+
+En tant que que Lead Data Engineer, vous serez garant du bon fonctionnement de leur architecture data construite sur GCP. De plus, vous serez en responsabilité sur des sujets allant de la data engineering à la dataOps. 
+
+## Descriptif du poste
+
+* Ingestion des données provenant de nos différentes sources (candidats, clients, entités, partenaires, open data, ...) et automatisation des pipelines associées
+* Etre garant de la qualité des données : monitoring, alerting, ...
+* Contribuer à la construction des datamarts utiles à l’activité de production du pôle Data
+* Répondre à des besoins internes ou externes au pôle, de mise à disposition de données
+* Contribuer à l’industrialisation de nos modèles data science et IA
+* Acculturation des bonnes pratiques Ops : versionning, CI/CD, ...
+* Réaliser un travail de veille régulière pour identifier les briques utiles à l’optimisation de notre plateforme data
+
+## Hard skills 
+
+* Plus de 2 ans d'expérience en tant que Data Engineer
+* Expérience obligatoire d’un cloud provider : idéalement GCP 
+* Expérience sur les outils BigQuery, Dataflow, Cloud Storage, et la gestion des services
+* Maîtrise de Python et SQL pour la manipulation des données et l'automatisation des tâches
+* Connaissance de Git et des bonnes pratiques de gestion et de versionning du code
+
+## Soft skills 
+
+* Compréhension des principes de modélisation et d'architecture des données
+* Bonne compréhension des enjeux liés à la gouvernance ainsi qu'à la sécurité des données
+
+## Salaire : 
+
+Fourchette comprise entre 60 et 70 K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+## Pourquoi les rejoindre 
+
+* Rejoignez un pôle data en cours de création et participez à la construction de solutions d'analyse de données au service des clients, candidats et collaborateurs de l'ensemble du groupe ACTUAL
+* Si vous êtes passionné par l'analyse de données, que vous aimez les défis et que vous souhaitez contribuer à la croissance d'une entreprise leader : ACTUAL est fait pour vous ! 
+
 
 # Quality Assurance 
 
@@ -90,7 +165,9 @@ Au sein d’un pole digital en pleine croissance, le poste d’engineer QA qui s
 
 Fourchette : 45/50K€ 
 
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
 
 
 ## Comment postuler ?
