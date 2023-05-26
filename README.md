@@ -19,8 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
-	- **Lead developpeur(se) / CTO [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
 	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
@@ -49,8 +47,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
 	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
 	- **Product Owner H/F [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/OUICAR.md">[OUICAR]</a> 
-	- Senior DevOps / SRE H/F
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
@@ -67,8 +64,6 @@ Full remote = 🏠
 
 ## À Lyon : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/DECATHLON%20TRAVEL.md">[DECATHLON TRAVEL]</a>
-	- Développeur(se) sénior(e) front-end
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
 	- Développeur(se) Symfony / Sylius
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
