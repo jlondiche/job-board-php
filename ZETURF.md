@@ -5,7 +5,7 @@
 
 **Où :** Boulogne-Billancourt (92) / Télétravail possible, déplacement dans les locaux à prévoir 1 fois par sprint, soit 3 semaines voir une fois par mois.
 
-**Quoi :** 
+**Quoi :**  Paris sportifs, haute niveau d'exigence technique, temps réels et vidéo.
 
 **Facts & Figures**
 

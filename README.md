@@ -47,14 +47,16 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
 	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
 	- **Product Owner H/F [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
 	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) front-end React.js / Redux 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
+	- **Développeur(se) PHP / Laravel / Data [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
-	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]**
+	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
 
 ## À Lille :
 

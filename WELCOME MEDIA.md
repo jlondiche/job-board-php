@@ -4,7 +4,7 @@
 
 **Où :** Actuellement 3 jours par semaine sur place - possibilité d'être en fullremote.
 
-**Quoi :**  **Le meilleur de l'actualité, directement dans votre boîte mail!**
+**Quoi :** **Le meilleur de l'actualité, directement dans votre boîte mail!**
 Welcome Media est le Leader de la newsletters en France et depuis 10 ans maintenant! 
 
 Aujourd'hui, l'entreprise est devenue une entreprise "tech", et cherche à compléter son équipe avec un profil dev/data.
