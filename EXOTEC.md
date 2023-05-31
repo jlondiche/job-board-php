@@ -58,6 +58,8 @@ A proximité du Produit, les deux sujets du moment sont : l'amélioration de l'i
 
 ## Missions
 
+Dans une équipe de douze personne vos missions seront les suivantes :
+
 * Vous développez des nouvelles applications ou fonctionnalités sur les solutions : logiciel de pilotage de production, Application de gestion de maintenance, Outil de monitoring, Outil de gestion de données techniques..
 * Vous respectez les standards et bonnes pratiques Exotec : pair code review, intégration continue
 * Veiller à la sécurité, à la performance, à l'évolutivité et à la qualité du code
@@ -79,6 +81,8 @@ A proximité du Produit, les deux sujets du moment sont : l'amélioration de l'i
 
 
 # Lead Développeur(se) Back end PHP / Laravel
+
+L’équipe actuelle est composée de 12 personnes divisée en 3 sous équipes, vous prendrez le lead de l’une d’entre elles.
 
 ## Missions
 
