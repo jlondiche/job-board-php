@@ -21,16 +21,16 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
 	- Développeur(se) - Webperf & Optimisation 🏠
-	- **Développeur(se) sénior - DDD et TDD, projet from scratch [NOUVEAU]** 🏠
+	- Développeur(se) sénior - DDD et TDD, projet from scratch
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent(e) frontend ReactJS / NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
-	- **BI/Data Analyst - Pôle DATA [NEW]** 🏠
-	- **Lead data engineer - Pôle DATA [NEW]** 🏠
-	- **Quality assurance [NEW]** 🏠
+	- **BI/Data Analyst - Pôle DATA [NOUVEAU]** 🏠
+	- **Lead data engineer - Pôle DATA [NOUVEAU]** 🏠
+	- Quality assurance 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
@@ -47,7 +47,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
 	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
 	- **Product Owner H/F [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMAMEDIA.md">[PRISMA MEDIA]</a> 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
 	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
@@ -79,9 +79,6 @@ Full remote = 🏠
 
 ## À Toulouse : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BETTY.CARE.md">[BETTY.CARE]</a> 
-	- **CTO 🏠 [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BIZNESS.md">[BIZNESS]</a> 
-	- **Lead développeur(se) front-end JS / Angular [!NOUVEAU!]**
-	- **Lead Développeur(se) PHP/Symfony [!NOUVEAU!]**
-	- **Product Manager Storiz [!NOUVEAU!]**
+	- Lead développeur(se) front-end JS / Angular
+	- Product Manager Storiz
