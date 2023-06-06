@@ -44,7 +44,7 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 * Tu es habitué aux principes d’intégration continue.
 * Tu es sensible à l’approche DevOps.
 
-# Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) 
+# Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) 
 
 * Mettre en place les bonnes pratiques d’architecture et de qualité de développement.
 * Développer des services frontend.
@@ -62,7 +62,8 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 
 ## Pourquoi postuler ?
  
-* Un environnement à la fois bienveillant, exigeant et très stimulant. * Pour rejoindre une startup qui place le Produit et la Tech au centre de sa stratégie.
+* Un environnement à la fois bienveillant, exigeant et très stimulant. 
+* Pour rejoindre une startup qui place le Produit et la Tech au centre de sa stratégie.
 * Pas d’impasses sur la qualité et donc pas de code legacy.
 * Le télétravail est ouvert à tou·te·s et sans limite.
 * Bureaux modernes et canons à Lyon (Confluence). 

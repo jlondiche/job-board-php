@@ -73,7 +73,7 @@ Full remote = 🏠
 	- Développeur(se) Symfony / Sylius
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
-	- Développeur(se) front-end JS / ReactJS / NuxtJS confirmé(e) - Lyon / Paris
+	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- Développeur(se) back-end PHP / Laravel
 
