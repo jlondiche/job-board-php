@@ -2,7 +2,7 @@
 
 **Domaine :** Media/Web
 
-**Où :** Locaux à Gennevilliers (92), Métro Gabriel Peri, Ligne 13 dans le 92 - Format Hybride : 4 jours de remote par semaine / 1 jour sur site. Super locaux, lumineux, avec jardin et beaucoup d'espace.
+**Où :** Locaux à Gennevilliers (92), Métro Gabriel Peri, Ligne 13 dans le 92 - Format Hybride : 3 jours de remote par semaine / 2 jours sur site. Super locaux, lumineux, avec jardin et beaucoup d'espace.
 
 **Quoi :** Leader des groupes bi-média de France, Prisma Media est le N°1 de la presse magazine, de la vidéo en ligne et de l’audience digitale. Très orienté user first et digital. 20M de VU/mois sur l'ensemble de ses sites et applications mobiles.
 

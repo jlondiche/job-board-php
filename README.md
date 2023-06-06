@@ -48,7 +48,7 @@ Full remote = 🏠
 	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
 	- **Product Owner H/F [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
-	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 🏠
+	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
