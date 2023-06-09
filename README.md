@@ -25,6 +25,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/COCOLIS.md">[COCOLIS]</a>
+	- CTO / Lead developer Ruby on rails 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
 	- Référent(e) frontend ReactJS / NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
