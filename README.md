@@ -55,6 +55,9 @@ Full remote = 🏠
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) front-end React.js / Redux 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/YIELD%20STUDIO.md">[YIELD STUDIO]</a>  
+	- **Développeur fullstack ReacTJS / Laravel 🏠 [NOUVEAU]** 
+	- **Développeur back-end Laravel 🏠 [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- **Développeur(se) PHP / Laravel / Data [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
