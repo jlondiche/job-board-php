@@ -49,6 +49,8 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
 	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
 	- **Product Owner H/F [NOUVEAU]**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
+	- **Développeur(se) fullstack Symfony & ReactJS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
 	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
@@ -62,6 +64,11 @@ Full remote = 🏠
 	- **Développeur(se) PHP / Laravel / Data [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
 	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
+
+## À ANNECY :
+
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
+	- **Référent devOps [NOUVEAU]**
 
 ## À Lille :
 
