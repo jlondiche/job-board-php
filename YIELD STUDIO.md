@@ -21,7 +21,7 @@ Leur mission : sortir les métiers du code de la simple exécution technique pou
 
 * Frontend : Vue.Js, ReactJS, NextJS, Redux Js, Tailwind CSS 
 * Backend : PHP, Laravel, Symfony, NodeJS, GraphQL 
-* DevOps : Vercel, Scalaway, GitLab, Github, Docker, AWS
+* DevOps : Vercel, Scaleway, GitLab, Github, Docker, AWS
 * Mobile : React Native, Expo 
 
 
