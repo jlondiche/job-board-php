@@ -19,9 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
-	- Développeur(se) - Webperf & Optimisation 🏠
-	- Développeur(se) sénior - DDD et TDD, projet from scratch
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
@@ -87,10 +84,5 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
+	- **Lead Développeur-euse back-end PHP/Laravel [NOUVEAU]**
 	- Développeur(se) back-end PHP / Laravel
-
-## À Toulouse : 
-
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BIZNESS.md">[BIZNESS]</a> 
-	- Lead développeur(se) front-end JS / Angular
-	- Product Manager Storiz
