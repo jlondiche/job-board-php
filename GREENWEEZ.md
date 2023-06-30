@@ -19,6 +19,33 @@ Greenweez soutient les clients-es, les collaborateurs-rices et le business dans 
 **Stack**
 GCP, PHP, JS, Docker, Kubernetes 
 
+# Développeur-euse intérmédiaire back-end PHP/Symfony
+
+Dans une équipe tech de 10 personnes, vous interviendrez afin de challenger l’existant, de développer rapidement, et d’accompagner le Lead developpeur dans la réflexion des prochains projets.
+
+## Missions
+
+* Assurer le développement des fonctionnalités demandées par les métiers et la Direction, sur PHP PHP 7/8 - Symfony.
+* Échanger avec le Lead Developpeur sur la meilleure stratégie à adopter pour le développement des projets.
+* Être capable de proposer/trouver des solutions pour répondre aux contraintes opérationnelles business et métiers.
+* Mettre en place des tests unitaires, fonctionnels et être familier avec le principe d’isolation des tests.
+* Être force de proposition pour apporter de nouvelles idées ou mettre en place de nouvelles technos.
+
+## Profil
+
+* Bonnes connaissances de PHP et Symfony - minimum 3 ans.
+* Valider une expérience dans le ecommerce serait un vrai plus.
+* Maitriser ou avoir d'envie de monter en compétence sur les principes d’architectures DDD et Hexagonale.
+* Être organisé-e, proactif-ve et savoir faire preuve d’adaptation en comprenant les enjeux business et métier.
+* Être autonome sur les développements et curieux pour faciliter votre montée en compétences.
+
+## Salaire
+
+45K€ selon profil.
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
 # Référent devOps
 
 Au sein de l’équipe technique de 10 personnes vous rejoignez le poste de référent devOps. 

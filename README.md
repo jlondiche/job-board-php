@@ -66,6 +66,7 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
 	- **Référent devOps [NOUVEAU]**
+	- **Développeur-euse intérmédiaire back-end PHP/Symfony [NOUVEAU]**
 
 ## À Lille :
 
