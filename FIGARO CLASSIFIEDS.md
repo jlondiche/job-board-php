@@ -30,7 +30,7 @@ Figaro Classifieds est une société établie de longue date qui a connu des rac
 
 # Développeur(se) backend Golang 
 
-**Je connais bien le nouveau CTO, c'est un homme d'action qui veut mettre en place beaucoup de choses en place. Si vous souhaitez prendre en main des sujets, faire avancer les choses avec des projets intéressants et challengeants, c'est le bon endroit !**
+**Je connais bien le nouveau CTO, c'est un homme d'action qui veut mettre en place beaucoup de choses. Si vous souhaitez prendre en main des sujets, faire avancer les choses avec des projets intéressants et challengeant, c'est le bon endroit !**
 
 Rattaché à un Techlead, vous rejoindrez une équipe de moins de 10 personnes au sein d’une direction Tech de plusieurs dizaines de collaborateurs, qui a à cœur de s’améliorer, d’apprendre, et de partager.
 
