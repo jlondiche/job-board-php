@@ -30,6 +30,10 @@ Full remote = 🏠
 	- **BI/Data Analyst - Pôle DATA [NOUVEAU]** 🏠
 	- **Lead data engineer - Pôle DATA [NOUVEAU]** 🏠
 	- Quality assurance 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
+	- **Développeur(se) back-end Golang [!NOUVEAU!]**
+	- **Engineering Manager H/F [!NOUVEAU!]**
+	- **Head of Engineering H/F [!NOUVEAU!]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
