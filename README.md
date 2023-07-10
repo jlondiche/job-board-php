@@ -24,16 +24,13 @@ Full remote = 🏠
 	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COCOLIS.md">[COCOLIS]</a>
 	- CTO / Lead developer Ruby on rails 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/EKIE.md">[EKIE]</a> 
-	- Référent(e) frontend ReactJS / NextJS ⚛️ 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
-	- **BI/Data Analyst - Pôle DATA [NOUVEAU]** 🏠
-	- **Lead data engineer - Pôle DATA [NOUVEAU]** 🏠
-	- Quality assurance 🏠
+	- BI/Data Analyst - Pôle DATA 🏠
+	- Lead data engineer - Pôle DATA 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
-	- **Développeur(se) back-end Golang [!NOUVEAU!]**
-	- **Engineering Manager H/F [!NOUVEAU!]**
-	- **Head of Engineering H/F [!NOUVEAU!]**
+	- **Développeur(se) back-end Golang [NOUVEAU]**
+	- **Engineering Manager H/F [NOUVEAU]**
+	- **Head of Engineering H/F [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
@@ -44,12 +41,7 @@ Full remote = 🏠
 	- Dévelopeur(se) confirmé(e) PHP / Symfony
 	- Développeur(se) confirmé-e frontend Vue.js / Nuxt
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
-	- **Développeur(se) backend Python/Django + Data [!NOUVEAU!]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDOUCINE.md">[MEDOUCINE]</a> 
-	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/NEAT.md">[NEAT]</a> 
-	- **Lead Développeur backend JS Nest.js / Typescript [NOUVEAU]**
-	- **Product Owner H/F [NOUVEAU]**
+	- Développeur(se) backend Python/Django + Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
 	- **Développeur(se) fullstack Symfony & ReactJS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
@@ -62,7 +54,9 @@ Full remote = 🏠
 	- **Développeur fullstack ReacTJS / Laravel 🏠 [NOUVEAU]** 
 	- **Développeur back-end Laravel 🏠 [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
-	- **Développeur(se) PHP / Laravel / Data [NOUVEAU]** 🏠
+	- Développeur(se) PHP / Laravel / Data 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WITHINGS.md">[WITHINGS]</a>  
+	- **Développeur(se) PHP API [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
 	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
 
@@ -75,11 +69,11 @@ Full remote = 🏠
 ## À Lille :
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
+	- Développeur(se) back-end PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EXOTEC.md">[EXOTEC]</a> 
-	- **Développeur(se) front-end JS / Vue.Js [NOUVEAU]**
-	- **Développeur(se) back-end PHP / Laravel [NOUVEAU]**
-	- **Lead Développeur(se) back end PHP / Laravel [NOUVEAU]**
+	- Développeur(se) front-end JS / Vue.Js
+	- Développeur(se) back-end PHP / Laravel
+	- Lead Développeur(se) back end PHP / Laravel
 
 ## À Lyon : 
 
