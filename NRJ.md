@@ -35,6 +35,44 @@ Rencontre avec les équipes techiques
 Proposition
 Vous pourrez même visiter le studio radio :)
 
+# **Lead développeur-euse PHP/Symfony / CTO adjoint / “hands on”**
+
+Dans une équipe technique de 6 personnes vous travaillerez en étroite collaboration avec le CTO actuel.
+
+## Missions
+
+* Piloter l’équipe de développeurs-euses back end, front et Ops, accompagner et faire monter en compétence l’équipe.
+* Amélioration de la CI/CD.
+* Mise en place des outils de monitoring.
+* Développement, maintien et amélioration des services existants.
+* Mise en place des tests unitaires et fonctionnels - coordination avec l’équipe QA.
+* Supervisions des montées de versions PHP/Symfony.
+* Réflexion et travail autour de la data.
+* Développement de l’équipe actuel.
+
+## Profil 
+
+* Expérience de référent technique.
+* Expérience significative à un poste similiraire, expérience de lead technique.
+* Maitrise de PHP, Symfony dans un contexte technique exigeant.
+* Minimum 6 ans d’expérience.
+* Très bonne maitrise de AWS.
+* Expérience sur des problématiques de traitements en asynchrone et de forte volumétrie, scalabilité.
+
+## Pourquoi postuler ?
+
+* Pour contribuer à la performance d'une structure en évolution permanente, où chaque collaborateur fait preuve de réactivité et de créativité. 
+* **Beaucoup de choses à mettre en place, vous aurez les mains libres pour proposer et avancer sur les sujets.**
+* Intégrer une petite équipe au sein d'un beau groupe français.
+* Intégrer une structure qui privilégie les évolutions internes de ses collaborateurs.
+* Pour devenir acteur d’un groupe en forte croissance. 
+
+## Salaire
+
+Fourchette : 70K€/80K€  
+
+Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 # Développeur(se) Fullstack Symfony (70%) / ReactJS   (30%)
 

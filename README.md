@@ -43,6 +43,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- Développeur(se) backend Python/Django + Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
+	- **CTO Adjoint / Lead developpeur(se) PHP/Symfony [NOUVEAU]**
 	- **Développeur(se) fullstack Symfony & ReactJS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
 	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 
