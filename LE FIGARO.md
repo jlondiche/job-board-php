@@ -26,20 +26,19 @@ Aujourd'hui, le FIGARO consolide son approche bi-média avec plusieurs projets a
 * Agile : Scrum - Sprint 2 semaines
 
 
-## Lead développeur frontend - Au sein de la plus importante équipe du Figaro
+## Senior développeur.se frontend - Au sein de la plus importante équipe du Figaro
 
 Au sein du projet F1 - projet structurant d'industrialisation des pratiques réunissant différents médias autour d'un socle technique commun. Vous viendrez compléter l'équipe de 14 personnes déjà en place. 
 
-Structurés en deux teams frontend et backend (8 personnes) - Le Figaro recherche leur lead frontend afin de prendre en main la team aujourd'hui composée de 6 personnes. 
+Structuré en deux teams : une frontend et une backend (8 personnes) - Le Figaro recherche un.e développeur.se senior afin de venir compléter l'équipe front.
 
 
 **Missions**
 
-En tant que lead front vous serez en charge de leur accompagnement. Vous les aiderez à monter en compétence, à gagner en autonomie tout en permettant une fiabilité dans le travail produit. 
+En tant que senior développeur.se, vous accompagnerez les phases de conception et de développement (BUILD et RUN) autant sur les questions d'architectures que sur l'acéssibilité et l'ergonomie des contenus. 
 
-Les principales missions du quotidient seront : 
+Les principales missions du quotidien seront : 
 
-* L'Amélioration de l'architecture frontend 
 * La conception commune avec l'équipe de compossant transverses 
 * La déclinaison et l'adaptation pour les différentes variantes du projet
 * La construction de POC(s) et la définition des solutions tehcniques les plus adaptées aux besoins
@@ -47,18 +46,18 @@ Les principales missions du quotidient seront :
 **Profil**
 
 * Expertise poussée en intégration (HTML/CSS) et en développement frontend sur du JavaScript-ES6
-* Expérience réussie en tant que lead frontend 
+* Expertise en Vanilla JS, projets Native, Webpack (Webpack Encore) 
 * Expérience sur des problématiques de performance,SEO et d'accesibilité
 * Connaissances approfondies des Core Web Vitals 
 * Expériences en templating Twig 
-* Belle vision UX/UI 
+* Belle vision UX/UI - Notions d'accessibilité
 * Expérience en développement de stratégie de test
 
 
 ## Pourquoi postuler ?
 
 Vous travaillerez au sein d’un des principaux groupes de médias en France sur des projets coeurs pour l'ensemble du groupe FIGARO . Au delà de l'enjeu technique, vous profiterez : 
-* de superbes locaux situé proche du boulevard Haussman
+* de superbes locaux situés proche du boulevard Haussman
 * Politique souple de remote - 4 jours de remote et 1 jours sur site
 * CSE très intéressant 
 * Prise en charge complet du pass NAVIGO
@@ -66,13 +65,13 @@ Vous travaillerez au sein d’un des principaux groupes de médias en France sur
 
 ## Salaire 
 
-* Rémunération : entre 55 et 65 K€ selon profil
+* Rémunération : entre 50 et 60 K€ selon profil
 * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
 ## Comment postuler ? 
 
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com pour le front et à jodia@jlrecrutement.com pour le back - avec un CV ou bien un profil LinkedIn à jour. 
+Tout simplement, envoyez-moi un email à julien@jlrecrutement.com !
 
 * À bientôt !
 

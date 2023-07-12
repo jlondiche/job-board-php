@@ -36,7 +36,7 @@ Full remote = 🏠
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
-	- Lead développeur(se) front-end JS / HTML / css, équipe de 6 personnes
+	- **Senior développeur.se frontend - Au sein de la plus importante équipe du Figaro [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a>
 	- Dévelopeur(se) confirmé(e) PHP / Symfony
 	- Développeur(se) confirmé-e frontend Vue.js / Nuxt
