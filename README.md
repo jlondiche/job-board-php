@@ -25,6 +25,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/COCOLIS.md">[COCOLIS]</a>
 	- CTO / Lead developer Ruby on rails 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
+	- **Product Designer [NOUVEAU]** 🏠
 	- BI/Data Analyst - Pôle DATA 🏠
 	- Lead data engineer - Pôle DATA 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
