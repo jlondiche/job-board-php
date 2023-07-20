@@ -2,7 +2,7 @@
 
 **Domaine :** e-commerce - N°1 du bio sur internet 
 
-**Où :** Saint-Jorioz, près d'Annecy - 1 à 2 jours de télétravail par semaine 
+**Où :** Saint-Jorioz, près d'Annecy - remote flexible minimum 2 jours par mois dans les locaux.
 
 **Quoi :** 	En 2008 Romain Roy décide de rendre les produits bio et écoresponsables accessibles à tous, partout en France à travers un site e-commerce. **Greenweez fait ses premiers pas avec l’ambition de faciliter le « mieux consommer ».**
 
@@ -80,7 +80,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 
 ## Comment postuler ? 
 
-Tout simplement, envoyez-moi un email à jodia@jlrecrutement.om  avec un CV ou bien un profil LinkedIn à jour. 
+Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com  avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 
