@@ -6,16 +6,17 @@
 
 **Quoi :** Syment a conçu et développé un outil SaaS from scratch pour dépoussiérer la gestion des copropriétés.
 
- Leur mission : permettre aux professionnels de préparer et réaliser les A.G de A à Z en toute sécurité.   
+ Leur mission : permettre aux professionnels de l'immobilier de préparer et réaliser les A.G de A à Z en toute sécurité.   
 
 « Moins d’efforts, plus d’impact » est le fil rouge qui conduit les équipes de Syment dans l’amélioration de leur produit au quotidien.   
 
-Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Produit qui souhaite révolutionner le métier de gestionnaire, vous avez frappé à la bonne porte. 
+Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Produit qui souhaite révolutionner le métier de gestionnaire immobilier et de l'A.G, vous avez frappé à la bonne porte. 
 
 **Facts & Figures**
 
 * Syment a déjà accompagné plus de 450 professionnels. 
-* C’est aussi la réalisation de plus de 5 000 AG(s). 
+* C’est aussi la réalisation de plus de 5 000 AG(s).
+* Excellente satisfaction client
 * Made with ♥︎ in France.
 
 **Beaucoup de challenges et de projets techniques à haut niveau pour révolutionner le monde des syndics de coproprieté, qui... en a bien besoin !!** 
@@ -25,7 +26,7 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 **Stack**
 
 * CQRS, DDD, archi hexagonale, PHP 8.2, Symfony 6.3, Bref, Lambda, ElasticSearch, MySQL, Redis, Socket.io.
-* Front en JS/Typescript avec React 17, Bootstrap, TailwindCSS 3, Redux, ReactQuery. 
+* Front en Typescript avec React 18, TailwindCSS 3, ReactQuery, Vite. 
 * Infrastructure sur Kubernetes dans le cloud sur AWS. 
 * Test unitaire PHPUnit, Analyse statique avec Psalm, et coding standard avec phpcs fixer.
 * Déploiement continue Github, docker et AWS.
@@ -43,11 +44,14 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 
 * Développer de nouvelles fonctionnalités sur leur API 
 * Intégration d’API partenaire
-* Développement de scripts d’import pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
+* Refonte des imports pour faciliter l’arrivée de nouveaux clients Migrer notre API legacy vers une architecture hexagonale 
 * Mise en place de tests unitaires 
 * Faire de la qualité pour construire une stack robuste 
 * Participer aux réflexions, à l’intégration de nouveaux éléments comme le DDD 
 * Problématiques intéressantes sur du temps réel
+* Permettre de gérer d'autres typologies d'A.G
+* Challenger les solutions en place notamment sur les problématiques de temps réel
+* Contribuer à la prise de décision via une approche orienté data
 
 ## Profil :
 
@@ -57,6 +61,14 @@ Si vous souhaitez rejoindre un projet from scratch ambitieux, très orienté Pro
 * Vous aimez le projet    
 * Entrepreneur dans l'âme
 
+## Pourquoi postuler ?
+
+* Cette entreprise a tout pour exploser : un super produit, un marché prêt au changement et une équipe au top, venez les rejoindre !
+* Entrepreneur dans l'âme, vous aurez la possibilité de prendre des BSPCE dans ce projet.
+* Syment cherche des profils motivés qui ont envie de participer à un projet qui apporte une forte valeur ajouté à ses clients et qui a pour but de bousculer l’ordre établi du secteur.
+* Des bureaux dans Paris. 
+* Une équipe dynamique et sur-motivée.
+
 ## Salaire : 
 
 Fourchette : 50/65K€ Selon expérience et profil 
@@ -64,17 +76,19 @@ Fourchette : 50/65K€ Selon expérience et profil
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-# Référent(e) Frontend React.js/Redux   
+# Référent(e) Frontend React.js   
 (Candidat en attente de signature du contrat)
 
 ## Missions : 
 
-En tant que référent(e) front, vous aurez la main sur la totalité du front de Syment.   Epaulé par le CTO, et en lien avec une équipe tech’ composée de 5 personnes ( 3 backs et 2 PO) , vous serez en charge de :   
+En tant que référent(e) front, vous aurez la main sur la totalité du front de Syment.   Epaulé par le CTO, et en lien avec une équipe tech’ :
 
-* Développer des nouvelles routes de leur API 
+* Intégrer des nouvelles routes de leur API 
 * Créer des parcours utilisateurs simples et efficaces 
 * Créer de nouveaux composants React 
-* Construire de nouvelles pages 
+* Construire de nouvelles pages
+* Migrer nos applications legacy vers la nouvelle application (projet déjà commencé et en production)
+* Contribuer à la prise de décision via une approche orienté data
 
 ## Profil :
 
