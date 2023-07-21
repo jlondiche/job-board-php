@@ -53,9 +53,11 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
 	- Référent(e) front-end React.js / Typescript 🏠
 	- **Développeur sénior back-end PHP / Symfony, Archi Hexagonale, DDD & CQRS [NOUVEAU]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a>  
+	- **Développeur(se) back-end Python/PHP [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YIELD%20STUDIO.md">[YIELD STUDIO]</a>  
-	- **Développeur fullstack ReacTJS / Laravel 🏠 [NOUVEAU]** 
-	- **Développeur back-end Laravel 🏠 [NOUVEAU]** 
+	- **Développeur(se) fullstack ReacTJS / Laravel 🏠 [NOUVEAU]** 
+	- **Développeur(se) back-end Laravel 🏠 [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WITHINGS.md">[WITHINGS]</a>  
@@ -67,7 +69,7 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
 	- **Référent devOps [NOUVEAU]** 🏠
-	- **Développeur-euse intérmédiaire back-end PHP/Symfony [NOUVEAU]** 🏠
+	- **Développeur(se) intérmédiaire back-end PHP/Symfony [NOUVEAU]** 🏠
 
 ## À Lille :
 
@@ -86,5 +88,5 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
-	- **Lead Développeur-euse back-end PHP/Laravel [NOUVEAU]**
+	- **Lead Développeur(se) back-end PHP/Laravel [NOUVEAU]**
 	- Développeur(se) back-end PHP / Laravel
