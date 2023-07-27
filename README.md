@@ -22,15 +22,9 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/COCOLIS.md">[COCOLIS]</a>
-	- CTO / Lead developer Ruby on rails 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Product Designer [NOUVEAU]** 🏠
-	- BI/Data Analyst - Pôle DATA 🏠
-	- Lead data engineer - Pôle DATA 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
-	- **Développeur(se) back-end Golang [NOUVEAU]**
-	- **Engineering Manager H/F [NOUVEAU]**
 	- **Head of Engineering H/F [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
@@ -50,9 +44,6 @@ Full remote = 🏠
 	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SYMENT.md">[SYMENT]</a>  
-	- Référent(e) front-end React.js / Typescript 🏠
-	- **Développeur sénior back-end PHP / Symfony, Archi Hexagonale, DDD & CQRS [NOUVEAU]** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a>  
 	- **Développeur(se) back-end Python/PHP [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/YIELD%20STUDIO.md">[YIELD STUDIO]</a>  
@@ -82,6 +73,8 @@ Full remote = 🏠
 
 ## À Lyon : 
 
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/GAMMA%20SOFTWARE.md">[GAMMA SOFTWARE]</a> 
+	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior [NOUVEAU]  🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
 	- Développeur(se) Symfony / Sylius
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
