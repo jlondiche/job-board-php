@@ -43,7 +43,33 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
-# Product Designer [NOUVEAU] 
+
+# Développeur(se) fullstack PHP Laravel/ ReactJS [NOUVEAU]
+
+**Nouveau projet** et création d’une nouvelle équipe dans le domaine de la formation !
+
+L'équipe comprendra 4 personnes: un développeur Front, un PM, 2 développeurs-euses back end.
+
+## Missions
+
+* Création et réflexion autour de la nouvelle application et de l’API
+* Analyse, prise en charge, conception et développement des user stories
+* Conception et développement des fonctionnalités back-end
+* Participation aux code reviews
+* Vous êtes garant de la qualité, et des bonnes pratiques dans le code que vous produisez
+
+## Profil
+
+* 3 ans d’expérience minimum sur PHP et le framework Laravel
+* Une première expérience en dev front sur l’une des technos React, VueJS, ExtJS ou NextJS
+* Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif-ve dynamique et goût pour les responsabilités
+
+## Salaire
+
+Fourchette : 50K€-55K€
+Pour rappel :Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+# Product Designer 
 
 ## Contexte
 

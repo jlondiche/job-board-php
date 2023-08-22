@@ -23,7 +23,8 @@ Full remote = 🏠
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
-	- **Product Designer [NOUVEAU]** 🏠
+	- **Product Designer** 🏠
+	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
 	- **Head of Engineering H/F [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
@@ -41,7 +42,7 @@ Full remote = 🏠
 	- **CTO Adjoint / Lead developpeur(se) PHP/Symfony [NOUVEAU]**
 	- **Développeur(se) fullstack Symfony & ReactJS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
-	- **Lead developpeur(se) PHP / SYmfony - Fort trafic [NOUVEAU]** 
+	- **Développeur(se) PHP / Symfony - Fort trafic [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a>  
@@ -52,7 +53,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WITHINGS.md">[WITHINGS]</a>  
-	- **Développeur(se) PHP API [NOUVEAU]** 🏠
+	- **Développeur(se) PHP API [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
 	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
 
