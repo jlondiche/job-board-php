@@ -52,15 +52,14 @@ Full remote = 🏠
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a>  
 	- **Développeur(se) back-end Python/PHP [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/YIELD%20STUDIO.md">[YIELD STUDIO]</a>  
-	- **Développeur(se) fullstack ReacTJS / Laravel 🏠 [NOUVEAU]** 
-	- **Développeur(se) back-end Laravel 🏠 [NOUVEAU]** 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WITHINGS.md">[WITHINGS]</a>  
 	- **Développeur(se) PHP API [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
 	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WAMIZ.md">[WAMIZ]</a>  
+	- **Head of Engineering [NOUVEAU]** 🏠🏠🏠
 
 ## À ANNECY :
 
@@ -70,8 +69,6 @@ Full remote = 🏠
 
 ## À Lille :
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/KARAFUN.md">[KARAFUN]</a> 
-	- Développeur(se) back-end PHP / Symfony
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/EXOTEC.md">[EXOTEC]</a> 
 	- Développeur(se) front-end JS / Vue.Js
 	- Développeur(se) back-end PHP / Laravel
