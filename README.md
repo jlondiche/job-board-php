@@ -21,6 +21,8 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- **Technical team Leader [NOUVEAU]** #LEAN
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/BREVO%20EX%20SENDINBLUE.md">[BREVO EX SENDINBLUE]</a>
+	- **Lead platform engineer GCP K8S [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
 	- Développeur(se) PHP sénior - équipe Open data
