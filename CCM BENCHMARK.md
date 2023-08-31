@@ -29,40 +29,50 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 
 *Plusieurs postes sont à pourvoir :*
 
-# Lead développeur(se) PHP / SF - Équipe communautaire
+# Développeur(se) PHP/ Symfony, niveau intérmédiaire - équipe Média
 
-Vous prendrez le lead d'une équipe de 2 développeurs et serez garant de la qualité technique des plateformes communautaires et sociales, sites sur lesquels les internautes peuvent largement contribuer et échanger. 
+Au sein d'une équipe auto gérée et motivée, vous participerez aux grandes étapes de développement des projets autour de Scribe, le logiciel propriétaire de l’entreprise. Cet outil est *le coeur de gestion de tous les contenus, lus par plus de 20 millions d'internautes tous les mois.* Au cœur de cet outil, se trouvent les mécanismes de publication qui participent au succès de leurs sites, avec un très fort accent SEO.
+Scribe est construit sur une base Phalcon en cours de migration vers Symfony + Backbone JS + API Rest.
 
-Vous serez notamment en charge des forums de **Comment Ça Marche**, 1er site High Tech de France, de ceux du Journal Des Femmes, 1er site féminin de France, de L’internaute ou de Droit Finances ; ainsi que de leurs nombreuses déclinaisons en 11 langues sur nos 3 thématiques principales : High-Tech, Droit & Finances ou Santé / Féminin. 
+**Missions**
 
-Vous aurez également en charge les sites Copains d’Avant, asset historique du groupe ; ainsi que Viadeo, plus récemment intégré.
+* Participer à la conception et au développement de nouvelles fonctionnalités pour améliorer l’expérience des utilisateurs & rédactions. Sprint de développement sur 2 semaines, Méthodologie Scrumban.
+* Gestions des problématiques autour des performances et de forte charge.
+* Développement des applications webs (clients) se basant sur SCRIBE.
+* Réalisation des démos clientes avec les directions métiers.
+* Participation à la R&D de l'entreprise : étude sur des évolutions technologiques, participation à des projets de recherche.
 
-**Le poste :**
+**Profil**
 
-Les plus gros challenges qui vous attendront en prenant le lead de l’équipe seront de continuer à moderniser notre code base, notamment en parachevant la **migration vers Symfony**, en migrant vos applications vers **Docker et Kubernetes et en repensant l’architecture de notre produit phare: les forums et leurs 12 millions de membres.**
+* Passionné(e) par le web, vous assurez une veille technologique constante, êtes enthousiaste et force de proposition.
+* Vous écrivez du code réutilisable, performant et vous appréciez concevoir des architectures applicatives robustes.
+* Vous avez un bon relationnel et savez travailler en équipe.
+* Vous avez un profil de développeur junior, intermédiaire ou confirmé et souhaitez continuer à progresser en technique .
 
-## Missions :
+Points appréciés:
+* Docker, y compris en production
+* Expérience chez un éditeur pure player
+* Sites à fortes charges, Optimisation
+* Appétence pour du front end ou SEO
 
-Chez CCM Benchmark nous attendons de vous en tant que lead de remplir les missions suivantes:
+## Salaire :
 
-* Être garant de la qualité technique de l’application
-* Architecturer et concevoir les nouvelles fonctionnalités vous même ou avec les autres membres de l’équipe, participer à leur développement
-Accompagner les développeurs de l’équipe au quotidien (montée en compétence, co-conception, …)
-* Être le partenaire de la Product Owner et échanger avec les stakeholders pour expliquer les enjeux techniques de l’équipe
-* Mettre en place ou challenger les normes, standards et procédures (tests unitaires, performances, …)
-* Défendre les choix techniques de l’équipe
-
-## Salaire : 
-
-Fourchette : 50/55K€
+Fourchette 40/44K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Equipe CORE : 2 postes sont ouverts : 
+-----
 
-**Développeur-(se) PHP**  /  **Développeur-(se) fullstack Javascript**
+# Equipe CORE : **Développeur-(se) fullstack Javascript**
 
-Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. Vous reporterez directement à Xavier LEUNE, ancien président de l’AFUP.
+Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. 
+
+Faire monter les dev en compétences, petite partie formation; capable de parler aux techniciens pour parler et former donc pas trop timide. Bon niveau JS Vanilla. Travaillera en direct aussi sur des produits de soutien à l'audience pour du suivi de positionnement. Outils de suivi de cookies déposés sur les pages CCM.
+Poste idéalement à Rennes, car petit budget.
+FAit du VueJS aussi mais difficulté côté média. BO en vueJS
+mais la majorité du taff, c'est du vanilla js pour les problématiques de référencement.
+Salaire : 44k€
+
 
 ## Missions :
 
@@ -75,16 +85,14 @@ Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez s
 
 * Vous avez d’excellentes capacités de conception technique.
 * Vous êtes autonome et doté de bonnes capacités de communication.
-
-==> Pour le poste back end PHP: 
-* Vous êtes un(e) développeur-(se) confirmé(e) en PHP et souhaitez continuer à progresser en technique.
-* Vous avez 5 ans d’expérience minimum en développement PHP.
-* Vous maîtrisez Symfony.
-
-==> Pour le poste fullstack JavaScript :
 * Vous êtes un(e) développeur-(se) JS et souhaitez continuer à progresser en technique.
 * Vous maîtrisez Node.JS aussi bien que les mécaniques internes des navigateurs et le JS Vanilla.
 
+## Salaire :
+
+Fourchette 40/55K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi les rejoindre ?
 
@@ -97,12 +105,6 @@ Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez s
 
 * CE, mutuelle, tickets restaurant, participation, activités sportives.
 * *Vous pourrez assister à des conférences techniques partout en France afin de continuer à développer votre expertise technique, ce qui est un atout majeur de l'équipe.* 
-
-## Salaire :
-
-Fourchette 40/55K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
 

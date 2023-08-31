@@ -24,7 +24,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BREVO%20ex%20SENDINBLUE.md">[BREVO EX SENDINBLUE]</a>
 	- **Lead platform engineer GCP K8S [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
-	- Lead Développeur(se) PHP / Symfony - équipe Média communautaire
+	- Développeur(se) PHP / Symfony - équipe Média
 	- Développeur(se) PHP sénior - équipe Open data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Software Craftership PHP [NOUVEAU]**
