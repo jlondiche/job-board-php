@@ -24,8 +24,11 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BREVO%20ex%20SENDINBLUE.md">[BREVO EX SENDINBLUE]</a>
 	- **Lead platform engineer GCP K8S [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
-	- Développeur(se) PHP / Symfony - équipe Média
-	- Développeur(se) PHP sénior - équipe Open data
+	- **Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub - NEW !**
+	- Développeur(se) back end PHP / Symfony - équipe Média 
+	- **Développeur(se) Fullstack JavaScript - équipe CORE - NEW !**
+	- **Site Reliability Engineer - Kubernetes - NEW !**
+	- **OnPremise Cloud Engineer - Cloud Public - NEW !**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Software Craftership PHP [NOUVEAU]**
 	- **Software Craftership Typescript [NOUVEAU]**
@@ -79,12 +82,14 @@ Full remote = 🏠
 ## À Lyon : 
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GAMMA%20SOFTWARE.md">[GAMMA SOFTWARE]</a> 
-	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior [NOUVEAU]  🏠
+	- **Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior [NOUVEAU]**  🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
 	- Développeur(se) Symfony / Sylius
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/WEB^ID.md">[WEB^ID]</a> 
+	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
 	- **Lead Développeur(se) back-end PHP/Laravel [NOUVEAU]**
 	- Développeur(se) back-end PHP / Laravel

@@ -27,7 +27,30 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 * Redis
 * Docker
 
-*Plusieurs postes sont à pourvoir :*
+
+# Développeur(se) front-end AdTech'/Equipe Pub - NEW ! 
+
+Afin de venir compléter l'équipe Pub composée de 3/4 personnes, vous interviendrez sur les sujets d'intégrations publicitaires et de monétisation. 
+Sur un périmètre large, vous serez en lien avec les partenaires concernant le suivi de production tout en travaillant sur des sujets techniques autour d'une stack en JS natif.
+
+## Missions : 
+* Intégration publicitaire sur différents type de média
+* Précision et intégration des différentes régles métiers 
+* Volet monétisation autour des outils d'affiliation 
+* Relation avec les partenaires : Prise des besoins, validation et suvi des éléments de production
+
+## Profil : 
+* Vous maitrisez les bases du JavaScript Natifs, et idéalement vous avez une expérience sur du VanillaJS
+* Vous êtes intéressé par les nouveaux frameworks JS : VueJS / ReactJS 
+* Vous avez une appétences pour les médias et/ou pour l'AdTech'
+Idéalement une expertise sur du testing unitaire et E2E
+
+## Salaire : 
+
+Fourchette : 45/50K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 
 # Développeur(se) PHP/ Symfony, niveau intérmédiaire - équipe Média
 
@@ -63,7 +86,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 -----
 
-# Equipe CORE : **Développeur-(se) fullstack Javascript**
+# Equipe CORE : Développeur-(se) fullstack Javascript - NEW !
 
 Au sein d’une équipe composée d’experts en PHP et JS, vous interviendrez sur un grand nombre de produits très techniques, aux challenges très nombreux. 
 
@@ -94,6 +117,72 @@ Fourchette 40/55K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
+-----
+
+# SRE - Kubernetes - NEW !
+
+Au sein de l'équipe système composée de 5 personnes, vos missions seront les suivantes : 
+
+## Missions : 
+
+* Gérer et mettre en oeuvre des projets d’infrastructures techniques, notamment autour de kubernetes
+* Automatiser au maximum les actions devant être effectuées sur les infrastructures techniques
+* Améliorer constamment le monitoring et l’alerting
+* Former et assister les équipes de développeurs sur les technologies de votre périmètre
+* Participer à la maintenance de nos équipements matériels situés en région parisienne
+* Veiller à la bonne application des best practices de sécurité
+
+
+## Profil 
+
+* Vous possédez une précédente expérience sur un poste similaire
+* Vous êtes rigoureux-euse doté-ée d’une solide expertise technique
+* Vous êtes à l’aise avec Linux et les technologies de virtualisation et de CaaS / PaaS (Docker, K8S, Proxmox, KVM).
+* Vous connaissez les outils de gestion de configuration et d’intégration continue (Git, GitLab, Ansible)
+* Vous manifestez un intérêt pour la sécurité informatique (applications,  infrastructure, redondance)
+* Vous connaissez les outils de monitoring et d’alerting (Grafana, Datadog, Icinga, Prometheus, …)
+* Vous n’envisagez pas de travailler sans automatisation avec des outils comme Ansible pour lier tous les sujets précédents.
+* La connaissance opérationnelle (configuration, monitoring, …) des bases de données PostgreSQL et/ou MariaDB est un plus apprécié.
+
+
+## Salaire : 
+
+fourchette 50/55K€ selon profil. 
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+-----
+
+# OnPremise Cloud Engineer - NEW !
+
+Au sein de l'équipe système composée de 5 personnes, vos missions seront les suivantes : 
+
+## Missions : 
+
+* Gérer et développer des projets d’infrastructures techniques
+* Concevoir et implémenter le cloud interne de la société
+* Former et assister les équipes de développeurs sur les technologies de votre périmètre
+* Définir les KPI (performance, SLA, dimensionnement, …), assurer le capacity planning et participer aux choix matériels
+* Veiller à la bonne application des best practices de sécurité
+
+
+## Profil 
+
+* Vous connaissez les outils de gestion de configuration et d’intégration continue (Git, GitLab, Ansible) ;
+* Vous connaissez AWS, ses points forts mais aussi ses limites. Vous êtes à même de décider en fonction de KPI (performance, coût, agilité, …) de l’intérêt du déploiement en cloud public ou on premise.
+* Vous êtes rigoureux-euse et doté-ée de bonnes aptitudes relationnelles
+
+Vous êtes à l’aise avec Linux et les technologies de virtualisation et de CaaS / PaaS (Docker, K8S, Proxmox, KVM).
+* Vous justifiez du déploiement réussi d’un cloud interne (terraform, VmWare, …) et savez expliquer vos choix.
+
+## Salaire :
+
+45K€-50K€ selon profil. 
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+-----
+
 ## Pourquoi les rejoindre ?
 
 * Leur équipe est stable et place la veille parmi leurs préoccupations quotidiennes. 
@@ -108,7 +197,8 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com pour la partie back end et à julien@jlrecrutement.com pour le front end, avec un CV ou bien un profil LinkedIn à jour. 
+À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
