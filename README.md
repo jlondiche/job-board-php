@@ -32,8 +32,6 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
 	- **Software Craftership PHP [NOUVEAU]**
 	- **Software Craftership Typescript [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/FIGARO CLASSIFIEDS.md">[FIGARO CLASSIFIEDS]</a>
-	- Head of Engineering H/F
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Product Designer** 🏠
 	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
