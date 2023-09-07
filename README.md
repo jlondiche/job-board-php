@@ -57,12 +57,7 @@ Full remote = 🏠
 	- **Développeur(se) back-end Python/PHP [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WITHINGS.md">[WITHINGS]</a>  
-	- **Développeur(se) PHP API [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ZETURF.md">[ZETURF]</a>  
-	- **Développeur(se) Symfony experimenté(e) [NOUVEAU]** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WAMIZ.md">[WAMIZ]</a>  
-	- **Head of Engineering [NOUVEAU]** 🏠🏠🏠
+	
 
 ## À ANNECY :
 
