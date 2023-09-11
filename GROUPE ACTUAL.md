@@ -69,57 +69,5 @@ L'équipe comprendra 4 personnes: un développeur Front, un PM, 2 développeurs-
 Fourchette : 50K€-55K€
 Pour rappel :Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Product Designer 
-
-## Contexte
-
-En tant que Product Designer, votre rôle sera d'améliorer le parcours utilisateur sur différents produits/fonctionnalités. Vous intégrerez la squad BtoC de la Digital Factory qui conçoit, développe et maintient **l'application native** à destination des intérimaires du groupe Actual, ainsi que des interactions avec d'autres produits selon les fonctionnalités. 
-
-L'équipe actuelle: 
-* 1 lead PrD + 5 product designers (6 personnes avec ce recrutement)
-* 1 lead PM + 7 product managers pour 7 squads répartis en 5 produits différents (hors back-office/API)
-
-En binôme avec le PM, vous serez impliqué dans chaque étape du processus de production : 
-
-* **Recherche**: analyse des données (G.A., Hotjar, UXCam), mener des user interviews, shadowing, ou tout autres méthodes de recherches nécessaires au projet, prioriser les problèmes avec le Product Manager
-* **Conception**: en collaboration avec le Product Manager et les développeurs
-* **Tester et itérer**: réalisation de workflow, wireframe, maquettes et prototypes à améliorer avec un processus itératif, mener des tests utilisateurs
-* **Livraison**: en lien avec le Product Manager s'assurer de la qualité des livraisons (review visuel du front) et assurer la bonne prise en main par les utilisateurs finaux (REX, phase pilote, etc.)
-* Participation au **design system**
-
-## Descriptif du poste
-
-* Mener des projets UX/UI: Mener des recherches utilisateurs afin de comprendre les profils, parcours, problèmes et motivations. Construire les personaes et les user journey
-* Concevoir les parcours utilisateurs et les interfaces digitales qui répondent aux besoins des utilisateurs, offrant une expérience intuitive et différenciante
-* Faire des user tests avec nos collaborateurs en agence, participer à des interviews avec nos candidats et organiser des focus group
-* Faire des audit UX/UI sur les solutions existantes
-* Accompagner les Product Manager et développeurs pour garantir la cohérence et la qualité du design et de l'expérience utilisateur
-* Sensibiliser les équipes à l'UX/UI
-* Faire de la veille sur les tendances Design et les méthodes UX 
-
-## Hard skills
-
-* 2/3 ans d'XP sur un poste similaire ou/et dans un environnement produit data driven
-* Xp sur une application mobile native et un fort intérêt pour la conception mobile first
-* Solide compétences en graphisme UI 
-* Connaissances des outils tels que FIgma, Notion, G.A et Hotjar ainsi que des technologies Web tel que html,Css,Js,Sql 
-
-## Soft skills
-
-* Être Autonome, agile, rigoureux et avec de fortes capacités d'analyse et de synthése
-* Pédagogue : Vous savez contextualiser et donner du sens à vos propositions tout en restant à l'écoute 
-* Curiosité, proactivité et créativité 
-* User-centric 
-
-## Salaire
-
-Fourchette comprise entre 50 et 55 K€ 
-
-Pour rappel: Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-## Comment postuler ?
- 
-Tout simplement, envoyez-nous un email à julien@jlrecrutement.com, jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
-
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

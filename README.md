@@ -33,7 +33,6 @@ Full remote = 🏠
 	- **Software Craftership PHP [NOUVEAU]**
 	- **Software Craftership Typescript [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
-	- **Product Designer** 🏠
 	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
