@@ -86,20 +86,20 @@ Entre 45/65K€ selon profil.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Développeur(se) senior frontend ReactJS 
+# Développeur(se) senior backend NodeJS / Express - NOUVEAU !
 
-Au sein d’une feature team composée de développeurs fullstacks, d’un PO et d’un UX designer, vous aurez pour missions de : 
+Au sein d’une feature team composée de développeurs fullstacks, d’un PO et d’un SRE, vous aurez pour missions de : 
 
-* Participer activement à la conception et au développement de la nouvelle solution e-commerce, tant dans sa réflexion que sa réalisation.
+* Participer activement à la conception et au développement de la nouvelle solution e-commerce (tant dans sa réflexion que sa réalisation).
 * Contribuer aux choix techniques et fonctionnels tout en challengeant les choix existants
 * Assurer un niveau de qualité, de sécurité et de performances élevées en faisant de la revue de code en collaboration avec vos pairs.
 * Réaliser une veille technique afin de pouvoir alimenter et échanger avec vos pairs.
 
 ## Profil :
 
-* Vous avez une expérience de 3 à 5 ans minimum en tant que développeur(se) frontend.
-* Vous avez une expérience réussie avec un framework SPA Javascript : VueJS/ ReactJS / Angular.
-* Vous maitrisez les servies RESTFUL.
+* Vous avez une expérience de 3 à 5 ans minimum en tant que développeur(se) backend.
+* Vous avez une expérience dans les langages de programmation Javascript, Typescript et PHP.
+* Vous maitrisez RESTFUL, Docker, Kubernetes et git.
 * Vous savez utiliser et optimiser des requêtes SQL et NoSQL.
 * Vous connaissez et appliquez les bonnes pratiques de conception logicielle et de Crafter : TDD, DDD, Clean Architecture, Pair Programming, Continuous improvement.
 * Vous êtes sensible à l’expérience utilisateur.
@@ -107,7 +107,7 @@ Au sein d’une feature team composée de développeurs fullstacks, d’un PO et
 
 ## Salaire :
 
-Entre 50/65K€ selon profil.
+Entre 60/85K€ selon profil.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
@@ -121,8 +121,8 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 ## Comment postuler ?
 
 Tout simplement, envoyez un email : 
-Pour le back end : à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com
-Pour le front : julien@jlrecrutement.com
+Pour le PHP : à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com
+Pour le NodeJS : julien@jlrecrutement.com
 avec un CV ou bien un profil LinkedIn à jour.
 À bientôt !
 

@@ -24,14 +24,16 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BREVO%20ex%20SENDINBLUE.md">[BREVO EX SENDINBLUE]</a>
 	- **Lead platform engineer GCP K8S [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
-	- **Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub - NEW !**
+	- Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
-	- **Développeur(se) Fullstack JavaScript - équipe CORE - NEW !**
-	- **Site Reliability Engineer - Kubernetes - NEW !**
-	- **OnPremise Cloud Engineer - Cloud Public - NEW !**
+	- Développeur(se) Fullstack JavaScript - équipe CORE
+	- Site Reliability Engineer - Kubernetes
+	- OnPremise Cloud Engineer - Cloud Public
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
-	- **Software Craftership PHP [NOUVEAU]**
-	- **Software Craftership Typescript [NOUVEAU]**
+	- **Software Craftership PHP**
+	- **Software Craftership Typescript**
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/FASHION%20NETWORK.md">[FASHION NETWORK]</a>
+	- Développeur(se) PHP / Symfony sénior 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
 	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
@@ -39,21 +41,19 @@ Full remote = 🏠
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior frontend ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
-	- **Senior développeur.se frontend - Au sein de la plus importante équipe du Figaro [NOUVEAU]**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LEQUIPE.md">[LEQUIPE]</a>
-	- Dévelopeur(se) confirmé(e) PHP / Symfony
-	- Développeur(se) confirmé-e frontend Vue.js / Nuxt
+	- Senior développeur.se frontend
+	- **Développeur.se senior PHP/Symofny- équipe Abonnement [NOUVEAU]**
+	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
+	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- Développeur(se) backend Python/Django + Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
-	- **CTO Adjoint / Lead developpeur(se) PHP/Symfony [NOUVEAU]**
-	- **Développeur(se) fullstack Symfony & ReactJS [NOUVEAU]**
+	- CTO Adjoint / Lead developpeur(se) PHP/Symfony
+	- Développeur(se) fullstack Symfony & ReactJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
-	- **Développeur(se) PHP / Symfony - Fort trafic [NOUVEAU]** 
+	- Développeur(se) PHP / Symfony - Fort trafic
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/UNYC.md">[UNYC]</a>  
-	- **Développeur(se) back-end Python/PHP [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
 	
@@ -61,8 +61,8 @@ Full remote = 🏠
 ## À ANNECY :
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
-	- **Référent devOps [NOUVEAU]** 🏠
-	- **Développeur(se) intérmédiaire back-end PHP/Symfony [NOUVEAU]** 🏠
+	- Référent devOps
+	- Développeur(se) intérmédiaire back-end PHP/Symfony
 
 ## À Lille :
 
@@ -74,7 +74,7 @@ Full remote = 🏠
 ## À Lyon : 
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GAMMA%20SOFTWARE.md">[GAMMA SOFTWARE]</a> 
-	- **Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior [NOUVEAU]**  🏠
+	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
 	- Développeur(se) Symfony / Sylius
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 

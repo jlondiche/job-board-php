@@ -1,6 +1,6 @@
 # 📰 WELCOME MEDIA 📊
 
-**Domaine :**
+**Domaine :** Media & Publicité
 
 **Où :** Actuellement 3 jours par semaine sur place - possibilité d'être en fullremote.
 
