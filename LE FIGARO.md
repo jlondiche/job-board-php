@@ -15,7 +15,7 @@ Aujourd'hui, le FIGARO consolide son approche bi-média avec plusieurs projets a
 **Facts & Figures**
 
 * 1er site d'information le plus consulté de France : 9 millions de visiteurs uniques 
-* Le groupe Figaro touche près de 14 millions de visiteus uniques soit 1 internaute sur 3
+* Le groupe Figaro touche près de 14 millions de visiteurs uniques soit 1 internaute sur 3
 * Une équipe technique de 65 personnes en pleine croissance 🚀
 
 **Stack**
@@ -34,19 +34,19 @@ Structuré en deux teams : une frontend et une backend (8 personnes) - Le Figaro
 
 **Missions**
 
-En tant que senior développeur.se, vous accompagnerez les phases de conception et de développement (BUILD et RUN) autant sur les questions d'architectures que sur l'acessibilité et l'ergonomie des contenus. 
+En tant que senior développeur.se, vous accompagnerez les phases de conception et de développement (BUILD et RUN) autant sur les questions d'architectures que sur l'accessibilité et l'ergonomie des contenus. 
 
 Les principales missions du quotidien seront : 
 
-* La conception commune avec l'équipe de compossant transverses 
+* La conception commune avec l'équipe de composants transverses 
 * La déclinaison et l'adaptation pour les différentes variantes du projet
-* La construction de POC(s) et la définition des solutions tehcniques les plus adaptées aux besoins
+* La construction de POC(s) et la définition des solutions techniques les plus adaptées aux besoins
 
 **Profil**
 
 * Expertise poussée en intégration (HTML/CSS) et en développement frontend sur du JavaScript-ES6
 * Expertise en Vanilla JS, projets Native, Webpack (Webpack Encore) 
-* Expérience sur des problématiques de performance,SEO et d'accesibilité
+* Expérience sur des problématiques de performance,SEO et d'accessibilité
 * Connaissances approfondies des Core Web Vitals 
 * Expériences en templating Twig 
 * Belle vision UX/UI - Notions d'accessibilité
@@ -59,7 +59,7 @@ Les principales missions du quotidien seront :
 * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-# Développeur.se senior PHP/Symofny- équipe Abonnement
+# Développeur.se senior PHP/Symfony- équipe Abonnement
 
 Au sein de la squad Data-Fidélisation, vous serez en communication directe avec le responsable technique du projet, le P.O et les autres développeurs pour participer à la maintenance évolutive de l’interface d’administration des données des abonnés.
 
@@ -97,7 +97,7 @@ L'équipe CMS a pour mission principale de développer l'outil éditorial à des
 
 Aujourd'hui composée de 14 personnes (1 EM, 2 PO, 2 UX/UI Designer, 2 dévs. front, 1 lead tech. et 6 dévs. back), l'équipe CMS cible plusieurs enjeux : 
 
-* Intéger les différentes rédactions dans l'outil de développement 
+* Intégrer les différentes rédactions dans l'outil de développement 
 * Développer la partie bi-médias
 * Améliorer les performances et la stabilité de l'outil
 * Faire évoluer les stratégies de test
@@ -109,13 +109,13 @@ Vos principales missions quotidiennes seront :
 * Maintenir et faire évoluer les fonctionnalités du CMS 
 * Participer activement à la code review 
 * Participer aux conceptions techniques : les différentes fonctionnalités à développer,accompagner les migrations à prévoir, etc...
-* Améliorer et faire évoluer les stragégie de test
+* Améliorer et faire évoluer les stratégie de test
 * Participer à l'évolution future du socle technique 
 * Participer aux différents rituels Agile autour de la méthodologie SCRUM 
 
 **Profil** 
 
-* Minimun de 3 ans d'expérience en tant que développeur PHP/Symfony
+* Minimum de 3 ans d'expérience en tant que développeur PHP/Symfony
 * Expérience sur un framework JavaScript : React ou Node est un + 
 * Vous êtes attentif à la qualité de votre code et êtes à l'aise avec les différentes stratégies de test
 * Vous avez l'esprit d'équipe - vous disposez d'un bon sens de l'écoute et vous avez à coeur de partager vos connaissances 
@@ -142,7 +142,7 @@ Vos principales missions quotidiennes seront :
 
 **Profil** 
 
-* Minimun de 6 ans d’expérience sur des projets back-end d’envergures
+* Minimum de 6 ans d’expérience sur des projets back-end d’envergures
 * Expertise en Typescript et Node.JS
 * Expérience en architecture, software design/ design patterns
 * Connaissance dans les différentes stratégies de tests
