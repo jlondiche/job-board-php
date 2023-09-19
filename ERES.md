@@ -2,7 +2,7 @@
 
 **Domaine :** Épargne salariale, épargne retraite, assurance vie et immobilier.
 
-**Où :** En présentiel dans les locaux Paris 2, rue Réaumur
+**Où :** En présentiel avec 2 jours de télétravail par semaine. Locaux Paris 2, rue Réaumur
 
 **Quoi :** Le métier d’Eres, c’est d’aider les entreprises à partager le profit avec leurs salariés grâce à l’épargne salariale, l’épargne retraite et l’actionnariat salarié et d’accompagner chaque salarié dans sa démarche d’épargne personnelle.
 
