@@ -21,8 +21,6 @@ Full remote = 🏠
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- **Technical team Leader [NOUVEAU]** #LEAN
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/BREVO%20ex%20SENDINBLUE.md">[BREVO EX SENDINBLUE]</a>
-	- **Lead platform engineer GCP K8S [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
 	- Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
@@ -39,7 +37,7 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
-	- Développeur(se) senior frontend ReactJS
+	- Développeur(se) senior backend NodeJS / Express
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
 	- Senior développeur.se frontend
 	- **Développeur.se senior PHP/Symofny- équipe Abonnement [NOUVEAU]**
@@ -48,10 +46,10 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
 	- Développeur(se) backend Python/Django + Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
-	- CTO Adjoint / Lead developpeur(se) PHP/Symfony
 	- Développeur(se) fullstack Symfony & ReactJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/PRISMA%20MEDIA.md">[PRISMA MEDIA]</a> 
-	- Développeur(se) PHP / Symfony - Fort trafic
+- <a href="https://github.com/jlondiche/job-board-php/blob/master/VENTE%20UNIQUE.md">[VENTE UNIQUE]</a> 
+	- **Développeur(euse) Frontend JS**
+	- **Développeur(euse) Fullstack PHP/Symfony**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
 	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
@@ -83,5 +81,4 @@ Full remote = 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WEB^ID.md">[WEB^ID]</a> 
 	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
-	- **Lead Développeur(se) back-end PHP/Laravel [NOUVEAU]**
 	- Développeur(se) back-end PHP / Laravel
