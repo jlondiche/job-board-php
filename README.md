@@ -42,7 +42,7 @@ Full remote = 🏠
 	- Développeur(se) senior backend NodeJS / Express
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
 	- Senior développeur.se frontend
-	- **Développeur.se senior PHP/Symofny- équipe Abonnement [NOUVEAU]**
+	- **Développeur.se senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
 	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
 	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
