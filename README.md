@@ -61,7 +61,6 @@ Full remote = 🏠
 ## À ANNECY :
 
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
-	- Référent devOps
 	- Développeur(se) intérmédiaire back-end PHP/Symfony
 
 ## À Lille :

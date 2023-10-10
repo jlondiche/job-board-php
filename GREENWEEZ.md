@@ -46,30 +46,6 @@ Dans une équipe tech de 10 personnes, vous interviendrez afin de challenger l�
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-# Référent devOps
-
-Au sein de l’équipe technique de 10 personnes vous rejoignez le poste de référent devOps. 
-
-## Missions
-
-* Gérer l’intégration et le déploiement continu CI/CD des développements 
-* Gestion et maintien sur les deux hébergeurs : site marchand sur GCP + Legacy 
-* Stratégie et réflexion sur la partie admin 
-* Challenger l’architecture cloud du site internet, faire évoluer les infrastructures en assurant fiabilité et perf 
-
-## Profil
-
-* Connaissance et expérience sur l’infra Cloud : GCP idéalement ou AWS, Azure 
-* Connaissance CI/CD idéalement Bibucket, ou Gitlab/Jenkins 
-* Connaissance de PHP, SQL et JS sont un plus 
-
-## Salaire 
-
-Autour des 50K€ selon profil et expérience 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 ## Pourquoi postuler ? 
 
 * **Donner du S E N S à ton travail et à tes actions quotidiennes** 
