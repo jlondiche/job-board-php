@@ -19,68 +19,68 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [[ASSOCONNECT]](ASSOCONNECT.md)
+- [ASSOCONNECT](ASSOCONNECT.md)
 	- **Technical team Leader [NOUVEAU]** #LEAN
-- [[CCM BENCHMARK]](CCM_BENCHMARK.md)
+- [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
 	- OnPremise Cloud Engineer - Cloud Public
-- [[ERES]](ERES.md) 
+- [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
-- [[FASHION NETWORK]](FASHION_NETWORK.md)
+- [FASHION NETWORK](FASHION_NETWORK.md)
 	- Développeur(se) PHP / Symfony sénior 
-- [[GROUPE ACTUAL]](GROUPE_ACTUAL.md) 
+- [GROUPE ACTUAL](GROUPE_ACTUAL.md) 
 	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
-- [[HERMES]](HERMES.md) 
+- [HERMES](HERMES.md) 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior backend NodeJS / Express
-- [[LE FIGARO]](LE_FIGARO.md)
+- [LE FIGARO](LE_FIGARO.md)
 	- Senior développeur.se frontend
 	- **Développeur.se senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
 	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
 	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
-- [[LYDIA]](LYDIA.md) 
+- [LYDIA](LYDIA.md) 
 	- **Développeur(se) Back-End Golang**
-- [[MEDICI TV]](MEDICI.md)
+- [MEDICI TV](MEDICI.md)
 	- Développeur(se) backend Python/Django + Data
-- [[NRJ]](NRJ.md) 
+- [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
-- [[PRISMA MEDIA]](PRISMA_MEDIA.md) 
+- [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- Techlead Développeur(se) back-end NodeJS
-- [[VENTE UNIQUE]](VENTE_UNIQUE.md) 
+- [VENTE UNIQUE](VENTE_UNIQUE.md) 
 	- **Développeur(euse) Frontend JS**
 	- **Développeur(euse) Fullstack PHP/Symfony**
-- [[WELCOME MEDIA]](WELCOME_MEDIA.md)
+- [WELCOME MEDIA](WELCOME_MEDIA.md)
 	- Développeur(se) PHP / Laravel / Data 🏠
 	
 
 ## À Annecy :
 
-- [[GREENWEEZ]](GREENWEEZ.md)
+- [GREENWEEZ](GREENWEEZ.md)
 	- Développeur(se) intérmédiaire back-end PHP/Symfony
 
 
 ## À Lille :
 
-- [[EXOTEC]](EXOTEC.md) 
+- [EXOTEC](EXOTEC.md) 
 	- Développeur(se) front-end JS / Vue.Js
 	- Développeur(se) back-end PHP / Laravel
 
 
 ## À Lyon : 
 
-- [[GAMMA SOFTWARE]](GAMMA_SOFTWARE.md)
+- [GAMMA SOFTWARE](GAMMA_SOFTWARE.md)
 	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
-- [[GLEVENTS]](GL_EVENTS.md)
+- [GLEVENTS](GL_EVENTS.md)
 	- Développeur(se) Symfony / Sylius
-- [[SANTE ACADEMIE]](SANTE_ACADEMIE.md) 
+- [SANTE ACADEMIE](SANTE_ACADEMIE.md) 
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
-- [[WEB^ID]](WEB_ID.md) 
+- [WEB^ID](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
-- [[WECANDOO]](WECANDOO.md) 
+- [WECANDOO](WECANDOO.md) 
 	- Développeur(se) back-end PHP / Laravel
