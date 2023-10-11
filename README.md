@@ -45,11 +45,11 @@ Full remote = 🏠
 	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
 - [[LYDIA]](LYDIA.md) 
 	- **Développeur(se) Back-End Golang**
-- [[MEDICI]](MEDICI.TV.md)
+- [[MEDICI TV]](MEDICI.md)
 	- Développeur(se) backend Python/Django + Data
 - [[NRJ]](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
-- [[PRISMAMEDIA]](PRISMA_MEDIA.md) 
+- [[PRISMA MEDIA]](PRISMA_MEDIA.md) 
 	- Techlead Développeur(se) back-end NodeJS
 - [[VENTE UNIQUE]](VENTE_UNIQUE.md) 
 	- **Développeur(euse) Frontend JS**
@@ -82,5 +82,5 @@ Full remote = 🏠
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - [[WEB^ID]](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
-- [[[WECANDOO]](WECANDOO.md) 
+- [[WECANDOO]](WECANDOO.md) 
 	- Développeur(se) back-end PHP / Laravel
