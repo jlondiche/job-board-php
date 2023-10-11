@@ -19,67 +19,68 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
+- [[ASSOCONNECT]](ASSOCONNECT.md)
 	- **Technical team Leader [NOUVEAU]** #LEAN
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
+- [[CCM BENCHMARK]](CCM_BENCHMARK.md)
 	- Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
 	- OnPremise Cloud Engineer - Cloud Public
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ERES.md">[ERES]</a> 
+- [[ERES]](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/FASHION%20NETWORK.md">[FASHION NETWORK]</a>
+- [[FASHION NETWORK]](FASHION_NETWORK.md)
 	- Développeur(se) PHP / Symfony sénior 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GROUPE%20ACTUAL.md">[GROUPE ACTUAL]</a> 
+- [[GROUPE ACTUAL]](GROUPE_ACTUAL.md) 
 	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/HERMES.md">[HERMES]</a> 
+- [[HERMES]](HERMES.md) 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior backend NodeJS / Express
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/LE%20FIGARO.md">[LE FIGARO]</a>
+- [[LE FIGARO]](LE_FIGARO.md)
 	- Senior développeur.se frontend
 	- **Développeur.se senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
 	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
 	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
 - [[LYDIA]](LYDIA.md) 
 	- **Développeur(se) Back-End Golang**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/MEDICI.md">[MEDICI.TV]</a> 
+- [[MEDICI]](MEDICI.TV.md)
 	- Développeur(se) backend Python/Django + Data
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
+- [[NRJ]](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
-- [[PRISMAMEDIA]](PRISMAMEDIA.md) 
+- [[PRISMAMEDIA]](PRISMA_MEDIA.md) 
 	- Techlead Développeur(se) back-end NodeJS
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/VENTE%20UNIQUE.md">[VENTE UNIQUE]</a> 
+- [[VENTE UNIQUE]](VENTE_UNIQUE.md) 
 	- **Développeur(euse) Frontend JS**
 	- **Développeur(euse) Fullstack PHP/Symfony**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
+- [[WELCOME MEDIA]](WELCOME_MEDIA.md)
 	- Développeur(se) PHP / Laravel / Data 🏠
 	
 
-## À ANNECY :
+## À Annecy :
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GREENWEEZ.md">[GREENWEEZ]</a>
+- [[GREENWEEZ]](GREENWEEZ.md)
 	- Développeur(se) intérmédiaire back-end PHP/Symfony
+
 
 ## À Lille :
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/EXOTEC.md">[EXOTEC]</a> 
+- [[EXOTEC]](EXOTEC.md) 
 	- Développeur(se) front-end JS / Vue.Js
 	- Développeur(se) back-end PHP / Laravel
-	- Lead Développeur(se) back end PHP / Laravel
+
 
 ## À Lyon : 
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GAMMA%20SOFTWARE.md">[GAMMA SOFTWARE]</a> 
+- [[GAMMA SOFTWARE]](GAMMA_SOFTWARE.md)
 	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/GL%20EVENTS.md">[GL EVENTS]</a>
+- [[GLEVENTS]](GL_EVENTS.md)
 	- Développeur(se) Symfony / Sylius
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SANTE%20ACADEMIE.md">[SANTE ACADEMIE]</a> 
+- [[SANTE ACADEMIE]](SANTE_ACADEMIE.md) 
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WEB^ID.md">[WEB^ID]</a> 
+- [[WEB^ID]](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/WECANDOO.md">[WECANDOO]</a> 
+- [[[WECANDOO]](WECANDOO.md) 
 	- Développeur(se) back-end PHP / Laravel
