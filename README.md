@@ -50,7 +50,8 @@ Full remote = 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
-	- Techlead Développeur(se) back-end NodeJS
+	- **Développeur(se) frontend ReactJS/TypeScript[NOUVEAU]**
+	- **Techlead Développeur(se) back-end NodeJS[NOUVEAU]**
 - [VENTE UNIQUE](VENTE_UNIQUE.md) 
 	- **Développeur(euse) Frontend JS**
 	- **Développeur(euse) Fullstack PHP/Symfony**
@@ -81,6 +82,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - [WEB^ID](WEB_ID.md) 
-	- **Lead Développeur(se) Front end React/NextJS - NEW !** 🏠
+	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
 	- Développeur(se) back-end PHP / Laravel

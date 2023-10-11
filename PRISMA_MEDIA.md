@@ -48,7 +48,38 @@
 * Macbook fourni
 * Licences IDE à la demande
 
-## Poste de Techlead Développeur(se) back-end NodeJS (Pôle User)
+
+# Développeur(se) frontend ReactJS/TypeScript - Pôle Edito 
+
+En charge de l'ensemble des contenus éditoriaux présents sur les différents back-offices du groupe, vous interviendrez dans une équipe fullstack principalement orienté JS : ReactJS/TS + NodeJS et GraphQL.
+
+## Missions
+
+* Développements des nouvelles fonctionnalités front : Application réactive et ergonomique
+* Garant du respect des exigences techniques autant sur la qualité de code que les enjeux d'UX
+* Assurer la maintenance et les phases de tests (dont unitaires), recettes, livraison avec l’équipe projet
+* Contribution à l’innovation et force de proposition pour les évolutions produits, projets innovants
+* Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais
+* Utilisation de l'I.A Générative sur du prototypage
+
+## Profil
+
+* Une expérience de 5 ans en développement frontend : principalement sur ReactJS/TS
+* Une expérience sur NodeJS est un + - Possibilité de faire du backend si envie
+* Une expérience dans les médias ou sur des sites à fort traffic est un plus
+* Passionné-ée du web et ayant le goût du travail en équipe, vous savez faire preuve d’autonomie quand il le faut
+* Proactif-ve et réactif-ve, vous savez prendre les projets à bras le corps
+
+## Salaire
+
+Fourchette : 50/60 K€ 
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!**
+
+L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+--------------
+
+# Poste de Techlead Développeur(se) back-end NodeJS (Pôle User)
 
 **Le contexte**
 
@@ -93,7 +124,11 @@ Les compétences suivantes sont les bienvenues :
 * **Pragmatisme et sens de l'organisation**
 * **Autonome et motivé**, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
 
-### Pourquoi postuler ?
+## Salaire
+
+Salaire : 60-65K€
+
+## Pourquoi postuler ?
 
 * **Une stack très poussée et continuellement mise à jour. Une équipe pointue techniquement orientée vers le partage de connaissances (techshares réguliers)**
 * **Un beau terrain de jeu !**
@@ -105,12 +140,7 @@ Les compétences suivantes sont les bienvenues :
 * Des formations & conférences mensuelles sur des thématiques diverses : réseaux sociaux, développement personnel, intelligence artificielle
 * La possibilité de développer vos idées grâce aux projets innovations et à l'intraprenariat
 
-
-### Salaire
-
-Salaire : 60-65K€
-
-### Comment postuler ?
+## Comment postuler ?
 
 Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 

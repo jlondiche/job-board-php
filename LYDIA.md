@@ -28,15 +28,11 @@ Outils : FuelPHP, Symfony 4/5, Sidekick, Gin-Gonic, Docker, PHPUnit, PHPSpec, Be
 IDE : PhpStorm, Golang, Vim, Emacs
 Cloud : Google Cloud Platform
 
-## Développeur(se) Back-End Golang - Fraud Fighting 
-
-Vous serez le/la premier(e) développeur(se) sur un tout nouveau projet dans la verticale FRAUDE. Responsable de ce nouveau projet, vous travaillerez en autonomie. 
-L'équipe Fraude est aujourd'hui composée d'une dizaine de développeur. La refonte Golang est bientôt terminée, dans un environnement microservice, vos missions seront les suivantes : 
-
+## Développeur(se) Back-End Golang
 
 ## Missions 
 
-* Création d’alertes de comportements suspicieux 
+* Création d’alertes de comportements suspicieux en lien avec l'équipe Fraude
 * Développement de mesures de lutte contre la fraude in-app, synchrones ou asynchrones
 * Gestion et maintenance du système de screening sur listes de Sanction
 * Développement d’outils de back-office pour les Fraud Analysts
@@ -52,7 +48,7 @@ L'équipe Fraude est aujourd'hui composée d'une dizaine de développeur. La ref
 
 ## Salaire
 
-Fourchette: 60/70K€
+Fourchette : autour de 60K€
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Comment postuler ?
