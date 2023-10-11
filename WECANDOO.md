@@ -30,7 +30,6 @@ Cette nouvelle offre d’expérience, immersive et responsable, apporte aujourd�
 * Clean code et qualité
 
 
-
 # Développeur(se) back-end PHP/Laravel
 
 La team Tech Wecandoo se divise en 2 squads:
@@ -49,33 +48,6 @@ Il y a un poste de dev back-end ouvert dans chaque squad.
 * Connaissances en **design patterns** de développement informatique et les **notions de clean code / clean architecture**
 * Autonomie mais aussi le travail en équipe. 
 * Développement web et la qualité/réusabilité de code.
-
-# Développeur(se) front-end JS/VueJS confirmé(e)
-
-La team Tech Wecandoo se divise en 2 squads:
-* *Partners & Tools* : qui outille nos équipes et nos artisans avec les meilleurs produits pour réussir.
-* *Client & Growth* : en charge du développement des produits directement interfacés avec nos clients B2C et B2B. 
-
-## Missions :
-
-* Avec votre équipe, vous devrez faire évoluer l'outil Wecandoo.fr sous toutes ses formes (Web, mobile et API). 
-* Vous participerez à des **sujets de performances, qualité et intégration continue afin que le produit atteigne progressivement l’état de l’art sur toutes les facettes du développement web, cela au regard du scale des opérations et du volume de la plateforme.**
-
-
-## Profil :
-
-* Vous justifiez de 3 à 5 ans minimum d’expérience professionnelle dans le développement d’applications Web
-sur des problématiques Front.
-* L’intégration web ne vous fait pas peur et tu adores mettre en place et consolider l’architecture Front d’une application.
-* Vous attachez une importance particulière à la simplicité des interfaces, à la réutilisation des composants ainsi qu’aux stratégies de référencement.
-
-Vous maîtrisez :
-* Côté Front: HTML, CSS, JavaScript, jQuery
-* SaaS, Webpack, Less, PostCss, etc.
-* Vue.js (ou un framework JavaScript comme Angular ou React.js)
-
-Vous êtes intéressé et avez déjà travaillé sur ces sujets :
-* La performance de pages en Front
 
 ## Pourquoi postuler ?
 

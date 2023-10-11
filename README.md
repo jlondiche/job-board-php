@@ -19,8 +19,8 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [[PRISMAMEDIA]](PRISMAMEDIA.md)
-	- Techlead Développeur(se) back-end NodeJS
+
+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/ASSOCONNECT.md">[ASSOCONNECT]</a>
 	- **Technical team Leader [NOUVEAU]** #LEAN
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CCM%20BENCHMARK.md">[CCM BENCHMARK]</a>
@@ -49,11 +49,11 @@ Full remote = 🏠
 	- Développeur(se) backend Python/Django + Data
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/NRJ.md">[NRJ]</a> 
 	- Développeur(se) fullstack Symfony & ReactJS
+- [[PRISMAMEDIA]](PRISMAMEDIA.md)
+	- Techlead Développeur(se) back-end NodeJS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/VENTE%20UNIQUE.md">[VENTE UNIQUE]</a> 
 	- **Développeur(euse) Frontend JS**
 	- **Développeur(euse) Fullstack PHP/Symfony**
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/SEZANE.md">[SEZANE]</a>  
-	- Développeur(se) back-end confirmé(e) PHP8 / Symfony6
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/WELCOME%20MEDIA.md">[WELCOME MEDIA]</a>  
 	- Développeur(se) PHP / Laravel / Data 🏠
 	
