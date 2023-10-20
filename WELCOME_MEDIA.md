@@ -1,4 +1,4 @@
-# 📰 WELCOME MEDIA 📊
+# 📰 WELCOMING 📊
 
 **Domaine :** Media & Publicité
 
@@ -20,25 +20,28 @@ Aujourd'hui, l'entreprise est devenue une entreprise "tech", et cherche à compl
 PHP, Laravel, ElasticSearch, MySQL
 
 
-# Développeur-se PHP/ Laravel / Data 
+# CTO 
 
-Aujourd'hui, l'entreprise est devenue une entreprise "tech", et cherche à compléter son équipe avec un profil dev/data.
+Le CTO qui est en place depuis 8 ans, souhaite voir de nouvelles choses, il recherche son remplaçant.
 
-Au sein de l'équipe technique (1 cto, 1 lead dev, 2 devs, 2 supports), vous serez responsable de r et de les mettre en place.
+Équipe technique (1 cto, 1 lead dev, 2 devs, 2 supports), vous serez responsable de L'IT, des projets techniques et de l'équipe. 
 
 ## Missions
 
-* Travail au quotidien sur l’analyse des données et des statistiques
-* Rechercher les “segments” au niveau de la surperformance statistiques
-* Rechercher les façons d’améliorer les actions utilisateurs (clics, ouvertures, désabonnements ...)
+* Trouver des solutions techniques aux problématiques métiers 
+* Challenger et manager l'équipe
+* Travailler en binôme avec le lead developer en poste
+* Suivre et challenger les deux freelances en mission sur la partie infra et devOps 
 * Participer au développement des bonnes pratiques dans l’équipe
 
 
 ## Profil
 
-* Passionné-ée par les statistiques et les données
+* Passionné-ée
+** * Expertise en Laravel et ElasticSearch**
+* Profil business
 * Aime résoudre les défis techniques de gros volumes
-* Première expérience souhaitée - surtout en analyse de données
+* Première expérience souhaitée de CTO
 * Pas de diplôme requis
 
 ## Pourquoi postuler ?
@@ -48,14 +51,14 @@ Au sein de l'équipe technique (1 cto, 1 lead dev, 2 devs, 2 supports), vous ser
 
 ## Salaire
 
-40/50K€ selon profil. 
+autour de 80K€ selon profil. 
 
-Salaire :Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. Ne vous inquiétez pas et postulez. L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes. Ne vous inquiétez pas et postulez. L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 

@@ -55,8 +55,8 @@ Full remote = 🏠
 - [VENTE UNIQUE](VENTE_UNIQUE.md) 
 	- **Développeur(euse) Frontend JS**
 	- **Développeur(euse) Fullstack PHP/Symfony**
-- [WELCOME MEDIA](WELCOME_MEDIA.md)
-	- Développeur(se) PHP / Laravel / Data 🏠
+- [WELCOMING](WELCOMING.md)
+	- **CTO[NOUVEAU]**
 	
 
 ## À Annecy :
