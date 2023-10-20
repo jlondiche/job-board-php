@@ -2,7 +2,7 @@
 
 **Domaine :** Media & Publicité
 
-**Où :** Actuellement 3 jours par semaine sur place - possibilité d'être en fullremote.
+**Où :** Actuellement 3 jours par semaine sur place, bureau à Paris.
 
 **Quoi :** **Le meilleur de l'actualité, directement dans votre boîte mail!**
 Welcome Media est le Leader de la newsletters en France et depuis 10 ans maintenant! 
