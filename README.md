@@ -19,10 +19,10 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [ASSOCONNECT](ASSOCONNECT.md)
-	- **Technical team Leader [NOUVEAU]** #LEAN
+- [CAP COLLECTIF](CAPCOLLECTIF.md)
+	- **Développeur PHP, Symfony & ElasticSearch**
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- Développeur(se) front end VanillaJS / VueJS - équipe ADTech/équipe Pub
+	- Chef de projet technique - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
@@ -30,6 +30,8 @@ Full remote = 🏠
 - [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
+- [EVANEOS](EVANEOS.md)
+	- **Engineering Director B2B [NOUVEAU]**
 - [FASHION NETWORK](FASHION_NETWORK.md)
 	- Développeur(se) PHP / Symfony sénior 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md) 
@@ -42,7 +44,6 @@ Full remote = 🏠
 	- Senior développeur.se frontend
 	- **Développeur.se senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
 	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
-	- **Développeur.se sénior back-end Node.JS [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- **Développeur(se) Back-End Golang**
 - [MEDICI TV](MEDICI.md)
@@ -52,9 +53,6 @@ Full remote = 🏠
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- **Développeur(se) frontend ReactJS/TypeScript[NOUVEAU]**
 	- **Techlead Développeur(se) back-end NodeJS[NOUVEAU]**
-- [VENTE UNIQUE](VENTE_UNIQUE.md) 
-	- **Développeur(euse) Frontend JS**
-	- **Développeur(euse) Fullstack PHP/Symfony**
 - [WELCOMING](WELCOMING.md)
 	- **CTO[NOUVEAU]**
 	

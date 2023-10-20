@@ -2,7 +2,7 @@
 
 **Domaine :** e-commerce - N°1 du bio sur internet 
 
-**Où :** Saint-Jorioz, près d'Annecy - remote flexible minimum 2 jours par mois dans les locaux.
+**Où :** Saint-Jorioz, près d'Annecy - 2 jours par semaine en télétravail.
 
 **Quoi :** 	En 2008 Romain Roy décide de rendre les produits bio et écoresponsables accessibles à tous, partout en France à travers un site e-commerce. **Greenweez fait ses premiers pas avec l’ambition de faciliter le « mieux consommer ».**
 

@@ -28,7 +28,7 @@ Le groupe CCM Benchmark s'est donné une mission : *rendre service aux internaut
 * Docker
 
 
-# Développeur(se) front-end AdTech'/Equipe Pub - NEW ! 
+# Chef de projet technique - ÉquipeAdTech'/Equipe Pub - NEW ! 
 
 Afin de venir compléter l'équipe Pub composée de 3/4 personnes, vous interviendrez sur les sujets d'intégrations publicitaires et de monétisation. 
 Sur un périmètre large, vous serez en lien avec les partenaires concernant le suivi de production tout en travaillant sur des sujets techniques autour d'une stack en JS natif.
