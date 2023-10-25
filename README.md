@@ -19,7 +19,7 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CAP COLLECTIF](CAPCOLLECTIF.md)
+- [CAP COLLECTIF](CAP_COLLECTIF.md)
 	- **Développeur PHP, Symfony & ElasticSearch**
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Chef de projet technique - équipe ADTech/équipe Pub
