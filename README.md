@@ -19,8 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [BREVO](BREVO_EX_SENDINBLUE.md)
-	- **CTO [NOUVEAU]** 
 - [CAP COLLECTIF](CAP_COLLECTIF.md)
 	- **Développeur PHP, Symfony & ElasticSearch**
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
