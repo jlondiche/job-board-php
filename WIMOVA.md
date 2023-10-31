@@ -19,7 +19,7 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 * 5% du chiffre d'affaire ré-investi dans la R&D dans le but de réduire au maximum les bilans Carbone - **ADN Greentech**
 
 **Stack**
-* Backend : PHP8 / Symphony 7
+* Backend : PHP8 / Symfony 7
 * API REST
 * Docker et docker-compose
 * Git (CI/CD) / Tests unitaires et fonctionnels
