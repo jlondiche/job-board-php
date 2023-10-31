@@ -83,3 +83,8 @@ Full remote = 🏠
 	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
 	- Développeur(se) back-end PHP / Laravel
+- [WIMOVA](WIMOVA.md)
+	- **Développeur back-end PHP / Symfony [NOUVEAU]**
+	- **Lead developpeur(se) PHP / Symfony [NOUVEAU]**
+
+	
