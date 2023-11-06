@@ -62,13 +62,13 @@ Full remote = 🏠
 - [EXOTEC](EXOTEC.md) 
 	- Développeur(se) front-end JS / Vue.Js
 	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
-- [KARAFUN](KARAFUN)
+- [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
 
 
 ## À Lyon : 
 
-- [DECATHLON TRAVEL](DECATHLON_TRAVEL)
+- [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [GAMMA SOFTWARE](GAMMA_SOFTWARE.md)
 	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
