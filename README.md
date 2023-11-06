@@ -20,7 +20,7 @@ Full remote = 🏠
 ## À Paris : 
 
 - [CAP COLLECTIF](CAP_COLLECTIF.md)
-	- **Développeur PHP, Symfony & ElasticSearch**
+	- **Développeur(se) PHP, Symfony & ElasticSearch**
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Chef de projet technique - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
@@ -32,29 +32,23 @@ Full remote = 🏠
 	- **Software Craftership Typescript**
 - [EVANEOS](EVANEOS.md)
 	- **Engineering Director B2B [NOUVEAU]**
-- [FASHION NETWORK](FASHION_NETWORK.md)
-	- Développeur(se) PHP / Symfony sénior 
-- [GROUPE ACTUAL](GROUPE_ACTUAL.md) 
-	- **Développeur fullstack PHP/Laravel/ReactJS** 🏠
 - [HERMES](HERMES.md) 
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior backend NodeJS / Express
 - [LE FIGARO](LE_FIGARO.md)
-	- Senior développeur.se frontend
-	- **Développeur.se senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
-	- **Développeur.se back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
+	- Senior développeur(se) frontend
+	- **Développeur(se) senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
+	- **Développeur(se) back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- **Développeur(se) Back-End Golang**
-- [MEDICI TV](MEDICI.md)
-	- Développeur(se) backend Python/Django + Data
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- **Développeur(se) frontend ReactJS/TypeScript[NOUVEAU]**
 	- **Techlead Développeur(se) back-end NodeJS[NOUVEAU]**
 - [WELCOMING](WELCOMING.md)
-	- **CTO[NOUVEAU]**
+	- **CTO [NOUVEAU]**
 	
 
 ## À Annecy :
@@ -67,11 +61,15 @@ Full remote = 🏠
 
 - [EXOTEC](EXOTEC.md) 
 	- Développeur(se) front-end JS / Vue.Js
-	- Développeur(se) back-end PHP / Laravel
+	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
+- [KARAFUN](KARAFUN)
+	- **Développeur(se) front-end [NOUVEAU]**
 
 
 ## À Lyon : 
 
+- [DECATHLON TRAVEL](DECATHLON_TRAVEL)
+	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [GAMMA SOFTWARE](GAMMA_SOFTWARE.md)
 	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
 - [GLEVENTS](GL_EVENTS.md)
@@ -82,9 +80,9 @@ Full remote = 🏠
 - [WEB^ID](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
+	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa** [NOUVEAU]
 	- Développeur(se) back-end PHP / Laravel
 - [WIMOVA](WIMOVA.md)
-	- **Développeur back-end PHP / Symfony [NOUVEAU]**
+	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
 	- **Lead developpeur(se) PHP / Symfony [NOUVEAU]**
 
-	

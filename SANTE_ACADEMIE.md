@@ -14,7 +14,7 @@ Santé Académie est néée d’une problématique qui nous concerne tous : la p
 
 * En 12 mois, Santé Académie et passé de 7 à 40 personnes 
 * Déjà 15 000 professionnels de santé formés via la plateforme 
-* Agréée par l’Agence nationale du DPC et reconnue par l’Éta
+* Agréée par l’Agence nationale du DPC et reconnue par l’État
 
 **Stack**
 

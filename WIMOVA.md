@@ -6,28 +6,29 @@
 
 **Quoi :** Wimova développe des solutions de mobilité professionnelles partout en France dans une démarche d'éco-responsabilité. 
 
-**C'est à dire que Wimova a développé une plateforme from scratch avec 
-* un algo de distribution de course 
-* et la capacité de faire de la remédiation de course en temps réel. 
+**C'est à dire que Wimova a développé une plateforme from scratch avec :** 
+* **un algo de distribution de course** 
+* **et la capacité de faire de la remédiation de course en temps réel. 
 L'objectif est de faire des partages de course ou du co-voiturage, afin de réduire l'emprunte carbone et la facture des clients.**
-=> Vous interviendrez sur ce beau projet où l'innovation technique est au service du greentech.
+
+=> Vous interviendrez sur ce beau projet où l'innovation technique est au service de la greentech.
 
 
 **Facts & Figures :** Une promesse : permettre aux dirigeants, managers, collaborateurs, partenaires ou clients, de se déplacer partout en France et en Corse, dans les meilleures conditions, dans un cadre professionnel, avec un impact environnemental optimisé et maîtrisé.
 * Régularité et qualité du service avec une disponibilité 24/7
 * Des équipes impliqués dans les processus d'innovation et une culture d'entreprise forte - Résultat ? Très faible Turnover
-* 5% du chiffre d'affaire ré-investi dans la R&D dans le but de réduire au maximum les bilans Carbone - **ADN Greentech**
+* 5% du chiffre d'affaire réinvestis dans la R&D dans le but de réduire au maximum les bilans Carbone - **ADN Greentech**
 
 **Stack**
-* Backend : PHP8 / Symfony 7
+* Backend : PHP8 / Symfony 6
 * API REST
 * Docker et docker-compose
 * Git (CI/CD) / Tests unitaires et fonctionnels
-* Frontend : Javascript, AngularJS
+* Frontend : Javascript, Angular
 
 ----
 
-# Lead Développeur(euse) Back-end - NOUVEAU !
+# Lead Développeur(se) Back-end - NOUVEAU !
 
 ## Missions
 
