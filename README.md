@@ -64,6 +64,8 @@ Full remote = 🏠
 	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
+- [KOMEO](KOMEO.md)
+	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 
 
 ## À Lyon : 
