@@ -36,7 +36,7 @@ Full remote = 🏠
 	- Tech Lead PHP Symfony (H/F) **craftmanship**
 	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior backend NodeJS / Express
-- [INSTANT GAMING](INSTANT_GAMING)
+- [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
 - [LE FIGARO](LE_FIGARO.md)
 	- Senior développeur(se) frontend
