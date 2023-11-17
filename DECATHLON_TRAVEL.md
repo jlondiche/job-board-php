@@ -45,7 +45,6 @@ Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonn
 En tant que développeur-euse back, vous avez pour principale mission de faire évoluer la plateforme de réservation de Décathlon Travel en assurant la solidité et la stabilité des solutions implémentées : 
 
 * Faire évoluer l’architecture back end afin d’améliorer la qualité
-* Faire évoluer 
 * Travailler sur la qualité de la code base à travers l’évolution des pratiques de développements 
 * Mise en place de tests unitaires
 * Participer aux choix des solutions techniques les mieux adaptées aux problèmes rencontrés
