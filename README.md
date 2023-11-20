@@ -27,23 +27,23 @@ Full remote = 🏠
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
 	- OnPremise Cloud Engineer - Cloud Public
+- [DAYUSE](DAYUSE.md)
+	- **Développeur(se) back-end Symfony 6 & API PLATFORM [NOUVEAU]**
 - [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
 - [EVANEOS](EVANEOS.md)
 	- **Engineering Director B2B [NOUVEAU]**
 - [HERMES](HERMES.md) 
-	- Tech Lead PHP Symfony (H/F) **craftmanship**
-	- Développeur(se) intermédiaire PHP / Symfony, **craftmanship**
 	- Développeur(se) senior backend NodeJS / Express
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
 - [LE FIGARO](LE_FIGARO.md)
 	- Senior développeur(se) frontend
-	- **Développeur(se) senior PHP/Symfony- équipe Abonnement [NOUVEAU]**
-	- **Développeur(se) back-end PHP/Symfony - Equipe CMS [NOUVEAU]**
+	- Développeur(se) senior PHP/Symfony - équipe Abonnement
+	- Développeur(se) back-end PHP/Symfony - Equipe CMS
 - [LYDIA](LYDIA.md) 
-	- **Développeur(se) Back-End Golang**
+	- Développeur(se) Back-End Golang
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
@@ -74,8 +74,6 @@ Full remote = 🏠
 
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
-- [GAMMA SOFTWARE](GAMMA_SOFTWARE.md)
-	- Développeur(se) Fullstack Symfony / AngularJS: Junior, Middle et Senior
 - [GLEVENTS](GL_EVENTS.md)
 	- Développeur(se) Symfony / Sylius
 - [SANTE ACADEMIE](SANTE_ACADEMIE.md) 
