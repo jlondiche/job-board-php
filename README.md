@@ -34,7 +34,7 @@ Full remote = 🏠
 	- **Software Craftership Typescript**
 - [EVANEOS](EVANEOS.md)
 	- **Engineering Director B2B [NOUVEAU]**
-- [FOLLOW](Follow.md)
+- [FOLLOW](FOLLOW.md)
 	- **Senior Développeur.se Frontend ReactJS [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur(se) senior backend NodeJS / Express
