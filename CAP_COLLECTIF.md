@@ -28,7 +28,7 @@ Au quotidien, vous travaillerez avec les technologies et outils suivants, et ser
 
 * Backend : PHP 7.4, Symfony 4.4, RabbitMQ, Varnish, MariaDB
 * API : GraphQL, Elasticsearch, Redis
-* Frontend : Sass, Styled-component, ReactJS, Redux, FlowType, Relay, MapBox
+* Frontend : Sass, Styled-component, ReactJS, Redux, TypeScript, Relay, MapBox
 * Design System : Styled-component, ReactJS, TypeScript
 * Refonte du Back Office : NextJS, TypeScript, ReactJS, Relay
 * Devops : Docker, CloudFlare, Sentry
