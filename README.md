@@ -46,6 +46,8 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP/Symfony - Equipe CMS
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
+- [MENTION](MENTION.md)
+	- **Développeur(euse) Golang Back-end Senior [NOUVEAU]** 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
