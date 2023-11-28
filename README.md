@@ -19,8 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CAP COLLECTIF](CAP_COLLECTIF.md)
-	- **Développeur(se) PHP, Symfony & ElasticSearch**
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Chef de projet technique - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
@@ -52,7 +50,6 @@ Full remote = 🏠
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- **Développeur(se) frontend ReactJS/TypeScript[NOUVEAU]**
-	- **Techlead Développeur(se) back-end NodeJS[NOUVEAU]**
 - [WELCOMING](WELCOMING.md)
 	- **CTO [NOUVEAU]**
 	

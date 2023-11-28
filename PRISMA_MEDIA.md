@@ -77,57 +77,6 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
---------------
-
-# Poste de Techlead Développeur(se) back-end NodeJS (Pôle User)
-
-**Le contexte**
-
-Au sein d'une équipe de 4 développeurs backend, vous travaillerez sur les micro services du pôle user :
-* PrismaConnect : service permettant de gérer les utilisateurs : leur donnée, le signin, signup, oAuth2, SSO, ...
-* Bookmark : service de réaction a un contenu (like, unlike, wahoo, ...)
-* Alert : service d'alerting / notification par mail ou webpush
-* userHub : service évènementiel permettant de transmettre la donnée vers une autre entité
-* userStats : service permettant d'analysé la donnée de nos utilisateur
-
-**Votre mission**
-
-* Concevoir, développer, optimiser et maintenir les microserves du pôle User.
-
-Contribution à l’innovation et à la conception de nouveaux projets :
-* Vous comprenez votre produit et notre business
-* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
-* Vous savez promouvoir vos idées et améliorer celles des autres ;)
-
-**Vos compétences**
-
-Vous apportez **6 ans d’expérience minimum**, personnelle ou professionnelle (urls de sites/projets appréciés).
-
-Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
-
-Vous souhaitez évoluer dans un environnement dynamique et challenging. Notre dream team est composée de gens passionnés, pointus et éminemment sympathiques. Vous leur apporterez, mais ce sera réciproque ;)
-
-Les compétences suivantes sont les bienvenues :
-
-* Langages : nodeJS / TypeScript
-* Framework : Apollo GraphQL
-* Bases de données : ElasticSearch, MySQL, DynamoDB
-* Infra : Kubernetes, Serverless
-* Vous testez vos applications via des **tests unitaires et fonctionnels**
-* Outils de versioning collaboratifs (git) et process de déploiements web automatisés (**Gitlab CI**)
-* Notions d'administration de serveur Linux
-* Vous maîtrisez l'**architecture microservice**
-* L'**asynchrone** n'a plus de secret pour vous
-* La maîtrise de solutions cloud est un plus, AWS en particulier (SQS, Lambda, IAM, RDS, ...)
-* **Bon relationnel et forte capacité d'adaptation**
-* **Bonne communication**
-* **Pragmatisme et sens de l'organisation**
-* **Autonome et motivé**, vous possédez un esprit d'équipe et savez être force de proposition quant aux choix techniques.
-
-## Salaire
-
-Salaire : 60-65K€
-
 ## Pourquoi postuler ?
 
 * **Une stack très poussée et continuellement mise à jour. Une équipe pointue techniquement orientée vers le partage de connaissances (techshares réguliers)**
