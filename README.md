@@ -25,9 +25,6 @@ Full remote = 🏠
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
 	- OnPremise Cloud Engineer - Cloud Public
-- [CMI](CMI.md)
-	- **Développeur(se) PHP / Symfony [NOUVEAU]**
-	- **Lead Développeur(se) PHP/Symfony [NOUVEAU]**
 - [DAYUSE](DAYUSE.md)
 	- **Développeur(se) back-end Symfony 6 & API PLATFORM [NOUVEAU]**
 - [ERES](ERES.md) 
