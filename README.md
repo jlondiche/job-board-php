@@ -49,7 +49,8 @@ Full remote = 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
-	- **Développeur(se) frontend ReactJS/TypeScript[NOUVEAU]**
+	- **Développeur(se) backend NodeJS [NOUVEAU]**
+	- **Développeur(se) frontend ReactJS/TypeScript [NOUVEAU]**
 - [WELCOMING](WELCOMING.md)
 	- **CTO [NOUVEAU]**
 	
@@ -67,8 +68,6 @@ Full remote = 🏠
 	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
-- [KOMEO](KOMEO.md)
-	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 
 
 ## À Lyon : 

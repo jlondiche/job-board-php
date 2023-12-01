@@ -49,6 +49,59 @@
 * Licences IDE à la demande
 
 
+# Senior développeur.se back-end NodeJS (Pôle User)
+
+Au sein d'une équipe de 4 développeurs backend, vous travaillerez sur les micro services du pôle User :
+
+* PrismaConnect : service permettant de gérer les utilisateurs : leur donnée, le signin, signup, oAuth2, SSO, ...
+* Bookmark : service de réaction a un contenu (like, unlike, wahoo, ...)
+* Alert : service d'alerting / notification par mail ou webpush
+* userHub : service évènementiel permettant de transmettre la donnée vers une autre entité
+* userStats : service permettant d'analysé la donnée de nos utilisateur
+
+## Missions
+
+* Concevoir, développer, optimiser et maintenir les microserves du pôle User.
+* Contribution à l’innovation et à la conception de nouveaux projets :
+* Vous comprenez votre produit et le business
+* Vous aimez innover/inventer tant sur la conception technique que sur le service à l’utilisateur
+* Vous savez promouvoir vos idées et améliorer celles des autres ;)
+
+## Profil 
+
+Vous apportez **4 ans d’expérience minimum**, personnelle ou professionnelle (urls de sites/projets appréciés).
+
+Passionné(e) du web, avec une motivation particulière pour les sites grand public, vous avez le goût du travail en équipe et des méthodologies agiles.
+
+Vous souhaitez évoluer dans un environnement dynamique et challenging.  Vous leur apporterez, mais ce sera réciproque ;) 
+
+Les compétences suivantes sont les bienvenues :
+
+* Langages : nodeJS / TypeScript
+* Framework : Apollo GraphQL
+* Bases de données : ElasticSearch, MySQL, DynamoDB
+* Infra : Kubernetes, Serverless
+* Vous testez vos applications via des **tests unitaires et fonctionnels**
+* Outils de versioning collaboratifs (git) et process de déploiements web automatisés (**Gitlab CI**)
+* Notions d'administration de serveur Linux
+* Vous maîtrisez l'**architecture microservice**
+* L'**asynchrone** n'a plus de secret pour vous
+* La maîtrise de solutions cloud est un plus, AWS en particulier (SQS, Lambda, IAM, RDS, ...)
+* **Bon relationnel et forte capacité d'adaptation**
+* **Bonne communication**
+* **Pragmatisme et sens de l'organisation**
+* **Autonome et motivé**
+
+## Salaire
+
+Salaire : 60-65K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez !
+
+L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+-------
+
 # Développeur(se) frontend ReactJS/TypeScript - Pôle Edito 
 
 En charge de l'ensemble des contenus éditoriaux présents sur les différents back-offices du groupe, vous interviendrez dans une équipe fullstack principalement orienté JS : ReactJS/TS + NodeJS et GraphQL.
