@@ -54,31 +54,6 @@ A proximité du Produit, les deux sujets du moment sont : l'amélioration de l'i
 * Rémunération : entre 50 et 60 K€ selon profil
 * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
-# Développeur(se) Back end PHP/Laravel 
-
-## Missions
-
-Dans une équipe de douze personne vos missions seront les suivantes :
-
-* Vous développez des nouvelles applications ou fonctionnalités sur les solutions : logiciel de pilotage de production, Application de gestion de maintenance, Outil de monitoring, Outil de gestion de données techniques..
-* Vous respectez les standards et bonnes pratiques Exotec : pair code review, intégration continue
-* Veiller à la sécurité, à la performance, à l'évolutivité et à la qualité du code
-* Vous effectuez le support applicatif interne de vos solutions auprès des équipes opérationnelles
-
-## Profil
-
-* Vous justifiez d'au moins 3 ans d'expérience dans le développement back end PHP.
-* Vous avez de l'expérience profesionnelle sur Laravel.
-* Si vous avez de l'expérience sur Symfony et souhaitez monter en compétence sur Laravel l'entreprise est ouverte! 
-* Vous êtes attentif à la sécurité des applications et respectez les bonnes pratiques.
-* Vous êtes à l'aise dans la gestion de base de données (PostgreSQL).
-* Vous êtes à l'aise en Anglais.
-
-## Salaire 
-
-* Rémunération : entre 45/55K€ selon profil
-* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
 
 # Lead Développeur(se) Back end PHP / Laravel
 

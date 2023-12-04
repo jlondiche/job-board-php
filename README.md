@@ -51,20 +51,12 @@ Full remote = 🏠
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- **Développeur(se) backend NodeJS [NOUVEAU]**
 	- **Développeur(se) frontend ReactJS/TypeScript [NOUVEAU]**
-- [WELCOMING](WELCOMING.md)
-	- **CTO [NOUVEAU]**
-	
-
-## À Annecy :
-
-- [GREENWEEZ](GREENWEEZ.md)
-	- Développeur(se) intérmédiaire back-end PHP/Symfony
 
 
 ## À Lille :
 
 - [EXOTEC](EXOTEC.md) 
-	- Développeur(se) front-end JS / Vue.Js
+	- **Lead Développeur(se) Back end PHP / Laravel [NOUVEAU]**
 	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
@@ -82,7 +74,7 @@ Full remote = 🏠
 - [WEB^ID](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
-	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa** [NOUVEAU]
+	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 	- Développeur(se) back-end PHP / Laravel
 - [WIMOVA](WIMOVA.md)
 	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
