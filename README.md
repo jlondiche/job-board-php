@@ -51,6 +51,9 @@ Full remote = 🏠
 - [PRISMA MEDIA](PRISMA_MEDIA.md) 
 	- **Développeur(se) backend NodeJS [NOUVEAU]**
 	- **Développeur(se) frontend ReactJS/TypeScript [NOUVEAU]**
+- [WEGLOT](WEGLOT.md) 
+	- **Développeur(se) senior PHP/Symfony - NOUVEAU !**
+
 
 
 ## À Lille :
