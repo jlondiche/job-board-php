@@ -17,8 +17,8 @@ Avec ses 3 millions de visiteurs uniques par jour la marque est devenu le 1er m�
 
 ## Stack
 
-Backend: PHP, Symfony, API-Platform, API REST, Micro-services, MySQL, SQL Server, Redis, ElasticSearch, NodeJS, Linux
-Fronted: HTML/CSS, Vue.js2, Nuxt2, Jest, Web Peformances, SEO,  Pixel perfect côté design
+Backend: PHP, Symfony, API-Platform, API REST, Micro-services, MySQL, SQL Server, Redis, ElasticSearch, NodeJS, Linux  
+Frontend: HTML/CSS, Vue.js2, Nuxt2, Jest, Web Peformances, SEO,  Pixel perfect côté design  
 Services: Docker, Gitlab CI
 
 # Dévelopeur-se confirmé-e PHP/Symfony - NEW !
