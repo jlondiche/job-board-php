@@ -19,8 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Chef de projet technique - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
@@ -34,6 +32,8 @@ Full remote = 🏠
 	- **Software Craftership Typescript**
 - [EVANEOS](EVANEOS.md)
 	- **Engineering Director B2B [NOUVEAU]**
+- [GROUPE ACTUAL](GROUPE_ACTUAL.md)
+	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur(se) senior backend NodeJS / Express
 - [INSTANT GAMING](INSTANT_GAMING.md)
