@@ -2,7 +2,7 @@
 
 **Domaine :** Outil de traduction web
 
-**Où :** Paris 10 - Remote partiel
+**Où :** Paris 10 - Remote partiel. **SEMAINE DE 4jours en test dans l'entreprise.**
 
 **Quoi :** Weglot simplifie la traduction de sites web en proposant une solution clé en main et performante, avec des outils intuitifs de gestion des traductions. Ils s’adressent à tous les propriétaires et développeurs de sites web dans le monde.
 Leur mission :
@@ -36,7 +36,8 @@ Au sein du pôle technique composé de 11 personnes vous serez rattaché(e) à l
 * Etre à l’aise avec Javascript et connaissances de Git, AWS et Docker sont un plus.
 
 ## Salaire
-50-70K€
+60-75K€ - profil sénior recherché
+
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?

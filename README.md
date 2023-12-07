@@ -49,7 +49,7 @@ Full remote = 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [WEGLOT](WEGLOT.md) 
-	- **Développeur(se) senior PHP/Symfony - NOUVEAU !**
+	- **Développeur(se) senior PHP/Symfony - NOUVEAU ! SEMAINE DE 4jours** 
 
 
 
