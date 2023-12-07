@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- [GROUPE ACTUAL](GROUPE_ACTUAL.md)
+	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Chef de projet technique - équipe ADTech/équipe Pub
 	- Développeur(se) back end PHP / Symfony - équipe Média 
@@ -32,8 +34,6 @@ Full remote = 🏠
 	- **Software Craftership Typescript**
 - [EVANEOS](EVANEOS.md)
 	- **Engineering Director B2B [NOUVEAU]**
-- [FOLLOW](FOLLOW.md)
-	- **Senior Développeur.se Frontend ReactJS [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur(se) senior backend NodeJS / Express
 - [INSTANT GAMING](INSTANT_GAMING.md)
@@ -48,9 +48,6 @@ Full remote = 🏠
 	- **Développeur(euse) Golang Back-end Senior [NOUVEAU]** 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
-- [PRISMA MEDIA](PRISMA_MEDIA.md) 
-	- **Développeur(se) backend NodeJS [NOUVEAU]**
-	- **Développeur(se) frontend ReactJS/TypeScript [NOUVEAU]**
 - [WEGLOT](WEGLOT.md) 
 	- **Développeur(se) senior PHP/Symfony - NOUVEAU !**
 
@@ -63,6 +60,7 @@ Full remote = 🏠
 	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
+	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
 
 
 ## À Lyon : 

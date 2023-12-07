@@ -66,6 +66,27 @@ Entre 45K€ et 55K€ selon profil.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
+
+# Développeur(se) back-end PHP / Symfony 
+
+Karafun recherche plusieurs personnes de intermédiaire à sénior. Si le projet de l'entreprise et la stack vous intéresse. Contactez-moi.
+
+## Missions :
+
+En rejoignant l'équipe technique de passionnés, vous pourrez :
+
+* Contribuer à la conception des nouvelles fonctionnalités en Symfony 6
+* Participer à la migration des briques en legacy vers du Symfony 6
+* Participer dans la proposition de solutions techniques et l'évolution de la stack
+* R&D : Lever les incertitudes des fonctionnalités à venir en réalisant des courts PoC
+* Contribuer à la qualité du code en participant notamment aux code reviews et en mettant en place les best practices de développement (dont tests)
+
+## Salaire :
+
+Fourchette entre 50/55 K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 ## Pourquoi postuler ?
 
 * Pour t’aider à délivrer les meilleurs apps pour les chanteurs et musiciens partout dans le monde, KaraFun vous propose un package canon :
@@ -80,9 +101,8 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.
+Tout simplement, envoyez un email à julien@jlrecrutement.com pour le front et jodia@jlrecrutement.com pour le backend avec un CV ou bien un profil LinkedIn à jour.
 À bientôt !
-
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
