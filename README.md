@@ -25,8 +25,6 @@ Full remote = 🏠
 	- Développeur(se) Fullstack JavaScript - équipe CORE
 	- Site Reliability Engineer - Kubernetes
 	- OnPremise Cloud Engineer - Cloud Public
-- [DAYUSE](DAYUSE.md)
-	- **Développeur(se) back-end Symfony 6 & API PLATFORM [NOUVEAU]**
 - [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
@@ -79,7 +77,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP / Laravel
 - [WIMOVA](WIMOVA.md)
 	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
-	- **Lead developpeur(se) PHP / Symfony [NOUVEAU]**
 
 
 ## À Toulouse :
