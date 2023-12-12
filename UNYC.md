@@ -24,7 +24,7 @@
 * Backend : Python // Django // Microservices
 * Services : Docker // Kubernetes // Ansible // Terraform
 
-# Développeur-euse back-end Pyhton
+# Développeur-euse back-end Python
 
 Dans une équipe SCRUM composée d’un PO, 2/4 développeurs fullstack Python, 1 développeur front-end, 1 UX designer, vos missions seront les suivantes :
 
