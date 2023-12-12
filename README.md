@@ -19,12 +19,9 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- Chef de projet technique - équipe ADTech/équipe Pub
-	- Développeur(se) back end PHP / Symfony - équipe Média 
-	- Développeur(se) Fullstack JavaScript - équipe CORE
-	- Site Reliability Engineer - Kubernetes
-	- OnPremise Cloud Engineer - Cloud Public
+- [CMI](CMI.md)
+	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
+	- **Développeur.se PHP/Symfony [NOUVEAU]**
 - [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
