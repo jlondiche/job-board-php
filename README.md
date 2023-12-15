@@ -41,8 +41,6 @@ Full remote = 🏠
 	- Développeur(se) back-end PHP/Symfony - Equipe CMS
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
-- [MENTION](MENTION.md)
-	- **Développeur(euse) Golang Back-end Senior [NOUVEAU]** 🏠
 - [NRJ](NRJ.md) 
 	- Développeur(se) fullstack Symfony & ReactJS
 - [UNYC](UNYC.md)
@@ -67,7 +65,7 @@ Full remote = 🏠
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [GLEVENTS](GL_EVENTS.md)
-	- Développeur(se) Symfony / Sylius
+	- **Lead Développeur(se) Symfony [NOUVEAU]**
 - [SANTE ACADEMIE](SANTE_ACADEMIE.md) 
 	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
 	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
