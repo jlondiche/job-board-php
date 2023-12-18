@@ -54,7 +54,7 @@ Full remote = 🏠
 
 - [EXOTEC](EXOTEC.md) 
 	- **Lead Développeur(se) Back end PHP / Laravel [NOUVEAU]**
-	- **Développeur(se) senior back-end PHP / Laravel [NOUVEAU]**
+	- **Développeur(se) senior front-end JS / VueJS [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
 	- **Développeur(se) front-end [NOUVEAU]**
 	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
@@ -74,8 +74,6 @@ Full remote = 🏠
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 	- Développeur(se) back-end PHP / Laravel
-- [WIMOVA](WIMOVA.md)
-	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
 
 
 ## À Toulouse :
