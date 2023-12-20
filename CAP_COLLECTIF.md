@@ -9,6 +9,8 @@
 Découvrez la plateforme qui a créé les standards de la participation citoyenne et de la démocratie participative en ligne :
 https://www.cap-collectif.com/
 
+Cap Collectif a basculé tout son code en opensource : https://github.com/cap-collectif/cap-collectif
+
 
 **Facts & Figures**
 - Année de création : 2014

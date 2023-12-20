@@ -45,6 +45,8 @@ Full remote = 🏠
 	- Développeur(se) fullstack Symfony & ReactJS
 - [UNYC](UNYC.md)
 	- **Développeur(se) PHP / Python [NOUVEAU]**
+- [WEBCENTRIC](WEBCENTRIC.md) 
+	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
 - [WEGLOT](WEGLOT.md) 
 	- **Développeur(se) senior PHP/Symfony - NOUVEAU ! SEMAINE DE 4jours** 
 
@@ -66,9 +68,6 @@ Full remote = 🏠
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [GLEVENTS](GL_EVENTS.md)
 	- **Lead Développeur(se) Symfony [NOUVEAU]**
-- [SANTE ACADEMIE](SANTE_ACADEMIE.md) 
-	- Développeur(se) back-end PHP8 / Symfony5 confirmé(e) - Lyon / Paris
-	- Développeur(se) front-end JS / ReactJS / NextJS confirmé(e) - Lyon / Paris
 - [WEB^ID](WEB_ID.md) 
 	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
