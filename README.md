@@ -31,6 +31,7 @@ Full remote = 🏠
 	- **Engineering Director B2B [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **Quality Assurance (QA) [NOUVEAU]** 🏠
+	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur(se) senior backend NodeJS / Express
 - [INSTANT GAMING](INSTANT_GAMING.md)
