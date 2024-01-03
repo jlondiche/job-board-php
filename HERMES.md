@@ -28,64 +28,6 @@ Hermès fait ressentir, au travers du code et de l’architecture de leur platef
 * Architecture événementielle: Kinesis, SQS
 * Moteur de recherche: ElasticSearch
 
-
-# Tech Lead PHP Symfony (H/F)
-
-En tant que Tech Lead PHP Symfony vous aurez pour mission de *concevoir et développer ce projet ambitieux,* au sein d’une équipe pluridisciplinaire composée de Tech Lead, Product Owner, Développeurs et Ops. Plusieurs postes de tech lead à pourvoir.
-
-## Missions :
-
-Vous aurez pour missions : 
-
-* Vous portez la vision technique du produit. Vous identifiez les contraintes d’architecture et participez à la conception technique du composant en collaboration avec l’architecte du produit.
-* Vous êtes le *garant technique* et méthodologique de l’équipe de développement que vous encadrez. Vous codez en binôme avec les développeurs de votre équipe et guidez cette dernière vers l’excellence technique et l’autonomie.
-* Vous adoptez les postures suivantes : Transfert de connaissances, expertise, coach, mentor et facilitateur. 
-
-## Profil :
-
-* Vous avez 10 ans d’expérience en développement PHP.
-* Vous avez une belle expérience en Symfony et en accompagnement d’équipe. 
-* Vous maitrisez les pratiques de conception SOLID, software craftsmanship, TDD, DDD, architecture hexagonale… et le pair programming
-* Vous pratiquez les approches DEVOPS (développement, intégration continue, qualimétrie, automatisation des tests) et Agile. 
-* Les architectures distribuées avec des API RESTFUL n’ont pas de secret pour vous. 
-* Vous avez une expérience significative sur l’utilisation de services managés AWS et de Kubernetes (EKS). 
-* Vous maîtrisez les bases de données MySQL, solutions NoSQL, caches distribués Redis et Memcache. 
-* Vous avez de l’expérience dans le développement de solutions basées sur des messages (SQS, KINESIS, Kafka, etc…) avec des contraintes de temps réel et de volumétries. 
-* Vous connaissez les outils d’automatisation de tests unitaires et fonctionnels ou tests de charge. 
-* Vous êtes attentif au suivi de production de systèmes avec des flux complexes (sécurité, performance, charge, résilience), monitoring, alerting, backup afin de concevoir des applications exploitables.
-Vous êtes humble, rigoureux.se, curieux.se. Vous êtes bon.ne communicant.e et avez un bon sens relationnel. Vous avez l’esprit d’équipe et le sens du service.
-
-## Salaire :
-
-Entre 70/75K€+ selon profil.
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
-# Développeur(se) intermédiaire PHP/Symfony 
-
-## Missions :
-
-* Vous participerez à la conception technique de ce projet ambitieux en collaboration avec l’architecte du produit.
-* Vous coderez en binôme avec les développeurs de votre équipe.
-* Vous participerez aux transferts de connaissances, à des formations, meetups…
-
-## Profil : 
-
-* Vous avez minimum 3 ans d’expérience en développement PHP.
-* Vous avez une belle expérience en Symfony.
-* Vous maitrisez ou connaissez les pratiques de conception SOLID, software craftsmanship, TDD, DDD, architecture hexagonale… et le pair programming
-* Vous avez de l’expérience ou des connaissances en API RESTFUL.
-* Vous avez des connaissances MySQL, solutions NoSQL, et/ou caches distribués Redis et Memcached. 
-* Vous connaissez les outils d’automatisation de tests unitaires et fonctionnels ou tests de charge. 
-Vous êtes humble, rigoureux.se, curieux.se. Vous êtes bon.ne communicant.e et avez un bon sens relationnel. Vous avez l’esprit d’équipe et le sens du service.
-
-## Salaire :
-
-Entre 45/65K€ selon profil. 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 # Développeur(se) senior backend NodeJS / Express - NOUVEAU !
 
 Au sein d’une feature team composée de développeurs fullstacks, d’un PO et d’un SRE, vous aurez pour missions de : 

@@ -18,35 +18,6 @@ Leur mission : mettre en avant une information de qualité, le groupe s’appuie
 **Stack :** 
  PHP, Symfony, JavaScript, NodeJs, AWS
 
-# Développeur(se) PHP / Symfony 
-
-## Missions :
-
-Vous intégrerez une des 4 squads de l'équipe technique de la CMI, qui compte une vingtaine de personnes. Vos missions seront les suivantes : 
-
-* Tester et déployer les applications Web
-* S’assurer de la sécurité des applications et des données
-* Optimiser la performance des applications/ sites Web : recettage, contrôles qualités : montée en charge, tests unitaires, revue de code, et veille à la performance du site web
-* Assurer une veille des nouvelles technologies
-* Participer aux rituels Agile
-* Contribution aux évolutions techniques des sites
-* Possibilité de participer à la partie dev Ops
-
-
-## Profil :
-
-* Maitrise des langages de programmations et des bases de données : Symfony PHP, SQL 
-* 3/4 ans minimum d'expérience en entreprises sur PHP
-* Expérience et/ou appétence pour le DDD et l'architecture hexagonale
-* Expérience validée dans des contextes similaires : fort trafic, médias.. 
-* Capacité à travailler avec des outils de gestion et de versionning de code comme GIT 
-
-
-## Salaire : 45/60K€ selon profil et expérience. 
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 
 # Lead Développeur(se) PHP/Symfony 
 
