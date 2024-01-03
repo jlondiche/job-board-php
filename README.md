@@ -23,7 +23,6 @@ Full remote = 🏠
 	- **DévOps Kubernetes [NOUVEAU]** 🏠
 - [CMI](CMI.md)
 	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
-	- **Développeur.se PHP/Symfony [NOUVEAU]**
 - [Dr DATA](DRDATA)
 	- **Senior Backend Developper PHP / Symfony [NOUVEAU]** 🏠
 - [ERES](ERES.md) 
@@ -75,7 +74,6 @@ Full remote = 🏠
 	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
-	- Développeur(se) back-end PHP / Laravel
 
 
 ## À Toulouse :
