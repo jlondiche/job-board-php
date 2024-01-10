@@ -28,8 +28,8 @@ Full remote = 🏠
 - [ERES](ERES.md) 
 	- **Software Craftership PHP**
 	- **Software Craftership Typescript**
-- [EVANEOS](EVANEOS.md)
-	- **Engineering Director B2B [NOUVEAU]**
+- [EVENIZER](EVENIZER.md)
+	- **CTO [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠
@@ -37,10 +37,6 @@ Full remote = 🏠
 	- Développeur(se) senior backend NodeJS / Express
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
-- [LE FIGARO](LE_FIGARO.md)
-	- Senior développeur(se) frontend
-	- Développeur(se) senior PHP/Symfony - équipe Abonnement
-	- Développeur(se) back-end PHP/Symfony - Equipe CMS
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
 - [NRJ](NRJ.md) 
