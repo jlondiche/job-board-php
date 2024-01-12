@@ -20,7 +20,7 @@
 * Backend : Php 8.1, Laravel 9, Mysql 8, Redis 5, ElasticSearch 7, Google Pub/Sub 
 * Frontend : TypeScript, React JS, React Native, Material UI, StoryBook, Jest  
 * DevOps : Terraform, Docker, GithubAction, GCP, Kubernetes  
-* Data : BigQuery, SqlServer, Talend, StitchData, Google DataStudio 
+* Data : BigQuery, SqlServer, Talend, StitchData, Google DataStudio , DBT 
 
 **Equipe:**
 
@@ -63,6 +63,7 @@ Vous travaillerez en étroite collaboration avec les équipes opérationnelles p
 * Plus de 3 ans d'expérience en tant que BI Analyst ou Data Analyst
 * Solide compréhension des concepts et des méthodologies de l'analyse de données
 * Connaissance d’une ou plusieurs solutions BI : Data Studio, PowerBI, ou autres...
+* Expérience avec DBT pour la construction d'entrepôt de données
 * Idéalement connaissance en programmation SQL
 
 **Soft skills**

@@ -62,12 +62,12 @@ Full remote = 🏠
 
 ## À Lyon : 
 
+- [ACTIVINNOV](ACTIVINNOV.md)
+	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [GLEVENTS](GL_EVENTS.md)
 	- **Lead Développeur(se) Symfony [NOUVEAU]**
-- [WEB^ID](WEB_ID.md) 
-	- **Lead Développeur(se) Front end React/NextJS [NOUVEAU]** 🏠
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 
