@@ -36,6 +36,9 @@ Full remote = 🏠
 	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
+- [SÉZANE](SEZANE.md) 
+	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
+	- Dev0ps expert AWS
 - [UNYC](UNYC.md)
 	- **Développeur(se) PHP / Python [NOUVEAU]**
 - [WEBCENTRIC](WEBCENTRIC.md) 
