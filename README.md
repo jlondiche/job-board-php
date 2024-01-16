@@ -25,9 +25,6 @@ Full remote = 🏠
 	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
 - [Dr DATA](DRDATA)
 	- **Senior Backend Developper PHP / Symfony [NOUVEAU]** 🏠
-- [ERES](ERES.md) 
-	- **Software Craftership PHP**
-	- **Software Craftership Typescript**
 - [EVENIZER](EVENIZER.md)
 	- **CTO [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
@@ -39,14 +36,10 @@ Full remote = 🏠
 	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
-- [NRJ](NRJ.md) 
-	- Développeur(se) fullstack Symfony & ReactJS
 - [UNYC](UNYC.md)
 	- **Développeur(se) PHP / Python [NOUVEAU]**
 - [WEBCENTRIC](WEBCENTRIC.md) 
 	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
-- [WEGLOT](WEGLOT.md) 
-	- **Développeur(se) senior PHP/Symfony - NOUVEAU ! SEMAINE DE 4jours** 
 
 
 
