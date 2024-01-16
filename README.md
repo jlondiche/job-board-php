@@ -23,8 +23,10 @@ Full remote = 🏠
 	- **DévOps Kubernetes [NOUVEAU]** 🏠
 - [CMI](CMI.md)
 	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
-- [Dr DATA](DRDATA)
+- [Dr DATA](DRDATA.md)
 	- **Senior Backend Developper PHP / Symfony [NOUVEAU]** 🏠
+- [ERES](ERES.md)
+	- **Software Craftership TypeScript/React [NOUVEAU]**
 - [EVENIZER](EVENIZER.md)
 	- **CTO [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
