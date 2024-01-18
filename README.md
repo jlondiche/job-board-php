@@ -23,8 +23,6 @@ Full remote = 🏠
 	- **DévOps Kubernetes [NOUVEAU]** 🏠
 - [CMI](CMI.md)
 	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
-- [Dr DATA](DRDATA.md)
-	- **Senior Backend Developper PHP / Symfony [NOUVEAU]** 🏠
 - [ERES](ERES.md)
 	- **Software Craftership TypeScript/React [NOUVEAU]**
 - [EVENIZER](EVENIZER.md)
@@ -64,8 +62,6 @@ Full remote = 🏠
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
-- [GLEVENTS](GL_EVENTS.md)
-	- **Lead Développeur(se) Symfony [NOUVEAU]**
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 
