@@ -7,9 +7,9 @@
 **Quoi :** 
 Depuis 2012, Activinnov s’est donné pour mission d’aider les bailleurs sociaux dans leur travail quotidien grâce à l’édition de nouveaux logiciels productifs et innovants.
 
-La pandémie COVID a permis aux bailleurs sociaux de prendre conscience de l'importance du numérique dans leur quotidien. Activinnov connait une croissance acceleré depuis avec l'émergence de nouveaux besoins exprimés par ses clients.
+La pandémie COVID a permis aux bailleurs sociaux de prendre conscience de l'importance du numérique dans leur quotidien.
 
-Dans un secteur réglementairement mouvant dans lequel il est important de se réinventer pour chercher plus d’efficience, Activinnov prend toute sa place :
+Dans un secteur réglementairement mouvant dans lequel il est important de se réinventer pour chercher plus d’efficience, Activinnov prend toute son sens :
 * R&D permanente
 * Technologies modernes et évolutives
 * UX avancé et co-conception avec les bailleurs et le monde du logement social.
