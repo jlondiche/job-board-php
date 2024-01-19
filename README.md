@@ -19,8 +19,6 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CAP COLLECTIF](CAP_COLLECTIF.md)
-	- **DévOps Kubernetes [NOUVEAU]** 🏠
 - [CMI](CMI.md)
 	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
 - [ERES](ERES.md)
