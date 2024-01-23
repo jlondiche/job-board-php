@@ -53,7 +53,7 @@ Vous évoluerez au sein de l’équipe IT de Sézane, et vous serez rattaché au
 
 ## Profil
 
-* Parfaite connaissance de Symfony, API Platform et Doctrine
+* Parfaite connaissance de Symfony, APIPlatform et Doctrine
 * Bonne connaissance dans l’architecture micro-service
 * Connaissance en docker et AWS
 * Vous avez déjà travaillé sur des API utilisées par des applications mobiles et/ou sur de l'e-commerce

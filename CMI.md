@@ -4,7 +4,7 @@
 
 **Où :** Levallois Perret - rythme 2jours sur site 3jours de Télétravail. 
 
-**Quoi :** CMI France, le deuxième éditeur de presse magazine en diffusion en France, une vingtaine de marques que nous connaissons tous ! ELLE, Art&Décoration, Télé7jours, Public, Marianne, le Routard magasine.. des positions leaders sur des segments clés tels que le féminin, la décoration, le people, ou encore la télévision.
+**Quoi :** CMI France, le deuxième éditeur de presse magazine en diffusion en France, une vingtaine de marques que nous connaissons tous ! ELLE, Art&Décoration, Télé7jours, Public, Marianne, le Routard magazine.. des positions leaders sur des segments clés tels que le féminin, la décoration, le people, ou encore la télévision.
 
 Leur mission : mettre en avant une information de qualité, le groupe s’appuie sur le savoir-faire de ses rédactions : journalistes, reporters et photographes permanents. 
 
