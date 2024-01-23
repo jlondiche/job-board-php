@@ -20,9 +20,9 @@ Full remote = 🏠
 ## À Paris : 
 
 - [CMI](CMI.md)
-	- **Lead développeur.se PHP/Symfony [NOUVEAU]**
+	- Lead développeur.se PHP/Symfony
 - [ERES](ERES.md)
-	- **Software Craftership TypeScript/React [NOUVEAU]**
+	- Software Craftership TypeScript/React
 - [EVENIZER](EVENIZER.md)
 	- **CTO [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
@@ -38,7 +38,7 @@ Full remote = 🏠
 	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
 - [UNYC](UNYC.md)
-	- **Développeur(se) PHP / Python [NOUVEAU]**
+	- Développeur(se) PHP / Python
 - [WEBCENTRIC](WEBCENTRIC.md) 
 	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
 
@@ -46,12 +46,9 @@ Full remote = 🏠
 
 ## À Lille :
 
-- [EXOTEC](EXOTEC.md) 
-	- **Lead Développeur(se) Back end PHP / Laravel [NOUVEAU]**
-	- **Développeur(se) senior front-end JS / VueJS [NOUVEAU]**
 - [KARAFUN](KARAFUN.md)
-	- **Développeur(se) front-end [NOUVEAU]**
-	- **Développeur(se) back-end PHP/Symfony [NOUVEAU]**
+	- Développeur(se) front-end
+	- Développeur(se) back-end PHP/Symfony
 
 
 ## À Lyon : 
@@ -59,10 +56,11 @@ Full remote = 🏠
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
-	- **Développeur(se) PHP / Symfony [NOUVEAU]**
+	- Développeur(se) PHP / Symfony
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
-
+- [WIMOVA](WIMOVA.md)
+	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
 
 ## À Toulouse :
 
