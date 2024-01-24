@@ -39,6 +39,8 @@ Full remote = 🏠
 - [SÉZANE](SEZANE.md) 
 	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
+- [TOULOISIRS](TOULOISIRS.md)
+	- **Développeur(se) sénior back-end PHP [NOUVEAU]**
 - [UNYC](UNYC.md)
 	- Développeur(se) PHP / Python
 - [WEBCENTRIC](WEBCENTRIC.md) 
