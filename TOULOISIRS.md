@@ -40,6 +40,8 @@ Effectuer une veille technique dans un cadre qui privilégie le partage et l'éc
 
 Vous avez une expérience de 5 ans minimum en tant que développeur(se) back-end sur du PHP Symfony. Vous êtes proactif et faites confiance aux autres.
 
+Vous serez le premier développeur en interne pour travailler avec le CTO. Un freelance reconnu de la communauté PHP est en prestation chez eux et vous accompagnera. L'équipe sera amenée à grandir.
+
 Une expérience e-commerce est un plus. La volonté de passer Lead et un plus.
 
 ## Salaire & Avantages
@@ -51,8 +53,8 @@ Matériel informatique récent
 
 ## Pourquoi les rejoindre ?
 
-Rejoindre une super équipe, très humain et compétent, avec une volonté de créer un beau projet ambietieux !
-
+Rejoindre une super équipe, très humaine et compétente, avec une volonté de créer un beau projet ambitieux !
+Domaine sympa, dans le voyage ! 
 
 ## Comment postuler ?
 
