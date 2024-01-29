@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- [CARB0N](CARB0N.md)
+	- **Développeur(se) confirmé(e) back end PHP / Symfony [NOUVEAU]**
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 - [ERES](ERES.md)
