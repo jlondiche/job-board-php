@@ -50,6 +50,9 @@ Full remote = 🏠
 - [WEBCENTRIC](WEBCENTRIC.md) 
 	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
 	- **Lead Développeur(se) Backend - NOUVEAU !** 
+- [WEGLOT](WEGLOT.md) 
+	- **Solution Engineer - NOUVEAU !** 
+	
 
 
 
