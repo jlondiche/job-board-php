@@ -47,7 +47,7 @@ Vous aimez comprendre le métier, répondre à des problématiques produit ? **C
 
 ## Salaire
 
-50-55K€
+55-65K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 ## Pourquoi postuler ?
