@@ -47,6 +47,7 @@ Full remote = 🏠
 	- Développeur(se) PHP / Python
 - [WEBCENTRIC](WEBCENTRIC.md) 
 	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
+	- **Lead Développeur(se) Backend - NOUVEAU !** 
 
 
 

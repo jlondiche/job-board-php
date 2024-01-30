@@ -43,6 +43,31 @@ Au sein du pôle technique composé de 10 personnes vous serez rattaché(e) à l
 50-60K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
+--
+
+## Lead Développeur(se) confirmé(e) back end PHP/Symfony
+Vous serez le/la référent(e) d'une équipe technique composée de 8 personnes pour superviser les différents projets en collaboration avec le CTO
+
+**Missions**
+* Attribution, évaluation et gestion des différents projets
+* Création des plannings et prise de décisions techniques 
+* Manager, encadrer et accompagner les développeurs(euses) 
+* Participer à la stratégie globale de l'entreprise avec une vision technique d'ensemble 
+* Mise en place des tests de manière aisée et coder des APIs fiables et robustes
+
+**Profil**
+* 6 ans minimum d’expérience sur Symfony
+* Première expérience de lead et de management d'équipe
+* Maitrise complète d'API Plateform
+* Expérience face à des problématiques métiers
+* À l'aise avec un environnement startup 
+* Appétence pour la construction de projet technique organisé autour du produit
+* Connaissances en front
+
+## Salaire
+60-70K€
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 ## Pourquoi postuler ?
 * Webcentric offre l’équilibre parfait : intégrer une équipe bienveillante tout en évoluant sur des sujets tech hyper intéressants et stimulants.
 * Les équipes sont les mêmes depuis le début, et il y a une bonne raison à ça : Webcentric fait tout pour offrir à chacun la possibilité de s’épanouir.
@@ -50,7 +75,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Une passion commune pour les mangas
 
 ## Comment postuler ?
-Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
