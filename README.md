@@ -38,8 +38,6 @@ Full remote = 🏠
 	- **Lead Développeur(se) PHP [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
-- [MAMASAM](MAMASAM.md) 
-	- Développeur·se PHP/Symfony expérimenté·e - NOUVEAU !
 - [SÉZANE](SEZANE.md) 
 	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
