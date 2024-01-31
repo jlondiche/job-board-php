@@ -93,7 +93,7 @@ En tant que premier(ère) dev0ps interne de l'équipe et face à la croissance e
 
 ## Salaire 
 
-Fourchette: 65K/90K€ 
+Fourchette: 65K/80K€ 
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

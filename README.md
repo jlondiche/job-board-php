@@ -25,8 +25,6 @@ Full remote = 🏠
 	- Lead développeur.se PHP/Symfony
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
-- [EVENIZER](EVENIZER.md)
-	- **CTO [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠
@@ -71,8 +69,3 @@ Full remote = 🏠
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 - [WIMOVA](WIMOVA.md)
 	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
-
-## À Toulouse :
-
-- [ONEPARK](ONEPARK.md)
-	- **Développeur.se Front-end ReactJS [NOUVEAU]**
