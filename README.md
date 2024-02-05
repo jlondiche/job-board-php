@@ -36,6 +36,8 @@ Full remote = 🏠
 	- **Lead Développeur(se) PHP [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
+- [PRISMA MEDIA](PRISMA_MEDIA.md)
+	- **Développeur(se) back end PHP Symfony NodeJS [NOUVEAU]**
 - [SÉZANE](SEZANE.md) 
 	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
@@ -46,10 +48,9 @@ Full remote = 🏠
 - [WEBCENTRIC](WEBCENTRIC.md) 
 	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
 	- **Lead Développeur(se) Backend - NOUVEAU !** 
+	- **Développeur(se) frontend ReactJS/TypeScript - NOUVEAU !** 
 - [WEGLOT](WEGLOT.md) 
 	- **Solution Engineer - NOUVEAU !** 
-	
-
 
 
 ## À Lille :
@@ -63,8 +64,6 @@ Full remote = 🏠
 
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
-- [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
-	- Développeur(se) PHP / Symfony
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 - [WIMOVA](WIMOVA.md)
