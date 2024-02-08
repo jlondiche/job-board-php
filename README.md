@@ -30,8 +30,6 @@ Full remote = 🏠
 	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur(se) senior backend NodeJS / Express
-- [INSTANT GAMING](INSTANT_GAMING.md)
-	- **Fullstack engineer PHP / Symfony - JS / VueJS [NOUVEAU]**
 - [LES GRAPPES](LES_GRAPPES.md)
 	- **Lead Développeur(se) PHP [NOUVEAU]**
 - [LYDIA](LYDIA.md) 

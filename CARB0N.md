@@ -18,7 +18,7 @@ Leur mission : proposer une offre intégrale de transition énergétique sur mes
 
 **Stack**
 
-* Symfony 6.4 / PHP 8.2 / TypeScript / API Plateform / RabbitMQ / Docker, Kubernetes / AWS / Vue.JS 3
+* Symfony 6.4 / PHP 8.2 / TypeScript / API Platform / RabbitMQ / Docker, Kubernetes / AWS / Vue.JS 3
 
 
 ## Développeur(se) confirmé(e) back end PHP/Symfony
@@ -39,7 +39,7 @@ Vous aimez comprendre le métier, répondre à des problématiques produit ? **C
 **Profil**
 
 * 3 ans minimum d’expérience sur Symfony
-* Maitrise complète d'API Plateform
+* Maitrise complète d'API Platform
 * Connaissance de MySQL, PostegreSQL (avec doctrine)
 * Autonome, volontaire, dynamique et entreprenant(e), souhaitant évoluer dans l’écosystème startup
 * Appétence pour la construction de projet technique organisé autour du produit

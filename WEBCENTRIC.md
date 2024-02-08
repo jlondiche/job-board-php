@@ -18,7 +18,7 @@ Leur mission : être une agence « full-services » offrant des solutions clés 
 
 **Stack**
 
-* Symfony 6 / PHP 8.2 / TypeScript / API Plateform / RabbitMQ / Docker, Kubernetes / ReactJS/ NextJS
+* Symfony 6 / PHP 8.2 / TypeScript / API Platform / RabbitMQ / Docker, Kubernetes / ReactJS/ NextJS
 
 # Développeur(se) confirmé(e) back end PHP/Symfony
 
@@ -37,7 +37,7 @@ Au sein du pôle technique composé de 10 personnes vous serez rattaché(e) à l
 **Profil**
 
 * 5 ans minimum d’expérience sur Symfony
-* Maitrise complète d'API Plateform
+* Maitrise complète d'API Platform
 * Expérience face à des problématiques métiers
 * Autonome, volontaire, dynamique et entreprenant(e), souhaitant évoluer dans l’écosystème startup
 * Appétence pour la construction de projet technique organisé autour du produit
