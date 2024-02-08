@@ -49,6 +49,8 @@ Full remote = 🏠
 	- **Développeur(se) frontend ReactJS/TypeScript - NOUVEAU !** 
 - [WEGLOT](WEGLOT.md) 
 	- **Solution Engineer - NOUVEAU !** 
+- [WELCOMING](WELCOMING.md)
+	- **Développeur intermédiaire PHP / Laravel / ElasticSearch - NOUVEAU !**
 
 
 ## À Lille :
