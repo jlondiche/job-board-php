@@ -21,7 +21,7 @@ Leur mission : proposer une offre intégrale de transition énergétique sur mes
 * Symfony 6.4 / PHP 8.2 / TypeScript / API Platform / RabbitMQ / Docker, Kubernetes / AWS / Vue.JS 3
 
 
-## Développeur(se) confirmé(e) back end PHP/Symfony
+# Développeur(se) confirmé(e) back end PHP/Symfony
 
 Au sein du pôle technique composé de 3 personnes vous serez rattaché(e) à l’équipe IT, en charge des projets techniques, l’API et le Back Office.
 

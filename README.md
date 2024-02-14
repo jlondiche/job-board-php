@@ -34,6 +34,8 @@ Full remote = 🏠
 	- **Lead Développeur(se) PHP [NOUVEAU]**
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
+- [PLAYPLAY](PLAYPLAY.md) 
+	- **Quality Assurance (QA) [NOUVEAU]
 - [PRISMA MEDIA](PRISMA_MEDIA.md)
 	- **Développeur(se) back end PHP Symfony NodeJS [NOUVEAU]**
 - [SÉZANE](SEZANE.md) 
@@ -68,3 +70,11 @@ Full remote = 🏠
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 - [WIMOVA](WIMOVA.md)
 	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
+
+
+## À Toulouse :
+
+- [ONEPARK](ONEPARK.md)
+	- **Product Owner (PO) [NOUVEAU]**
+
+
