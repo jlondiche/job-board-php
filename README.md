@@ -35,7 +35,7 @@ Full remote = 🏠
 - [LYDIA](LYDIA.md) 
 	- Développeur(se) Back-End Golang
 - [PLAYPLAY](PLAYPLAY.md) 
-	- **Quality Assurance (QA) [NOUVEAU]
+	- **Quality Assurance (QA) [NOUVEAU]**
 - [PRISMA MEDIA](PRISMA_MEDIA.md)
 	- **Développeur(se) back end PHP Symfony NodeJS [NOUVEAU]**
 - [SÉZANE](SEZANE.md) 
