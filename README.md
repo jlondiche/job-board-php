@@ -25,6 +25,7 @@ Full remote = 🏠
 	- Lead développeur.se PHP/Symfony
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
+	- Lead developpeur(se) PHP/Symfony
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **Quality Assurance (QA) [NOUVEAU]** 🏠
 	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠

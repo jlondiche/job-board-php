@@ -76,6 +76,47 @@ Fourchette entre 55K€ et 70K€ de fixe selon profil + avantages financiers tr
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
+----
+
+
+## Lead Développeur(se) PHP / Symfony
+
+Eres recherche un lead développeur pour aider l’équipe technique actuelle à se structurer, à continuer monter en compétence sur la qualité et les bonnes pratiques.
+
+L’équipe IT est composée de 14 personnes. Vous serez en relation direct avec le CTO et l’équipe produit.
+
+Possibilité importante d’évolution sur ce poste.
+
+**Missions**
+
+Concrètement, vous :
+
+* Accompagnerez l’équipe (code review, pair programming) et managez les développeurs.
+* Participez à la réalisation et à l'amélioration de l'architecture orientée service (SOA) et évenement (EDA).
+* Challengez au quotidien les développeurs back-end et front-end.
+* Serez garant d'un très haut niveau de qualité (architecture logicielle, tests etc..).
+* Développerez les points critiques avec l'équipe.
+
+**Vos compétences**
+
+* PHP avancé, programmation orientée objet, tests & qualité (SOLID / Design Patterns)
+* Expert SQL (MySQL / SQL Server), modélisation de base de données relationnelles
+* Framework Symfony
+* JavaScript et React
+* API REST
+* Système de messages (rabbitMQ / AmazonMQ)
+
+**Votre profil**
+
+* Vous avez au moins cinq ans d’expérience de développeur et une expérience de lead développeur réussie dans une petite équipe.
+* Vous souhaitez intégrer une équipe technique qualifiée et en pleine croissance.
+* Vous avez de l'expérience en gestion de projet technique, une appétence pour le management.
+
+## Salaire
+
+Fourchette: 65 à 70K€ de fixe + avantages financiers = 87/95K€ en package.
+
+
 **Pourquoi postuler chez ERES ?**
 
 En plus de l’environnement technique challengeant, rejoindre ERES c’est profiter :
