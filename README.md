@@ -80,5 +80,6 @@ Full remote = 🏠
 
 - [ONEPARK](ONEPARK.md)
 	- **Product Owner (PO) [NOUVEAU]**
+	- **Lead developpeur(se) backend Elixir [NOUVEAU]**
 
 

@@ -2,7 +2,7 @@
 
 **Domaine :** Social Intelligence
 
-**Où :** Remote - Quelques jours par mois à Paris (13ème arrondissement)
+**Où :** Remote - 3J de TT/semaine (13ème arrondissement)
 
 **Quoi :** Synthesio aide les plus grandes entreprises et agences à écouter, comprendre et dialoguer avec les internautes sur les médias sociaux. Synthesio fournit en un seul et même outil les KPIs utiles au business. 
 

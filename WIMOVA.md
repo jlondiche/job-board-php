@@ -2,7 +2,7 @@
 
 **Domaine :** Innovation, Mobilité. **Greentech**
 
-**Où :** Locaux à Lyon, 1 jour de Télétravail par semaine.  
+**Où :** Locaux à Lyon (Métro République), 1 jour de TT par semaine.  
 
 **Quoi :** Wimova développe des solutions de mobilité professionnelles partout en France dans une démarche d'éco-responsabilité. 
 
