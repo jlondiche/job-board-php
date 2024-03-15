@@ -43,7 +43,7 @@ Full remote = 🏠
 	- Dev0ps expert AWS
 - [SYNTHESIO](SYNTHESIO.md)
 	- **Manager Back-end [NOUVEAU]**
-	- **Lead QA [NOUVEAU]**
+	- **Automaticien QA sénior [NOUVEAU]**
 - [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur.se sénior back-end PHP [NOUVEAU]**
 - [UNYC](UNYC.md)
