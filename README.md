@@ -19,40 +19,39 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CARB0N](CARB0N.md)
-	- **Développeur(se) confirmé(e) back end PHP / Symfony [NOUVEAU]**
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
 	- Lead developpeur(se) PHP/Symfony
+- [LE FIGARO](FIGARO.md)
+	- **Senior développeur.se Frontend - Equipe F1 [NOUVEAU]** 
+- [L'EQUIPE](LEQUIPE.md)
+	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **Quality Assurance (QA) [NOUVEAU]** 🏠
-	- **BI/Data Analyst (Pôle DATA)[NOUVEAU]** 🏠
+	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
-	- Développeur(se) senior backend NodeJS / Express
+	- Développeur.se senior backend NodeJS / Express
 - [LES GRAPPES](LES_GRAPPES.md)
-	- **Lead Développeur(se) PHP [NOUVEAU]**
+	- Lead Développeur.se PHP
 - [LYDIA](LYDIA.md) 
-	- Développeur(se) Back-End Golang
-- [PLAYPLAY](PLAYPLAY.md) 
-	- **Quality Assurance (QA) [NOUVEAU]**
+	- Développeur.se Back-End Golang
 - [PRISMA MEDIA](PRISMA_MEDIA.md)
-	- **Développeur(se) back end PHP Symfony NodeJS [NOUVEAU]**
+	- Développeur.se back end PHP Symfony NodeJS
 - [SÉZANE](SEZANE.md) 
-	- Développeur(se) Confirmé(e) Back-End PHP/Symfony
+	- Développeur.se Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
 - [SYNTHESIO](SYNTHESIO.md)
 	- **Manager Back-end [NOUVEAU]**
 	- **Lead QA [NOUVEAU]**
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur(se) sénior back-end PHP [NOUVEAU]**
+	- **Développeur.se sénior back-end PHP [NOUVEAU]**
 - [UNYC](UNYC.md)
-	- Développeur(se) PHP / Python
+	- Développeur.se PHP / Python
 - [WEBCENTRIC](WEBCENTRIC.md) 
-	- **Développeur(se) confirmé(e) PHP/Symfony - NOUVEAU !** 
-	- **Lead Développeur(se) Backend - NOUVEAU !** 
-	- **Développeur(se) frontend ReactJS/TypeScript - NOUVEAU !** 
+	- Développeur.se confirmé(e) PHP/Symfony
+	- Lead Développeur.se Backend
+	- Développeur.se frontend ReactJS/TypeScript
 - [WEGLOT](WEGLOT.md) 
 	- **Solution Engineer - NOUVEAU !** 
 - [WELCOMING](WELCOMING.md)
@@ -74,6 +73,12 @@ Full remote = 🏠
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 - [WIMOVA](WIMOVA.md)
 	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
+
+
+## À Strasbourg :
+
+- [SPORTYMA](SPORTYMA.md)
+	- **Développeur.se frontend JS / TWIG [NOUVEAU]**
 
 
 ## À Toulouse :

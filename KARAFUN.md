@@ -101,7 +101,8 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez un email à julien@jlrecrutement.com pour le front et jodia@jlrecrutement.com pour le backend avec un CV ou bien un profil LinkedIn à jour.
+Tout simplement, envoyez un email à jeanne@jlrecrutement.com jodia@jlrecrutement.com pour le backend avec un CV ou bien un profil LinkedIn à jour.
+
 À bientôt !
 
 ----

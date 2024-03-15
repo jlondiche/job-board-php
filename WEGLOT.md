@@ -65,4 +65,4 @@ Weglot offre l’équilibre parfait : intégrer une équipe bienveillante tout e
 Les équipes sont les mêmes depuis le début, et il y a une bonne raison à ça : Weglot fait tout pour offrir à chacun la possibilité de s’épanouir.
 
 ## Comment postuler ?
-Tout simplement, envoyez-moi un email à julien@jlrecrutement.com ou louis@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !

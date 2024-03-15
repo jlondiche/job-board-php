@@ -139,6 +139,6 @@ En plus de l’environnement technique challengeant, rejoindre ERES c’est prof
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-nous un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com pour le backend et à julien@jlrecrutement.com pour le frontend avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-nous un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 

@@ -62,10 +62,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne 
 
 ## Comment postuler ?
 
-Tout simplement, envoyez un email : 
-Pour le PHP : à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com
-Pour le NodeJS : julien@jlrecrutement.com
-avec un CV ou bien un profil LinkedIn à jour.
+Tout simplement, envoyez un email jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour.
 À bientôt !
 
 

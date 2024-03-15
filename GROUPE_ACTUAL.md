@@ -79,39 +79,8 @@ Vous travaillerez en étroite collaboration avec les équipes opérationnelles p
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-## Quality Assurance (QA) 🏠 - ! NEW ! 
-
-Au sein de la Digital Factorty en pleine croissance, le poste de QA Engineer qui s’ouvre, vise à mettre en place tous les processus d’amélioration de la Quality Assurance.
-
-Vous travaillerez en étroite collaboration avec les lead-dev et les product managers (plusieurs équipes) pour garantir la qualité et la pérénité des produits développés et concevoir la stratégie de tests. 
-
-**Missions**
-
-* Vous contribuerez et interviendrez dans la mise en place de leur futur méthodologie de test et de son optimisation
-* Vous travaillerez en étroite collaboration avec les équipes de Dévs' , Produit et Devops pour garantir le bon fonctionnement des produits
-* Concevoir et maintenir la stratégie de test automatisée (fonctionnels , de performance et de non régression) sur les applications front, backend et API
-* Définir avec les Product Managers les critères d'acceptances et les différents scénarios Utilisateur
-* Alimenter, suivre et partager les différents rapports et métriques
-* Contribuer à l'amélioration du monitoring et au reporting des états
-
-**Profil**
-* Bonne maîtrise des outils de test et d'automatisation 
-* Avoir une bonne culture des usages Web et Mobile 
-* Bonne connaissance des méthodes AGILES
-* Proactivité dans les échanges et dans l'évangélisation des pratiques 
-
-*Bonus*
-* *Connaissance de l'écosystème Google Cloud Platform*
-* *Connaissance de la stack d'Actual : JS/TS ReactJS & ReactNative & PHP/Laravel*
-
-**Salaire**
-
-* Fourchette : entre 50 et 60 K€ 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
 ## Comment postuler 
-* Tout simplement, envoyez-moi un email à julien@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
+* Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 

@@ -72,7 +72,7 @@ L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutie
 
 ## Comment postuler ? 
 
-Tout simplement, envoyez-moi un email à jodia@jlrecrutement ou julien@jlrecrutement.com - avec un CV ou bien un profil LinkedIn à jour. 
+Tout simplement, envoyez-moi un email à jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 
