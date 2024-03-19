@@ -21,6 +21,8 @@ Full remote = 🏠
 
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
+- [DOCTEUR DATA](DRDATA.md)
+	- Ingénieur QA - Nouveau ! 🏠
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
 	- Lead developpeur(se) PHP/Symfony
@@ -56,13 +58,6 @@ Full remote = 🏠
 	- **Solution Engineer - NOUVEAU !** 
 - [WELCOMING](WELCOMING.md)
 	- **Développeur intermédiaire PHP / Laravel / ElasticSearch - NOUVEAU !**
-
-
-## À Lille :
-
-- [KARAFUN](KARAFUN.md)
-	- Développeur(se) front-end
-	- Développeur(se) back-end PHP/Symfony
 
 
 ## À Lyon : 
