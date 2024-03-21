@@ -32,6 +32,7 @@ Full remote = 🏠
 	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
+	- **Product Designer [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur.se senior backend NodeJS / Express
 - [LES GRAPPES](LES_GRAPPES.md)
