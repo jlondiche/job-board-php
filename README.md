@@ -65,6 +65,8 @@ Full remote = 🏠
 
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
+- [BSOFT](BSOFT.md)
+	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
 - [WIMOVA](WIMOVA.md)
