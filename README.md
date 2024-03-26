@@ -21,8 +21,10 @@ Full remote = 🏠
 
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
+- [CREW](CREW.md)
+	- **Lead Golang / SRE - Nouveau !** 🏠
 - [DOCTEUR DATA](DRDATA.md)
-	- Ingénieur QA - Nouveau ! 🏠
+	- **Ingénieur QA - Nouveau !** 🏠
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
 	- Lead developpeur(se) PHP/Symfony
@@ -37,11 +39,11 @@ Full remote = 🏠
 	- Développeur.se senior backend NodeJS / Express
 - [LES GRAPPES](LES_GRAPPES.md)
 	- Lead Développeur.se PHP
-- [LYDIA](LYDIA.md) 
+- [LYDIA](LYDIA.md)
 	- Développeur.se Back-End Golang
 - [PRISMA MEDIA](PRISMA_MEDIA.md)
 	- Développeur.se back end PHP Symfony NodeJS
-- [SÉZANE](SEZANE.md) 
+- [SÉZANE](SEZANE.md)
 	- Développeur.se Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
 - [SYNTHESIO](SYNTHESIO.md)
@@ -51,7 +53,7 @@ Full remote = 🏠
 	- **Développeur.se sénior back-end PHP [NOUVEAU]**
 - [UNYC](UNYC.md)
 	- Développeur.se PHP / Python
-- [WEBCENTRIC](WEBCENTRIC.md) 
+- [WEBCENTRIC](WEBCENTRIC.md)
 	- Développeur.se confirmé(e) PHP/Symfony
 	- Lead Développeur.se Backend
 	- Développeur.se frontend ReactJS/TypeScript
