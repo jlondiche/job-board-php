@@ -29,7 +29,7 @@ Services : Docker, Gitlab CI
 
 # Developpeur(se) sénior / lead developpeur(se) - NEW !
 
-En tant que seul développeur en collaboration avec le CTO et l'équipe, vous serez en charge de toute la plateforme Bienvenue Events afin de la re-dynamiser et répondre aux nouveaux besoins clients émergents. 
+En tant que seul développeur en collaboration avec le CTO et l'équipe, vous serez en charge de toute la plateforme Bienvenue Events afin de la dynamiser et répondre aux nouveaux besoins clients émergents. 
 
 ## Missions
 * Gérer la solution technique dans son intégralité : Conception, architecture, maintenant, déploiement
