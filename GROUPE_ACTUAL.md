@@ -44,7 +44,7 @@ Mots clés supplémentaires :
 #solid
 
 
-## BI/Data Analyst (Pôle DATA)  🏠 - ! NEW ! 
+## BI/Data Analyst (Pôle DATA)  🏠
 
 Au sein de l'équipe DATA composée d'un Head of Data,d'un Lead data Engineer ainsi qu'un autre BI/Data Analyst - vous serez en charge de la construction des solutions d'analyse de données. 
 

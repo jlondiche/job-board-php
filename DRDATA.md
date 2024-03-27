@@ -25,8 +25,7 @@ L’essence de leur projet est de contribuer à la régulation intelligente de l
 **Missions**
 
 Dans un contexte de croissance, DrData recherche un(e) chargé(e) de test et qualité
-logicielle pour renforcer l'équipe technique composée d’une dizaine de personnes et l'aider à
-contrôler la qualité du produit isalid.
+logicielle pour renforcer l'équipe technique composée d’une dizaine de personnes et l'aider à contrôler la qualité du produit isalid.
 
 * Conception, rédaction et estimation d’exécution des scénarios de tests fonctionnels et
 techniques
