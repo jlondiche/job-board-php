@@ -25,7 +25,7 @@ Comment ? En permettant à chacun de gérer sa carrière ou son club, et de dév
 Backend : Symfony 5.4 et PHP 8.1, API Platform 2.7, Symfony Messenger, MySQL, TypeSense, Redis, Newman, Playwright, AWS, Heroku,Mydsl, Docker
 Frontend : HTML/Twig, SaSS, JS et Symfony UX
 
-# Développeur.se frontend JS / TWIG - ! NEW ! 
+# Développeur.se frontend JS / TWIG
 
 ## Vos missions :
 
@@ -80,7 +80,7 @@ Vous rejoindrez une équipe de 5 collaborateurs techniques dont 2 développeurs 
 
 ## Salaire
 
-* Salaire : 45K€ / 55 K€
+* Salaire : 30K€ / 35 K€
 Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes.
 Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 

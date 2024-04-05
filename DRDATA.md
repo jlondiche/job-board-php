@@ -2,7 +2,7 @@
 
 **Domaine :** Protection des données de santé
 
-**Où :** Locaux à ParisSanté Campus dans le 15ème arrondissement de Paris - Hybride
+**Où :** Locaux à ParisSanté Campus dans le 15ème arrondissement de Paris - Hybride 3jours de remote par semaine
 
 **Quoi :** DrDATA milite pour la transparence et l’éthique des données de santé. 
 C’est une société dédiée à l’environnement dynamique du Big Data et de l’innovation.
