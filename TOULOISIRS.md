@@ -22,34 +22,35 @@ Outre cette mission, Touloisirs s'attache à élaborer un véritable tourisme so
 
 - Back-end: PHP 5.6/7.4 en cours de migration vers PHP 8.3 / Symfony
 - BDD : MySQL/MSSQL/Mongo
-- Front-end: React, Tailwind
+- Front-end: ReactJS, Tailwind
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
 
-# Développeur(se) Back-end PHP / Symfony
+* Développeur(se) Front-end
 
-## Missions : 
+**Missions**
 
 A l’initiative d’une internalisation de l'équipe technique composée de développeurs, d’un PO et d’un CTO, vous aurez pour missions de :
 
-- Participer à la conception et au développement des nouvelles plateformes e-commerce : **"Tout est à faire !"**
-- Évaluer les choix techniques en collaboration avec vos collègues : **"Nous réfléchissons ensemble !"**
-- Garantir un niveau élevé de qualité, de sécurité et de performances : **"Responsable et engagé !"**
-Effectuer une veille technique dans un cadre qui privilégie le partage et l'échange : **"Continuons à apprendre !"**
+- Participer à la conception et au développement des nouvelles plateformes e-commerce : Tout est à faire ! 
+- Évaluer les choix techniques en collaboration avec vos collègues : Nous réfléchissons ensemble !
+- Garantir un niveau élevé de qualité, de sécurité et de performances : Responsable et engagé !
+- Effectuer une veille technique dans un cadre qui privilégie le partage et l'échange : Continuons à apprendre !
 
-## Profil
+**Profil**
 
-Vous avez une expérience de 5 ans minimum en tant que développeur(se) back-end sur du PHP Symfony. Vous êtes proactif et faites confiance aux autres.
+- Vous avez une expérience de 5 ans minimum en tant que développeur(se) front-end sur du React/TypeScript/Next.
+- Vous avez une bonne connaissance des écosystèmes liés à votre travail et êtes attaché à produire un site qui sera répondre aux exigences du fort trafic.
+- Vous êtes proactif et faites confiance aux autres. Une expérience e-commerce est indispensable. 
+- Vos connaissances en intégration sont un plus. 
+- La volonté de passer Lead est un plus.
 
-Vous serez le premier développeur en interne pour travailler avec le CTO. Un freelance reconnu de la communauté PHP est en prestation chez eux et vous accompagnera. L'équipe sera amenée à grandir.
+**Salaire & Avantages**
 
-Une expérience e-commerce est un plus. La volonté de passer Lead et un plus.
+* 60k Brut annuel
+* 30 jours congés payés
+* 15 jours de RTT
+* Matériel informatique récent
 
-## Salaire & Avantages
-
-Fixe 60k Brut annuel
-6 semaines de vacances 
-15 jours de RTT
-Matériel informatique récent
 
 ## Pourquoi les rejoindre ?
 

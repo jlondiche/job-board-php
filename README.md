@@ -29,7 +29,7 @@ Full remote = 🏠
 	- Software Craftership TypeScript/React
 	- Lead developpeur(se) PHP/Symfony
 - [LE FIGARO](FIGARO.md)
-	- **Senior développeur.se Frontend - Equipe F1 [NOUVEAU]** 
+	- **Senior développeur.se Frontend - Equipe F1** 
 - [L'EQUIPE](LEQUIPE.md)
 	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
@@ -50,13 +50,9 @@ Full remote = 🏠
 	- **Manager Back-end [NOUVEAU]**
 	- **Automaticien QA sénior [NOUVEAU]**
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur.se sénior back-end PHP [NOUVEAU]**
+	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**
 - [UNYC](UNYC.md)
 	- Développeur.se PHP / Python
-- [WEBCENTRIC](WEBCENTRIC.md)
-	- Développeur.se confirmé(e) PHP/Symfony
-	- Lead Développeur.se Backend
-	- Développeur.se frontend ReactJS/TypeScript
 - [WEGLOT](WEGLOT.md) 
 	- **Solution Engineer - NOUVEAU !** 
 - [WELCOMING](WELCOMING.md)
@@ -70,9 +66,9 @@ Full remote = 🏠
 - [BSOFT](BSOFT.md)
 	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
 - [WECANDOO](WECANDOO.md) 
-	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa [NOUVEAU]** 
+	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa** 
 - [WIMOVA](WIMOVA.md)
-	- **Développeur(se) back-end PHP / Symfony [NOUVEAU]**
+	- **Développeur(se) back-end PHP / Symfony**
 
 
 ## À Strasbourg :
