@@ -20,39 +20,6 @@
 * Services : Git, Docker, Jenkins
 
 
-# Back-end Manager
-
-**Missions**
-
-Au sein d’une équipe du département "ingénierie produit" composée de gens brillants vous serez en charge d'une équipe de 5 à 7 développeurs : 
-
-* Prendre la direction de projets et d’équipes pour mener à bien la feuille de route, tout en accompagnant les autres membres à évoluer
-* Définir les étapes de la mise en œuvre et du déploiement des projets de l'équipe
-* Veiller à la mise en place des bonnes pratiques 
-* Gérer des ingénieurs hautement qualifiés et veiller à leur santé mentale et à la sécurité de leur lieu de travail. Fixer des objectifs individuels pour les aider à développer leurs compétences.
-* participer au processus de recrutement des développeurs back-end
-
-
-**Profil**
-
-* 5 ans d'XP minimum en back-end, très bon architecte technique
-* Appétence pour le management ou expérience un plus
-* Expertise en microservices
-* **Connaissances en Golang un plus mais pas obligatoire**
-* Connaissances en bas niveau un +
-* Expérience face à des problématiques de fort trafic et gros volume de données
-* Très rigoureux dans la qualité du code produit
-* À l'aise avec la compréhension des besoins UX
-* Maitrise parfaite de l'anglais
-
-
-## Salaire 
-
-Fourchette : 70K/80K€
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 # Automaticien QA sénior
 
 **Missions**

@@ -1,6 +1,6 @@
 # 🇯🇵 JAPAN EXPERIENCE 🇯🇵
 
-**Domaine :** Toursime - plateforme de réservation de voyage personnalisé 
+**Domaine :** Tourisme - plateforme de réservation de voyage personnalisé 
 
 **Où :** Paris 1 et 2 - Rue Sainte - Anne. 3j de TT/Semaine
 
