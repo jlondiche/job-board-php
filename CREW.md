@@ -18,7 +18,8 @@ Crew est une petite équipe talentueuse dont l'objectif est d'offrir la meilleur
 Golang, PostregreSQL, Next.JS, ReactJS, Kubernetes, GCP 
 
 
-# Lead Golang & Produit
+# Tech lead & Produit
+
 
 Au sein de l'équipe d'ingénieurs, vous travaillerez en étroite collaboration avec l'ingénieur logiciel qui s'occupe du frontend, et Amine qui s'occupe du produit. 
 

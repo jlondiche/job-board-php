@@ -22,7 +22,7 @@ Full remote = 🏠
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 - [CREW](CREW.md)
-	- **Lead Golang / SRE - Nouveau !** 🏠
+	- **Tech lead et produit - Nouveau !** 🏠
 - [DOCTEUR DATA](DRDATA.md)
 	- **Ingénieur QA - Nouveau !** 🏠
 - [ERES](ERES.md)
@@ -37,6 +37,8 @@ Full remote = 🏠
 	- **Product Designer [NOUVEAU]** 🏠
 - [HERMES](HERMES.md) 
 	- Développeur.se senior backend NodeJS / Express
+- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
+	- Développeur.se confirmé PHP/Symfony - #DDD #CQRS [NOUVEAU]** 
 - [LES GRAPPES](LES_GRAPPES.md)
 	- Lead Développeur.se PHP
 - [LYDIA](LYDIA.md)
