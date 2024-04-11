@@ -33,10 +33,12 @@ Full remote = 🏠
 - [L'EQUIPE](LEQUIPE.md)
 	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
+	- **Développeur.se fullstack Laravel / ReactJS [NOUVEAU]** 🏠
+	- **PM Tech [NOUVEAU]** 🏠
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- Développeur.se confirmé PHP/Symfony - #DDD #CQRS [NOUVEAU]** 
+	- **Développeur.se confirmé PHP/Symfony - #DDD #CQRS [NOUVEAU]** 
 - [LES GRAPPES](LES_GRAPPES.md)
 	- Lead Développeur.se PHP
 - [LYDIA](LYDIA.md)

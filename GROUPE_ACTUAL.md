@@ -43,8 +43,53 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
+# Développeur(se) expert fullstack Laravel / React.js + Design System - Full remote 🏠 
 
-## BI/Data Analyst (Pôle DATA)  🏠
+Edouard Bardet le CTO souhaite constituer une équipe CORE, une garde rapprochée travaillant essentiellement sur la technique. 
+
+**Profil**
+
+* Un minimun de 5 ans d'expérience en tant que développeur.se JS / ReactJS avec une capacité à développer sur du back-end également, idéalement en Laravel
+* Expérience en lead tech pour pouvoir gérer des sujets de A à Z
+* Capacité à collaborer en Agile
+* * Expérience réussie sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
+* Expérience sur la mise en place d'un design system
+* Sensibilité UX/UI afin de proposer une UX à l'état de l'art
+
+
+**Salaire**
+
+* Fourchette : entre 55 et 65 K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# PM Tech - Full remote 🏠 
+
+**Missions**
+Vous intégrerez la CORE Team d'Edouard Bardet et aurez pour missions de :
+
+* Détailler le back log
+* D'accompagner la mise en production : publier les messages, contacter les opérationnesl
+* Formaliser et mettre en forme de manière claire et compréhensible
+* Suivre et tenir pas à pas ce back log
+
+**Profil**
+
+* Notions fortes en techniques et en sécurité
+* Ancien développeur un +
+* Profil rigoureux et aimant mettre en place des process
+* Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités
+
+**Salaire**
+
+Fourchette : 55-65K€ 
+
+Pour rappel :  
+Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# BI/Data Analyst (Pôle DATA)  🏠
 
 Au sein de l'équipe DATA composée d'un Head of Data,d'un Lead data Engineer ainsi qu'un autre BI/Data Analyst - vous serez en charge de la construction des solutions d'analyse de données. 
 
@@ -79,7 +124,7 @@ Vous travaillerez en étroite collaboration avec les équipes opérationnelles p
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-## Product Designer 🏠 - NEW !
+# Product Designer 🏠 - NEW !
 
 votre rôle sera d'améliorer le parcours utilisateur sur différents 
 produits/fonctionnalités. Vous intégrerez un des squads BtoE de la digital factory qui conçoit, développe et maintient lʼATS utilisé par nos recruteurs en agence, ainsi que des interactions avec dʼautres produits selon les fonctionnalités. 
@@ -119,7 +164,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 
 
 ## Comment postuler 
-* Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
+* Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 
