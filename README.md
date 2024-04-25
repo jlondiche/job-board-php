@@ -33,7 +33,7 @@ Full remote = 🏠
 - [L'EQUIPE](LEQUIPE.md)
 	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **Développeur.se fullstack Laravel / ReactJS [NOUVEAU]** 🏠
+	- **2 Développeurs.ses fullstack Laravel / ReactJS [NOUVEAU]** 🏠
 	- **PM Tech [NOUVEAU]** 🏠
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠

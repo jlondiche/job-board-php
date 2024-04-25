@@ -43,7 +43,38 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
-# Développeur(se) expert fullstack Laravel / React.js + Design System - Full remote 🏠 
+
+# Equipe Produit : Développeur(se) fullstack Laravel / React.js - Full remote 🏠 
+
+Cette équipe, de 4 personnes, gère la partie espace utilisateurs pour les intérimaires avec une partie web et une partie application mobile.
+
+**Missions**
+
+* Développer de nouvelles fonctionnalités sur l’espace personnel orientées utilisateurs.
+* Mettre sur le web / sur la partie reactJS des fonctionnalités qui existent sur l’app mobile, soit une remise à niveau sur le web.
+* Sujets autour des notifications.
+* Problématiques sur de la esignature.
+* Développement API.
+* Sujets de refacto pour améliorer perpétuellement la stack
+* Participer aux bonnes pratiques déploiement continue / CI
+
+**Profil**
+
+* Un minimun de 3 ans d'expérience en tant que développeur.se Laravel
+* Appétence pour le front, un plus si expérience en ReactJS 
+* Expérience sur des features utilisateurs
+* Capacité à collaborer en Agile
+* Un plus si expérience en ReactNative
+
+
+**Salaire**
+
+* Fourchette : entre 48 et 52 K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# Equipe CORE : Développeur(se) expert fullstack React.js / Laravel + Design System - Full remote 🏠 
 
 Edouard Bardet le CTO souhaite constituer une équipe CORE, une garde rapprochée travaillant essentiellement sur la technique. 
 
