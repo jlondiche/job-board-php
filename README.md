@@ -64,6 +64,8 @@ Full remote = 🏠
 	- **Développeur(se) PHP / Symfony [NOUVEAU]**
 - [BSOFT](BSOFT.md)
 	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
+- [GAC TECHNOLOGY](GAC_TECHNOLOGY.md)
+	- Développeur
 - [WECANDOO](WECANDOO.md) 
 	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa** 
 - [WIMOVA](WIMOVA.md)
