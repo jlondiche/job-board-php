@@ -30,8 +30,6 @@ Full remote = 🏠
 	- Lead developpeur(se) PHP/Symfony
 - [LE FIGARO](FIGARO.md)
 	- **Senior développeur.se Frontend - Equipe F1** 
-- [L'EQUIPE](LEQUIPE.md)
-	- **Dévelopeur.se confirmé-e PHP/Symfony [NOUVEAU]**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **2 Développeurs.ses fullstack Laravel / ReactJS [NOUVEAU]** 🏠
 	- **PM Tech [NOUVEAU]** 🏠
@@ -46,14 +44,10 @@ Full remote = 🏠
 - [SÉZANE](SEZANE.md)
 	- Développeur.se Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
-- [SYNTHESIO](SYNTHESIO.md)
-	- **Automaticien QA sénior [NOUVEAU]**
 - [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**
 - [UNYC](UNYC.md)
 	- Développeur.se PHP / Python
-- [WEGLOT](WEGLOT.md) 
-	- **Solution Engineer - NOUVEAU !** 
 - [WELCOMING](WELCOMING.md)
 	- **Développeur intermédiaire PHP / Laravel / ElasticSearch - NOUVEAU !**
 
@@ -76,12 +70,5 @@ Full remote = 🏠
 
 - [SPORTYMA](SPORTYMA.md)
 	- **Développeur.se frontend JS / TWIG [NOUVEAU]**
-
-
-## À Toulouse :
-
-- [ONEPARK](ONEPARK.md)
-	- **Product Owner (PO) [NOUVEAU]**
-	- **Lead developpeur(se) backend Elixir [NOUVEAU]**
 
 

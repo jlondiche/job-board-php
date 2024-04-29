@@ -25,7 +25,7 @@ Outre cette mission, Touloisirs s'attache à élaborer un véritable tourisme so
 - Front-end: ReactJS, Tailwind
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
 
-* Développeur(se) Front-end
+# Développeur(se) Front-end
 
 **Missions**
 
