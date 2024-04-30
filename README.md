@@ -19,12 +19,16 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- [CCM BENCHMARK](CCM_BENCHMARK.md)
+	- **Développeur(se) PHP/ Symfony senior - équipe Média - NOUVEAU !**
+	- **Engineering manager - équipe Média - NOUVEAU !**
+	- **Chef de projet technique - ÉquipeAdTech'/Equipe Pub - NNOUVEAU !**
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 - [CREW](CREW.md)
-	- **Tech lead et produit - Nouveau !** 🏠
+	- Tech lead et produit 🏠
 - [DOCTEUR DATA](DRDATA.md)
-	- **Ingénieur QA - Nouveau !** 🏠
+	- Ingénieur QA - Nouveau ! 🏠
 - [ERES](ERES.md)
 	- Software Craftership TypeScript/React
 	- Lead developpeur(se) PHP/Symfony
