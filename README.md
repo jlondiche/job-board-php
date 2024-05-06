@@ -28,10 +28,10 @@ Full remote = 🏠
 - [CREW](CREW.md)
 	- Tech lead et produit 🏠
 - [DOCTEUR DATA](DRDATA.md)
-	- Ingénieur QA - Nouveau ! 🏠
-- [ERES](ERES.md)
-	- Software Craftership TypeScript/React
-	- Lead developpeur(se) PHP/Symfony
+	- Ingénieur QA 
+- [DAYUSE](DAYUSE.md)
+	- Lead developpeur(se) PHP / Symfony / API Platform
+	- Développeur(se) iOS, Android, ReactNative
 - [LE FIGARO](FIGARO.md)
 	- **Senior développeur.se Frontend - Equipe F1** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
