@@ -59,15 +59,15 @@ Full remote = 🏠
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- **Développeur(se) PHP / Symfony [NOUVEAU]**
+	- Développeur(se) PHP / Symfony
 - [BSOFT](BSOFT.md)
 	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
 - [GAC TECHNOLOGY](GAC_TECHNOLOGY.md)
 	- Développeur
-- [WECANDOO](WECANDOO.md) 
-	- **Lead developpeur(se) back-end PHP / Laravel / Bonnes pratiques & archi hexa** 
-- [WIMOVA](WIMOVA.md)
-	- **Développeur(se) back-end PHP / Symfony**
+- [SYNAPSUN](SYNAPSUN.md)
+	- **Lead developeur(se) PHP / Symfony / NodeJS [NOUVEAU]**
+	- **Développeur(se) PHP / Symfony [NOUVEAU]**
+	- **Product Owner [NOUVEAU]**
 
 
 ## À Strasbourg :
