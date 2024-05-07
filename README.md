@@ -65,9 +65,9 @@ Full remote = 🏠
 - [GAC TECHNOLOGY](GAC_TECHNOLOGY.md)
 	- Développeur
 - [SYNAPSUN](SYNAPSUN.md)
-	- **Lead developeur(se) PHP / Symfony / NodeJS [NOUVEAU]**
-	- **Développeur(se) PHP / Symfony [NOUVEAU]**
-	- **Product Owner [NOUVEAU]**
+	- **Lead developeur(se) senior [NOUVEAU]**
+	- **Developpeur(se) Fullstack confirmé(e) [NOUVEAU]**
+	- **Product Owner [NOUVEAU]** 
 
 
 ## À Strasbourg :
