@@ -65,7 +65,7 @@ Salaire : 60/70K€ selon profil
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Développeur(se) senior ReactNativ, iOS et android
+# Développeur(se) senior ReactNative, iOS et android
 
 > Venez reprendre en main l'app mobile de Dayuse.com ! 
 
