@@ -25,22 +25,22 @@ Full remote = 🏠
 	- **Chef de projet technique - ÉquipeAdTech'/Equipe Pub - NNOUVEAU !**
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
-- [CREW](CREW.md)
-	- Tech lead et produit 🏠
+	- **Développeur.se PHP/Symfony/DDD- NOUVEAU !**
 - [DOCTEUR DATA](DRDATA.md)
 	- Ingénieur QA 
 - [DAYUSE](DAYUSE.md)
 	- Lead developpeur(se) PHP / Symfony / API Platform
 	- Développeur(se) iOS, Android, ReactNative
+- [EVENIZER](EVENIZER.md)
+	- **Lead developpeur(se) PHP/Symfony environnement Startup ! NOUVEAU !**
 - [LE FIGARO](FIGARO.md)
 	- **Senior développeur.se Frontend - Equipe F1** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **2 Développeurs.ses fullstack Laravel / ReactJS [NOUVEAU]** 🏠
+	- **Développeur.se fullstack Laravel / ReactJS [NOUVEAU]** 🏠
+	- **Développeur.se front-end JavaScript / TypeScript / ReactJS + Design system [NOUVEAU]** 🏠
 	- **PM Tech [NOUVEAU]** 🏠
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠
-- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- **Développeur.se confirmé PHP/Symfony - #DDD #CQRS [NOUVEAU]** 
 - [LES GRAPPES](LES_GRAPPES.md)
 	- Lead Développeur.se PHP
 - [LYDIA](LYDIA.md)

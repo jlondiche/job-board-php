@@ -74,23 +74,24 @@ Cette équipe, de 4 personnes, gère la partie espace utilisateurs pour les int�
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-# Equipe CORE : Développeur(se) expert fullstack React.js / Laravel + Design System - Full remote 🏠 
+# Equipe CORE : Développeur(se) expert front-end Typescript / React.js + Design System - Full remote 🏠 
 
-Edouard Bardet le CTO souhaite constituer une équipe CORE, une garde rapprochée travaillant essentiellement sur la technique. 
+Edouard Bardet le CTO souhaite constituer une équipe CORE, et recherche une personne pour prendre en main toute la partie transverse pour la partie front end et le design system. 
 
 **Profil**
 
-* Un minimun de 5 ans d'expérience en tant que développeur.se JS / ReactJS avec une capacité à développer sur du back-end également, idéalement en Laravel
+* Un minimun de 5 ans d'expérience en tant que développeur.se JS / TypeScript / ReactJS
+* Expérience sur la mise en place d'un design system
+* Expéréience fort trafic et volumétrie
 * Expérience en lead tech pour pouvoir gérer des sujets de A à Z
 * Capacité à collaborer en Agile
-* * Expérience réussie sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
-* Expérience sur la mise en place d'un design system
+* Expérience réussie sur TypeScript et Jest avec une attention particulière sur la production d'un code de qualité
 * Sensibilité UX/UI afin de proposer une UX à l'état de l'art
 
 
 **Salaire**
 
-* Fourchette : entre 55 et 65 K€ 
+* Fourchette : entre 60 et 70 K€ 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
