@@ -61,25 +61,30 @@ Aujourd'hui l'équipe recherche un(e) lead developpeur(se) pour embarquer les é
 
 **Salaire**
 
-Salaire : 60/70K€ selon profil
+Salaire : 70/75K€ selon profil
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Développeur(se) senior ReactNative, iOS et android
+# Développeur(se) senior PHP / Symfony / API Platform
 
-> Venez reprendre en main l'app mobile de Dayuse.com ! 
+Venez intégrer l'équipe tech de Dayuse !
 
 **Missions**
 
-* Forts eujeux dans les prochains mois et années. Focus fort sur le mobile et Dayuse.com souhaite développer de la diversification sur leur application.
-* Etre le garant de l'application mobile.
-* Beaucoup de projets ambitieux à venir !
+* Développement de nouvelles features, participations aux choix techniques
+* Connectivité : se connecte avec ACCOR aujourd'hui et fonctionne tres bien. Aimerait se connecter à d'autres plateformes hotellieres plus petites et des plateformes d'achats et développer la relation hotel
+* Automatisation du process d'onboarding pour les hotels
+* Outils marketing à intégrer
+* Intégration des moyens de paiement CB
+* Mise en place du paiement pour développer les USA
+* Beaucoup de gestion d'API et de connexion à des API externes
+
 
 **Profil**
 
-* 4/5 ans d'expérience en développement d'application mobile iOS et android
+* 4/5 ans d'expérience en développement PHP / Symfony
+* Expérience en API Platform
 * Autonome et force de proposition
-* Capacité à prendre en main un sujet important auprès dans l'entreprise
 
 **Salaire**
 

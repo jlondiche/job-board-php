@@ -48,7 +48,8 @@ En tant que seul développeur en collaboration avec le CTO et l'équipe, vous se
 * Curieux-se, autonome, partageant les informations et sachant communiquer avec des interlocuteurs dans différents domaines
 
 ## Salaire
-45/55K€ selon profil. 
+
+45/52K€ selon profil. 
 Pour rappel : Pour le salaire : il est difficile de donner des salaires fixes.Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie.Humain & Compétences FIRST.
 
 

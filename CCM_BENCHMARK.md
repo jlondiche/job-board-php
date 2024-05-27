@@ -82,7 +82,7 @@ Au sein d’une équipe composée de 8 personnes qui gère tous le workflow des 
 
 ## Salaire :
 
-Fourchette 55/70K€
+Fourchette 55/65K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

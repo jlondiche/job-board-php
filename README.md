@@ -30,7 +30,7 @@ Full remote = 🏠
 	- Ingénieur QA 
 - [DAYUSE](DAYUSE.md)
 	- Lead developpeur(se) PHP / Symfony / API Platform
-	- Développeur(se) iOS, Android, ReactNative
+	- **Développeur PHP / Symfony API Platform sénior - NNOUVEAU !**
 - [EVENIZER](EVENIZER.md)
 	- **Lead developpeur(se) PHP/Symfony environnement Startup ! NOUVEAU !**
 - [LE FIGARO](FIGARO.md)
@@ -41,8 +41,6 @@ Full remote = 🏠
 	- **PM Tech [NOUVEAU]** 🏠
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠
-- [LES GRAPPES](LES_GRAPPES.md)
-	- Lead Développeur.se PHP
 - [LYDIA](LYDIA.md)
 	- Développeur.se Back-End Golang
 - [SÉZANE](SEZANE.md)
