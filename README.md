@@ -50,8 +50,6 @@ Full remote = 🏠
 	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**
 - [UNYC](UNYC.md)
 	- Développeur.se PHP / Python
-- [WELCOMING](WELCOMING.md)
-	- **Développeur intermédiaire PHP / Laravel / ElasticSearch - NOUVEAU !**
 
 
 ## À Lyon : 
@@ -61,16 +59,11 @@ Full remote = 🏠
 - [BSOFT](BSOFT.md)
 	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
 - [GAC TECHNOLOGY](GAC_TECHNOLOGY.md)
-	- Développeur
+	- Développeurs
 - [SYNAPSUN](SYNAPSUN.md)
 	- **Lead developeur(se) senior [NOUVEAU]**
 	- **Developpeur(se) Fullstack confirmé(e) [NOUVEAU]**
 	- **Product Owner [NOUVEAU]** 
 
-
-## À Strasbourg :
-
-- [SPORTYMA](SPORTYMA.md)
-	- **Développeur.se frontend JS / TWIG [NOUVEAU]**
 
 
