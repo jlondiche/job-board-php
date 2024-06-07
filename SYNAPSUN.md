@@ -2,7 +2,7 @@
 
 **Domaine :** Transition énergétique, innovation, CRM, BtoB
 
-**Où :** Sainte-Foy-lès-Lyon (69202), 1 Jour de TT / Semaine
+**Où :** Sainte-Foy-lès-Lyon (69202), 1 Jour de presentiel / Semaine  /!\ Attention changement de politique, l'annonce a été modifiée !! 
 
 **Quoi :** Synapsun est experte dans la fourniture de panneaux photovoltaïques en B toB. 
 
