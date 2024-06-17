@@ -29,7 +29,6 @@ Full remote = 🏠
 - [DOCTEUR DATA](DRDATA.md)
 	- Ingénieur QA 
 - [DAYUSE](DAYUSE.md)
-	- Lead developpeur(se) PHP / Symfony / API Platform
 	- **Développeur PHP / Symfony API Platform sénior - NNOUVEAU !**
 - [EVENIZER](EVENIZER.md)
 	- **Lead developpeur(se) PHP/Symfony environnement Startup ! NOUVEAU !**

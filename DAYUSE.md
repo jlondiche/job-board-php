@@ -25,46 +25,6 @@ Dayuse ouvre la porte à un monde de possibilités où les utilisateurs composen
 * Front end : React, ReactNative, Nextjs, TypeScript, Twig
 
 
-# Lead développeur(se) back-end Symfony 6 & API PLATFORM
-
-Rattaché au CTO, vous rejoindrez une équipe composée de développeurs Back-end, Front-end, PO et Data analystes. Le front-end et l'app mobile de Dayuse.com ont été totalement refait et utilisent toutes les technologies de pointe de l’écosystème React. Ils interagissent avec le Back-end via une API basée sur API platform.
-
-Aujourd'hui l'équipe recherche un(e) lead developpeur(se) pour embarquer les équipes et continuer sur une partie de son temps à développer. 
-
-**Missions**
-
-* Management : mentorer, encadrer et leader l'équipe technique
-* Développement et architecture : nouveaux projets en cours de réflexion
-* Leader des projets techniques de A à Z
-* Connectivité : se connecte avec ACCOR aujourd'hui et fonctionne tres bien. Aimerait se connecter à d'autres plateformes hotellieres plus petites et des plateformes d'achats et développer la relation hotel
-* Automatisation du process d'onboarding pour les hotels
-* Outils marketing à intégrer
-* Intégration des moyens de paiement CB
-* Mise en place du paiement pour développer les USA
-* Beaucoup de gestion d'API et de connexion à des API externes
-
-**Profil**
-
-* Vous avez une expérience de lead pertinente.
-* Vrai capacité à animer des équipes
-* Profil dynamique
-* Vous avez déjà réalisé des projets à l'aide de Symfony et de son écosystème, en particulier API Platform. Les contributions à des projets open-source sont un plus.
-* Vous êtes passionné par l'expérience utilisateur et les bonnes pratiques de développement.
-* Vous écrivez du code propre, compréhensible, et sémantique. Ce code est testable, maintenable, répond à un problème et le fait bien. Un code dont vous pouvez être fier !
-* Appétence Ops un plus.
-
-
-**Process de recrutement**
-
-1 entretien CTO
-1 entretien Equipe
-
-**Salaire**
-
-Salaire : 70/75K€ selon profil
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 # Développeur(se) senior PHP / Symfony / API Platform
 
 Venez intégrer l'équipe tech de Dayuse !
