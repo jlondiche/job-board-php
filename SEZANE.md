@@ -1,6 +1,6 @@
 # 👚 SEZANE 👚
 
-**Domaine :**  e-Commerce / Mode
+**Domaine :** e-Commerce / Mode
 
 **Où :** Locaux magnifiques dans le 7ème, rue du bac. 2 jours de Télétravail par semaine. 
 
@@ -27,7 +27,9 @@ Sezane souhaite donner du sens à ses activités et construire une nouvelle cont
 * Devops : AWS, Docker, Python
 
 
-# Développeur(se) confirmé(e) PHP/Symfony 
+# Développeur(se) confirmé(e) PHP / Symfony 
+
+**Nouveau poste pour Septembre 2024. Si vous êtes intéressé, contactez-moi ! Equipe d'experts, venez vous confronter à une super équipe et participer à un beau projet :** 
 
 En tant que Développeur(se) PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 

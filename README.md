@@ -35,9 +35,6 @@ Full remote = 🏠
 - [LE FIGARO](FIGARO.md)
 	- **Senior développeur.se Frontend - Equipe F1** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **Développeur.se fullstack Laravel / ReactJS [NOUVEAU]** 🏠
-	- **Développeur.se front-end JavaScript / TypeScript / ReactJS + Design system [NOUVEAU]** 🏠
-	- **PM Tech [NOUVEAU]** 🏠
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠
 - [LYDIA](LYDIA.md)
