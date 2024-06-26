@@ -113,7 +113,44 @@ Actual développe, conçoit et construit de nouvelles fonctionnalités clés rap
 
 **Salaire**
 
-* Fourchette comprise entre 55 et 65K€ 
+* Fourchette comprise entre 50 et 55K€ 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+# Lead Product Designer 🏠 - NEW !
+
+En charge d’une équipe de 8 à 9 Product designer, vous serez le/la guide du processus de design grâce à une profonde connaissance de la conception de produit et des principes généraux dʼune interface utilisateur. Vous serez le/la garant(e) de la création et de lʼapplication des stratégies UX au sein des produits. 
+Votre rôle en tant que lead sera de tirer partie des forces de votre équipe et prendre des décisions de conception fondées sur les résultats de l'analyse des recherches utilisateurs/data en cas dʼarbitrage nécessaire. 
+
+**Vision design de produit (UX/UI)** : Être le référent design UX/UI au sein de l'équipe, définir et mettre en œuvre la stratégie et les méthodes de recherche et de conception afin de s'assurer que le produit évolue de façon à répondre aux besoins des utilisateurs et obtenir les meilleurs résultats pour le business, suivre les phases des différents projets avec les designers afin de les challenger (méthodes de recherche UX, opportunités dʼinnovation, ergonomie et accessibilité, etc.) et arbitrer si nécessaire, Prendre des décisions en matière de produits et de conception qui sont motivées par une profonde préoccupation pour les utilisateurs finaux, Avec les designers, identifier de nouvelles opportunités dʼaméliorations en lien avec les observations terrains/data effectuées afin de les proposer en amélioration au fil de lʼeau ou lors de la co-construction de la roadmap avec lʼéquipe PM
+
+**Suivi de la performance** : Utiliser la data (quantitative et qualitative) pour prendre des décisions sur le produit à court/moyen terme,
+être force de proposition sur les indicateurs de suivis (kpi, okr, ect)
+
+**Management d'équipe** : S'assurer que les périmètres des différents designers soient bien alignés et coordonnés en accord avec la roadmap globale, que l'information circule de manière fluide au sein de l'équipe, et que les éventuelles dépendances soient anticipées, identifiées et prises en charge.
+Soutenir les designer de lʼéquipe et mentorer les designers juniors. Challenger et assurer le suivi de la performance des designers ainsi que leur évolution de carrière, mener de manière hebdomadaire des 1:1 de suivi.
+
+**Management transverse** : Assurer une bonne collaboration avec les autres équipes travaillant sur le produit : engineering/tech, PM, marketing, commerciaux, et autres.
+Diffuser à chaque occasion dʼinteraction avec nos stakeholders et utilisateurs finaux la culture UX, les process et les méthodes de la Digital Factory.
+
+*Participation au design system*
+
+*Participation aux recrutements*
+
+
+**Profil**
+
+* Product Designer depuis 6 ans minimum avec une XP de Lead OU une appétence forte pour le management
+* Être autonome, agile, rigoureux et avec de fortes capacités d'analyse et de synthèse 
+* Être data driven et user-centric, savoir lʼinsuffler dans lʼéquipe
+* Faire preuve de leadership et dʼempathie
+* Dispose de méthodes/processus éprouvés pour résoudre des problèmes de conception complexes ainsi que pour transformer les recherches utilisateurs en répresentations synthétiques (personaes, user journey map, workflow, etc.)
+* Expérience de l'interaction avec des équipes pluridisciplinaires et des différentes phases dʼun produit (des prémices à lʼévolution continue en passant par la livraison)
+* Nice to have : Vous connaissez les technologies du Web Html, Css, Js, Sql)
+
+**Salaire**
+
+* Fourchette comprise entre 60 et 65K€ 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 

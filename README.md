@@ -37,6 +37,7 @@ Full remote = 🏠
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
 	- **Product Designer [NOUVEAU]** 🏠
+	- **Lead Product Designer [NOUVEAU]** 🏠
 - [LYDIA](LYDIA.md)
 	- Développeur.se Back-End Golang
 - [SÉZANE](SEZANE.md)
