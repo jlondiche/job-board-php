@@ -13,15 +13,13 @@ https://www.touloisirs.fr/association/whoAreWe
 
 Partenaire privilégié de La Poste dans ce domaine, 15 000 voyageurs utilisent nos services et 50 000 personnes profitent de nos offres de loisirs (cinéma, parcs d'attractions, musées, concerts, spectacles...) chaque année. Aujourd’hui le projet principal est de développer une marque fille à Touloisirs pour aller attaquer le marché des Comités d’Entreprise plus globalement et pouvoir s’adresser à un maximum de clients.
 
-**Processus de recrutement**
-
-- Un entretien téléphonique avec le CTO.
-- Un test technique à la maison sur votre matériel avec un accès à tous vos outils en place et internet.
-- Une rencontre en présentielle avec les membres de l'équipe.
 
 **Stack :**
 
+Pour le poste : 
 - Front-end: React, Tailwind en cours de migration vers NextJs
+
+Le reste de la stack : 
 - Back-end: PHP 5.6/7.4 en cours de migration vers PHP 8.3 / Symfony
 - BDD : MySQL/MSSQL/Mongo
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
@@ -44,7 +42,7 @@ Votre profil est celui d’un ingénieur :
 
 - Vous avez une expérience de 5 ans minimum en tant que développeur(se) front-end sur du React/TypeScript/Next.
 - Vous avez une bonne connaissance des écosystèmes liés à votre travail et êtes attaché à produire un site qui sera répondre aux exigences du fort trafic.
-- Vous êtes proactif et faites confiance aux autres. Une expérience e-commerce est indispensable.
+- Une expérience e-commerce est indispensable.
 - Vos connaissances en intégration sont indispensables. La volonté de passer Lead est un plus.
 
 - La volonté de passer Lead est un plus.
