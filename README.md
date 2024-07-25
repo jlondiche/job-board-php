@@ -20,47 +20,32 @@ Full remote = 🏠
 ## À Paris : 
 
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- **Développeur(se) PHP/ Symfony senior - équipe Média - NOUVEAU !**
-	- **Engineering manager - équipe Média - NOUVEAU !**
-	- **Chef de projet technique - ÉquipeAdTech'/Equipe Pub - NNOUVEAU !**
+	- Développeur.se PHP/ Symfony senior - équipe Média
+	- Engineering manager - équipe Média 
+	- Chef de projet technique - ÉquipeAdTech'/Equipe Pub
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
-	- **Développeur.se PHP/Symfony/DDD- NOUVEAU !**
-- [DOCTEUR DATA](DRDATA.md)
-	- Ingénieur QA 
-- [DAYUSE](DAYUSE.md)
-	- **Développeur PHP / Symfony API Platform sénior - NNOUVEAU !**
-- [EVENIZER](EVENIZER.md)
-	- **Lead developpeur(se) PHP/Symfony environnement Startup ! NOUVEAU !**
-- [LE FIGARO](FIGARO.md)
-	- **Senior développeur.se Frontend - Equipe F1** 
+	- Développeur.se PHP/Symfony/DDD
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- **BI/Data Analyst - Pôle DATA en création [NOUVEAU]** 🏠
-	- **Product Designer [NOUVEAU]** 🏠
-	- **Lead Product Designer [NOUVEAU]** 🏠
-- [LYDIA](LYDIA.md)
-	- Développeur.se Back-End Golang
+	- BI/Data Analyst - Pôle DATA en création 🏠
+	- Lead Product Designer 🏠
+- [RESEE]
+	- **Lead developpeur.se Sylius sénior 🏠 - NOUVEAU !** 
+	- **Chef(fe) de projets/produits - NOUVEAU !**
 - [SÉZANE](SEZANE.md)
 	- Développeur.se Confirmé(e) Back-End PHP/Symfony
 	- Dev0ps expert AWS
 - [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**
-- [UNYC](UNYC.md)
-	- Développeur.se PHP / Python
 
 
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- Développeur(se) PHP / Symfony
-- [BSOFT](BSOFT.md)
-	- **Développeur(se) senior, lead / PHPSymfony [NOUVEAU]**
-- [GAC TECHNOLOGY](GAC_TECHNOLOGY.md)
-	- Développeurs
-- [SYNAPSUN](SYNAPSUN.md)
-	- **Lead developeur(se) senior [NOUVEAU]**
-	- **Developpeur(se) Fullstack confirmé(e) [NOUVEAU]**
-	- **Product Owner [NOUVEAU]** 
+	- Développeur(se) PHP / Symfony - équipe RUN
+- [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
+	- Développeur(se) PHP / Symfony expert 
+
 
 
 
