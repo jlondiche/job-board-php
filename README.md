@@ -29,11 +29,11 @@ Full remote = 🏠
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
 	- Lead Product Designer 🏠
-- [RESEE] (RESEE.md)
+- [RESEE](RESEE.md)
 	- **Lead developpeur.se Sylius sénior 🏠 - NOUVEAU !** 
 	- **Chef(fe) de projets/produits - NOUVEAU !**
 - [SÉZANE](SEZANE.md)
-	- Développeur.se Confirmé(e) Back-End PHP/Symfony
+	- **Développeur.se Confirmé(e) Back-End PHP/Symfony - NOUVEAU !**
 	- Dev0ps expert AWS
 - [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**

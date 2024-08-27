@@ -2,7 +2,7 @@
 
 **Domaine :** e-Commerce / Mode
 
-**Où :** Locaux magnifiques dans le 7ème, rue du bac. 2 jours de Télétravail par semaine. 
+**Où :** Locaux magnifiques dans le 7ème, rue du bac. 2 jours de Télétravail par semaine. Possibilité de remote pour le poste d'expert AWS.
 
 **Quoi :** Créée en 2013 par Morgane Sézalory, Sézane est la première marque de mode française née en ligne.
 
@@ -12,46 +12,39 @@ Sezane souhaite donner du sens à ses activités et construire une nouvelle cont
 
 **Fact & Figures**
 
-* Créé en 2013 avec aujourd’hui plus de 200 personnes à travers 12 boutiques physiques
-* 2 millions de vues par mois 
-* Plus de 10 000 commandes par jour
-* Une croissance de plus de 40% en 2023
-* Plusieurs centaines de millions de C.A annuel
+* Créé en 2013 avec aujourd’hui plus de 500 personnes
+* Equipe Technology composée de 30 personnes
+* Plusieurs dizaines de millions de vues par mois
+* Présence dans le monde entier à travers le web et les appartements
 
 * Sites et API : <a href="https://www.sezane.com/fr">Sézane</a>, <a href="https://www.octobre-editions.com/fr">Octobre Editions</a>
 
 **Stack**
 
-* Frontend : React.Js, Typescript 
-* Backend : PHP8, Symfony6, API Platform, ElasticSearch
+* Frontend : React.Js, Typescript
+* Backend : PHP8, Symfony6, API Platform, ElasticSearch, Redis, Aurora
 * Devops : AWS, Docker, Python
 
 
-# Développeur(se) confirmé(e) PHP / Symfony 
+# Développeur(se) sénior PHP / Symfony 
 
-**Nouveau poste pour Septembre 2024. Si vous êtes intéressé, contactez-moi ! Equipe d'experts, venez vous confronter à une super équipe et participer à un beau projet :** 
+**Venez rejoindre une super équipe technique d'experts, venez vous confronter à un projet d'envergure tourné vers l'international. Très peu de maintenance, beaucoup build avec énormément de nouveaux projets à développer from scratch.** 
 
 En tant que Développeur(se) PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
 
-Vous êtes sociable, autonome, rigoureux(se), responsable, force de propositions, motivé(e) et doté(e) d'une grande capacité d'adaptation, à l'écoute et savez gérer vos projets de main de maître.
-
 Votre connaissance de PHP, du framework Symfony, et votre intérêt pour les nouvelles technologies et l'optimisation seront des atouts essentiels pour ce poste.
 
-Vous serez garant(e) du développement et de la mise en place des applications web, de de la qualité du code, et de la satisfaction client interne et externe.
+Vous serez garant(e) du développement et de la mise en place des applications web, de la qualité du code, et de la satisfaction client interne et externe.
 
 ## Missions
 
 Vous évoluerez au sein de l’équipe IT de Sézane, et vous serez rattaché au Lead Developer - Architect de l’équipe.
 
 * Ajouts de fonctionnalités sur les applications web
-* Gestion de nouveaux projets dans leur totalité - par exemple, création d'un nouvel entrepôt & marché au U.S.A 🇺🇸
-* Les études de faisabilité et délais de livraison
+* Gestion de nouveaux projets dans leur totalité - par exemple, création d'un nouvel entrepôt & développement à l'international : notamment les U.S.A 🇺🇸
+* Développement de projets techniques de zéro 
 * La réalisation et le suivi des tests unitaires
 * Gestion de fortes problématiques de performance
-* Le suivi et la maintenance des services
-* La documentation des développements
-* L’archivage des codes sources
-* Assurer un rôle de conseil technique auprès des équipes internes
 
 ## Profil
 
@@ -65,7 +58,7 @@ Vous évoluerez au sein de l’équipe IT de Sézane, et vous serez rattaché au
 
 ## Salaire 
 
-Fourchette: 55K/70K€ 
+Fourchette: 65K/70K€ 
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
