@@ -19,24 +19,24 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- Développeur.se PHP/ Symfony senior - équipe Média
-	- Engineering manager - équipe Média 
-	- Chef de projet technique - ÉquipeAdTech'/Equipe Pub
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 	- Développeur.se PHP/Symfony/DDD
+- [EVENIZER](EVENIZER.md)
+	- **Architecte / Développeur.se sénior DDD Clean Code**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
+	- Développeur fullstack PHP / Laravel / ReactJS 🏠
 	- BI/Data Analyst - Pôle DATA en création 🏠
 	- Lead Product Designer 🏠
 - [RESEE](RESEE.md)
-	- **Lead developpeur.se Sylius sénior 🏠 - NOUVEAU !** 
-	- **Chef(fe) de projets/produits - NOUVEAU !**
+	- Lead developpeur.se Sylius sénior 🏠
+	- Chef(fe) de projets/produits**
 - [SÉZANE](SEZANE.md)
-	- **Développeur.se Confirmé(e) Back-End PHP/Symfony - NOUVEAU !**
+	- Développeur.se confirmé(e) back-end PHP/Symfony
+	- **Développeur intermédiaire back-end PHP / Symfony**
 	- Dev0ps expert AWS
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur.se sénior front-end ReactJS [NOUVEAU]**
+	- Développeur.se sénior front-end ReactJS**
 
 
 ## À Lyon : 
