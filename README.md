@@ -22,6 +22,8 @@ Full remote = 🏠
 - [CMI](CMI.md)
 	- Lead développeur.se PHP/Symfony
 	- Développeur.se PHP/Symfony/DDD
+- [DrDATA](DrDATA.md)
+	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [EVENIZER](EVENIZER.md)
 	- **Architecte / Développeur.se sénior DDD Clean Code**
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
