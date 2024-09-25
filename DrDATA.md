@@ -2,7 +2,7 @@
 
 **Domaine :** Protection des données de santé
 
-**Où :** Locaux à ParisSanté Campus dans le 15ème arrondissement de Paris - 1 jour toutes les 2 semaines à Paris.
+**Où :** Locaux dans le 2ème arrondissement de Paris - Télétravail partiel.
 
 **Quoi :** DrDATA milite pour la transparence et l’éthique des données de santé. C’ est une société dédiée à l’environnement dynamique du Big Data et de l’innovation.
 
@@ -21,14 +21,14 @@ https://www.drdata.io/
 
 **Stack**
 * Frontend : HTML5/CSS3 , React.Js, Next.js
-* Backend : PHP 8.1/ 8.2, Symfony6, Python
+* Backend : PHP 8.3, Symfony7.1
 * Testing : TDD, Jest, Cypress, Behat
 
 ## Développeur.se backend PHP / Symfony intermédiaire 🐘
 
 **Missions** 
 
-Au sein d’une équipe de 2 développeurs + 1 QA, vous interviendrez sur de nombreux sujets autour de la sécurité et de la performance des produits de DrDATA. 
+Au sein d’une équipe de 4 développeurs (dont 2 back-ends) + 1 QA, vous interviendrez sur de nombreux sujets autour de la sécurité et de la performance des produits de DrDATA. 
 
 Très bel environnement technique : **Architecture hexagonale** avec un découpage fonctionnel. Vous travaillerez en collaboration avec les DPO de DrDATA afin de faire évoluer les règles métiers. 
 
