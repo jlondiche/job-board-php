@@ -4,7 +4,7 @@
 
 **Où :** Paris 13 - télétravail partiel : 2j par semaine à partir du 6ieme mois
 
-**Quoi :** Touloisirs est une organisation a but non lucratif spécialisée dans la promotion et la vente d'offres de vacances et de divertissements à destination des comités d'entreprise, employeurs et toutes autres formes d'organisations de soutien aux salariés.
+**Quoi :** Touloisirs est une organisation à but non lucratif spécialisée dans la promotion et la vente d'offres de vacances et de divertissements à destination des comités d'entreprise, employeurs et toutes autres formes d'organisations de soutien aux salariés.
 
 "Vous détendre, c'est essentiel" 
 https://www.touloisirs.fr/association/whoAreWe
@@ -24,6 +24,37 @@ Le reste de la stack :
 - BDD : MySQL/MSSQL/Mongo
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
 
+
+# Développeur(se) Back-end
+
+**Missions**
+
+A l’initiative d’une internalisation de l'équipe technique composée de développeurs, d’un PO et d’un CTO, vous aurez pour missions de :
+
+- Participer à la conception et au développement des nouvelles plateformes e-commerce : **Tout est à faire !** 
+- Évaluer les choix techniques en collaboration avec vos collègues : **Nous réfléchissons ensemble !**
+- Garantir un niveau élevé de qualité, de sécurité et de performances : **Responsable et engagé !**
+- Effectuer une veille technique dans un cadre qui privilégie le partage et l'échange : **Continuons à apprendre !**
+
+**Profil**
+
+- Vous avez une expérience de 5 ans minimum en tant que développeur(se) back-end sur du PHP Symfony. 
+- Vous êtes proactif et faites confiance aux autres. 
+- Une expérience e-commerce est un plus. 
+- La volonté de passer Lead et un plus.
+
+**Stack**
+Back-end: PHP 5.6/7.4 en cours de migration vers PHP 8.3 / Symfony
+Bdd : MySQL/MSSQL/Mongo
+Front-end: React
+Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
+
+**Salaire & Avantages**
+
+* 60K€ Brut annuel
+* 30 jours congés payés
+* 15 jours de RTT 🔧
+ 
 
 # Développeur(se) Front-end
 

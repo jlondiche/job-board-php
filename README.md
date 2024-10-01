@@ -38,6 +38,7 @@ Full remote = 🏠
 	- **Développeur intermédiaire back-end PHP / Symfony**
 	- Dev0ps expert AWS
 - [TOULOISIRS](TOULOISIRS.md)
+	- **Développeur.se sénior back-end PHP / Symfony** [NOUVEAU]
 	- Développeur.se sénior front-end ReactJS**
 
 
