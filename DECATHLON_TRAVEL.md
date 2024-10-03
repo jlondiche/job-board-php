@@ -2,7 +2,7 @@
 
 **Domaine :** Sport & Voyage
 
-**Où :** Annecy et Lyon. Télétravail possible : 2 jours par semaine dans les locaux à Lyon ! 3jours d TT / semaine. Locaux cours Lafayette, à côté de Part-dieu.
+**Où :** ALyon. Télétravail possible : 2 jours par semaine dans les locaux à Lyon ! 3jours de TT / semaine. Locaux cours Lafayette, à côté de Part-dieu.
 
 **Quoi :** Plateforme digitale de réservation de voyages sportifs, accessibles et responsables.
 
@@ -35,16 +35,15 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 * AWS
 **Approche bien découpée, orientée Produit.**
 
-Nous avons déjà recruté 2 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un profil plus intermédiaire pour compéter l'équipe. Contactez-nous pour en savoir plus!
+Equipe de choc : Nous avons déjà recruté 4 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un dernier profil sénior pour compéter l'équipe. Contactez-nous pour en savoir plus!
 
 
-# Développeur-euse back-end PHP/Symfony
+# Développeur·euse back-end PHP/Symfony
 
 ## Missions : 
 
-En tant que développeur-euse back sénior, vous avez pour principale mission de faire évoluer la plateforme de réservation de Décathlon Travel en assurant la solidité et la stabilité des solutions implémentées : 
+En tant que développeur·euse back sénior, vous avez pour principale mission de faire évoluer la plateforme de réservation de Décathlon Travel en assurant la solidité et la stabilité des solutions implémentées : 
 
-* Faire monter en compétence technqiue l'équipe technique
 * Mise en place en équipe de l'architecture hexagonale et du clean code
 * Faire évoluer l’architecture back end afin d’améliorer la qualité
 * Faire évoluer 
@@ -62,14 +61,14 @@ En tant que développeur-euse back sénior, vous avez pour principale mission de
 
 ## Salaire :
 
-Fourchette: entre 45 et 58 K€ 
+Fourchette: entre 45 et 55 K€ 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes.Ne vous inquiétez pas et postulez!L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie.Humain & Compétences FIRST. 
 Collapse
 
 
 ## Comment postuler ?
 
-* Tout simplement, envoyez-nous un mail jodia@jlrecrutement.com et jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+* Tout simplement, envoyez-nous un mail jodia@jlrecrutement.com et jeanne@jlrecrutement.com et julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 ----
