@@ -30,11 +30,13 @@ Full remote = 🏠
 	- Développeur fullstack PHP / Laravel / ReactJS 🏠
 	- BI/Data Analyst - Pôle DATA en création 🏠
 	- Lead Product Designer 🏠
+- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
+	- **Développeur.se confirmé.e PHP/Symfony DDD CQRS**
 - [RESEE](RESEE.md)
 	- Lead developpeur.se Sylius sénior 🏠
 	- Chef(fe) de projets/produits**
 - [SÉZANE](SEZANE.md)
-	- Développeur.se confirmé(e) back-end PHP/Symfony
+	- Développeur.se confirmé.e back-end PHP/Symfony
 	- **Développeur intermédiaire back-end PHP / Symfony**
 	- Dev0ps expert AWS
 - [TOULOISIRS](TOULOISIRS.md)

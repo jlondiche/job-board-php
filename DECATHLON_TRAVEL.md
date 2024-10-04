@@ -2,7 +2,7 @@
 
 **Domaine :** Sport & Voyage
 
-**Où :** ALyon. Télétravail possible : 2 jours par semaine dans les locaux à Lyon ! 3jours de TT / semaine. Locaux cours Lafayette, à côté de Part-dieu.
+**Où :** Lyon. Télétravail possible : 2 jours par semaine dans les locaux à Lyon ! 3jours de TT / semaine. Locaux cours Lafayette, à côté de Part-dieu.
 
 **Quoi :** Plateforme digitale de réservation de voyages sportifs, accessibles et responsables.
 
