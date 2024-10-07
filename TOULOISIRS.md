@@ -4,23 +4,14 @@
 
 **Où :** Paris 13 - télétravail partiel : 2j par semaine à partir du 6ieme mois
 
-**Quoi :** Touloisirs est une organisation à but non lucratif spécialisée dans la promotion et la vente d'offres de vacances et de divertissements à destination des comités d'entreprise, employeurs et toutes autres formes d'organisations de soutien aux salariés.
-
 "Vous détendre, c'est essentiel" 
 https://www.touloisirs.fr/association/whoAreWe
-
-**Facts & Figures**
-
-Partenaire privilégié de La Poste dans ce domaine, 15 000 voyageurs utilisent nos services et 50 000 personnes profitent de nos offres de loisirs (cinéma, parcs d'attractions, musées, concerts, spectacles...) chaque année. Aujourd’hui le projet principal est de développer une marque fille à Touloisirs pour aller attaquer le marché des Comités d’Entreprise plus globalement et pouvoir s’adresser à un maximum de clients.
 
 
 **Stack :**
 
-Pour le poste : 
+- Back-end: PHP 8.3 / Symfony
 - Front-end: React, Tailwind en cours de migration vers NextJs
-
-Le reste de la stack : 
-- Back-end: PHP 5.6/7.4 en cours de migration vers PHP 8.3 / Symfony
 - BDD : MySQL/MSSQL/Mongo
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
 
