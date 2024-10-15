@@ -25,9 +25,10 @@ Full remote = 🏠
 - [DrDATA](DrDATA.md)
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- Développeur fullstack PHP / Laravel / ReactJS 🏠
 	- BI/Data Analyst - Pôle DATA en création 🏠
 	- Lead Product Designer 🏠
+- [INSTANT GAMING](INSTANT_GAMING)
+	- **Fullstack Engineer PHP/Symfony - JS/VueJS** [NOUVEAU]
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur.se confirmé.e PHP/Symfony DDD CQRS**
 - [SÉZANE](SEZANE.md)
@@ -45,7 +46,8 @@ Full remote = 🏠
 	- Développeur(se) PHP / Symfony - équipe RUN
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- Développeur(se) PHP / Symfony expert 
-
+- [WIMOVA](WIMOVA.md)
+	- **PO/PM** [NOUVEAU]
 
 
 

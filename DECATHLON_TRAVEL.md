@@ -26,13 +26,12 @@ Equipe formée de spécialistes des voyages d'aventure, de collaborateurs Decath
 
 **Stack**
 
-* PHP, Symfony, API Platform
+* PHP, Symfony
 * HTML5/CSS3, Tailwind CSS, Webpack, NPM, React.js, Figma, Svelte
 * Docker
-* Postgresql
 * Redis
 * RabbitMQ
-* AWS
+* GCP
 **Approche bien découpée, orientée Produit.**
 
 Equipe de choc : Nous avons déjà recruté 4 supers profils séniors pour créer l'équipe Lyonnaise, nous recherchons un dernier profil sénior pour compéter l'équipe. Contactez-nous pour en savoir plus!

@@ -28,6 +28,8 @@ Sezane souhaite donner du sens à ses activités et construire une nouvelle cont
 
 # Développeur(se) sénior PHP / Symfony 
 
+Le CTO est ouvert à un profil intermédiaire, discutons en !
+
 **Venez rejoindre une super équipe technique d'experts, venez vous confronter à un projet d'envergure tourné vers l'international. Très peu de maintenance, beaucoup build avec énormément de nouveaux projets à développer from scratch.** 
 
 En tant que Développeur(se) PHP/Symfony, vous aurez en charge le développement et le suivi des différents sites, API et micro-services chez Sézane :
