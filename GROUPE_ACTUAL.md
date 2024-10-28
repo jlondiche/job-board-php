@@ -43,35 +43,6 @@ Mots clés supplémentaires :
 #softwarecraftsmanship
 #solid
 
-# Développeur(se) PHP Laravel Fullstack senior
-
-**Missions**
-
-* Participation au planning poker et pondération des tâches en équipe.
-* Participation au daily.
-* Analyse, prise en charge, conception et développement des user stories qui vous sont attribuées.
-* Conception et développement des fonctionnalités back-end.
-* Participation aux code reviews.
-* Vous développez afin de trouver un juste équilibre entre code « parfait » et respect des délais.
-
-**Profil**
-
-Bonne maîtrise de :
-
-- Laravel
-- ElasticSearch
-- CI
-
-Excellent relationnel, la persévérance est votre amie, votre créativité vous permet de penser out of the box, autonome, réactif, dynamique et goût pour les responsabilités.
-
-**Salaire**
-
-Fourchette : 45-55K€ 
-
-Pour rappel :  
-Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 # BI/Data Analyst (Pôle DATA)  🏠
 
 Au sein de l'équipe DATA composée d'un Head of Data,d'un Lead data Engineer ainsi qu'un autre BI/Data Analyst - vous serez en charge de la construction des solutions d'analyse de données. 

@@ -19,14 +19,10 @@ Full remote = 🏠
 
 ## À Paris : 
 
-- [CMI](CMI.md)
-	- Lead développeur.se PHP/Symfony
-	- Développeur.se PHP/Symfony/DDD
 - [DrDATA](DrDATA.md)
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
-	- Lead Product Designer 🏠
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Fullstack Engineer PHP/Symfony - JS/VueJS** [NOUVEAU]
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
@@ -35,6 +31,9 @@ Full remote = 🏠
 	- Développeur.se confirmé.e back-end PHP/Symfony
 	- **Développeur intermédiaire back-end PHP / Symfony**
 	- Dev0ps expert AWS
+- [WAMIZ](WAMIZ.md)
+	- **Lead développeur.se PHP/Symfony**
+	- **Développeur.se PHP/Symfony**
 
 
 ## À Lyon : 

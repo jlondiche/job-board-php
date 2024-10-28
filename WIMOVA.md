@@ -63,7 +63,7 @@ Vous serez le deuxième PO de l’équipe et prendrez en main tout le produit Bt
 
 ## Salaire
 
-40K€ et 45K€ 
+40K€ et 55K€ 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
