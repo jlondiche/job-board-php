@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- [DISPLAY_INTERACTIVE](DISPLAY_INTERACTIVE.md)
+	- **Engineering Manager** [NOUVEAU]
 - [DrDATA](DrDATA.md)
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
