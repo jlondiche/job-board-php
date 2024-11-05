@@ -38,6 +38,12 @@ Full remote = 🏠
 	- **Développeur.se PHP/Symfony**
 
 
+## À Lille :
+
+- [ONEY TRUST](ONEY_TRUST.md)
+	- **Développeur back-end PHP / Symfony sénior** [NOUVEAU]
+
+	
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
