@@ -40,7 +40,7 @@ Full remote = 🏠
 
 ## À Lille :
 
-- [ONEY TRUST](ONEY_TRUST.md)
+- [ONEYTRUST](ONEYTRUST.md)
 	- **Développeur back-end PHP / Symfony sénior** [NOUVEAU]
 
 	
