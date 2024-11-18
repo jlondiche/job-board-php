@@ -27,8 +27,6 @@ Full remote = 🏠
 	- BI/Data Analyst - Pôle DATA en création 🏠
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Fullstack Engineer PHP/Symfony - JS/VueJS** [NOUVEAU]
-- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- **Développeur.se confirmé.e PHP/Symfony DDD CQRS**
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 	- **Développeur intermédiaire back-end PHP / Symfony**
