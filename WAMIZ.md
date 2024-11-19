@@ -2,7 +2,7 @@
 
 **Domaine :** Médias dédiés aux animaux 
 
-**Où :** Locaux pet-friendly dans le 12ème arrondissement de Paris - 3 jours de remote par semaien - full remote pour les personnes en dehors de IDF. 🏠
+**Où :** Locaux pet-friendly dans le 12ème arrondissement de Paris - 3 jours de remote par semaine - full remote pour les personnes en dehors de IDF. 🏠
 
 **Quoi :**
 Wamiz est le groupe de média européen N°1 dédié aux animaux de compagnie comprenant les sites de Wamiz.co.uk, cherchemonchien.fr, consoanimo.com ou encore vetclic.fr 
