@@ -23,8 +23,6 @@ Full remote = 🏠
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
-- [INSTANT GAMING](INSTANT_GAMING.md)
-	- **Fullstack Engineer PHP/Symfony - JS/VueJS** [NOUVEAU]
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 	- **Développeur intermédiaire back-end PHP / Symfony**
