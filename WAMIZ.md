@@ -28,40 +28,31 @@ Actuellement, ils cherchent à transitionner d'un média vers un produit. Ils so
 * Écosystème média: CMP, Publicité (Viously, Taboola…)
 
 
-# Lead développeur·euse PHP/Symfony/JS - NOUVEAU ! 
+# DevOps /  SRE - NOUVEAU !
 
-Équipe Tech' composée de 9 personnes et en lien direct avec le VP engineering vous prendrez en main l'équipe et l'accompagnement technique dans son développement.
+Dans une équipe technique de 7 personnes vous serez le devOps principal. Accompagné d’un alternant qu’il faudra encadrer, vous aurez un rôle clé au sein de l’équipe. Vous participerez avec le CTO aux échanges stratégiques et techniques avec le groupe Nestlé.
 
 **Missions**
 
-* 70% de production de code et 30% sur de la code review, aide, suivi de projet.. 
-* Mentorer/coacher les membres de l'équipe tech afin de les accompagner au quotidien 
-* Participer activement à l'analyse des ressources nécessaires à l'équipe Tech afin que celle-ci fonctionne pour le mieux
-* Développer les compétences techniques de l'équipe avec des rituels 
-* Bonne capacité d'écoute. Esprit de synthèse. Aisance pour communiquer 
-* Prise de note / rigoureux (mais flexible/ouvert) / organisation entre sujets (beaucoup de sujets différents)
-* Capacité d'avoir une bonne vue d'ensemble et autonomie/proactivité sur la recherche
-* Capacité de suivi de sujets
-* La tech au service du produit. (pragmatisme) car l'équipe est très "tech pour tech"
-
+* Gestion de l’infrastructure et du monitoring
+* Suivi des performances
+* Accompagner et travailler au quotidien avec les développeurs de l’équipe
+* Utilisation de services Cloudfare, RDS pour la partie optimisation cache et sécurité
+* Bonne capacité d’écoute. Esprit de synthèse. Aisance pour communiquer
+Avoir une bonne vue d’ensemble et autonomie/proactivité sur la recherche
+* Suivi des sujets - réflexion sur les problématiques futures
 
 **Profil**
 
-* Expérience d'au moins 7 ans minimum en développement PHP / Symfony 
-* Capacité à monter en compétence sur un éco-système large (Sentry, CDP, CMP, Sécurité, RGPD, Webperf, APM, eco-système publicité)
-* Capacité de suivre les développeurs front end et les challenger techniquement 
-* Expérience en JS et/ou VueJS
-* Très bonne capacité d'écoute, d'esprit de synthèse et d'aisance relationnel permettant l'échange avec l'ensemble des parties prenantes 
-* Savoir encadrer, coacher, accompagner 
-* Savoir prioriser et bien communiquer 
+* Expérience d’au moins 3 ans à un poste devOps
+* Expérience en AWS
+* Très bonne capacité d’écoute, d’esprit de synthèse et d’aisance relationnel permettant l’échange avec l’ensemble des parties prenantes
+* Savoir prioriser et bien communiquer
+* Petit + : Expérience dans l’univers des médias
 
-* Petit + : Expérience dans l'univers des médias
-
-## Salaire 
-
-* Rémunération : 60/65K€ environ, selon profil
-
-* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+## Salaire
+* Rémunération : 55K€, selon profil
+* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
 # Développeur·euse fullstack confirmé·ée (Symfony/JS) NOUVEAU ! 

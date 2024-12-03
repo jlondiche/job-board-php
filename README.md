@@ -28,7 +28,7 @@ Full remote = 🏠
 	- **Développeur intermédiaire back-end PHP / Symfony**
 	- Dev0ps expert AWS
 - [WAMIZ](WAMIZ.md)
-	- **Lead développeur.se PHP/Symfony**
+	- **DevOps [NOUVEAU]**
 	- **Développeur.se PHP/Symfony**
 
 
