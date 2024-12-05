@@ -29,7 +29,6 @@ Full remote = 🏠
 	- Dev0ps expert AWS
 - [WAMIZ](WAMIZ.md)
 	- **DevOps / SRE [NOUVEAU]** 🏠 
-	- **Développeur.se PHP/Symfony**
 
 
 ## À Lille :
