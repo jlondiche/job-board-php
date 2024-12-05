@@ -28,55 +28,52 @@ Actuellement, ils cherchent à transitionner d'un média vers un produit. Ils so
 * Écosystème média: CMP, Publicité (Viously, Taboola…)
 
 
-# DevOps /  SRE - NOUVEAU !
+## DevOps /  SRE - NOUVEAU !
 
-Dans une équipe technique de 7 personnes vous serez le devOps principal. Accompagné d’un alternant qu’il faudra encadrer, vous aurez un rôle clé au sein de l’équipe. Vous participerez avec le CTO aux échanges stratégiques et techniques avec le groupe Nestlé.
+En tant que DevOps / SRE, vous serez le pilier de l’infrastructure et jouerez un rôle clé dans la scalabilité, la sécurité, et la performance des plateformes. Vous rejoindrez une petite équipe tech agile de moins de 10 personnes où votre impact sera immédiat et visible.
 
 **Missions**
 
-* Gestion de l’infrastructure et du monitoring
-* Suivi des performances
-* Accompagner et travailler au quotidien avec les développeurs de l’équipe
-* Utilisation de services Cloudfare, RDS pour la partie optimisation cache et sécurité
-* Bonne capacité d’écoute. Esprit de synthèse. Aisance pour communiquer
-Avoir une bonne vue d’ensemble et autonomie/proactivité sur la recherche
-* Suivi des sujets - réflexion sur les problématiques futures
+**1:Gestion de l’infrastructure**
+
+- Conseiller et concevoir : Faire évoluer l’infrastructure (AWS, Cloudflare) pour répondre aux besoins opérationnels et stratégiques.
+Infra as Code : Maintenir et améliorer les ressources avec Terraform et automatiser les déploiements via GitHub Actions.
+- Gestion budgétaire : Suivre et optimiser les coûts liés à l’infrastructure.
+- Encadrement : Accompagner et transmettre vos compétences à un alternant.
+:warning: Wamiz n’est pas une usine à déployer des nouvelles infrastructure. Ils recherchent ici quelqu’un de spécialisé dans les solutions et outils qu’ils ont plutôt qu’un profil multi-cloud qui tire sa motivation dans le fait de construire et des infra diverses tous les mois.
+
+L’infrastructure pour les sites Wamiz est constitué avec:
+- AWS: ECS / Fargate / RDS / Elasticache / SQS
+- Cloudflare: Cache / WAF / Cloudflare Access / Workers
+
+**2: DevOps : Entre collaboration et innovation**
+
+- Soutien technique : Répondre aux besoins ponctuels (réalisations de scripts, solutions spécifiques, exports, requêtes SQL, conseils)
+- Automatisation CI/CD : Construire et maintenir des pipelines pour fluidifier le processus de build, test, et déploiement.
+- Collaboration : Être un véritable lien avec les développeurs pour garantir une infrastructure performante et alignée sur leurs besoins.
+
+**3: Monitoring et suivi de performance**
+
+- Monitoring de l’infrastructure: mission classique ici. Utilisation de beaucoup de service managés (RDS, Fargate, Cloudflare Pages…) afin d’obtenir des hauts niveaux de disponibilité afin d’éviter les incidents.  Il n’y à qu’un à deux incidents par mois qui nécessitent une intervention.
+
+**4: Sécurité des systèmes d’information**
+
+- Conformité : Veiller au respect des standards de compliance de la société mère Nestlé. Wamiz a gardé son indépendance et son autonomie vis à vis de Nestlé, mais sur certains sujets comme la compliance/sécurité ils doivent travailler de pair avec eux afin de la conserver.
+- Concrètement, ça veux dire traiter les demandes de leur SoC, transmettre et suivre l’avancée de problèmes remontés par leur scanner de vulnérabilités applicative (Fortify on Demand), cartographier les outils & applicatif, collaborer sur des sujets communs ….
+- Ces points sont souvent en Anglais. L’anglais lu, parlé et écrit est donc important pour le poste afin d’être pertinent dans les visio en anglais. Cela représente < ~10% en terme d’activité/de charge.
+- Cyber-protection : Assurer le suivi des tentatives d’attaques via Cloudflare & Datadog AppSec et implémenter des mesures correctives et préventives. Responsabilité de Cloudflare Zero Trust pour la sécurité des postes des collaborateurs.
 
 **Profil**
 
-* Expérience d’au moins 3 ans à un poste devOps
-* Expérience en AWS
-* Très bonne capacité d’écoute, d’esprit de synthèse et d’aisance relationnel permettant l’échange avec l’ensemble des parties prenantes
-* Savoir prioriser et bien communiquer
-* Petit + : Expérience dans l’univers des médias
+* Vous êtes très curieux et pragmatique.
+* Vous justifiez d’au moins 4 ans en tant que DevOps ou SRE avec une expertise sur AWS et Cloudflare. Cette experience vous permettra de répondre seul de manière sereine à des incidents, des évolutions, des optimisations sur l’infra.
+* Connaissance des technologie WEB (Ex: Symfony, framework front…) afin de parler la même langue avec l’équipe tech.
+* Technos maitrisées: AWS (ECS, RDS, SQS, Fargate, ECS…), Cloudflare (Cache, WAF, Workers…)Terraform, GitHub Actions, Doppler. Outils de monitoring (Datadog ou équivalents).
 
 ## Salaire
-* Rémunération : 55K€, selon profil
+56K€, selon profil
 * Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
-
-# Développeur·euse fullstack confirmé·ée (Symfony/JS) NOUVEAU ! 
-
-**Missions** 
-
-* Ecrire du code dans un bon contexte : qualité et performances
-* Développer de nouvelles features, réduction de dette technique et des bugfix 
-* Intervenir sur différents sujets :performance, le CMS, l’adoption, le content to commerce, réfacto, consentement, tracking etc...
-* Évoluer dans un contexte WEB avec un écosystème très large : cache, IA, enjeux data / CDP, CMP, performance.. 
-
-**Profil**
-
-* 5 ans d’exp avec Symfony et bonne maitrise de PHP
-* Expérience sur Javascript et VueJS 
-* À l’aise avec l’architecture ET pragmatique : clean code, POO, découpage. Le projet est en MVC. 
-* A l'aise avec les tests,  PHPUnit et/ou Cypress, les questions de performances backend cache HTTP, APM, ou frontend.
-* De l'expérience ou des notions avec les questions de performances backend cache HTTP, APM, ou frontend. 
-
-## Salaire 
-
-* Rémunération : 55K€ selon profil 
-
-* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 ## Pourquoi postuler ?
 
