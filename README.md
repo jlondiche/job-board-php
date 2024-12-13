@@ -25,7 +25,7 @@ Full remote = 🏠
 	- BI/Data Analyst - Pôle DATA en création 🏠
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
-- [TOULOISIRS] (TOULOISIRS.md)
+- [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur front-end [NOUVEAU]**
 - [WAMIZ](WAMIZ.md)
 	- **DevOps / SRE** 🏠 
