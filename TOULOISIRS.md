@@ -22,7 +22,7 @@ Nous avons besoin de nouveaux développeurs pour accompagner le déploiement de 
 
 **Processus de recrutement :**
 
-- Un entretien téléphonique avec le CTO. 
+- Un entretien avec le CTO. 
 - Un test technique.
 - Un entretien avec la direction
 
