@@ -26,7 +26,7 @@ Full remote = 🏠
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur front-end [NOUVEAU]**
+	- **Développeur.se front-end [NOUVEAU]**
 - [WAMIZ](WAMIZ.md)
 	- **DevOps / SRE** 🏠 
 
@@ -43,10 +43,9 @@ Full remote = 🏠
 	- Développeur.se PHP / Symfony - équipe RUN
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- Développeur.se PHP / Symfony expert 
-- [VIVLIO](VIVLIO.md)
-	- **Développeur.se PHP / Symfony - évolution vers dur lead** [NOUVEAU]
 - [WIMOVA](WIMOVA.md)
-	- **PO/PM** [NOUVEAU]
+	- **Chef de projets / PO** [NOUVEAU]
+	- **Lead QA testeur terrain** [NOUVEAU]
 
 
 
