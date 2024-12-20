@@ -29,13 +29,7 @@ Full remote = 🏠
 	- **Développeur.se front-end [NOUVEAU]**
 - [WAMIZ](WAMIZ.md)
 	- **DevOps / SRE** 🏠 
-
-
-## À Lille :
-
-- [ONEYTRUST](ONEYTRUST.md)
-	- **Développeur back-end PHP / Symfony sénior** [NOUVEAU]
-
+	- **Développeur.se confirmé.E PHP/Symfony** 🏠 
 	
 ## À Lyon : 
 
