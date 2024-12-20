@@ -27,6 +27,33 @@ Dans un secteur réglementairement mouvant dans lequel il est important de se r�
 PHP, Symfony, MySQL, RabbitMQ, Elasticsearch, PHPunit, GitlabCI, Cypress 
 
 
+# Développeur·se PHP/Symfony 
+
+Les objectifs sont de permettre de créer du code propre, cohérent, pertinent, et adaptable en fonction des besoins de chaque client. 
+
+Pour se faire ils utilisent des architectures hexagonales, des tests automatisés, de la code review systématique, et une grande attention est portée au partage des connaissances.
+
+## Missions : 
+
+* Conception / développement de nouvelles fonctionnalités sur les produits SaaS MROD, Dematimmo & RILOC (Symfony 4 & 6), en cohérence avec l’existant.
+* Assurer la maintenance et le support des solutions en place.
+* Maintenir et améliorer les suites de tests de façon pragmatique.
+* Conception / développement de nouveaux outils / produits pour répondre à de nouveaux besoins exprimés par nos clients (Symfony 6).
+
+## Profil 
+
+Activinnov ne recrute pas sur cursus mais sur expériences ! 
+
+* Une solide expérience en développement Symfony.
+* Avoir des notions avancées en POO.
+* Connaissances des Design pattern et ayant pratiqué différentes architectures.
+* Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
+
+## Salaire : 
+45K€-55K€ selon profil et expérience. 
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 # Développeur·se PHP/Symfony - Equipe TMA 
 
 Vous aimez trouver des bugs, des solutions, répondre au besoin clients ? Venez intégrer l'équipe RUN d'Activinnov avec une architecture hexagonale, des tests automatisés, de la code review systématique, et une grande attention est portée au partage des connaissances.
@@ -44,7 +71,6 @@ Niveau technique orienté qualité : créer du code propre, cohérent, pertinent
 
 Il y a un roulement entre les deux rôle au sein de cette équipe. 
 
-
 ## Profil 
 
 Activinnov ne recrute pas sur cursus mais sur expériences ! 
@@ -54,11 +80,9 @@ Activinnov ne recrute pas sur cursus mais sur expériences !
 * Connaissances des Design pattern et ayant pratiqué différentes architectures.
 * Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
 
-
 ## Salaire : 
 
 45K€ selon profil et expérience. 
-
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
@@ -70,4 +94,4 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 

@@ -34,6 +34,7 @@ Full remote = 🏠
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
+	- **Développeur.se PHP / Symfony - équipe BUILD** [NOUVEAU]
 	- Développeur.se PHP / Symfony - équipe RUN
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- Développeur.se PHP / Symfony expert 
