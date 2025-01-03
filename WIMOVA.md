@@ -14,7 +14,7 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 **=> Vous interviendrez sur ce beau projet où l'innovation technique est au service de la greentech.**
 
 
-**Facts & Figures :** 
+**Facts & Figures :**
 
 * Expérience de plus de 20 ans dans le domaine de la mobilité en taxis
 * Objectifs : Réduire leur empreinte carbone, améliorer le bilan carbone des déplacements PROS et PERSOS. Avoir la capacité d'innover pour se déplacer autrement et contribuer à la préservation des espèces et de notre Planète.
@@ -61,6 +61,7 @@ Vous serez le deuxième PO de l’équipe et prendrez en main tout le produit Bt
 ## Méthodologie
 
 Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur projet en mode AGILE.
+
 
 # Testeur QA
 
