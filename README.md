@@ -23,6 +23,8 @@ Full remote = 🏠
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
+- [KLS](KLS.md)
+	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
