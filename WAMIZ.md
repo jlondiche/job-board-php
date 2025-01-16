@@ -28,6 +28,32 @@ Actuellement, ils cherchent à transitionner d'un média vers un produit. Ils so
 * Écosystème média: CMP, Publicité (Viously, Taboola…)
 
 
+## Développeur·euse fullstack confirmé·ée (Symfony/JS) NOUVEAU ! 
+
+**Missions** 
+
+* Ecrire du code dans un bon contexte : qualité et performances
+* Développement de nouvelles features, réduction de dette technique et des bugfix 
+* intervention sur différents sujets :performance, le CMS, l’adoption, le content to commerce, réfacto, consentement, tracking etc..
+* Évoluer dans un contexte WEB avec un écosystème très large : cache, IA, enjeux data / CDP, CMP, performance.. 
+
+**Profil**
+
+* 5 ans d’exp avec Symfony et bonne maitrise de PHP
+* Expérience sur Javascript et VueJS 
+* À l’aise avec l’architecture ET pragmatique : clean code, POO, découpage. Le projet est en MVC. 
+* A l'aise avec les tests,  PHPUnit et/ou Cypress
+ les questions de performances backend cache HTTP, APM, ou frontend .
+ * De l'expérience ou des notions avec les questions de performances backend cache HTTP, APM, ou frontend. 
+
+## Salaire 
+
+* Rémunération : 55K€ selon profil 
+
+* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+
+
 ## DevOps /  SRE - NOUVEAU !
 
 En tant que DevOps / SRE, vous serez le pilier de l’infrastructure et jouerez un rôle clé dans la scalabilité, la sécurité, et la performance des plateformes. Vous rejoindrez une petite équipe tech agile de moins de 10 personnes où votre impact sera immédiat et visible.
@@ -71,9 +97,10 @@ L’infrastructure pour les sites Wamiz est constitué avec:
 * Technos maitrisées: AWS (ECS, RDS, SQS, Fargate, ECS…), Cloudflare (Cache, WAF, Workers…)Terraform, GitHub Actions, Doppler. Outils de monitoring (Datadog ou équivalents).
 
 ## Salaire
-56K€, selon profil
-* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
+56K€, selon profil
+
+* Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez ! L’entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 ## Pourquoi postuler ?
 
