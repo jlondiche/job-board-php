@@ -2,7 +2,7 @@
 
 **Domaine :** FinTech / Editeur de logiciel
 
-**Où :** Paris 8ème
+**Où :** Paris 8ème, 3 jours de télétravail.
 
 **Quoi :** Kls souhaite devenir une place de marché pour les financeurs de l’économie. La volonté de la startup est de proposer des solutions expertes, utiles et sans risque, aux acteurs du financement pour qu’ils accompagnent plus d'entreprises privées ou publiques dans leurs opérations à impact. ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 

@@ -42,6 +42,7 @@ Full remote = 🏠
 	- Développeur.se PHP / Symfony expert 
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
+	- **Développeur.se sénior.e front-end** [NOUVEAU]
 - [WIMOVA](WIMOVA.md)
 	- **Chef de projets / PO** [NOUVEAU]
 	- **Lead QA testeur terrain** [NOUVEAU]

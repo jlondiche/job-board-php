@@ -72,6 +72,50 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Statut : Cadre
 * Temps de travail : 35h
 
+
+## Développeur front-end sénior
+
+**Missions :**
+
+* Développement de features
+	* Collaborer étroitement avec les designers en amont des développements
+	* Conception technique visant à découper le plus finement possible
+	* Développer les features
+	* Tester en amont des PM et du business
+	* Contribuer à l’analyse du succès des features une fois en production
+* Travailler avec la Squad et le Chapter
+	* Contribuer à la conception technique des chantiers transverses sous la direction des Front Seniors
+	* Décliner dans le code les chantiers (Design System, Typescript & Playwright en ce moment)
+	* Effectuer les code review (2 review sont nécessaires par MR)
+* Pré-requis pour ce poste
+	* Expérience (année.s/métier.s) : > 3 ans
+	* Contexte de travail : NA
+	* Formation : NA
+	* Langue : Française
+
+**Les compétences :**
+
+* Savoir faire (Connaissances/expériences + mise en œuvre de ces connaissances/expériences “techniques”) :
+	* Maîtrise avancée d’une techno JS, idéalement React
+	* Bases solides en testing, idéalement connaissance de Playwright
+	* Capacité à découper finement tes tâches pour travailler en déploiement continu
+* Savoir Être (Attitudes, postures, ils reflètent un comportement en situation professionnelle) :
+	* Tu as l’esprit d’équipe, tu vas chercher de l’aide et proposes la tienne
+	* Tu es orienté business & utilisateurs, tu te préoccupes de l’impact de tes features
+* Outils (Maîtrise d’outils/logiciels/process) :
+	* Notion (Documentation & ticketing)
+	* Figma
+	* Gitlab
+
+## Salaire : 
+
+Fourchette : 50/52K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+* Statut : Cadre
+* Temps de travail : 35h
+
 ## Pourquoi postuler ?
 
 L’esprit lePERMISLIBRE, c’est :
