@@ -44,8 +44,10 @@ Full remote = 🏠
 	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
 	- **Développeur.se sénior.e front-end** [NOUVEAU]
 - [WIMOVA](WIMOVA.md)
-	- **Chef de projets / PO** [NOUVEAU]
-	- **Lead QA testeur terrain** [NOUVEAU]
+	- **PM-PO** [NOUVEAU]
+	- **Lead QA automatisation** [NOUVEAU]
+	- **Lead développeur·euse Mobile Android** [NOUVEAU]
+	- **Lead développeur·euse Mobile iOS** [NOUVEAU]
 
 
 

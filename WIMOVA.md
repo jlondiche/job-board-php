@@ -17,7 +17,7 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 **Facts & Figures :**
 
 * Expérience de plus de 20 ans dans le domaine de la mobilité en taxis
-* Objectifs : Réduire leur empreinte carbone, améliorer le bilan carbone des déplacements PROS et PERSOS. Avoir la capacité d'innover pour se déplacer autrement et contribuer à la préservation des espèces et de notre Planète.
+* Objectifs : Réduire l'empreinte carbone, améliorer le bilan carbone des déplacements PROS et PERSOS. Avoir la capacité d'innover pour se déplacer autrement et contribuer à la préservation des espèces et de notre Planète.
 * Equipe composée de profils passionnés par la « TECHNO » appliquée au WEB, au MOBILE, au CLOUD, résolument orientée vers la « GREEN TECH » et la préservation des « espèces » et de « l’environnement ».
 * Le siège social se situe à Meyzieu compte 100 collaborateurs dont une importante partie est dédiée à la Tech ...
 * Développement de sa propre plateforme de missionnement électronique et de ses propres applications mobiles, par le biais d’un processus entièrement digitalisé. 
@@ -27,6 +27,7 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 
 
 **Stack**
+
 * Backend : PHP8 / Symfony 6
 * API REST
 * Docker et docker-compose
@@ -35,44 +36,114 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 
 ----
 
-# PO-PM
-
-Vous serez le deuxième PO de l’équipe et prendrez en main tout le produit BtoB
+# Lead développeur·euse Mobile iOS 
 
 ## Missions
 
-* Donner une vision du produit
-* Recueillir les attentes du marché, des clients, des utilisateurs pour rédiger à l’issue les users stories correspondantes et les prioriser avec les bons interlocuteurs
-* Veiller  à partager le Backlog autant que faire se peut, avec les clients, et tous les membres du projet, ainsi que le planning et les prévisions des itérations à venir 
-* Alimenter le Backlog, le PO doit rédiger des « user stories » précises et s’assurer qu’elles sont bien comprises
-* Travailler avec l’équipe de DEVs pour livrer un « maximum » de valeur
-* Prendre en main la partie Discovery et utilisateur
-* Alimenter les données 
-* Travailler avec l’équipe marketing
+Lead technique sur les projets « mobile » responsable de votre CODE et des activités de conception technique. Votre principal objectif sera la conduite des projets de développement mobile. Les missions seront les suivantes :
+
+* Prise en charge du cahier des charges de l’entreprise sur les besoins en développement
+mobile selon la Road Map définie.
+* Assurer la création de l’architecture et le développement des applications mobiles.
+* Assurer le test et l’intégration continue des développements web.
+* Optimisation de l’expérience utilisateur (recueil et compréhension des besoins
+ergonomiques sur IHM).
+* Assurer la maintenance et le suivi technique des applications mobiles développées.
+* Être le garant de la qualité des livrables en temps, et en qualité.
+* Pris en charge du pilotage technique des projets mobiles : conception, développement,
+intégration, recette et déploiement/soumission.
+* Communiquer au quotidien avec l’équipe technique basée à Lyon.
+* Participer à des travaux de recherche et développement en lien avec la stratégie de l’entreprise.
 
 ## Profil
 
-* Avoir une vision et une approche business du produit
-* Être curieux avec une élasticité et une plasticité intellectuelle afin de jongler avec l'équipe
-* Avoir une première  expérience en tant que PO-PM 
-* Être un bon communicant et être force de propositions, prêt à s'investir sur des projets de A à Z
-* Expérience dans le monde du transport un plus
+* Vous êtes autonome et disposez d’une bonne capacité d’adaptation.
+* Vous avez une parfaite connaissance des environnements mobiles : XCode, Objective-C, Swift 5.
+* De nature rigoureuse, vous êtes sensibilisé·e à la qualité de la documentation et aux
+méthodes agiles, ainsi qu’à l’intégration continue.
+* Vous justifiez d’au moins 3 ans d’expérience dans le développement Mobile et bénéficiez
+d’une solide expérience en Swift.
+* Vous êtes à l’aise avec la philosophie DevOps.
 
-## Méthodologie
+Qualités / Compétences attendues :
+* Expérience minimum de 3 ans à un poste similaire.
+* Autonome, polyvalent·e.
+* Curieux·se et à l’affut des nouveautés technologiques.
+* Connaître les problématiques techniques inhérentes à l’intégration continue.
+* Avoir un sens très développé de la relation client dans le cadre d’une démarche qualité.
+* Les Skills suivantes seront appréciées sur : Carthage / RXSwift - Combine/ SwiftLint/ XCTest/
+BLE/Swinject WIFI.
+* Des connaissances sur le système tech du MaaS (Mobility As a Service) serait un vrai plus +++.
 
-Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur projet en mode AGILE.
+## Salaire 
+
+55/70K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-# Testeur QA
 
-En tant que membre du pôle numérique basé à Villeurbanne, vous allez intégrer une équipe de développeurs, mais pas que, pour participer à l’amélioration de la qualité de leurs projets. Avec l’aide de l'équipe Support / Logiciel, vous serez garant de la qualité de développement en mettant en place et en procédant à la recette de chaque nouvelle fonctionnalité ou correctif (web/mobile/API).
+# Lead développeur·euse Mobile Android 
 
-**Passionné par les nouvelles technologies et la green tech, vous maîtrisez l'environnement WEB et êtes à l’aise sur mobile. Vous aimez et savez travailler en équipe.**
+Sur la partie Android une refonte importante va débuter, en tant que lead tech d'une petite équipe vous apporterez vos solides compétences dans la réalisation de cette refonte d'un environnement historique en Java vers Kotlin, afin de rendre la stack plus moderne et à la pointe. 
+
+## Mission 
+
+* Prise en charge du cahier des charges de l’entreprise sur les besoins en développement
+mobile selon la Road Map définie.
+* Assurer la création de l’architecture et le développement des applications mobiles.
+* Assurer le test et l’intégration continue des développements web.
+* Optimisation de l’expérience utilisateur (recueil et compréhension des besoins
+ergonomiques sur IHM).
+Assurer la maintenance et le suivi technique des applications mobiles développées
+* Être le garant de la qualité des livrables en temps, et en qualité
+* Pris en charge du pilotage technique des projets mobiles : conception, développement,
+intégration, recette et déploiement/soumission.
+* Communiquer au quotidien avec l’équipe technique basée à Lyon
+* Participer à des travaux de recherche et développement en lien avec la stratégie de
+l’entreprise.
+
+## Profil 
+
+* Vous êtes autonome et disposez d’une bonne capacité d’adaptation.
+* Vous avez une parfaite connaissance des environnements mobiles : Android Studio, Java, Kotlin.
+* De nature rigoureuse, vous êtes sensibilisé·e à la qualité de la documentation et aux
+méthodes agiles, ainsi qu’à l’intégration continue.
+* Vous justifiez d’au moins 3 ans d’expérience dans le développement Mobile et bénéficier
+d’une solide expérience JAVA et de son environnement.
+* Vous êtes à l’aise avec la philosophie DevOps.
+
+Qualités / Compétences attendues :
+* Expérience minimum de 3 ans à un poste similaire.
+* Autonome, polyvalent·e, bienveillant·e.
+* Curieux·se et à l’affut des nouveautés technologiques.
+* Connaître les problématiques techniques inhérentes à l’intégration continue.
+* Avoir un sens très développé de la relation client dans le cadre d’une démarche qualité.
+* Les Skills suivantes seront appréciées sur : Gradle / Retrofit / Koin / Groovy / BLE.
+* Des connaissances sur le système tech du MaaS (Mobility As a Service) serait un vrai plus +++.
+
+## Salaire 
+
+55/70K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+
+# Lead Testeur·euse -  QA
+
+Vous rejoindrez une équipe QA de 2 personnes dont vous prendrez le lead technique. L'objectif premier sera d'automatiser tous les tests car aujourd'hui tout est manuel. Test end to end et Mobile en particulier. 
+
+**Vos solides compétences vous permettront de tout structurer car TOUT EST A CRÉER ! Un super défi vous attend !**
+
+Avec l’aide de l'équipe Support / Logiciel, vous serez garant de la qualité de développement en mettant en place et en procédant à la recette de chaque nouvelle fonctionnalité ou correctif (web/mobile/API).
+
+**Passionné·e par les nouvelles technologies et la green tech, vous maîtrisez l'environnement WEB et êtes à l’aise sur mobile. Vous aimez et savez travailler en équipe.**
 
 ## Missions
 
 * Étudier des spécifications fonctionnelles d’évolutions des logiciels et des nouveaux développements.
-* Définir des critères d’acceptation, rédiger des scénarii de test.
+* Définir des critères d’acceptation, rédiger des scénarios de test.
 * Tester les développements unitaires et mettre en place les méthodes adaptées.
 * Mettre en place l’automatisation des tests.
 * Adapter les référentiels de tests existants en participant activement à l’analyse des processus.
@@ -91,20 +162,59 @@ Vous êtes passionné(e) par le digital, vous souhaitez intégrer une équipe pl
 
 **Qualités / Compétences attendues :**
 
-* Expérience minimum de 2 ans en QA dans l’édition logicielle
-* Création, rédaction, réalisation de plan de tests
+* Expérience minimum de 2 ans en QA dans l’édition logicielle.
+* Création, rédaction, réalisation de plan de tests.
 * Maîtrise d’un outil de Bug Tracking (Xray, Jira, Flyspray, Mantis ...
-* Maîtrise de l’anglais à l’écrit
-* Bonnes connaissances en automatisation de tests
-* Force de proposition et partage des bonnes pratiques
-* Bonne capacité d'analyse des données et de synthèse
-* Travail d'équipe, collaboration, partage et communication
-* Anticipation et gestion des risques produit et projet
-* Serait un plus : la connaissance des outils du marché (Selenium, Appium, Browserstack ...)
+* Maîtrise de l’anglais à l’écrit.
+* Bonnes connaissances en automatisation de tests.
+* Force de proposition et partage des bonnes pratiques.
+* Bonne capacité d'analyse des données et de synthèse.
+* Travail d'équipe, collaboration, partage et communication.
+* Anticipation et gestion des risques produit et projet.
+* Serait un plus : la connaissance des outils du marché (Selenium, Appium, Browserstack ...).
 
-Divers :
-* Conscience des problématiques et des enjeux des produits digitaux (portabilité, performance, expérience utilisateur, etc.
- 
+## Salaire 
+
+45/50K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# PO-PM
+
+Vous serez le·la deuxième PO de l’équipe et prendrez en main tout le produit BtoB.
+
+## Missions
+
+* Donner une vision du produit.
+* Recueillir les attentes du marché, des clients, des utilisateurs pour rédiger à l’issue les users stories correspondantes et les prioriser avec les bons interlocuteurs.
+* Veiller  à partager le Backlog autant que faire se peut, avec les clients, et tous les membres du projet, ainsi que le planning et les prévisions des itérations à venir.
+* Alimenter le Backlog, le PO doit rédiger des « user stories » précises et s’assurer qu’elles sont bien comprises
+* Travailler avec l’équipe de DEVs pour livrer un « maximum » de valeur.
+* Prendre en main la partie Discovery et utilisateur.
+* Alimenter les données.
+* Travailler avec l’équipe marketing.
+
+## Profil
+
+* Avoir une vision et une approche business du produit.
+* Être curieux avec une élasticité et une plasticité intellectuelle afin de jongler avec l'équipe.
+* Avoir une première  expérience en tant que PO-PM.
+* Être un bon communicant et être force de propositions, prêt à s'investir sur des projets de A à Z.
+* Expérience dans le monde du transport un plus.
+
+## Méthodologie
+
+Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur projet en mode AGILE.
+
+## Avantages et autres
+
+* Tous les CDI sont à pourvoir immédiatement.
+* Durée de travail hebdomadaire : 39H.
+* Avantages : CSE – Mutuelle – Carte Tickets Resto – Campus numérique à 5 Mn du Métro République.
+* Esprit Start-up.
+* Lieu de travail : M45 à Villeurbanne (5 Mn du métro République).
+
 
 ## Pourquoi postuler ?
 
@@ -113,33 +223,16 @@ Divers :
 
 * **Venez rejoindre un environnement de travail épanouissant, et qui vous donne l'opportunité de mettre en œuvre et de développer vos compétences techniques et personnelles en lien avec des valeurs humanistes.** 
 
-* Nous développons des solutions logicielles [WEB – MOBILE - CLOUD] pour notre compte ou pour des donneurs d’ordre en lien avec le MAAS « Mobility as a service » avec une forte orientation « GREEN TECH ».
+* Wimova développe des solutions logicielles [WEB – MOBILE - CLOUD] pour leur compte ou pour des donneurs d’ordre en lien avec le MAAS « Mobility as a service » avec une forte orientation « GREEN TECH ».
 
 * Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.
 
 
-## Salaire
-
-40K€ et 55K€ 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-## Avantages et autres
-
-* CDI à pourvoir immédiatement
-*  Durée de travail hebdomadaire : 39H
-*  Avantages : CSE – Mutuelle – Carte Tickets Resto – Campus numérique à 5 Mn du Métro République
-* Esprit Start-up
-* Lieu de travail : M45 à Villeurbanne (5 Mn du métro République) 
-
-
 ## Comment postuler ?
 
-Tout simplement, envoyez un email à jodia@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jeanne@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez un email à jeanne.londiche@jlrecrutement.com, jodia@jlrecrutement.com, julie-charlotte@jlrecrutement.com  avec un CV ou bien un profil LinkedIn à jour. 
+
+À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
-
-
-
-
