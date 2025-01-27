@@ -33,6 +33,13 @@ Full remote = 🏠
 	- **DevOps / SRE** 🏠 
 	- **Développeur.se confirmé.E PHP/Symfony** 🏠 
 	
+
+## À Lille : 
+
+- [ONEYTRUST](ONEYTRUST.md)
+	- **Développeur(se) back-end PHP / Symfony** [NOUVEAU]
+
+
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
