@@ -53,8 +53,6 @@ Full remote = 🏠
 - [WIMOVA](WIMOVA.md)
 	- **PM-PO** [NOUVEAU]
 	- **Lead QA automatisation** [NOUVEAU]
-	- **Lead développeur·euse Mobile Android** [NOUVEAU]
-	- **Lead développeur·euse Mobile iOS** [NOUVEAU]
 
 
 
