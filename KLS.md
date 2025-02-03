@@ -27,7 +27,7 @@ Back : PHP 8.3, Symfony 7.2, API Platform 4
 Front et infra : React, Docker, Gitlab CI, AWS
 
 
-## Développeur·se sénior·e back-end Symfony - API
+## Développeur·se sénior·e back-end Symfony 
 
 KLS recherche un·e développeur·se Symfony pour renforcer leur équipe chargée du développement de la plateforme.
 Rattaché·e au CTO, vous rejoindrez l’équipe tech composée de 4 développeurs front-end, 3 développeurs back-end, 1 développeur full-stack et 2 DevOps.
