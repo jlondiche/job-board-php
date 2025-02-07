@@ -24,7 +24,10 @@ Full remote = 🏠
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
 - [KLS](KLS.md)
-	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
+	- **Développeur.se sénior.e PHP/Symfony/API Platform**
+- [MEDOUCINE](MEDOUCINE.md)
+	- **Tech Lead / CTO Hands On** [NOUVEAU]
+	- **Développeur·euse intérmédiaire PHP/Symfony** [NOUVEAU]
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
@@ -43,7 +46,7 @@ Full remote = 🏠
 ## À Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- **Développeur.se PHP / Symfony - équipe BUILD** [NOUVEAU]
+	- **Développeur.se PHP / Symfony - équipe BUILD**
 	- Développeur.se PHP / Symfony - équipe RUN
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- Développeur.se PHP / Symfony expert 
