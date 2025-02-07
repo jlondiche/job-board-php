@@ -12,7 +12,7 @@
 * 10 000+ réservations /mois
 * Une vingtaine de collaborateurs
 
-## Stack
+**Stack**
 
 Back : PHP, Symfony, Mysql, Redis, AWS, DO, Algolia, Linux, Docker, GraphQL
 Front : jQuery, VueJS, Bootstrap, SASS, Webpack, Apollo, Nuxtjs
@@ -23,9 +23,9 @@ Services: JIRA, Confluence, Github, Trello, Sentry, Loggly, SEMRush, Sqreen, Sau
 
 L’équipe tech est composée de 5 personnes; 3 back end, un front end et un Data Scientist. En cours de Migration de Laravel vers Symfony vous aurez la double casque de Tech Lead et Team lead. Vos missions seront les suivantes : 
 
-**Missions**
+## Missions
 
-## Tech Lead : vous êtes le·la gardien·ene de la sécurité, la stabilité, et la qualité de la plateforme en vous appuyant sur les meilleures pratiques et l’expertise de l’équipe.
+**Tech Lead :** vous êtes le·la gardien·ene de la sécurité, la stabilité, et la qualité de la plateforme en vous appuyant sur les meilleures pratiques et l’expertise de l’équipe.
 
 Vous prenez la responsabilité complète du code en tenant compte de toutes les contraintes (clients, techniques, coûts notamment) et des impacts à tous les niveaux, à court moyen et long terme :
 * Sécurité et qualité.
@@ -35,7 +35,7 @@ Vous prenez la responsabilité complète du code en tenant compte de toutes les 
 * Passionné·e par la tech, vous assurez une veille technologique proactive pour faire évoluer nos pratiques et nos outils.
 * Vous gardez un pied dans le code en consacrant la moitié de votre temps environ au développement, tout en orchestrant l’excellence technique de l’équipe.
 
-## Team Lead : vous créerez un environnement propice à l’apprentissage et à une culture d’excellence :
+**Team Lead :** vous créerez un environnement propice à l’apprentissage et à une culture d’excellence :
 * Lever les obstacles qui freinent l’équipe.
 * Faire monter en compétence chaque membre de l’équipe.
 * Mettre en place une culture d’amélioration continue fondée sur l’étude quotidienne des problèmes pour les éradiquer.
@@ -43,7 +43,7 @@ Vous prenez la responsabilité complète du code en tenant compte de toutes les 
 * Porter la voix de la Tech au sein du Codir, en assurant une communication transparente sur les succès comme sur les défis.
 
 
-**Profil**
+## Profil
 
 * Maitrise de PHP et Symfony. 
 * Expérience de lead et/ou team lead. 
@@ -72,14 +72,14 @@ Pour rappel : Pour le salaire, il est difficile de donner des fourchettes. **Ne 
 
 Vous rejoindrez une équipe technique de 5 personnes, en cours de migration de Laravel vers Symfony. Vos missions seront les suivantes : 
 
-**Missions**
+## Missions
 
 * Assurer la fiabilité, la scalabilité et l'efficacité de l’application : qualité technique du code, tests unitaires et d’intégration.
 * Accompagner la croissance de medoucine.com tout en développant de nouvelles fonctionnalités pour rendre Medoucine toujours plus indispensable pour les clients thérapeutes et grand public.
 * Développer différents outils (widget, APIs etc) pour connecter Medoucine à de grands partenaires et démultiplier l'usage de la plate-forme.
 
 
-**Profil**
+## Profil
 
 * Maitrise de PHP 7.
 * Avoir déjà développé avec une API REST ou GraphQL.
