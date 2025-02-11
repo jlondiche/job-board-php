@@ -36,9 +36,9 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 
 ---
 
-# Lead Testeur·euse -  QA
+# Testeur·euse -  QA
 
-Vous rejoindrez une équipe QA de 2 personnes dont vous prendrez le lead technique. L'objectif premier sera d'automatiser tous les tests car aujourd'hui tout est manuel. Test end to end et Mobile en particulier. 
+Vous rejoindrez une équipe QA de 2 personnes. L'objectif premier sera d'automatiser tous les tests car aujourd'hui tout est manuel. Test end to end et Mobile en particulier. 
 
 **Vos solides compétences vous permettront de tout structurer car TOUT EST A CRÉER ! Un super défi vous attend !**
 
@@ -81,7 +81,7 @@ Vous êtes passionné(e) par le digital, vous souhaitez intégrer une équipe pl
 
 ## Salaire 
 
-45/50K€ selon profil et expérience. 
+45K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
@@ -109,6 +109,12 @@ Vous serez le·la deuxième PO de l’équipe et prendrez en main tout le produi
 * Être un bon communicant et être force de propositions, prêt à s'investir sur des projets de A à Z.
 * Expérience dans le monde du transport un plus.
 
+## Salaire 
+
+45K€/55K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
 ## Méthodologie
 
 Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur projet en mode AGILE.
@@ -117,6 +123,7 @@ Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur pr
 
 * Tous les CDI sont à pourvoir immédiatement.
 * Durée de travail hebdomadaire : 39H.
+* Contrat cadre - forfait jour - 12 RTT /an. 
 * Avantages : CSE – Mutuelle – Carte Tickets Resto – Campus numérique à 5 Mn du Métro République.
 * Esprit Start-up.
 * Lieu de travail : M45 à Villeurbanne (5 Mn du métro République).

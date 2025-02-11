@@ -2,7 +2,7 @@
 
 **Domaine :** E-santé. Plate-forme de mise en relation de médecine douce (Ostéopathie par exemple).
 
-**Où :** Paris - 15e - 2 jours de remote par semaine. 
+**Où :** Paris - 13e - 2 jours de remote par semaine. 
 
 **Quoi :** Medoucine a pour obectif de mettre en relation les français avec les praticiens de médecine douce à travers une plate-forme de prise de RDV efficace et fiable.
 
