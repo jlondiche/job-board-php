@@ -103,7 +103,7 @@ Pour rappel : Pour le salaire, il est difficile de donner des fourchettes. **Ne 
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne.londich@jlrecrutement.com, jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com, jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 
 ----

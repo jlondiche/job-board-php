@@ -24,16 +24,15 @@ Full remote = 🏠
 - [GROUPE ACTUAL](GROUPE_ACTUAL.md)
 	- BI/Data Analyst - Pôle DATA en création 🏠
 - [KLS](KLS.md)
-	- **Développeur.se sénior.e PHP/Symfony/API Platform**
+	- Développeur.se sénior.e PHP/Symfony/API Platform [POURVU]
 - [MEDOUCINE](MEDOUCINE.md)
 	- **Tech Lead / CTO Hands On** [NOUVEAU]
 	- **Développeur·euse intérmédiaire PHP/Symfony** [NOUVEAU]
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur.se front-end [NOUVEAU]**
+	- **Développeur.se front-end**[NOUVEAU]
 - [WAMIZ](WAMIZ.md)
-	- **DevOps / SRE** 🏠 
 	- **Développeur.se confirmé.E PHP/Symfony** 🏠 
 	
 
@@ -47,12 +46,14 @@ Full remote = 🏠
 
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- **Développeur.se PHP / Symfony - équipe BUILD**
-	- Développeur.se PHP / Symfony - équipe RUN
+	- Développeur.se PHP / Symfony - équipe RUN [POURVU]
 - [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
 	- Développeur.se PHP / Symfony expert 
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
 	- **Développeur.se sénior.e front-end** [NOUVEAU]
+- [OPÉRA ENERGIE](OPERA_ENERGIE.md)
+	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
 - [WIMOVA](WIMOVA.md)
 	- **PM-PO** [NOUVEAU]
 	- **Lead QA automatisation** [NOUVEAU]

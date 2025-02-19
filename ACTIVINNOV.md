@@ -54,38 +54,6 @@ Activinnov ne recrute pas sur cursus mais sur expériences !
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
-# Développeur·se PHP/Symfony - Equipe TMA 
-
-Vous aimez trouver des bugs, des solutions, répondre au besoin clients ? Venez intégrer l'équipe RUN d'Activinnov avec une architecture hexagonale, des tests automatisés, de la code review systématique, et une grande attention est portée au partage des connaissances.
-
-Niveau technique orienté qualité : créer du code propre, cohérent, pertinent, et adaptable en fonction des besoins de chaque client. 
-
-## Missions : 
-
-- Rôle de pompier : Intervenir rapidement pour résoudre les problèmes de production signalés par le support technique.
-- Rôle de chirurgien : Analyser les problèmes de fond, identifier les causes profondes, et apporter des corrections durables.
-- Rechercher et analyser les erreurs dans les logs et les lignes de code, comme dans un jeu de piste, pour trouver les solutions adéquates.
-- Collaborer avec l’équipe de support pour prioriser et gérer les incidents.
-- Participer à l’amélioration continue de nos processus de maintenance et de résolution de problèmes.
-- Partage de connaissances, organisation de retours d’expérience avec l’équipe Build
-
-Il y a un roulement entre les deux rôle au sein de cette équipe. 
-
-## Profil 
-
-Activinnov ne recrute pas sur cursus mais sur expériences ! 
-
-* Une solide expérience en développement Symfony.
-* Avoir des notions avancées en POO et être problème solver.
-* Connaissances des Design pattern et ayant pratiqué différentes architectures.
-* Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
-
-## Salaire : 
-
-45K€ selon profil et expérience. 
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 ## Pourquoi les rejoindre ?
 
 * Un management qui privilégie la reconnaissance du travail, la transparence, l'autonomie et le droit à l'erreur.
