@@ -4,9 +4,7 @@
 
 **Où :** Lyon Part Dieu - 1 à 2 jours de TT par semaine. 
 
-**Quoi :** 
-
-Opéra Energie est le pionnier et le leader français du courtage en énergie pour les entreprises et collectivités. Ils développent également une gamme d’offres d’accompagnement à la transition énergétique.
+**Quoi :** Opéra Energie est le pionnier et le leader français du courtage en énergie pour les entreprises et collectivités. Ils développent également une gamme d’offres d’accompagnement à la transition énergétique.
 
 Leur mission? Permettre à leurs clients de bénéficier pleinement de l’ouverture des marchés de l’énergie et de les accompagner dans le chemin de la transition énergétique. Concrètement, ils trouvent pour leurs clients le meilleur contrat d’électricité ou de gaz naturel et les conseillent dans la durée pour optimiser leurs achats d’énergie.
 
@@ -19,15 +17,16 @@ Opéra Energie c’est avant tout une belle histoire humaine d’une équipe sou
 * Entreprisée créée en 2014.
 * Labellisée depuis "French Tech" et "Pépites".
 * Également lauréate du "Scale Up Excellence".
-* Opéra Energie a connu un développement rapide et compte aujourd’hui près de 180 collaborateurs.
+* Opéra Energie a connu un développement rapide et compte aujourd’hui près de 180 collaborateurs, dont 20 personnes dans l'IT. 
+* L'Équipe tech back-end se rend chaque année au forum PHP (AFUP) pour rester parfaitement à jour et garder le contact avec la communauté.
 
 **Stack :** 
 
-PHP, Symfony, Docker, Kubernetes, Gitlab, mySQL.
+PHP8.3, Symfony6.4, Docker, Kubernetes, Gitlab, mySQL.
 
 # Développeur·se expert·e PHP/Symfony #DDD #Archihexagonale
 
-Vous rejoindrez une équipe IT de 20 personnes composée de 7 développeurs·euses : 
+Vous rejoindrez une équipe IT de 20 personnes composée de 7 développeurs back end. 
 
 ## Missions : 
 
@@ -39,10 +38,11 @@ Vous rejoindrez une équipe IT de 20 personnes composée de 7 développeurs·eus
 
 ## Profil 
 
-* Fort·e d'au moins 8 ans d'expérience dans le développement Back-end sur PHP.
-* Dont 1 an min sur Symfony5.
+* Fort·e d'au moins 10 ans d'expérience dans le développement Back-end sur PHP, vous maîtrisez les dernières versions de Symfony.
 * Vous êtes véritablement passionné·e par le code, PHP, et Symfony. 
-* Vous avez vécu plusieurs projets et vous sentez à l'aise pour prendre en main des sujets un peu complexes, très métier. 
+* Vous appréciez le travail en équipe ainsi que la collaboration avec des utilisateurs internes.
+* Vous avez de l'expérience et un fort intérêt pour la conception et l'architecture logicielle.
+* Fort de votre expérience sur divers projets, vous êtes à l'aise pour prendre en charge des sujets complexes et à forte dimension métier.
 
 
 ## Salaire : 
@@ -56,7 +56,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 * Une entreprise en hyper croissance sur le marché français.
 * La liberté et l’autonomie dans les choix techniques (choix des architectures à mettre en place sur les produits).
-* Des possibilités en interne de mobilité sur les projets (3 outils sur lesquels s’investir).
+* En plus du produit principal, plusieurs projets connexes offrent l'opportunité de travailler sur des sujets variés.
 * Des possibilités de monter en compétences sur d’autres technologies.
 * Plein de bonnes pratiques (DDD, Devops, vraie Agilité, briefing de démarrage de fonctionnalité).
 
