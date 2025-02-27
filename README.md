@@ -32,23 +32,10 @@ Full remote = 🏠
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
 	- **Développeur.se front-end**[NOUVEAU]
-- [WAMIZ](WAMIZ.md)
-	- **Développeur.se confirmé.E PHP/Symfony** 🏠 
-	
-
-## À Lille : 
-
-- [ONEYTRUST](ONEYTRUST.md)
-	- **Développeur(se) back-end PHP / Symfony** [NOUVEAU]
 
 
 ## À Lyon : 
 
-- [ACTIVINNOV](ACTIVINNOV.md)
-	- **Développeur.se PHP / Symfony - équipe BUILD**
-	- Développeur.se PHP / Symfony - équipe RUN [POURVU]
-- [DECATHLON TRAVEL](DECATHLON_TRAVEL.md)
-	- Développeur.se PHP / Symfony expert 
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
 	- **Développeur.se sénior.e front-end** [NOUVEAU]
