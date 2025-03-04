@@ -20,30 +20,30 @@ Full remote = 🏠
 ## À Paris : 
 
 - [DrDATA](DrDATA.md)
-	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** 
-- [GROUPE ACTUAL](GROUPE_ACTUAL.md)
-	- BI/Data Analyst - Pôle DATA en création 🏠
+	- Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [KLS](KLS.md)
 	- Développeur.se sénior.e PHP/Symfony/API Platform [POURVU]
 - [MEDOUCINE](MEDOUCINE.md)
-	- **Tech Lead / CTO Hands On** [NOUVEAU]
-	- **Développeur·euse intérmédiaire PHP/Symfony** [NOUVEAU]
+	- Tech Lead / CTO Hands On
+	- Développeur·euse intérmédiaire PHP/Symfony
 - [SÉZANE](SEZANE.md)
 	- Développeur.se confirmé.e back-end PHP/Symfony
 - [TOULOISIRS](TOULOISIRS.md)
-	- **Développeur.se front-end**[NOUVEAU]
+	- Développeur.se front-end
 
 
 ## À Lyon : 
 
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
-	- **Développeur.se sénior.e PHP/Symfony/API Platform** [NOUVEAU]
-	- **Développeur.se sénior.e front-end** [NOUVEAU]
+	- Développeur.se sénior.e PHP/Symfony/API Platform
+	- Développeur.se sénior.e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
+- [VIVLIO](VIVLIO.md)
+	-**PO-PM**[NOUVEAU]
 - [WIMOVA](WIMOVA.md)
-	- **PM-PO** [NOUVEAU]
-	- **Lead QA automatisation** [NOUVEAU]
+	- PM-PO
+	- Lead QA automatisation
 
 
 
