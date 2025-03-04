@@ -26,7 +26,7 @@ PHP8, Symfony, Docker, Kubernetes, MySQL, RabbitMQ,  GitHub.
 
 # PO/PM
 
-Intégré à l'équipe Product de 3 personnes, vous travaillerez en étoite collaboraiton avec l'équipe back end dans un environnement techniquement complexe et avec un produit qui pulse. 
+Intégré·e à l'équipe Product de 3 personnes, vous travaillerez en étoite collaboraiton avec l'équipe back end dans un environnement techniquement complexe et avec un produit qui pulse. 
 
 ## Missions
 
