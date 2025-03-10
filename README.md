@@ -26,8 +26,8 @@ Full remote = 🏠
 - [MEDOUCINE](MEDOUCINE.md)
 	- Tech Lead / CTO Hands On
 	- Développeur·euse intérmédiaire PHP/Symfony
-- [SÉZANE](SEZANE.md)
-	- Développeur.se confirmé.e back-end PHP/Symfony
+- [SIRENERGIES](SIRENERGIES.md)
+	- **Expert PHP / Laravel** [NOUVEAU] 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur.se front-end
 
