@@ -15,7 +15,7 @@ Sirenergies répond à ces questions pour les entreprises.
 **Facts & figures:**
 
 * Créée il y a 4 ans
-* Trois domaines interventions : 3 métiers qui s'entremellent se complètent et s'apportent 
+* Trois domaines interventions : 3 métiers qui s'entremelent se complètent et s'apportent 
 	* Conseil
 	* Rachat et revente d'énergie
 	* Développement d'un back office

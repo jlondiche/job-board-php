@@ -67,34 +67,6 @@ Salaire : 55/75K€ selon profil et expériences.
 Pour rappel : Pour le salaire, il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
-
-# Développeur·euse intérmédiaire PHP/Symfony
-
-Vous rejoindrez une équipe technique de 5 personnes, en cours de migration de Laravel vers Symfony. Vos missions seront les suivantes : 
-
-## Missions
-
-* Assurer la fiabilité, la scalabilité et l'efficacité de l’application : qualité technique du code, tests unitaires et d’intégration.
-* Accompagner la croissance de medoucine.com tout en développant de nouvelles fonctionnalités pour rendre Medoucine toujours plus indispensable pour les clients thérapeutes et grand public.
-* Développer différents outils (widget, APIs etc) pour connecter Medoucine à de grands partenaires et démultiplier l'usage de la plate-forme.
-
-
-## Profil
-
-* Maitrise de PHP 7.
-* Avoir déjà développé avec une API REST ou GraphQL.
-* Compréhension des enjeux de qualité (revue, test, refactoring, CI).
-* A l'aise avec les notions OOP, design patterns, DRY, KISS.
-* Avoir déjà utilisé un ou plusieurs framework PHP.
-* Bonnes connaissances en base de données relationnelles (modélisation, optimisation..)
-* Au moins 3 ans d'expériences dans le développement.
-
-## Salaire
-45/55K€ selon profil et expériences.
-
-Pour rappel : Pour le salaire, il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-
 ## Pourquoi postuler ?
 * L’autonomie, les responsabilités, une grande confiance, évoluer aussi vite que la startup.
 * Pour les valeurs Médoucine : Confiance, Respect, Ambition, Transparence et Plaisir. 

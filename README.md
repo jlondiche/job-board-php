@@ -20,22 +20,22 @@ Full remote = 🏠
 ## À Paris : 
 
 - [DrDATA](DrDATA.md)
-	- Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale
-- [KLS](KLS.md)
-	- Développeur.se sénior.e PHP/Symfony/API Platform [POURVU]
+	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** [NOUVEAU]
 - [MEDOUCINE](MEDOUCINE.md)
 	- Tech Lead / CTO Hands On
-	- Développeur·euse intérmédiaire PHP/Symfony
 - [SIRENERGIES](SIRENERGIES.md)
 	- **Expert PHP / Laravel** [NOUVEAU] 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur.se front-end
+- [YIELD STUDIO](YIELD_STUDIO.md)
+	- **Développeur.se back-end Laravel** [NOUVEAU] 🏠
+	- **Lead développeur.se Laravel** [NOUVEAU] 🏠
 
 
 ## À Lyon : 
 
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
-	- Développeur.se sénior.e PHP/Symfony/API Platform
+	- Développeur.se sénior.e back-end [POURVU]
 	- Développeur.se sénior.e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
