@@ -23,8 +23,6 @@ Full remote = 🏠
 	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** [NOUVEAU]
 - [MEDOUCINE](MEDOUCINE.md)
 	- Tech Lead / CTO Hands On
-- [SIRENERGIES](SIRENERGIES.md)
-	- **Expert PHP / Laravel** [NOUVEAU] 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur.se front-end
 - [YIELD STUDIO](YIELD_STUDIO.md)
@@ -40,7 +38,7 @@ Full remote = 🏠
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
 - [VIVLIO](VIVLIO.md)
-	-**PO-PM**[NOUVEAU]
+	- **PO-PM**[NOUVEAU]
 - [WIMOVA](WIMOVA.md)
 	- PM-PO
 	- Lead QA automatisation
