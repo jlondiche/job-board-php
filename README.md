@@ -38,7 +38,8 @@ Full remote = 🏠
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
 - [VIVLIO](VIVLIO.md)
-	- **PO-PM**[NOUVEAU]
+	- **Développeur.se sénior.e back-end PHP / Symfony** [NOUVEAU]
+	- **PO-PM**
 - [WIMOVA](WIMOVA.md)
 	- PM-PO
 	- Lead QA automatisation

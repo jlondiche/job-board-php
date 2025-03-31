@@ -24,7 +24,40 @@ L’écosystème Vivlio se double d’une gamme de liseuses permettant à ses ut
 PHP8, Symfony, Docker, Kubernetes, MySQL, RabbitMQ,  GitHub. 
 
 
-# PO/PM
+# Développeur·se sénior·e PHP/Symfony
+
+Intégré dans l'équipe Scrum, vous participerez de manière active aux choix techniques. (cloud, architecture, choix des solutions techniques).
+Vous devez avoir une forte notion de qualité dans vos développements (gestion de la complexité algorithmique, tests unitaires, intégration continue, documentation, …).
+
+## Missions
+
+* Spécifier, développer et tester les composants de notre backend au sein d’une équipe Agile.
+* Participer à la conception de l’architecture technique en coordination avec notre CTO et votre Product Owner.
+* Définir l’architecture micro-services capable de répondre à nos besoins.
+* Réaliser ces développements en PHP/Symfony.
+* Réaliser des tests automatisés (unitaire et intégration notamment).
+* Déployer les applications sur leur infrastructure qui tourne sur Azure.
+* Prendre en compte les métriques de production pour améliorer de manière continue les applications pour atteindre et maintenir la qualité de service.
+* Être partie prenante sur l’amélioration continue sur nos outils, nos pratiques Agile, nos processus…
+
+## Profil
+
+* Vous devez déjà avoir travaillé sur des projets d’envergure, avec des notions de complexité algorithmiques et de scalabilité.
+* Vous aimez résoudre des problèmes compliqués et créer de manière collaborative.
+* Vous aimez voir votre produit évoluer, et voir des clients satisfaits.
+* Vous maîtrisez le développement de composant et d’API REST, dans le cadre d’infrastructure avec de fortes contraintes (taille des bases de données, temps de réponses, volumétrie de fichiers, etc).
+* Vous maîtrisez les environnements de développements avec Docker.
+* Vous maîtrisez Linux.
+* Vous maîtrisez l’anglais afin de discuter et d’écrire avec des non-francophones.
+* Vous souhaitez travailler régulièrement en pair-programmin.
+
+## Salaire
+
+50/55K€ selon profil.
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+
+# Product Owner / Product Manager
 
 Intégré·e à l'équipe Product de 3 personnes, vous travaillerez en étoite collaboraiton avec l'équipe back end dans un environnement techniquement complexe et avec un produit qui pulse. 
 
