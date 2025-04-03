@@ -31,7 +31,7 @@ Full remote = 🏠
 
 ## À Lyon : 
 
-- [GL EVENTS](GLEVENTS.md)
+- [GL EVENTS](GL_EVENTS.md)
 	- **Développeur·euse intérmédiaire PHP Symfony**[NOUVEAU]
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 	- Développeur·euse sénior·e front-end
