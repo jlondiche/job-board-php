@@ -20,25 +20,25 @@ Full remote = 🏠
 ## À Paris : 
 
 - [DrDATA](DrDATA.md)
-	- **Développeur.se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** [NOUVEAU]
+	- **Développeur·se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** [NOUVEAU]
 - [MEDOUCINE](MEDOUCINE.md)
 	- Tech Lead / CTO Hands On
 - [TOULOISIRS](TOULOISIRS.md)
-	- Développeur.se front-end
+	- Développeur·euse front-end
 - [YIELD STUDIO](YIELD_STUDIO.md)
-	- **Développeur.se back-end Laravel** [NOUVEAU] 🏠
-	- **Lead développeur.se Laravel** [NOUVEAU] 🏠
+	- Développeur·euse back-end Laravel 
 
 
 ## À Lyon : 
 
+- [GL EVENTS](GLEVENTS.md)
+	- **Développeur·euse intérmédiaire PHP Symfony**[NOUVEAU]
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
-	- Développeur.se sénior.e back-end [POURVU]
-	- Développeur.se sénior.e front-end
+	- Développeur·euse sénior·e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
-	- **Développeur·se PHP/Symfony expert·e #DDD #Archihexagonale**[NOUVEAU]
+	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [VIVLIO](VIVLIO.md)
-	- **Développeur.se sénior.e back-end PHP / Symfony** [NOUVEAU]
+	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
 	- **PO-PM**
 - [WIMOVA](WIMOVA.md)
 	- PM-PO
