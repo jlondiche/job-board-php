@@ -2,7 +2,7 @@
 
 **Domaine :** Innovation, Mobilité. **Greentech**
 
-**Où :** Locaux à Lyon (Métro République), 1 jour de TT par semaine.  
+**Où :** Locaux à Villeurbanne, Métro République,  1 jour de TT par semaine.  
 
 **Quoi :** Wimova développe des solutions de mobilité professionnelles partout en France dans une démarche d'éco-responsabilité. 
 
@@ -28,63 +28,13 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 
 **Stack**
 
-* Backend : PHP8 / Symfony 6
+* Backend : PHP8 / Symfony 7
 * API REST
 * Docker et docker-compose
 * Git (CI/CD) / Tests unitaires et fonctionnels
 * Frontend : Javascript, Angular
 
 ---
-
-# Testeur·euse -  QA
-
-Vous rejoindrez une équipe QA de 2 personnes. L'objectif premier sera d'automatiser tous les tests car aujourd'hui tout est manuel. Test end to end et Mobile en particulier. 
-
-**Vos solides compétences vous permettront de tout structurer car TOUT EST A CRÉER ! Un super défi vous attend !**
-
-Avec l’aide de l'équipe Support / Logiciel, vous serez garant de la qualité de développement en mettant en place et en procédant à la recette de chaque nouvelle fonctionnalité ou correctif (web/mobile/API).
-
-**Passionné·e par les nouvelles technologies et la green tech, vous maîtrisez l'environnement WEB et êtes à l’aise sur mobile. Vous aimez et savez travailler en équipe.**
-
-## Missions
-
-* Étudier des spécifications fonctionnelles d’évolutions des logiciels et des nouveaux développements.
-* Définir des critères d’acceptation, rédiger des scénarios de test.
-* Tester les développements unitaires et mettre en place les méthodes adaptées.
-* Mettre en place l’automatisation des tests.
-* Adapter les référentiels de tests existants en participant activement à l’analyse des processus.
-* Rédiger les rapports d’analyse et mises en évidence des non-conformités à destination des développeurs.
-* Suivre les corrections d’anomalies et contrôle des corrections attendues.
-* Exécuter des campagnes de validation d’une nouvelle version.
-* Garantir l’homogénéité des applications et proposer les adaptations nécessaires.
-* Contrôler les non-régressions et le fonctionnement global des logiciels.
-* Rédiger des supports documentaires en vue de leur diffusion aux clients.
-
-## Profil
-
-L’orientation « expérience utilisateur », l’aisance relationnelle, la rigueur et la pugnacité vous caractérisent.
-
-Vous êtes passionné(e) par le digital, vous souhaitez intégrer une équipe pluridisciplinaire et participer activement à la gestion de projets de développement logiciel et à la décarbonation des déplacements. 
-
-**Qualités / Compétences attendues :**
-
-* Expérience minimum de 2 ans en QA dans l’édition logicielle.
-* Création, rédaction, réalisation de plan de tests.
-* Maîtrise d’un outil de Bug Tracking (Xray, Jira, Flyspray, Mantis ...
-* Maîtrise de l’anglais à l’écrit.
-* Bonnes connaissances en automatisation de tests.
-* Force de proposition et partage des bonnes pratiques.
-* Bonne capacité d'analyse des données et de synthèse.
-* Travail d'équipe, collaboration, partage et communication.
-* Anticipation et gestion des risques produit et projet.
-* Serait un plus : la connaissance des outils du marché (Selenium, Appium, Browserstack ...).
-
-## Salaire 
-
-45K€ selon profil et expérience. 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
 
 # PO-PM
 

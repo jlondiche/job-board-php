@@ -20,9 +20,9 @@ Full remote = 🏠
 ## À Paris : 
 
 - [DrDATA](DrDATA.md)
-	- **Développeur·se intermédiaire PHP/Symfony/TDD/Archi Hexagonale** [NOUVEAU]
+	- Développeur·se intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [MEDOUCINE](MEDOUCINE.md)
-	- Tech Lead / CTO Hands On
+	- Tech Lead / CTO Hands On [POURVU]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 - [YIELD STUDIO](YIELD_STUDIO.md)
@@ -41,8 +41,11 @@ Full remote = 🏠
 	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
 	- **PO-PM**
 - [WIMOVA](WIMOVA.md)
-	- PM-PO
-	- Lead QA automatisation
+	- PM-PO [POURVU]
 
+## À nice :
+
+- [FOLLOW](FOLLOW.md)
+	- **DevOps avec bonne compétence PHP/Symfony** [NOUVEAU] 🏠
 
 
