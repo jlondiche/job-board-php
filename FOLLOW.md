@@ -21,7 +21,7 @@ En constante évolution, Follow propose à ses utilisateurs une interface ludiqu
 * Ops : Terraform /Cloud Run/GitLab et Docker
 
 
-## DevOps avec bonne compétence PHP/Symfony - FULL REMOTE 🏠 ! NEW !
+## DevOps avec compétences PHP/Symfony - FULL REMOTE 🏠 ! NEW !
 
 Afin de continuer à faire évoluer l'interface de leur solution, l'équipe technique de Follow recherche une personne entre le développement PHP et le DevOps.
 

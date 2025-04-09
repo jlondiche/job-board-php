@@ -46,6 +46,6 @@ Full remote = 🏠
 ## À nice :
 
 - [FOLLOW](FOLLOW.md)
-	- **DevOps avec bonne compétence PHP/Symfony** [NOUVEAU] 🏠
+	- **DevOps avec compétences PHP/Symfony** [NOUVEAU] 🏠
 
 
