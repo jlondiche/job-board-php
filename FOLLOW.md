@@ -1,4 +1,4 @@
-🩺 FOLLOW 🩺
+# 🩺 FOLLOW 🩺
 
 **Domaine:** Solution SaaS de suivi du dossier patient pour les spécialistes.
 
@@ -30,14 +30,14 @@ Afin de continuer à faire évoluer l'interface de leur solution, l'équipe tech
 Vos principales missions :
 
 * Infrastructure :
-** Gestion opérationnelle de l'infrastructure de manière totalement autonome.
-** Améliorer et faire évoluer l'infrastructure, exemple avec le chantier de passer de CloudRun à GKE d'ici 1 à 2 ans.
-** Améliorer les performances et la résilience de la plateforme
-** Améliorer les coûts (FinOps) de la plateforme en optimisant différents processus et composants (Database).
-** Logging et monitoring : nous avons Elasticsearch en place mais très peu utilisé pour l'instant. Nous avon besoin d'une personne autonome pour faire le pont avec le back end et coder dans le backend php en respectant les bonnes pratiques
-** Cybersécurité : Mise en place d'initiatives pour garantir la sécurité de la plateforme, le milieu médical est très exigeant sur les aspects cybersécurité!, et collaboration avec des pentesters durant les campagnes.
+	* Gestion opérationnelle de l'infrastructure de manière totalement autonome.
+	* Améliorer et faire évoluer l'infrastructure, exemple avec le chantier de passer de CloudRun à GKE d'ici 1 à 2 ans.
+	* Améliorer les performances et la résilience de la plateforme
+	* Améliorer les coûts (FinOps) de la plateforme en optimisant différents processus et composants (Database).
+	* Logging et monitoring : nous avons Elasticsearch en place mais très peu utilisé pour l'instant. Nous avon besoin d'une personne autonome pour faire le pont avec le back end et coder dans le backend php en respectant les bonnes pratiques
+	* Cybersécurité : Mise en place d'initiatives pour garantir la sécurité de la plateforme, le milieu médical est très exigeant sur les aspects cybersécurité!, et collaboration avec des pentesters durant les campagnes.
 * CI :
-** Gestion des pipelines Gitlab pour améliorer l'expérience des développeurs et tendre vers du vrai CI/CD
+	* Gestion des pipelines Gitlab pour améliorer l'expérience des développeurs et tendre vers du vrai CI/CD
 * Support et formation des développeurs sur l'infra et la CI
 
 **Profil**
