@@ -21,10 +21,11 @@ Full remote = 🏠
 
 - [DrDATA](DrDATA.md)
 	- Développeur·se intermédiaire PHP/Symfony/TDD/Archi Hexagonale
-- [MEDOUCINE](MEDOUCINE.md)
-	- Tech Lead / CTO Hands On [POURVU]
 - [TOULOISIRS](TOULOISIRS.md)
+	- Développeur·euse back-end PHP / Symfony
 	- Développeur·euse front-end
+- [UNYC](UNYC.md)
+	- **Développeur·se fullstack Python / TypeScript** [NOUVEAU]
 - [YIELD STUDIO](YIELD_STUDIO.md)
 	- Développeur·euse back-end Laravel 
 
@@ -39,9 +40,7 @@ Full remote = 🏠
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
-	- **PO-PM**
-- [WIMOVA](WIMOVA.md)
-	- PM-PO [POURVU]
+	- **PO-PM** [POURVU]
 
 ## À nice :
 
