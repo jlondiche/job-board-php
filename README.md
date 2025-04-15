@@ -25,9 +25,7 @@ Full remote = 🏠
 	- Développeur·euse back-end PHP / Symfony
 	- Développeur·euse front-end
 - [UNYC](UNYC.md)
-	- **Développeur·se fullstack Python / TypeScript** [NOUVEAU]
-- [YIELD STUDIO](YIELD_STUDIO.md)
-	- Développeur·euse back-end Laravel 
+	- **Développeur·se fullstack Python / TypeScript** [NOUVEAU] 
 
 
 ## À Lyon : 
