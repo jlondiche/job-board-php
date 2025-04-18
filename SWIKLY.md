@@ -34,7 +34,7 @@ Créée à Lyon, **Swikly est aujourd’hui un acteur incontournable de la digit
 
 
 
-# Développeur·euse PHP Senior Symfony
+# Développeur·euse sénior·e PHP – Laravel & Code Quality Advocate
 
 **Swikly cherche un·e développeur·euse back-end confirmé·e pour renforcer sa team technique.**  
 Tu auras un **rôle clé dans la scalabilité et la sécurité** de notre plateforme, en collaboration avec le CTO, les devs front & back, QA et produit.

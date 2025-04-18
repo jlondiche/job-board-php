@@ -21,7 +21,7 @@ Full remote = 🏠
 
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
-- [PLAYPLAY](PLAYPLA.md)
+- [PLAYPLAY](PLAYPLAY.md)
 	- **Senior Software Engineer - Back-End** [NOUVEAU]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse back-end PHP / Symfony
@@ -39,7 +39,7 @@ Full remote = 🏠
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [SWIKLY](SWIKLY.md)
-	- **Senior PHP Developer – Laravel & Code Quality Advocate** [NOUVEAU]
+	- **Développeur·euse sénior·e – Laravel & Code Quality Advocate** [NOUVEAU]
 - [SYNAPSUN](SYNAPSUN.md)
 	- **Développeur·euse WEB Front / CRM** [NOUVEAU] 
 - [VIVLIO](VIVLIO.md)
