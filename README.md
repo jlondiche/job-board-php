@@ -20,7 +20,9 @@ Full remote = 🏠
 ## À Paris : 
 
 - [DrDATA](DrDATA.md)
-	- Développeur·se intermédiaire PHP/Symfony/TDD/Archi Hexagonale
+	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
+- [PLAYPLAY](PLAYPLA.md)
+	- **Senior Software Engineer - Back-End** [NOUVEAU]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse back-end PHP / Symfony
 	- Développeur·euse front-end
@@ -36,13 +38,12 @@ Full remote = 🏠
 	- Développeur·euse sénior·e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
+- [SWIKLY](SWIKLY.md)
+	- **Senior PHP Developer – Laravel & Code Quality Advocate** [NOUVEAU]
+- [SYNAPSUN](SYNAPSUN.md)
+	- **Développeur·euse WEB Front / CRM** [NOUVEAU] 
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
-	- **PO-PM** [POURVU]
 
-## À nice :
-
-- [FOLLOW](FOLLOW.md)
-	- **DevOps avec compétences PHP/Symfony** [NOUVEAU] 🏠
 
 
