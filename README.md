@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## À Paris : 
 
+- [CCM BENCHMARK](CCM_BENCHMARK.md)
+	- **Développeur.se PHP pour l'équipe CORE** [NOUVEAU]
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [PLAYPLAY](PLAYPLAY.md)
