@@ -41,33 +41,21 @@ Synapsun est en plein essor et l'équipe IT de 3 personnes se renforce :
 ## Missions
 
 * Evolution et maintien des interfaces : 
-		* Concevoir, développer et optimiser les interfaces web (Page public, Espace connecté, Interface
-		CRM) en collaboration avec l’équipe back-end.
-		* Assurer la maintenance et l’amélioration de certaines parties du système, en utilisant des bonnes
-		pratiques et des standards de développement front-end (HTML5, CSS3, Sass, VanillaJS).
-		* Améliorer et maintenir l’intégration de la plateforme Zoho CRM, y compris via l’écriture de scripts et
-		le langage Deluge.
+	* Concevoir, développer et optimiser les interfaces web (Page public, Espace connecté, Interface CRM) en collaboration avec l’équipe back-end.
+	* Assurer la maintenance et l’amélioration de certaines parties du système, en utilisant des bonnes	pratiques et des standards de développement front-end (HTML5, CSS3, Sass, VanillaJS).
+	* Améliorer et maintenir l’intégration de la plateforme Zoho CRM, y compris via l’écriture de scripts et le langage Deluge.
 * Participer à l'architecture et à la conception : 
-		* Contribuer aux choix techniques et à la définition de l’architecture front-end, en lien avec le Lead
-		Développeur.
-		* Participer à la mise en place et à l’amélioration continue des bonnes pratiques (outils,
-		méthodologies, organisation de code, pipeline CI/CD).
-		* Collaborer avec l’équipe sur l’intégration d’un framework JavaScript (React, Vue.js ou Stimulus) si
-		besoin.
+	* Contribuer aux choix techniques et à la définition de l’architecture front-end, en lien avec le Lead Développeur.
+	* Participer à la mise en place et à l’amélioration continue des bonnes pratiques (outils, méthodologies, organisation de code, pipeline CI/CD).
+	* Collaborer avec l’équipe sur l’intégration d’un framework JavaScript (React, Vue.js ou Stimulus) si besoin.
 * Veille technologique et amélioration continue
-		* Être force de proposition sur l’évolution de l’écosystème front-end (outils de bundling, librairies,
-		frameworks, etc.).
-		* Participer à l’amélioration continue de l’environnement CRM (Zoho), en explorant les possibilités
-		offertes par l’API et le langage Deluge.
-		* Assurer une veille régulière afin d’anticiper les besoins et d’intégrer les bonnes pratiques en matière
-		de performance, sécurité et UX.
-* Collaboration et méthodologie de travail
-		* Travailler étroitement avec l’équipe back-end (notamment pour la communication front/back via
-		APIs) et les autres développeurs.
-		* Suivre les méthodes de gestion de projet Agile (Scrum/Kanban) : participer aux rituels (daily
-		meetings, rétrospectives, etc.), estimer les tâches, reporter l’avancement, etc.
-		* Communiquer régulièrement avec les parties prenantes (Lead Développeur, Product Manager, UX
-		Designers) pour clarifier les besoins et ajuster les priorités.
+	* Être force de proposition sur l’évolution de l’écosystème front-end (outils de bundling, librairies, frameworks, etc.).
+	* Participer à l’amélioration continue de l’environnement CRM (Zoho), en explorant les possibilités offertes par l’API et le langage Deluge.
+	* Assurer une veille régulière afin d’anticiper les besoins et d’intégrer les bonnes pratiques en matière de performance, sécurité et UX. 
+	* Collaboration et méthodologie de travail
+	* Travailler étroitement avec l’équipe back-end (notamment pour la communication front/back via APIs) et les autres développeurs. 
+	* Suivre les méthodes de gestion de projet Agile (Scrum/Kanban) : participer aux rituels (daily meetings, rétrospectives, etc.), estimer les tâches, reporter l’avancement, etc.
+	* Communiquer régulièrement avec les parties prenantes (Lead Développeur, Product Manager, UX Designers) pour clarifier les besoins et ajuster les priorités.
 
 ## Profil
 

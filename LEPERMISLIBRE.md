@@ -20,96 +20,46 @@ DevOps: GitLAb kubernetes
 AWS
 docker
 
-## Développeur(se) sénior(e) back-end Symfony / API Platform
 
-Développer et maintenir les bases de données de l'entreprise ainsi que les APIs qui vont permettre leur manipulation par le front-end.
+# Développeur front-end sénior appétence mobile 
 
-**Missions**
+Développeur frontend expérimenté (7 ans+) avec de l'appétence pour le mobile. 
 
-* Replatforming de toute la platform
-	* Orienter plus user experience
-	* Sur API Platform
-	* Mise en place de la CI/CD
-	* Mise en place des tests
-* Développement des features
-	* Proposer et implémenter des solutions adaptées aux besoin métiers
-	* Conception technique visant à découper le plus finement possible
-	* S’assurer que les performances des routes soient adaptées à l’usage qui en sera fait
-	* Contribuer à l’analyse du succès des features une fois en production
+## Profil : 
 
-* Travailler avec la Squad et le Chapter
-	* Effectuer des conceptions techniques avec les chapters Back & Front et challenger celles des autres
-	* Effectuer les code review (2 review sont nécessaires par MR)
-	* Echanger avec les Data Analyst sur les impacts des changements BDD
-	* Collaborer étroitement avec les PM pour trouver les solutions les plus adaptées
-	* Tester en amont des PM et du business
+* Maîtrise de React
+* Connaissances en React Native et des bonnes pratiques de développement
+* Connaissance du framework Expo
+* Solide expérience de mise en production sur les stores (App Store /
+Google Play) et des critères d’acceptation
+* Travail en équipe avec un product designer, l’infra, et le backend
+* Capacité à concevoir des solutions techniques avec les équipes backend/infra
+* Curiosité technologique et goût pour la veille
+* Pédagogie pour accompagner des développeurs moins expérimentés et 
+expliquer les problématiques frontend à des profils non techniques
 
-**Profil**
+Une expérience sur Svelte et/ou SvelteKit serait un plus. 
 
-Les qualité principales requises sont l’esprit combatif, l’autonomie et la capacité à assumer des responsabilité, pour s’intégrer au mieux dans un contexte de forte croissance et à un mode de management basé sur la confiance.
+## Missions :
 
-* Savoir faire (Connaissances/expériences + mise en œuvre de ces connaissances/expériences “techniques”) :
-	* Développement back, idéalement PHP
-	* Profil full stack un plus
-	* Optimisation de performance
-	* Capacité à découper finement tes tâches pour travailler en déploiement continu
-* Savoir Etre (Attitudes, postures, ils reflètent un comportement en situation professionnelle) :
-	* Esprit d’équipe
-	* Résolution de problèmes
-	* Autonomie
-	* Adaptabilité
-	* Persévérance
-	* Curiosité
-* Outils (Maitrise d’outils/logiciels/process) :
-	* Notion (Documentation & ticketing) ● Gitlab
+* Finaliser la première version de leur app d’entraînement au code + mise en production (environ 3 semaines de développement)Concevoir les prochaines étapes du produit, avec un développement des fonctionnalités côté app mobile et admin (en Svelte)
+* Toutes les fonctionnalités doivent être administrables avant d’être activées et mises en production sur l’app candidat
+
+Dans cette phase, les développements sur l’admin (Svelte) représenteront 70% de la charge sur les 3 prochains mois 
+
+=> Reprise du développement mobile à partir de juin, avec l’arrivée d'un nouveau product designer
+
+* Maintenance et évolutions mineures des apps legacy + mise en place d’outils pour autonomiser les équipes opérationnelles. Idéalement, cela représentera 20 à 30 % du temps. Ce périmètre dépendra de leur capacité à livrer les nouvelles features sur la nouvelle admin. 
+
+## Pourquoi les rejoindre? 
+
+Envie de faire partie d’une équipe humaine
+Présence attendue au bureau 3 jours par semaine (de légères exceptions
+sont possibles en cas d’impératif)
 
 ## Salaire : 
 
-Fourchette : 50/52K€
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
-* Statut : Cadre
-* Temps de travail : 35h
-
-
-## Développeur front-end sénior
-
-**Missions :**
-
-* Développement de features
-	* Collaborer étroitement avec les designers en amont des développements
-	* Conception technique visant à découper le plus finement possible
-	* Développer les features
-	* Tester en amont des PM et du business
-	* Contribuer à l’analyse du succès des features une fois en production
-* Travailler avec la Squad et le Chapter
-	* Contribuer à la conception technique des chantiers transverses sous la direction des Front Seniors
-	* Décliner dans le code les chantiers (Design System, Typescript & Playwright en ce moment)
-	* Effectuer les code review (2 review sont nécessaires par MR)
-* Pré-requis pour ce poste
-	* Expérience (année.s/métier.s) : > 3 ans
-	* Contexte de travail : NA
-	* Formation : NA
-	* Langue : Française
-
-**Les compétences :**
-
-* Savoir faire (Connaissances/expériences + mise en œuvre de ces connaissances/expériences “techniques”) :
-	* Maîtrise avancée d’une techno JS, idéalement React
-	* Bases solides en testing, idéalement connaissance de Playwright
-	* Capacité à découper finement tes tâches pour travailler en déploiement continu
-* Savoir Être (Attitudes, postures, ils reflètent un comportement en situation professionnelle) :
-	* Tu as l’esprit d’équipe, tu vas chercher de l’aide et proposes la tienne
-	* Tu es orienté business & utilisateurs, tu te préoccupes de l’impact de tes features
-* Outils (Maîtrise d’outils/logiciels/process) :
-	* Notion (Documentation & ticketing)
-	* Figma
-	* Gitlab
-
-## Salaire : 
-
-Fourchette : 50/52K€
+Fourchette : 52/55K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
