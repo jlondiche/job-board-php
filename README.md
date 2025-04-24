@@ -47,5 +47,8 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
 
+## À Lille : 
+- [KARAFUN](KARAFUN.md)
+	- **Ingénieur·e DevOps**[NOUVEAU]
 
 
