@@ -87,7 +87,7 @@ Les petits plus qui font qu'on se sent bien chez KaraFun Group :
 
 Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com ou julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
-Vous pouvez aussi passer leur test technique directement en indiquant que vous venez de JL Recrutement, nous vous ferons un retour rapidement sur le résultat de votre test : https://www.karafun-group.com/join-back-team/
+Vous pouvez aussi passer leur test technique directement en indiquant que vous venez de JL Recrutement, nous vous ferons un retour rapidement sur le résultat de votre test : https://www.karafun-group.com/join-devops-team-2025/
 
 ----
 
