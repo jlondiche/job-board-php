@@ -29,6 +29,9 @@ Une entreprise à taille humaine, solide, où se combine esprit start-up et qual
 
 Adequasys recherche un·e développeur·euse full stack confirmé·e pour renforcer ses équipes et participer activement à l’évolution de son SIRH.
 
+Méthodoagile avec des cycles courts, des sprints de 3 semaines, et une forte collaboration entre développeurs, consultants métier et UX. Les devs participent aux ateliers d’analyse fonctionnelle et sont force de proposition. L'équipe veille à la qualité du code : relectures systématiques, tests menés par leur équipe
+QA, et pratiques de dev comme le TDD, le pair programming ou encore le mob programming.
+
 Tu participeras à toutes les étapes de vie du produit, dans un environnement bienveillant et agile.
 
 ## Missions
