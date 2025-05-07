@@ -17,37 +17,44 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 ## Les offres classées par ville.
 Full remote = 🏠
 
-## À Paris : 
+## Paris : 
 
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- **Développeur.se PHP pour l'équipe CORE** [NOUVEAU]
+	- Développeur.se PHP pour l'équipe CORE
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [PLAYPLAY](PLAYPLAY.md)
 	- **Senior Software Engineer - Back-End** [NOUVEAU]
 - [TOULOISIRS](TOULOISIRS.md)
-	- Développeur·euse back-end PHP / Symfony
+	- Développeur·euse back-end PHP / Symfony [POURVU]
 	- Développeur·euse front-end
 - [UNYC](UNYC.md)
-	- **Développeur·se fullstack Python / TypeScript** [NOUVEAU] 
+	- Développeur·se fullstack Python / TypeScript
 
 
-## À Lyon : 
+## Lyon : 
 
 - [GL EVENTS](GL_EVENTS.md)
-	- **Développeur·euse intérmédiaire PHP Symfony**[NOUVEAU]
+	- Développeur·euse intérmédiaire PHP Symfony**[POURVU]
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 	- Développeur·euse sénior·e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [SWIKLY](SWIKLY.md)
-	- **Développeur·euse sénior·e – Laravel & Code Quality Advocate** [NOUVEAU]
+	- Développeur·euse sénior·e – Laravel & Code Quality Advocate [POURVU]
 - [SYNAPSUN](SYNAPSUN.md)
-	- **Développeur·euse WEB Front / CRM** [NOUVEAU] 
+	- Développeur·euse WEB Front / CRM
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·euse sénior·e back-end PHP / Symfony** [NOUVEAU]
+	- Développeur·euse sénior·e back-end PHP / Symfony
 
-## À Lille : 
+
+## Romans-sur-Isère :
+
+ - [ADEQUASYS](ADEQUASYS.md)
+ 	- **Développeur·euse Fullstack PHP / JS**[NOUVEAU]
+
+
+## Lille : 
 - [KARAFUN](KARAFUN.md)
 	- **Ingénieur·e DevOps**[NOUVEAU]
 
