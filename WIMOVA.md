@@ -1,6 +1,6 @@
 # 🚖 WIMOVA 🚖
 
-**Domaine :** Innovation, Mobilité. **Greentech**
+**Domaine :** Innovation, Mobilité. 
 
 **Où :** Locaux à Villeurbanne, Métro République, 2 jours de TT par semaine.
 
