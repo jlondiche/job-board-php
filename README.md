@@ -24,7 +24,7 @@ Full remote = 🏠
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [PLAYPLAY](PLAYPLAY.md)
-	- **Senior Software Engineer - Back-End** [NOUVEAU]
+	- Senior Software Engineer - Back-End
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse back-end PHP / Symfony [POURVU]
 	- Développeur·euse front-end
@@ -46,6 +46,8 @@ Full remote = 🏠
 	- Développeur·euse WEB Front / CRM
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
+- [WIMOVA](WIMOVA.md)
+	- **Développeur·euse sénior·e PHP/Symfony**[NOUVEAU]
 
 
 ## Romans-sur-Isère :
@@ -56,6 +58,6 @@ Full remote = 🏠
 
 ## Lille : 
 - [KARAFUN](KARAFUN.md)
-	- **Ingénieur·e DevOps**[NOUVEAU]
+	- Ingénieur·e DevOps
 
 
