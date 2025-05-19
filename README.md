@@ -36,12 +36,10 @@ Full remote = 🏠
 
 - [GL EVENTS](GL_EVENTS.md)
 	- Développeur·euse intérmédiaire PHP Symfony**[POURVU]
-- [LEPERMISLIBRE](LEPERMISLIBRE.md)
-	- Développeur·euse sénior·e front-end
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
-- [SWIKLY](SWIKLY.md)
-	- Développeur·euse sénior·e – Laravel & Code Quality Advocate [POURVU]
+- [ACTIVINNOV](ACTIVINNOV.md)
+	- Product Owner Expert logement social [NEW]
 - [SYNAPSUN](SYNAPSUN.md)
 	- Développeur·euse WEB Front / CRM
 - [VIVLIO](VIVLIO.md)
@@ -59,5 +57,6 @@ Full remote = 🏠
 ## Lille : 
 - [KARAFUN](KARAFUN.md)
 	- Ingénieur·e DevOps
+	- Développeur·euse sénior·e back-end PHP OO / Symfony
 
 
