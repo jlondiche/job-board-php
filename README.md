@@ -55,6 +55,7 @@ Full remote = 🏠
 
 
 ## Lille : 
+
 - [KARAFUN](KARAFUN.md)
 	- Ingénieur·e DevOps
 	- Développeur·euse sénior·e back-end PHP OO / Symfony
