@@ -26,22 +26,21 @@ Full remote = 🏠
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End
 - [TOULOISIRS](TOULOISIRS.md)
-	- Développeur·euse back-end PHP / Symfony [POURVU]
 	- Développeur·euse front-end
 - [UNYC](UNYC.md)
 	- Développeur·se fullstack Python / TypeScript
+- [WAMIZ](WAMIZ.md) 🏠
+	- **Lead développeur·euse Fullstack VueJS/Symfony** [NEW]
 
 
 ## Lyon : 
 
-- [GL EVENTS](GL_EVENTS.md)
-	- Développeur·euse intérmédiaire PHP Symfony**[POURVU]
-- [OPÉRA ENERGIE](OPERA_ENERGIE.md)
-	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Product Owner Expert logement social [NEW]
-- [SYNAPSUN](SYNAPSUN.md)
-	- Développeur·euse WEB Front / CRM
+- [OPÉRA ENERGIE](OPERA_ENERGIE.md)
+	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
+- [SEMJI](SEMJI.md)
+	- **Développeur·euse sénior·e PHP/Symfony**[NEW]
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
