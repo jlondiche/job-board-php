@@ -99,7 +99,11 @@ Step 5: Final video interview with your future N+2 manager (30 minutes to 1 hour
 👉 You can find a detailed overview of our process [here].
 
 
-## Salary : 95-110K€
+## Salary :
+
+Range: according to profile
+
+Reminder: For the salary: it's difficult to give ranges. **The company is ready to pay your XP at the right level, and I'll support you on this part. **Human & Skills FIRST.**
 
 
 # Senior Software Engineer - Back-End
@@ -161,11 +165,11 @@ you had a significant exposure to complex web projects
 
 ---
 
-## Salaire 
+## Salary 
 
-Fourchette 60/80K€
+Range 60/80K€
 
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+Reminder: For the salary: it's difficult to give ranges. **The company is ready to pay your XP at the right level, and I'll support you on this part. **Human & Skills FIRST.**
 
 
 **Comment postuler ?**
