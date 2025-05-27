@@ -24,7 +24,8 @@ Full remote = 🏠
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [PLAYPLAY](PLAYPLAY.md)
-	- Senior Software Engineer - Back-End
+	- Senior Software Engineer - Back-End 🏠
+	- **Head of architecture** [NOUVEAU] 
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 - [UNYC](UNYC.md)

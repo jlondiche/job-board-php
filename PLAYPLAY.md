@@ -25,6 +25,82 @@ Entreprise en hyper croissance, Playplay voit loin et a beaucoup d’ambition. S
 
 L'anglais est important pour Playplay, je laisse donc l'annonce en anglais : 
 
+# Head of architecture
+
+At PlayPlay, we empower teams to create powerful storytelling through video at scale. As we grow, we're seeking an architectural leader to shape our technical future while maintaining the agility that drives our success.
+
+Your Role: Vision, Leadership, Execution
+
+Reporting to the VP of Engineering (Vianney), you'll lead 6-8 senior/staff engineers focused on core platform capabilities, define our architectural vision, and **chair the Architecture Committee to ensure technical excellence across the organization.**
+
+## Key Responsibilities
+
+**Architecture Leadership (40%) (Technical Vision & Governance, System Design & Platform Evolution)**
+• Define and evangelize PlayPlay's architectural vision, principles, and technical strategy
+• Lead the Architecture Committee and establish our ADR process
+• Create a technical roadmap balancing innovation, scalability, and technical debt
+• Design scalable systems supporting our video creation and delivery capabilities
+• Ensure our architecture supports enterprise-grade security, performance, and reliability
+
+**Team Leadership (30%) (Engineering Excellence & Mentorship, Cross-Functional Collaboration)**
+• Lead a high-performing transversal engineering team
+• Mentor and develop architectural thinking across the engineering organization
+• Partner with Product, Security, and Infrastructure teams on strategic initiatives
+• Effectively communicate complex technical concepts to all stakeholders
+• Represent architecture in leadership forums and strategic planning
+
+**Technical Execution (30%) (Platform Capabilities, Technical Excellence)**
+• Lead development of core platform services that accelerate product development
+• Guide the evolution of our frontend, backend, and data architectures
+• Champion software quality practices and performance optimization
+• Lead architectural reviews for complex technical challenges
+• Evaluate emerging technologies for potential adoption
+
+
+## What We're Looking For
+
+**Essential Experience**
+• 12+ years of software engineering with 3+ years in architectural leadership
+• Experience designing scalable, cloud-native architectures for SaaS products
+• Strong technical background in modern web technologies, microservices, and distributed systems
+• Track record of mentoring senior engineers and implementing effective governance
+• Excellent communication skills for varied audiences (both in French & English)
+
+**Technical Knowledge**
+• Deep understanding of cloud architecture (preferably GCP)
+• Strong knowledge of API design and service-oriented architectures
+• Understanding of modern frontend architectures and data systems
+• Familiarity with security principles for enterprise applications
+• Experience with video processing and content delivery networks - BONUS
+
+**You'll Stand Out If**
+• You've led architectural transformations in fast-growing organizations
+• You've implemented successful technical governance models in agile environments
+• You're passionate about developer experience and platform engineering
+• You've published or presented on architectural topics in professional forums
+• You have experience with both B2B SaaS and enterprise software architectures
+• You have experience scaling media/video processing platforms (BONUS)
+• You have experience with AI/ML architecture patterns and implementation (BONUS)
+
+**What We Offer**
+•Leadership role with significant impact on PlayPlay's technical direction
+• Opportunity to build and mentor exceptional engineers
+• Collaborative culture, competitive compensation, and hybrid work environment
+• If you're passionate about building scalable architectures that power creative experiences, we'd love to hear from you.
+
+## Process
+
+Here is our 5-step recruitment process to assess your skills and give you a glimpse into the PlayPlay experience:
+Step 1: Video interview with a recruiter (30 minutes)
+Step 2: Video interview with your future manager (45 minutes to 1 hour)
+Step 3: Practical case study via video call with two subject-matter experts (1 hour to 1 hour 30)
+Step 4: In-person interview at our office with PlayPlayers (1 hour)
+Step 5: Final video interview with your future N+2 manager (30 minutes to 1 hour)
+👉 You can find a detailed overview of our process [here].
+
+
+## Salary : 95-110K€
+
 
 # Senior Software Engineer - Back-End
 
