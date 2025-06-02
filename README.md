@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## Paris : 
 
+- [ASSOCONNECT](ASSOOONNECT.md)
+	- **Technical Team Leader** [NOUVEAU] 
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur.se PHP pour l'équipe CORE
 - [DrDATA](DrDATA.md)
@@ -28,8 +30,6 @@ Full remote = 🏠
 	- **Head of architecture** [NOUVEAU] 
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
-- [UNYC](UNYC.md)
-	- Développeur·se fullstack Python / TypeScript
 - [WAMIZ](WAMIZ.md) 🏠
 	- **Lead développeur·euse Fullstack VueJS/Symfony** [NEW]
 
