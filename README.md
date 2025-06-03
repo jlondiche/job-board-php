@@ -31,13 +31,13 @@ Full remote = 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 - [WAMIZ](WAMIZ.md) 🏠
-	- **Lead développeur·euse Fullstack VueJS/Symfony** [NEW]
+	- ead développeur·euse Fullstack VueJS/Symfony
 
 
 ## Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- Product Owner Expert logement social [NEW]
+	- Product Owner Expert logement social
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [SEMJI](SEMJI.md)
@@ -45,13 +45,13 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
-	- **Développeur·euse sénior·e PHP/Symfony**[NOUVEAU]
-
+	- **Développeur·euse sénior·e PHP/Symfony**[POURVU]
+	- **DevOps** [NOUVEAU]
 
 ## Romans-sur-Isère :
 
  - [ADEQUASYS](ADEQUASYS.md)
- 	- **Développeur·euse Fullstack PHP / JS**[NOUVEAU]
+ 	- Développeur·euse Fullstack PHP / JS**
 
 
 ## Lille : 

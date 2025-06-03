@@ -35,29 +35,40 @@ L'objectif est de faire des partages de course ou du co-voiturage, afin de rédu
 
 ----
 
-# Développeur·euse sénior·e PHP/Symfony - NOUVEAU !
+# DevOps - NOUVEAU !
+
+Vous rejoindrez une personne en poste et travaillerez en binôme afin d'assurer la mise en oeuvre de la démarche #devOps au sein de WIMOVA:
 
 ## Missions
 
-* Développement de nouvelles fonctionnalités backend.
-* Gestions des problématiques autour des performances et de forte charge.
-* Participation à la R&D de l'entreprise : étude sur des évolutions technologiques, participation à des projets de recherche.
-* Mise en place de projets sur des enjeux d'éco-conception ou de traitement des données/performances.
-* Échanger avec le Lead Developpeur sur la meilleure stratégie à adopter pour le développement des projets.
-* Projet de refonte de la plateforme historique. 
+* Automatisation de l'infrastructure : créer, maintenir et gérer des scripts d'infrastrucutre (Terraform) pour déployer et gérer des ressources cloud. Automatiser la mise en place des serveurs, des réseaux et des services à l'aide d'outils comme Ansible  
+* Mettre en place des CI/CD afin d'automatiser le déploiement
+* Gestion de configuration : gérer la configuration des systèmes et des applications pour garantir la cohérence et la répétabilité
+* Gestion de conteneurs : créer, gérer et orchestrer des conteneurs à l'aide d'outils tels que Docker et Kubernetes
+* Optimiser les performances et la sécurité des conteneurs 
+* Surveillance et journalisation : mettre en place des solutions de surveillance pour les applications et les infrastructures
+* Configurer la collecte et l'analyse des journeaux (logs) pour identifier les problèmes et les tendances 
+* Sécurité et conformité : assurer la sécurité des systèmes, des données et des applications. Contrôle d'accés, gestion des clés et le chiffrement
+* Automatisation des tests : mettre en place des pipeline de tests automatisés pour garantir la qualité des applications (tests unitaires, d'intégration et de performance)
+* Gestion des Incidents sur l'infra et résolution : mise en place et suivi du monitoring via les outils type APM
+* Documentation 
 
 ## Profil
 
-* Expérience en PHP/Symfony - 10 ans sur PHP - 5 ans minimum sur Symfony
-* Vous êtes soucieux de la qualité, de la performance et de la clean architecture
-* Vous êtes soucieux des bonnes pratiques
-* Passionné(e) par le web, vous assurez une veille technologique constante, êtes enthousiaste et force de proposition
-* Bon communicant prêt à s'investir sur des projets de A à Z.
-* Vous souhaitez intégrer une équipe technique qualifiée dans une entreprise qui vous veut du bien.
+* Avoir une vision et une approche business du produit
+* Être curieux·se avec une élasticité et une plasticité intellectuelle afin de jongler avec l'équipe
+* Avoir une première expérience en tant que DevOps
+* Être bon·ne communicant·e et être force de propositions, prêt·e à s'investir sur des projets de A à Z
+* Expérience dans le monde du transport est un plus
+
+## Pourquoi postuler ?
+
+Wimova est un belle boite avec de belles valeurs et un fonctionnement verticale où règne respect et bienveillance.
+Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.
 
 ## Salaire
 
-50/60K€ selon profil et expérience. 
+45/50 K€ 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
@@ -82,7 +93,7 @@ Notre équipe d’experts accompagne nos clients et nos utilisateurs sur leur pr
 
 * Wimova développe des solutions logicielles [WEB – MOBILE - CLOUD] pour leur compte ou pour des donneurs d’ordre en lien avec le MAAS « Mobility as a service » avec une forte orientation « GREEN TECH ».
 
-* Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.
+* **Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.**
 
 ## Comment postuler ?
 
