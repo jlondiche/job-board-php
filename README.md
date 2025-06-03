@@ -31,7 +31,7 @@ Full remote = 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 - [WAMIZ](WAMIZ.md) 🏠
-	- ead développeur·euse Fullstack VueJS/Symfony
+	- Lead développeur·euse Fullstack VueJS/Symfony
 
 
 ## Lyon : 
