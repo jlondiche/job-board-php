@@ -25,6 +25,8 @@ Full remote = 🏠
 	- Développeur.se PHP pour l'équipe CORE
 - [DrDATA](DrDATA.md)
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
+- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
+	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[NOUVEAU] 
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End 🏠
 	- **Head of architecture** [NOUVEAU] 
