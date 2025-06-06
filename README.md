@@ -19,7 +19,7 @@ Full remote = 🏠
 
 ## Paris : 
 
-- [ASSOCONNECT](ASSOOONNECT.md)
+- [ASSOCONNECT](ASSOCONNECT.md)
 	- **Technical Team Leader** [NOUVEAU] 
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur.se PHP pour l'équipe CORE
