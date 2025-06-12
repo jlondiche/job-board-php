@@ -27,13 +27,15 @@ Full remote = 🏠
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[NOUVEAU] 
+- [OPALE CAPITAL](OPALE_CAPITAL.com)
+	- **Développeur.se fullstack PHP/Symfony**
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End 🏠
 	- **Head of architecture** [NOUVEAU] 
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 - [WAMIZ](WAMIZ.md) 🏠
-	- Lead développeur·euse Fullstack VueJS/Symfony
+	- Lead développeur·euse Fullstack VueJS/Symfony [POURVU]
 
 
 ## Lyon : 
@@ -53,7 +55,7 @@ Full remote = 🏠
 ## Romans-sur-Isère :
 
  - [ADEQUASYS](ADEQUASYS.md)
- 	- Développeur·euse Fullstack PHP / JS**
+ 	- Développeur·euse Fullstack PHP / JS
 
 
 ## Lille : 
