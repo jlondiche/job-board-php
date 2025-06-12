@@ -8,7 +8,7 @@
 - Private Equity : investir en capital dans des entreprises non cotées 
 - L'investissement en dette privée : investir en dette dans des entreprises non cotées
 
-=> Opale Capital donne accès aux particuliers à des solutions d’investissement habituellement réservées aux investisseurs institutionnels.
+=> **Opale Capital donne accès aux particuliers à des solutions d’investissement habituellement réservées aux investisseurs institutionnels.**
 
 **Facts & figures:**
 
@@ -32,7 +32,7 @@
 
 Vous aimez le clean code, Symfony et les projets qui ont du sens ?
 
-=> **Venez participez à démocratiser l’accès au private equity, à la dette privée et aux actifs réels pour les particuliers.**
+=> **Venez participer à démocratiser l’accès au private equity, à la dette privée et aux actifs réels pour les particuliers.**
 
 Pour soutenir leur croissance, ils renforcent leur équipe tech de 5 développeurs et recrutent un développeur.se Full Stack.
 
