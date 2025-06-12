@@ -12,7 +12,7 @@
 
 **Facts & figures:**
 
-* Fondé en 2022
+* Fondée en 2022
 * Partenaire privilégié pour investir en Private Equity
 * Des experts des investissements alternatifs à votre service
 * Propose des fonds d'investissement de premier plan issus d'une sélection rigoureuse et de conviction via une solution 100% digitale
@@ -25,10 +25,11 @@
 
 * Symfony 7
 * PHP 8 
+* VueJS / TypeScrypt
 * Docker/Kubernetes
 * GitHub CI/CD
 
-# Développeur.se fullstack PHP/Symfony
+# Développeur·se fullstack PHP/Symfony
 
 Vous aimez le clean code, Symfony et les projets qui ont du sens ?
 
@@ -38,8 +39,9 @@ Pour soutenir leur croissance, ils renforcent leur équipe tech de 5 développeu
 
 ## Missions:
 
-* Concevoir, faire évoluer et optimiser une **plateforme digitale 100% interne**, structurée autour de :
-
+* Le CTO souhaite simplifier la stack qui est trop complexe aujourd'hui pour leur utilité et qui ne leur permet pas d'avancer selon leurs envies. Une des missions principales sera de repasser en monolithique (aujourd'hui 5 applications, revenir à 1 application) et enlever le framework VueJS pour avoir du Symfony fullstack. 
+	- L'objecti : revenir sur du bon sens tout en respectant la qualité. **Si ça vous parle, que vous adhérez à ce type de projet, contactez-nous pour pouvoir redonner confiance en l'équipe IT.**
+* Concevoir, analyser et faire évoluer et optimiser une **plateforme digitale 100% interne**, structurée autour de :
 	- Un espace investisseur
 	- Un espace partenaire
 	- Un back-office de gestion
@@ -50,7 +52,7 @@ Pour soutenir leur croissance, ils renforcent leur équipe tech de 5 développeu
 * 5 ans d’expérience en dev Symfony / PHP
 * Maîtrise avancée de PHP 7 et 8 et du framework Symfony
 * Maitrise des méthodologies Agile / Scrum
-* Autonome, rigoureux(se), passionné(e) de clean code
+* **Autonome**, rigoureux(se), pragmatique
 * À l’aise avec la CI/CD, les tests et les environnements conteneurisés
 * **Appétence pour la fintech, les sujets complexes et à fort impact**
 
@@ -63,6 +65,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 ## Pourquoi rejoindre Opale Capital ?
 
 Une équipe tech à taille humaine, un produit stratégique, et une vraie culture d’innovation. 
+Belle croissance financière. 
 
 ## Comment postuler ?
 
