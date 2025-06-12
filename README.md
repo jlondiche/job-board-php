@@ -27,7 +27,7 @@ Full remote = 🏠
 	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[NOUVEAU] 
-- [OPALE CAPITAL](OPALE_CAPITAL.com)
+- [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- **Développeur.se fullstack PHP/Symfony**
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End 🏠
