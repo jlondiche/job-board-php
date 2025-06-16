@@ -68,7 +68,7 @@ Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.
 
 ## Salaire
 
-45/50 K€ 
+À discuter selon profil
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
