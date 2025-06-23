@@ -2,7 +2,7 @@
 
 **Domaine :** Évènementiel - logiciels sur mesure
 
-**Où :** Lyon Confluence, Télétravail : 2j/semaine
+**Où :** Lyon Confluence, Télétravail : 1j/semaine
 
 **Quoi :** EQUITA Lyon, COP27, Salon de l’automobile… Et si vous plongiez au coeur de l’organisation des plus grands évènements du monde entier ? 
 
@@ -35,6 +35,13 @@ GL events propose à ses clients une offre globale :
 # Développeur·euse front end VueJS
 
 **Afin de renforcer son équipe digitale, GL EVENTS recherche un·e développeur·se pour intégrer une équipe de 7 personnes qui travaille au quotidien sur l’Espace Exposant. Une partie importante chez GL évent, orientée métier, complexe et très intéressante.** 
+
+Contexte  : Une solution e-commerce y est intégrée permettant la réservation de stand et de prestations complémentaires.
+Ce projet a vu les premiers développements réalisés en aout 2018 et a la particularité d’avoir une très bonne qualité de code et une belle couverture de tests (750 tests front / 4500 tests back).
+En 2025, l’équipe digital souhaite améliorer l’UX et moderniser l’UI de cet espace client, des maquettes ont été produites.
+La mission a pour but de développer la partie front / VueJS des nouvelles features à intégrer, le backend (Symfony) fournissant les données.
+L’équipe est composée de 2 développeurs front et de 5 développeurs back.
+Cette mission aura aussi pour but de maintenir le webshop et de contribuer aux nouvelles fonctionnalités qu’il accueillera mais aussi à sa maintenance. Les tests sont effectués sous Vitest et Cypress.
 
 
 ## Missions :
