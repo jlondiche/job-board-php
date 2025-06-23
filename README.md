@@ -20,37 +20,34 @@ Full remote = 🏠
 ## Paris : 
 
 - [ASSOCONNECT](ASSOCONNECT.md)
-	- **Technical Team Leader** [NOUVEAU] 
+	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur.se PHP pour l'équipe CORE
-- [DrDATA](DrDATA.md)
-	- Développeur·euse intermédiaire PHP/Symfony/TDD/Archi Hexagonale
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[NOUVEAU] 
+	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[POURVU] 
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
-	- **Développeur·se fullstack PHP/Symfony**
+	- Développeur·se fullstack PHP/Symfony
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End 🏠
-	- **Head of architecture** [NOUVEAU] 
+	- Head of architecture
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
-- [WAMIZ](WAMIZ.md) 🏠
-	- Lead développeur·euse Fullstack VueJS/Symfony [POURVU]
 
 
 ## Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Product Owner Expert logement social
+- [GL EVENTS](GL_EVENTS.md)
+	-  **Développeur·euse front end VueJS**[NEW]
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [SEMJI](SEMJI.md)
-	- **Développeur·euse sénior·e PHP/Symfony**[NEW]
+	- Développeur·euse sénior·e PHP/Symfony
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
-	- **Développeur·euse sénior·e PHP/Symfony**[POURVU]
-	- **DevOps** [NOUVEAU]
+	- DevOps
 
 ## Romans-sur-Isère :
 
