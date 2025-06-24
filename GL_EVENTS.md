@@ -2,7 +2,7 @@
 
 **Domaine :** Évènementiel - logiciels sur mesure
 
-**Où :** Lyon Confluence, Télétravail : 1j/semaine
+**Où :** Stade Gerland Lyon 7e -  Télétravail : 1j/semaine
 
 **Quoi :** EQUITA Lyon, COP27, Salon de l’automobile… Et si vous plongiez au coeur de l’organisation des plus grands évènements du monde entier ? 
 
