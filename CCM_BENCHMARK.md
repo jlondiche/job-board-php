@@ -2,7 +2,7 @@
 
 **Domaine:** Média et publicité
 
-**Où:** Paris 9 
+**Où:** Paris 9, 2 jours de Télé travail par semaine. 
 
 **Quoi:** CCM Benchmark est un groupe médias leader dans le numérique qui opère dans 3 domaines d'activités :
 	• l'édition de sites médias en France

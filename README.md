@@ -49,12 +49,6 @@ Full remote = 🏠
 - [WIMOVA](WIMOVA.md)
 	- DevOps
 
-## Romans-sur-Isère :
-
- - [ADEQUASYS](ADEQUASYS.md)
- 	- Développeur·euse Fullstack PHP / JS
-
-
 ## Lille : 
 
 - [KARAFUN](KARAFUN.md)
