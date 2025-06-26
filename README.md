@@ -22,11 +22,13 @@ Full remote = 🏠
 - [ASSOCONNECT](ASSOCONNECT.md)
 	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
-	- Développeur.se PHP pour l'équipe CORE
+	- Développeur·euse PHP pour l'équipe CORE
+- [DR DATA](DR_DATA.md)
+	- **Développeur·euse backend PHP / Symfony intermédiaire**[NEW]
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- **Développeur·se fullstack 70% Symfony / 30% VueJS #DDD #CQRS**[POURVU] 
+	- Développeur·euse fullstack 70% Symfony / 30% VueJS #DDD #CQRS[POURVU] 
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
-	- Développeur·se fullstack PHP/Symfony
+	- Développeur·euse fullstack PHP/Symfony
 - [PLAYPLAY](PLAYPLAY.md)
 	- Senior Software Engineer - Back-End 🏠
 	- Head of architecture
@@ -43,7 +45,7 @@ Full remote = 🏠
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
 	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
 - [SEMJI](SEMJI.md)
-	- Développeur·euse sénior·e PHP/Symfony
+	- Développeur·euse sénior·e PHP/Symfony[POURVU] 
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)

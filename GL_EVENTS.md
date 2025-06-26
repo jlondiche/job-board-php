@@ -75,7 +75,7 @@ prenant en considération les fortes exigences métiers
 
 ## Salaire :
 
-Fourchette environ 40/50K€ selon profil et expérience. 
+Fourchette environ 40/45K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.** 
 

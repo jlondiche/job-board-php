@@ -25,7 +25,7 @@ https://www.drdata.io/
 * Testing : très belle suite de test,PHPUnit Jest, Cypress, Behat
 * Archi hexagonale
 
-## Développeur.se backend PHP / Symfony intermédiaire 🐘
+## Développeur·euse backend PHP / Symfony intermédiaire 🐘
 
 **Missions** 
 
@@ -59,7 +59,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com, jodia@jlrecrutement.com ou julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 
