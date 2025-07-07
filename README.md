@@ -25,13 +25,13 @@ Full remote = 🏠
 	- Développeur·euse PHP pour l'équipe CORE
 - [DR DATA](Dr_DATA.md)
 	- **Développeur·euse backend PHP / Symfony intermédiaire**[NEW]
-- [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- Développeur·euse fullstack 70% Symfony / 30% VueJS #DDD #CQRS[POURVU] 
+- [MOBILITY WORK](MOBILITY_WORK.md)
+	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
-	- Développeur·euse fullstack PHP/Symfony
+	- Développeur·euse fullstack PHP/Symfony 
 - [PLAYPLAY](PLAYPLAY.md)
-	- Senior Software Engineer - Back-End 🏠
-	- Head of architecture
+	- Senior Software Engineer - Back-End 🏠[POURVU]
+	- Head of architecture [POURVU]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -43,9 +43,7 @@ Full remote = 🏠
 - [GL EVENTS](GL_EVENTS.md)
 	-  **Développeur·euse front end VueJS**[NEW]
 - [OPÉRA ENERGIE](OPERA_ENERGIE.md)
-	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale
-- [SEMJI](SEMJI.md)
-	- Développeur·euse sénior·e PHP/Symfony[POURVU] 
+	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale [POURVU]
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
