@@ -57,4 +57,9 @@ Full remote = 🏠
 	- Ingénieur·e DevOps
 	- Développeur·euse sénior·e back-end PHP OO / Symfony
 
+## Nice : 
+
+- [FOLLOW](FOLLOW.md)
+	- **Data Engineer Senior Opérationnel** [NEW] 🏠
+	- **Senior back-end PHP / Symfony** [NEW] 🏠
 
