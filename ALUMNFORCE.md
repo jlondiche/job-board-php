@@ -2,9 +2,11 @@
 
 **Domaine :** Plateforme SaaS pour animer les communautés alumni (B2B2C).  
 
-**Où :** Paris 9ᵉ – Télétravail flexible ou full remote.  
+**Où :** Paris 9ᵉ – Télétravail flexible ou full remote.  🏠
 
 **Quoi :** AlumnForce permet de fédérer plus de 4M de comptes sur +350 institutions dans 15 pays via une plateforme web + mobile.
+
+Solution complète de gestion des anciens élèves (SaaS) pour les établissements d'enseignement et les entreprises afin de créer leurs réseaux exclusifs d'anciens élèves. 
 
 ---
 
