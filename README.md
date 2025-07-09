@@ -18,7 +18,8 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 Full remote = 🏠
 
 ## Paris : 
-
+- [ALUMNFORCE](ALUMNFORCE.md)
+	- Lead Développeur / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
 - [ASSOCONNECT](ASSOCONNECT.md)
 	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
