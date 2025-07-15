@@ -30,9 +30,6 @@ Full remote = 🏠
 	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
-- [PLAYPLAY](PLAYPLAY.md)
-	- Senior Software Engineer - Back-End 🏠[POURVU]
-	- Head of architecture [POURVU]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -43,8 +40,6 @@ Full remote = 🏠
 	- Product Owner Expert logement social
 - [GL EVENTS](GL_EVENTS.md)
 	-  **Développeur·euse front end VueJS**[NEW]
-- [OPÉRA ENERGIE](OPERA_ENERGIE.md)
-	- Développeur·euse PHP/Symfony expert·e #DDD #Archihexagonale [POURVU]
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
