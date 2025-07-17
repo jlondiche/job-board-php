@@ -27,6 +27,7 @@ Full remote = 🏠
 - [DR DATA](Dr_DATA.md)
 	- **Développeur·euse backend PHP / Symfony intermédiaire**[NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
+	- **Developpeur•euse back-end CQRS et Event Sourcing** [NEW] 🏠
 	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
@@ -39,9 +40,10 @@ Full remote = 🏠
 ## Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
+	- **Architecte / Développeur·se PHP/Symfony** [NEW]
 	- Product Owner Expert logement social
 - [GL EVENTS](GL_EVENTS.md)
-	-  **Développeur·euse front end VueJS**[NEW]
+	-  **Développeur·euse front end VueJS** [NEW]
 - [VIVLIO](VIVLIO.md)
 	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)

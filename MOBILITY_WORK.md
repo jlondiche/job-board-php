@@ -24,6 +24,59 @@
 tests unitaires front jest
 * ES6, VueJS, Sass, Vuetify
 
+------
+
+# Developpeur(se) back-end
+
+Mobility Work recherche un développeur back-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
+
+En relation avec le Tech Lead et l’Engineering Manager, vous êtes attaché·e à la qualité, à l’expérience utilisateur, à la stabilité, à la performance tout en étant pragmatique, vous savez itérer rapidement en apportant régulièrement de la valeur pour nos utilisateurs et notre stratégie, et vous adaptez au contexte et à la maturité organisationnelle du moment.
+
+Vous accordez de l’importance à l’humain, faites preuve d’une constante bienveillance et savez être pédagogue et à l’écoute.
+
+**Quelques challenges en cours :**
+
+- Systématisation de nos développements autour d’une approche CQRS et Event Sourcing
+- Migration en PHP 8
+- Volonté DDD
+
+## Missions principales :
+
+- Réaliser des features en collaboration avec l'équipe Back-end
+- Améliorer les méthodologies de développement
+- Participer à la volonté de modernisation de la plate-forme (restructuration du projet, etc.)
+- Conception et garant des guidelines
+- Coordination des intégrations de toutes les fonctionnalités
+- Documentation et respects des bonnes pratiques et conventions de la guideline établie
+
+## Contexte : 
+
+* Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
+* Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
+* Une volonté d'amélioration continue (Kaizen)
+* Une culture du résultat et de l'engagement (= responsabilisation et autonomie
+(horaire, localisation))
+* Une écoute bienveillante et une approche décisionnelle collective
+
+## Profil :
+
+* De intermédiaire à senior
+* Maîtrise de PHP (Symfony), vous maîtrisez les environnements liés à ces langages et
+problématiques inhérents.
+* Expérience notable en production dans la mise en place d’une approche CQRS(Event
+Sourcing en bonus)
+* Vous maîtrisez le français et l'anglais
+* Intérêt et curiosité pour les langages fonctionnels bienvenus
+* La connaissance d’un langage fonctionnel est un plus
+
+## Salaire :
+
+Fourchette large car le profil recherché peut-être intermédiaire jusqu'à sénior : 45/60K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+--------
+
 # Developpeur·se front-end Vue.js intermédiaire 
 
 Mobility Work recherche un développeur·se Front-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
