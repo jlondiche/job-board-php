@@ -26,6 +26,7 @@ Dans un secteur réglementairement mouvant dans lequel il est important de se r�
 
 PHP, Symfony, MySQL, RabbitMQ, Elasticsearch, PHPunit, GitlabCI, Cypress 
 
+-----
 
 # Architecte / Développeur·se PHP/Symfony 
 
@@ -101,3 +102,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 ## Comment postuler ?
 
 Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
+
+

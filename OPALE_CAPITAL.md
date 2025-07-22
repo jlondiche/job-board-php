@@ -46,7 +46,6 @@ Pour soutenir leur croissance, ils renforcent leur équipe tech de 5 développeu
 	- Un espace partenaire
 	- Un back-office de gestion
 
-
 ## Profil recherché:
 
 * 5 ans d’expérience en dev Symfony / PHP
@@ -72,3 +71,5 @@ Belle croissance financière.
 Tout simplement, envoyez un email à jeanne@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt ! 
+
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

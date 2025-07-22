@@ -31,6 +31,8 @@ KaraFun, c’est à la fois une forte exigence technique pour livrer des produit
 * Ansible / Terraform / Rundeck
 * Wifi Unifi
 
+------
+
 
 # Développeur(se) back-end PHP / Symfony 
 
@@ -56,6 +58,7 @@ Fourchette entre 45/55K€
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
+-------
 
 # Ingénieur·e DevOps 
 

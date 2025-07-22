@@ -2,7 +2,7 @@
 
 **Domaine :** Innovation, Mobilité. 
 
-**Où :** Locaux à Villeurbanne, Métro République, 2 jours de TT par semaine.
+**Où :** Locaux à Villeurbanne, Métro République, 2 j de TT par semaine.
 
 **Quoi :** Wimova développe des solutions de mobilité professionnelles partout en France dans une démarche d'éco-responsabilité.
 
@@ -68,7 +68,7 @@ Vous serez accueilli en camarade au sein d’une belle équipe professionnelle.
 
 ## Salaire
 
-À discuter selon profil
+À discuter selon profil.
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

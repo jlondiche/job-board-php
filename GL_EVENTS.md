@@ -32,6 +32,8 @@ GL events propose à ses clients une offre globale :
 * Consommation d'API Rest à l'aide d'API Platform et Axios
 * Environnement de développement : Ubuntu, Docker
 
+----
+
 # Développeur·euse front end VueJS intermédiaire 
 
 **Afin de renforcer son équipe digitale, GL EVENTS recherche un·e développeur·se pour intégrer une équipe de 7 personnes qui travaille au quotidien sur l’Espace Exposant. Une partie importante chez GL évent, orientée métier, complexe et très intéressante.** 

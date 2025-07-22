@@ -41,10 +41,11 @@ PHP, Symfony, Redis, RabbitMQ, MySQL, Doctrine, Apache, Algolia, TypeScript, Rea
 - Historiquement une legacy qui a été totalement revue et modernisée
 - On fait du build de nouvelles features en continu, et un peu de run sur le Legacy à côté
 
-.
+----
 
 > **Vous êtes toujours en perpétuelle recherche d'amélioration, de challenges ? Si l’optimisation, la critique construite, l’écoute, les échanges de points de vue et d’avis sont pour vous moteur, alors ce poste est sûrement fait pour vous !**
 
+----
 
 ## IMPORTANT :
 
@@ -171,7 +172,7 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
 
 
 

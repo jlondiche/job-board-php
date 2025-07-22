@@ -22,6 +22,7 @@ En constante évolution, il propose à ses utilisateurs une interface ludique, e
 * Ops : Terraform / GCP et Docker
 * Data : Scala, MySQL et migration à prévoir vers du PostGreSQL
 
+-----
 
 # Senior back-end PHP / Symfony - FULL REMOTE 🏠 ! NEW !
 
@@ -85,6 +86,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 
 L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
+-----
 
 # Data Engineer Senior Opérationnel - FULL REMOTE 🏠 ! NEW !
 
@@ -135,3 +137,4 @@ Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com  ou j
 
 À bientôt !
 
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

@@ -44,8 +44,6 @@ Full remote = 🏠
 	- Product Owner Expert logement social
 - [GL EVENTS](GL_EVENTS.md)
 	-  **Développeur·euse front end VueJS** [NEW]
-- [VIVLIO](VIVLIO.md)
-	- Développeur·euse sénior·e back-end PHP / Symfony
 - [WIMOVA](WIMOVA.md)
 	- DevOps
 

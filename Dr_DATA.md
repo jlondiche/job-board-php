@@ -25,7 +25,9 @@ https://www.drdata.io/
 * Testing : très belle suite de test,PHPUnit Jest, Cypress, Behat
 * Archi hexagonale
 
-## Développeur·euse backend PHP / Symfony intermédiaire 🐘
+----
+
+# Développeur·euse backend PHP / Symfony intermédiaire 🐘
 
 **Missions** 
 
@@ -42,14 +44,12 @@ Vous travaillez idéalement en TDD et avez de l'expérience en clean archi.
 * Fort intérêt pour la veille technologiques, et pour les enjeux d’optimisation et de performance
 * Intérêt et curiosité pour les enjeux liés à la collecte des données personnelles
 
-
 ## Pourquoi postuler ?
 
 **Rejoindre DrDATA, c’est rejoindre un projet avec du sens dans le monde de la data et de la recherche médicale.**
 Vous avez l’opportunité d'intégrer : 
 * Une startup avec du potentiel et de l’ambition, avec la possibilité d'avoir un impact technique et de participer à l’évolution des équipes
 * Une équipe organisée de façon horizontale avec une organisation flexible qui sait se remettre en question pour avancer
-
 
 ## Salaire : 
 
@@ -59,7 +59,9 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. 
+
+À bientôt !
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 

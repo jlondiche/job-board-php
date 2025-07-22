@@ -8,15 +8,11 @@
 
 Solution complète de gestion des anciens élèves (SaaS) pour les établissements d'enseignement et les entreprises afin de créer leurs réseaux exclusifs d'anciens élèves. 
 
----
-
 ## Facts & Figures 
 
 * Leader français des réseaux alumni (anciens élèves), en activité depuis 2008
 * 4500000 utilisateurs actifs sur 350+ réseaux 
 * Présence dans 15 pays, clients prestigieux (HEC, ESSEC, SNCF, PWC…) 
-
----
 
 ## Stack & Environnement Technique
 
@@ -40,8 +36,6 @@ Agile/Scrum (sprints de 2 semaines, rituels, forte culture produit)
 * Explorer et intégrer des solutions IA/Data (vectorisation, LLM…)  
 * Optimiser la performance & sécurité de la plateforme 
 
----
-
 ## Profil recherché
 
 * Lead Dev / Architecte avec **6–7+ ans** d'expérience
@@ -59,8 +53,6 @@ Agile/Scrum (sprints de 2 semaines, rituels, forte culture produit)
 	- du Redis 
 	- différence entre API frontend et API pour l'échange de données
 
----
-
 ## Pourquoi rejoindre AlumnForce ?
 
 * Jouer un rôle central dans une scale‑up à impact social  
@@ -68,13 +60,9 @@ Agile/Scrum (sprints de 2 semaines, rituels, forte culture produit)
 * Environnement stimulant (agilité, autonomie, team building)  
 * Avantages sociaux (mutuelle complète, events, etc.)
 
----
-
 ## Process de recrutement
 
 * 3 entretiens en visio : CEO/CPO → CTO/COO → PM/Sales/Dev
-
----
 
 ## Type de poste & Organisation
 
@@ -83,10 +71,11 @@ Agile/Scrum (sprints de 2 semaines, rituels, forte culture produit)
 * Équipe Tech & Produit : **14 personnes**  
 * Lieu : **Paris 9ᵉ**, télétravail hybride ou full remote
 
----
-
 ## 📩 Comment postuler ?
 
-Envoyez votre CV ou lien GitHub/LinkedIn à jeanne@jlrecrutement.com, jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com .
+Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. 
 
----
+À bientôt !
+
+----
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 

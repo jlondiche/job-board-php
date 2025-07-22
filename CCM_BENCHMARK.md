@@ -22,6 +22,7 @@
 * Base de données : MariaDB, ElasticSearch, Redis
 * Infra & Performance : Varnish, Akamai, Docker, RabbitMQ
 
+-----
 
 # Développeur·euse PHP pour l'équipe CORE
 
@@ -31,7 +32,6 @@ Vous intégrerez une équipe agile (Scrum), encadrée par le Lead Architect :
 * Vous participerez à la conception et à la mise en œuvre des nouvelles fonctionnalités au sein de ces briques et vous assisterez les équipes produits dans leur usage de ces briques. L’équipe maintient notamment toutes les briques logicielles transverses à l’ensemble de leurs produits, comme le mailing, les composants de cache ou leur ORM maison
 * Vous participerez à conseiller les équipes produits, parmi lesquelles: Scribe, leur CMS éditorial ; OpenData, leur CMS de la donnée ; CCMadmin, leur technologie de forums
 * Vous êtes garant de la qualité technique de l'architecture des produits de l'entreprise
-
 
 ## Missions:
 
@@ -63,7 +63,6 @@ Vous avez cinq ans d’expérience minimum en développement PHP et vous êtes p
 * Expertise sur des sites à forte charge et optimisation des performances
 * Expérience avec un éditeur pure player
 
-
 ## Salaire : 
 
 50/55K€ avec package Selon profil et expérience. 
@@ -85,3 +84,4 @@ Tout simplement, envoyez un email à jeanne@jlrecrutement.com ou jodia@jlrecrute
 
 À bientôt ! 
 
+<a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>

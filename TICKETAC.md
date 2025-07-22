@@ -2,7 +2,7 @@
 
 **Domaine :** Spectacle / Culture
 
-**Où :** Paris 15ème, métro convention. Rythme hybride, 2 jours de télétravail / semaine.
+**Où :** Paris 15ème, métro Convention. Rythme hybride, 2 jours de télétravail / semaine.
 
 **Quoi :** Ticketac aide les clients à découvrir et réserver leurs activités culturelles & loisirs en proposant la meilleure expérience du marché. Ils opérent en France plusieurs marketplaces ecommerce de ticketing.
 
@@ -33,6 +33,7 @@ Clean archi + DDD
 * Infrastructure : AWS, Docker, Gitlab CI/CD
 * Architecture DDD
 
+-----
 
 # Lead developpeur(se) / CTO
 
@@ -50,8 +51,6 @@ Rattaché au CEO et membre de l’équipe de direction, vous :
 * Gérez le budget lié aux SI et prestataires techniques
 * Assurez le reporting régulier auprès du comité direction dont vous serez membre
 
-----
-
 ## Profil :
 
 * Vous avez une expérience réussie de Lead Tech / CTO, idéalement chez une marketplace ou e-commerçant
@@ -59,8 +58,6 @@ Rattaché au CEO et membre de l’équipe de direction, vous :
 * Vous maitrisez très bien PHP, ainsi que les principes SOLID, la méthodologie DDD, le Kanban et Jira
 * Vous êtes aguerri aux protocoles REST / SOAP
 * Vous cherchez un poste à forte responsabilité au sein d’une entreprise en croissance où votre vision et vos choix sur le développement et la mise en œuvre seront décisifs.
-
------
 
 ## Pourquoi postuler ?
 
@@ -79,7 +76,10 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeannea@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com, jodia@jlrecrutement.com ou julie-charlotte@jlrecrutement.com un CV ou bien un profil LinkedIn à jour. 
+
+
+À bientôt !
 
 
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a> 

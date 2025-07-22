@@ -33,6 +33,7 @@ Nous avons besoin de nouveaux développeurs pour accompagner le déploiement de 
 - BDD : MySQL/MSSQL/Mongo
 - Devops : Docker, CloudFlare, Sentry, Azure Gestion de projet : GitHub et Atlassian
  
+-----
 
 # Développeur(se) Front-end
 
@@ -58,7 +59,6 @@ Votre profil est celui d’un ingénieur :
 * 60K€ Brut annuel
 * 30 jours congés payés
 * 15 jours de RTT
-
 
 ## Pourquoi les rejoindre ?
 
