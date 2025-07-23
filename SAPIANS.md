@@ -23,9 +23,9 @@ La qualité de leur sélection de placements financiers s’appuie sur le savoir
 
 **Stack**
 
-# Développeur·euse back end sénior·e PHP/Symfony 
+# Développeur·euse back end PHP/Symfony 
 
-Sapians est en train de développer sa propore équipe technique, ils recherchent donc leur premier·e développeur·euse sénior·e ! Une opportunité rare et qui s'annonce pleine de beaux challenges. 
+Sapians est en train de développer sa propre équipe technique et recherche son·sa premier·ère développeur·euse senior! Une opportunité rare, pleine de beaux challenges.
 
 
 ## Missions :
