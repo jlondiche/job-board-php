@@ -22,6 +22,20 @@ La qualité de leur sélection de placements financiers s’appuie sur le savoir
 *  Une équipe, une offre et des services qui s'étoffent et évoluent pour satisfaire leurs clients.
 
 **Stack**
+• Symfony (5, 6, 7) / PHP 8
+• MariaDB
+• RabbitMq
+• NextJs / ReactJs / TypeScript
+• Deno / Preact
+• Wordpress
+• Docker, Docker compose
+• git, github, gitlab
+• IDE : Phpstorm ou VSCODE
+• Environment Mac avec suite Microsoft
+• Divers : slack, jira, gather, notion
+• Assistant AI : Github Copilot
+• CI/CD en cours de mise en place (Gitlab)
+• KeyCloak (à l'étude)
 
 # Développeur·euse back end PHP/Symfony 
 
