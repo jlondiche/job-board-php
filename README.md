@@ -19,22 +19,20 @@ Full remote = 🏠
 
 ## Paris : 
 - [ALUMNFORCE](ALUMNFORCE.md)
-	- Lead Développeur / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
+	- Lead Développeur·euse / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
 - [ASSOCONNECT](ASSOCONNECT.md)
 	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur·euse PHP pour l'équipe CORE
-- [DR DATA](Dr_DATA.md)
-	- **Développeur·euse backend PHP / Symfony intermédiaire**[NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
-	- **Developpeur•euse back-end CQRS et Event Sourcing** [NEW] 🏠
+	- **Developpeur·euse back-end CQRS et Event Sourcing** [NEW] 🏠
 	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
--  [SAPIANS](SAPIANS.md)
-	- Développeur·euse back end sénior·e PHP/Symfony[POURVU] 
+- [SEZANE](SEZANE.md)
+	- **Développeur·euse sénior PHP / Symfony** [NEW]
 - [TICKETAC](TICKETAC.md)
-	- **Lead developpeur·euse / CTO**[NEW]
+	- Lead developpeur·euse / CTO[NEW]
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
