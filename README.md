@@ -43,9 +43,9 @@ Full remote = 🏠
 	- **Architecte / Développeur·se PHP/Symfony** [NEW]
 	- Product Owner Expert logement social
 - [GL EVENTS](GL_EVENTS.md)
-	-  **Développeur·euse front end VueJS** [NEW]
-- [WIMOVA](WIMOVA.md)
-	- DevOps
+	-  Développeur·euse front end VueJS
+- [WECANDOO](WECANDOO.md)
+	- **Développeur·euse back-end PHP/Laravel sénior·e**[NEW]
 
 ## Lille : 
 
