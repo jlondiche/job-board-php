@@ -24,6 +24,8 @@ Full remote = 🏠
 	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur·euse PHP pour l'équipe CORE
+- [INSTANT GAMING](INSTANT_GAMING.md)
+	-  **Senior QA Engineer** [NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- **Developpeur·euse back-end CQRS et Event Sourcing** [NEW] 🏠
 	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
