@@ -34,12 +34,14 @@ Vous serez la référence qualité de l’équipe. Votre mission : assurer la qu
 * Adopter des outils d’IA afin d’améliorer la production et l’efficacité des tests.
 * Structurer la communication et les rituels QA au sein de l’équipe.
 * Se familiariser avec les pipelines CI/CD.
+
 ✅ 6 à 12 mois
 * Développer une stratégie QA et une roadmap alignées avec les objectifs produits.
 * Analyser les métriques de qualité pour orienter les décisions.
 * Renforcer les pratiques de sécurité dans les tests.
 * Promouvoir les meilleures pratiques de collaboration QA / Dev.
 * Contribuer à l’implémentation de tests automatisés et correctifs en production via des pipelines IA.
+
 ✅ 12 à 18 mois
 * Introduire des tests de performance et de scalabilité.
 * Mettre en place des outils et pratiques d’observabilité QA et de monitoring.
