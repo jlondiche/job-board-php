@@ -38,17 +38,16 @@ Pour se faire ils utilisent des architectures hexagonales, des tests automatisé
 
 ## Missions : 
 
-* Conception / développement de nouvelles fonctionnalités sur les produits SaaS MROD, Dematimmo & RILOC (Symfony 4 & 6), en cohérence avec l’existant.
-* Venez rejoindre l'équipe architecte d'Activinnov, équipe composée de 3 personnes aujourd'hui
-* Assurer la maintenance et le support des solutions en place.
-* Maintenir et améliorer les suites de tests de façon pragmatique.
-* Conception / développement de nouveaux outils / produits pour répondre à de nouveaux besoins exprimés par nos clients (Symfony 6).
+* Accompagnement des développeurs pour assurer la cohérence et le pragmatisme des développements.
+* Promulgation des bonnes pratiques décidées au sein des équipes.
+* Maintenir la cohérence des pratiques entre les différents produits.
+* Mentoring technique (notamment lors de la revue de code, ou de pair programming).
+* Maintien de l’écosystème de développement (montée de versions majeures de librairies, cohérence des librairies internes).
+* Participer aux orientations techniques de la boite avec les autres architectes.
 
 ## Profil 
 
-Activinnov ne recrute pas sur cursus mais sur expériences ! 
-
-* Une solide expérience en développement Symfony.
+* Une solide expérience en développement Symfony. 
 * Avoir des notions avancées en POO.
 * Connaissances des Design pattern et ayant pratiqué différentes architectures.
 * Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
@@ -61,37 +60,26 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 
 -----
 
-# Product Owner Expert logement social
+# Développeur·se PHP/Symfony 
 
-Véritable chef d'orchestre du build produit, le PO chez Activinnov a pour mission de spécifier, organiser et piloter la réalisation de nouvelles fonctionnalités que les PM lui confient. En lien direct avec l'UX Designer, les PM, le lead QA, l'équipe technique et les clients, il joue un rôle central dans "la fabrique logicielle".
+## Missions : 
 
-## Missions :
+* Conception / développement de nouvelles fonctionnalités sur les produits SaaS MROD, Dematimmo & RILOC (Symfony 4 & 6), en cohérence avec l’existant.
+* Assurer la maintenance et le support des solutions en place.
+* Maintenir et améliorer les suites de tests de façon pragmatique.
+* Conception / développement de nouveaux outils / produits pour répondre à de nouveaux besoins exprimés par nos clients (Symfony 6).
 
-- Animer et suivre le développement produit en collaboration étroite avec les équipes QA, UX et développement.
-- Organiser et animer des ateliers fonctionnels pour définir les besoins (spécifications, brainstormings et schémas Figjam ...).
-- Transformer les EPIC en User Stories détaillées pour les équipes dont la rédaction de critères d'acceptation (QA).
-- Préparer et diriger les sprints de développement, en veillant à leur bon déroulement et la démo client.
-- Animer les rituels agiles et assurer une communication fluide entre les équipes.
-- E􏰀ectuer la recette des fonctionnalités développées.
-- Rédiger la documentation fonctionnelle pour alimenter notre base documentaire produit (Notion).
-- Contribuer à l'amélioration continue de nos processus et de nos produits. Directement managé par notre PM ou le directeur du pôle produit.
+# Profil 
 
-## Profil : 
+Activinnov ne recrute pas sur cursus mais sur expériences ! 
 
-Nous cherchons avant tout des personnes motivées avec une tête bien faite. Voici les principaux critères attendus pour le profil recruté :
-
-- Nous ne recrutons pas sur cursus scolaire, mais par expérience pro. Nous cherchons un profil d'au moins 5 ans d'expérience dans le logement social, dans le domaine de la gestion locative et/ou commercialisation/attribution.
-- Avec une expérience significative en gestion de projet
-- Capacité d'organisation, de planification et suivi des délais.
-- A l'écoute, avec une forte curiosité pour apprendre et comprendre les enjeux métiers.
-- Analytique, avec un bon rédactionnel et des compétences en communication.
-- Esprit d'équipe, orienté solution et capable de travailler en transversalité avec différentes équipes.
-
+* Une solide expérience en développement Symfony.
+* Avoir des notions avancées en POO.
+* Connaissances des Design pattern et ayant pratiqué différentes architectures.
+* Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
 
 ## Salaire : 
-43K€-48K€ selon profil et expérience. 
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+45K€-50K€ selon profil et expérience. 
 
 ## Pourquoi les rejoindre ?
 

@@ -42,8 +42,8 @@ Full remote = 🏠
 ## Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- **Architecte / Développeur·se PHP/Symfony** [NEW]
-	- Product Owner Expert logement social
+	- Architecte / Développeur·se PHP/Symfony 
+	- **Développeur·se PHP/Symfony** [NEW]
 - [GL EVENTS](GL_EVENTS.md)
 	-  Développeur·euse front end VueJS
 - [WECANDOO](WECANDOO.md)
@@ -53,7 +53,7 @@ Full remote = 🏠
 
 - [KARAFUN](KARAFUN.md)
 	- Ingénieur·e DevOps
-	- Développeur·euse sénior·e back-end PHP OO / Symfony
+	- Développeur·euse sénior·e back-end PHP OO / Symfony [POURVU]
 
 ## Nice : 
 
