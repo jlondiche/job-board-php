@@ -24,6 +24,8 @@ Full remote = 🏠
 	- Technical Team Leader
 - [CCM BENCHMARK](CCM_BENCHMARK.md)
 	- Développeur·euse PHP pour l'équipe CORE
+- [DRDATA](DRDATA.md)
+	-  **Développeur·euse backend PHP / Symfony sénior·e** [NEW]
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	-  **Senior QA Engineer** [NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
