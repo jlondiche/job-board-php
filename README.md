@@ -48,6 +48,8 @@ Full remote = 🏠
 	- **Développeur·se PHP/Symfony** [NEW]
 - [GL EVENTS](GL_EVENTS.md)
 	-  Développeur·euse front end VueJS
+- [SPASH](SPASH.md)
+	- **Développeur·se full stack PHP/Symfony - Vue.JS** [NEW]
 - [WECANDOO](WECANDOO.md)
 	- **Développeur·euse back-end PHP/Laravel sénior·e**[NEW]
 
