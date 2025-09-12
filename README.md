@@ -29,8 +29,7 @@ Full remote = 🏠
 - [INSTANT GAMING](INSTANT_GAMING.md)
 	-  **Senior QA Engineer** [NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
-	- **Developpeur·euse back-end CQRS et Event Sourcing** [NEW] 🏠
-	- **Developpeur·euse front-end Vue.js intermédiaire**[NEW] 🏠
+	- **Developpeur·euse back-end CQRS et Event Sourcing** 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
 - [SEZANE](SEZANE.md)
@@ -50,18 +49,10 @@ Full remote = 🏠
 	-  Développeur·euse front end VueJS
 - [SPASH](SPASH.md)
 	- **Développeur·se full stack PHP/Symfony - Vue.JS** [NEW]
-- [WECANDOO](WECANDOO.md)
-	- **Développeur·euse back-end PHP/Laravel sénior·e**[NEW]
-
-## Lille : 
-
-- [KARAFUN](KARAFUN.md)
-	- Ingénieur·e DevOps
-	- Développeur·euse sénior·e back-end PHP OO / Symfony [POURVU]
 
 ## Nice : 
 
 - [FOLLOW](FOLLOW.md)
 	- **Data Engineer Senior Opérationnel** [NEW] 🏠
-	- **Senior back-end PHP / Symfony** [NEW] 🏠
+	- Senior back-end PHP / Symfony 🏠
 
