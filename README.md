@@ -23,15 +23,13 @@ Full remote = 🏠
 - [ASSOCONNECT](ASSOCONNECT.md)
 	- Technical Team Leader
 - [DRDATA](DRDATA.md)
-	-  **Développeur·euse backend PHP / Symfony sénior·e** [NEW]
-- [INSTANT GAMING](INSTANT_GAMING.md)
-	-  **Senior QA Engineer** [NEW]
+	-  Développeur·euse backend PHP / Symfony sénior·e
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
 - [SEZANE](SEZANE.md)
-	- **Développeur·euse sénior PHP / Symfony** [NEW]
+	- Développeur·euse sénior PHP / Symfony
 - [TICKETAC](TICKETAC.md)
-	- Lead developpeur·euse / CTO[NEW]
+	- Lead developpeur·euse / CTO
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -40,15 +38,11 @@ Full remote = 🏠
 
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Architecte / Développeur·se PHP/Symfony 
-	- **Développeur·se PHP/Symfony** [NEW]
-- [GL EVENTS](GL_EVENTS.md)
-	-  Développeur·euse front end VueJS
-- [SPASH](SPASH.md)
-	- **Développeur·se full stack PHP/Symfony - Vue.JS** [NEW]
+	- Développeur·se PHP/Symfony
 
 ## Nice : 
 
 - [FOLLOW](FOLLOW.md)
-	- **Data Engineer Senior Opérationnel** [NEW] 🏠
+	- Data Engineer Senior Opérationnel  🏠
 	- Senior back-end PHP / Symfony 🏠
 
