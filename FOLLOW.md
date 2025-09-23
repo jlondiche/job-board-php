@@ -22,11 +22,6 @@ En constante évolution, il propose à ses utilisateurs une interface ludique, e
 * Ops : Terraform / GCP et Docker
 * Data : Scala, MySQL et migration à prévoir vers du PostGreSQL
 
------
-
-# Sénior DevOps GCP - FULL REMOTE 🏠 ! NEW !
-
-Afin de continuer à faire évoluer l'interface de leur solution, l'équipe technique de Follow recherche son ou sa prochain.e expert.e back-end : 
 
 L'équipe technique est aujourd'hui composée de : 
 * VP Engineering 
@@ -34,6 +29,12 @@ L'équipe technique est aujourd'hui composée de :
 * 1 DévOps 
 * 6 développeurs : 1 lead, 3 back, 2 front et 1 full stack
 * 1 QA Engineer 
+
+-----
+
+# Sénior DevOps GCP - FULL REMOTE 🏠 ! NEW !
+
+Afin de continuer à faire évoluer l'interface de leur solution, l'équipe technique de Follow recherche son ou sa prochain.e expert.e DevOps ! 
 
 **Missions**
 
