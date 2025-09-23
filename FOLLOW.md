@@ -38,45 +38,21 @@ Afin de continuer à faire évoluer l'interface de leur solution, l'équipe tech
 
 **Missions**
 
-Vos principales missions en tant que senior back-end seront de : 
+Vos principales missions en tant que devOps seront de : 
 
-* Partager vos connaissances et expériences au reste de l'équipe (Pair programming, review,etc..) 
-* Concevoir, architecturer et développer le produit SaaS dans son intégralité 
-* Contribuer à la maîtrise de la qualité et de la dette technique
-* Migration symfony 5 vers symfony 7
-* Intégration d'API externe 
-* Amélioration des requêtes SQL : doctrine 
-* Être proactif dans la proposition d'alternatives et/ou de nouvelles technologies pour améliorer le produit 
-* Participer aux code reviews, aux tech meetings et à la prise de décision 
-* Apporter de la fluidité dans la communication et l'organisation de l'équipe, l'aider à améliorer ses propres pratiques 
-* Participer au processus de recrutement des nouveaux membres de l'équipe
+* Piloter la migration vers Cloud Run, en garantissant une architecture multi-régions, scalable et résiliente
+* Assurer la stabilité et la maintenance de l’infrastructure Cloud sur GCP
+* Plonger dans l’existant, analyser et documenter les choix techniques déjà faits
+* Contribuer activement à la mise en place des bonnes pratiques DevOps (CI/CD, SRE)
+* Collaborer étroitement avec les développeurs et l’ensemble de l’équipe produit
+* Participer à la reconstruction d’une culture DevOps saine : collaborative, orientée qualité et axée sur la communication
 
 **Profil**
 
-* Profil sénior, idéalement avec une expérience en startup sur des petites équipes 
-* Autonome et pro actif•ve
-* Très bonne expertise sur Symfony
-* Xp en API 
-* **Très bonne expertise sur SQL**
-* Connaissance en RabbitMQ un plus
-* Xp sur du mentoring de pairs : Pair programming, code review, etc... 
-* Xp en clean architecture et bonnes pratqiues
-
-
-## Pourquoi postuler ?
-
-Rejoindre Follow c'est avant tout rejoindre une équipe qui est drivée par la bonne humeur, et qui se retrouve tous les 3 mois pour des séminaires à Nice. 
-
-Vous travaillerez en fullremote, mais vous avez envie de vous impliquez dans une équipe ou la prise de décision se fait de manière collégiale et où le partage et les échanges sont clefs.
-
-Au-delà de travailler sur un produit qui aide à lutter contre les déserts médicaux, vous profiterez de :
-
-* 7 semaines de congés par an
-* Une mutuelle prise en charge à 100% par Follow
-* Tickets restaurants via carte Swile
-* Des stock options (BSPCE)
-* Un budget conférence annuel (300€ et un “jour offert”)
-* Un accès à un compte PluralSight Premium
+* 8 à 10 ans d’expérience dans des environnements techniques comparables
+* Excellente maîtrise de GCP, Cloud Run, CI/CD, SRE, Infrastructure as Code et monitoring
+* Capacité à prendre en main une plateforme complexe, à prioriser et à faire avancer concrètement les sujets
+* Profil collaboratif et communicant, capable de fédérer, de transmettre avec pédagogie et de travailler main dans la main avec l’équipe. 
 
 
 ## Salaire 
