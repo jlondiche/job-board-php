@@ -43,6 +43,6 @@ Full remote = 🏠
 ## Nice : 
 
 - [FOLLOW](FOLLOW.md)
-	- Data Engineer Senior Opérationnel  🏠
+	- **Sénior DevOps GCP - FULL REMOTE 🏠NEW!** 
 	- Senior back-end PHP / Symfony 🏠
 

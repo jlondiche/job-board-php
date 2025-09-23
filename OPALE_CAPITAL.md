@@ -2,7 +2,7 @@
 
 **Domaine:** #FINTECH - Plateforme d'investissement financière : Opale Capital SAS est une filiale du groupe Tikehau Capital. Elle s'adresse aux conseillers financiers et permet l'accès au marché du non coté à leur clientèle.
 
-**Où:** Paris 8ème, 1 jour de TT par semaine 
+**Où:** Paris 8ème - forfait 28jours de TT/an - soit 1 jour de TT tous les 15 jours. 
 
 **Quoi:** Opale Capital offre du : 
 - Private Equity : investir en capital dans des entreprises non cotées 
