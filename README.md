@@ -39,6 +39,9 @@ Full remote = 🏠
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Architecte / Développeur·se PHP/Symfony 
 	- Développeur·se PHP/Symfony
+- [VIVLIO](VIVLIO.md)
+	- Développeur·se sénior·e PHP/Symfony
+	- Développeur·se intérmédiaire PHP/Symfony - ECOMMERCE
 
 ## Nice : 
 
