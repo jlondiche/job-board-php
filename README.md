@@ -40,8 +40,8 @@ Full remote = 🏠
 	- Architecte / Développeur·se PHP/Symfony 
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
-	- Développeur·se sénior·e PHP/Symfony
-	- Développeur·se intérmédiaire PHP/Symfony - ECOMMERCE
+	- **Développeur·se sénior·e PHP/Symfony - NEW!**
+	- **Développeur·se intérmédiaire PHP/Symfony - ECOMMERCE - NEW!**
 
 ## Nice : 
 
