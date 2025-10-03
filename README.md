@@ -46,6 +46,5 @@ Full remote = 🏠
 ## Nice : 
 
 - [FOLLOW](FOLLOW.md)
-	- **Sénior DevOps GCP - FULL REMOTE 🏠NEW!** 
 	- Senior back-end PHP / Symfony 🏠
 
