@@ -2,7 +2,7 @@
 
 **Domaine :** Economie collaboratie, voyage. **N°1 d'échange de maison. Voyagez plus et mieux grâce à l'échange de maisons.**
 
-**Où :** Locaux dans le 10ème arr. de Paris, métro Poissonniere - 2 jour de TT /semaine.
+**Où :** Locaux dans le 10ème arr. de Paris, métro Poissonniere - 2 jours de TT /semaine.
 
 **Quoi :** HomeExchange est le leader mondial de l'échange de maisons et d'appartements entre particuliers avec une communauté de plus de 200 000 membres dans 155 pays.
 
@@ -16,14 +16,14 @@ https://www.homeexchange.fr/
 * Créée en 2011 
 * Présent dans 155 pays🚀
 * Plus de 200 000 membres au sein de la communauté
-* + 32% de membres en 1 an (fin aout 2025)
+* Plus de 32% de membres en 1 an (fin aout 2025)
 * Plus de 130 collaborateurs répartis entre Paris, Cambridge et Massachusetts
-* **Certifiée B Corp despuis septembre 2022**
+* **Certifiée B Corp depuis septembre 2022**
 
 **Stack**
 
 Stack technique :
-PHP 8, Symfony 7, => Refonte en cours vers du Node.js, TypeScript
+PHP 8, Symfony 7 => Refonte en cours vers du Node.js, TypeScript
 
 
 # **Engineering Manager expérimenté·e**  
@@ -54,7 +54,7 @@ HomeExchange recherche un·e **Engineering Manager expérimenté·e**, capable d
 ## Pourquoi nous rejoindre  
 
 **Rejoindre HomeExchange, c’est rejoindre un projet avec du sens dans le monde du voyage et de l'économie collaborative.**
-Vous avez l’opportunité d'intégrer : 
+Vous avez : 
 
 - L’envie de faire bouger les lignes dans une **scale-up en forte croissance**, à impact, 
 - L’opportunité de travailler sur un **produit grand public, utilisé dans le monde entier, au sein d’une organisation responsabilisante et centrée utilisateur,**
@@ -83,7 +83,7 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. **Ne
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com (sur la partie back-end) avec un CV ou bien un profil LinkedIn à jour. 
+Tout simplement, envoyez-moi un email jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. 
 
 À bientôt !
 
