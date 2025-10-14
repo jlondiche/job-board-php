@@ -17,7 +17,7 @@ En constante évolution, il propose à ses utilisateurs une interface ludique, e
 
 **Stack**
 
-* Backend : Symfony 5 / MySQL/ MangoDB / API Platform et NodeJS
+* Backend : Symfony 5 / MySQL/ MongoDB / API Platform et NodeJS
 * Frontend : Tailwind CSS / React.js / TypeScript / React Query et Storybook
 * Ops : Terraform / GCP et Docker
 * Data : Scala, MySQL et migration à prévoir vers du PostGreSQL
