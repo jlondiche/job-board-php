@@ -27,7 +27,7 @@ Full remote = 🏠
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
 - [SEZANE](SEZANE.md)
-	- Développeur·euse sénior PHP / Symfony
+	- Développeur·euse sénior PHP / Symfony [POURVU]
 - [TICKETAC](TICKETAC.md)
 	- Lead developpeur·euse / CTO
 - [TOULOISIRS](TOULOISIRS.md)
