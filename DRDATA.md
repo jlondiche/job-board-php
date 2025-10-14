@@ -1,6 +1,6 @@
 # 💻  Dr DATA - Les Docteurs de la donnée 🩺
 
-**Domaine :** Protection des données de santé et 
+**Domaine :** Protection des données de santé
 
 **Où :** Locaux dans le 2ème arrondissement de Paris - 1 jour de TT et + selon localisation. 
 

@@ -2,7 +2,7 @@
 
 **Domaine :** CE - Voyage - E-commerce
 
-**Où :** Paris 13 - télétravail : 2j par semaine à partir du 6ieme mois
+**Où :** Paris 13 - télétravail : 2jours /semaine à partir du 6ième mois
 
 **Quoi?** 
 

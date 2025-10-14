@@ -1,6 +1,6 @@
 # 🙏 ASSOCONNECT 🤝
 
-**Domaine :**  Éditeur de logiciel - Associatif. **#techforgood**
+**Domaine :**  Éditeur de logiciel - Associatif **#techforgood**
 
 **Où :** Paris 2ème ou Marseille. Il faut être 2 jours par semaine dans les locaux au minimum.
 

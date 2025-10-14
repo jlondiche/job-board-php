@@ -1,6 +1,6 @@
 # 🩺 FOLLOW 🩺 
 
-**Domaine:** Solution SaaS de suivi du dossier patient 
+**Domaine:** Medicale. Solution SaaS innovante de suivi du dossier patient pour les chirurgiens.
 
 **Où:** Locaux à Nice - FULL REMOTE 🏠 avec bureaux virtuels sur Gather.
 

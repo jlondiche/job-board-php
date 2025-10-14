@@ -18,12 +18,15 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 Full remote = 🏠
 
 ## Paris : 
+
 - [ALUMNFORCE](ALUMNFORCE.md)
 	- Lead Développeur·euse / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
 - [ASSOCONNECT](ASSOCONNECT.md)
 	- Technical Team Leader
 - [DRDATA](DRDATA.md)
-	-  Développeur·euse backend PHP / Symfony sénior·e
+	- Développeur·euse backend PHP / Symfony sénior·e
+- [HOMEEXCHANGE](HOMEEXCHANGE.md)
+	- **Engineering Manager experimenté·e - NEW!** 
 - [OPALE CAPITAL](OPALE_CAPITAL.md)
 	- Développeur·euse fullstack PHP/Symfony 
 - [SEZANE](SEZANE.md)
