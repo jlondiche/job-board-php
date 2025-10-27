@@ -29,7 +29,7 @@ Ops : Linux, GitHub, MySQL, Docker
 # Développeur(se) full stack 
 
 Tu es passionné·e par du développement pur, tu aimes concevoir, optimiser et aller au fond des choses, et tu souhaites rejoindre une petite équipe tech structurée ce job est pour toi. 
-L'équipe est composée de 3 développeurs full stack, un lead et un head of product, il y règne une bonne ambiance et les avis de chacun comptent. Le management paticipatif est de rigueur et les projets sont menés en suivant une méthodologie dérivée des méthodes agiles. 
+L'équipe est composée de 3 développeurs full stack, un lead et un head of product, il y règne une bonne ambiance et les avis de chacun comptent. Le management participatif est de rigueur et les projets sont menés en suivant une méthodologie dérivée des méthodes agiles. 
 
 La cohésion, l'entraide et une bonne communication sont leurs maîtres mots. 
 
