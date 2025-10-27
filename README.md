@@ -27,12 +27,6 @@ Full remote = 🏠
 	- Développeur·euse backend PHP / Symfony sénior·e
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
 	- **Engineering Manager experimenté·e - NEW!** 
-- [OPALE CAPITAL](OPALE_CAPITAL.md)
-	- Développeur·euse fullstack PHP/Symfony 
-- [SEZANE](SEZANE.md)
-	- Développeur·euse sénior PHP / Symfony [POURVU]
-- [TICKETAC](TICKETAC.md)
-	- Lead developpeur·euse / CTO
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -44,9 +38,8 @@ Full remote = 🏠
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·se sénior·e PHP/Symfony - NEW!**
-	- **Développeur·se intérmédiaire PHP/Symfony - ECOMMERCE - NEW!**
 
-## Nice : 
+## Nice :
 
 - [FOLLOW](FOLLOW.md)
 	- Senior back-end PHP / Symfony 🏠
