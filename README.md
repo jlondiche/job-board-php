@@ -27,6 +27,8 @@ Full remote = 🏠
 	- Développeur·euse backend PHP / Symfony sénior·e
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
 	- **Engineering Manager experimenté·e - NEW!** 
+- [HOMUNITY](HOMUNITY.md)
+	- **Développeur·euse fullstack - NEW!**
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -37,7 +39,7 @@ Full remote = 🏠
 	- Architecte / Développeur·se PHP/Symfony 
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se sénior·e PHP/Symfony - NEW!**
+	- Développeur·se sénior·e PHP/Symfony
 
 ## Nice :
 
