@@ -21,7 +21,7 @@ Depuis 2020 Homunity se diversifie et s'ouvre à la distribution de fonds immobi
 
 Back-end : PHP 8.3 Symfony 5.4 mais pas un ayatollah 
 
-Front-end : THML, CSS, JS (Vanilla), Tailwind, Bootsrap
+Front-end : HTML, CSS, JS (Vanilla), Tailwind, Bootsrap
 
 Ops : Linux, GitHub, MySQL, Docker 
 
