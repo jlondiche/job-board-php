@@ -21,8 +21,6 @@ Full remote = 🏠
 
 - [ALUMNFORCE](ALUMNFORCE.md)
 	- Lead Développeur·euse / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
-- [ASSOCONNECT](ASSOCONNECT.md)
-	- Technical Team Leader
 - [DRDATA](DRDATA.md)
 	- Développeur·euse backend PHP / Symfony sénior·e
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
