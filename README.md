@@ -28,7 +28,7 @@ Full remote = 🏠
 - [HOMUNITY](HOMUNITY.md)
 	- **Développeur·euse fullstack - NEW!**
 -  [INSTANT GAMING](INSTANT_GAMING.md)
-	Développeur·euse sénior·e fullstack JS/PHP
+	**Développeur·euse sénior·e fullstack JS/PHP NEW!**
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -36,7 +36,6 @@ Full remote = 🏠
 ## Lyon : 
 
 - [ACTIVINNOV](ACTIVINNOV.md)
-	- Architecte / Développeur·se PHP/Symfony 
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·se intermédiaire PHP/Symfony [NEW]**

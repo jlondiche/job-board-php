@@ -14,10 +14,10 @@ https://www.drdata.io/
 
 **Facts & Figures :**
 
-* Créée en 2018
-* Start-up en croissance 🚀
-* 10 collaborateurs 
-* **Dépôt du 1er brevet français pour le traitement de données de consentement via la technologie blockchain**
+* Créée en 2018.
+* Start-up en croissance 🚀.
+* 10 collaborateurs.
+* **Dépôt du 1er brevet français pour le traitement de données de consentement via la technologie blockchain**.
 
 **Stack**
 Stack technique :

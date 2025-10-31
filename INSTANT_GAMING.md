@@ -24,7 +24,7 @@ Instant Gaming est dans le top 3 au niveau européen des plateformes à forte cr
 
 # Développeur·euse sénior·e fullstack JS/PHP
 
-Au sein de l’équipe Tech’, vous aurez pour missions principales d’améliorer le site d’Instant Gaming ainsi que son expérience utilisateur. 
+Au sein de l’équipe parisienne composée de 13 personnes, vous aurez pour missions principales d’améliorer le site d’Instant Gaming ainsi que son expérience utilisateur. 
 
 ## Missions
 

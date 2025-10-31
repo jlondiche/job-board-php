@@ -26,39 +26,6 @@ Dans un secteur réglementairement mouvant dans lequel il est important de se r�
 
 PHP, Symfony, MySQL, RabbitMQ, Elasticsearch, PHPunit, GitlabCI, Cypress 
 
------
-
-# Architecte / Développeur·se PHP/Symfony 
-
-Venez rejoindre l'équipe archi d'Activinnov à Lyon ! 
-
-Les objectifs sont de permettre de créer du code propre, cohérent, pertinent, et adaptable en fonction des besoins de chaque client. 
-
-Pour se faire ils utilisent des architectures hexagonales, des tests automatisés, de la code review systématique, et une grande attention est portée au partage des connaissances.
-
-## Missions : 
-
-* Accompagnement des développeurs pour assurer la cohérence et le pragmatisme des développements.
-* Promulgation des bonnes pratiques décidées au sein des équipes.
-* Maintenir la cohérence des pratiques entre les différents produits.
-* Mentoring technique (notamment lors de la revue de code, ou de pair programming).
-* Maintien de l’écosystème de développement (montée de versions majeures de librairies, cohérence des librairies internes).
-* Participer aux orientations techniques de la boite avec les autres architectes.
-
-## Profil 
-
-* Une solide expérience en développement Symfony. 
-* Avoir des notions avancées en POO.
-* Connaissances des Design pattern et ayant pratiqué différentes architectures.
-* Vous êtes impliqués, aimez les choses bien faites, le partage, l'ambiance d'une équipe qui se tire vers le haut. 
-
-## Salaire : 
-
-55K€ selon profil et expérience. 
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
-
------
 
 # Développeur·se PHP/Symfony 
 
