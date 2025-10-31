@@ -27,6 +27,8 @@ Full remote = 🏠
 	- **Engineering Manager experimenté·e - NEW!** 
 - [HOMUNITY](HOMUNITY.md)
 	- **Développeur·euse fullstack - NEW!**
+-  [INSTANT GAMING](INSTANT_GAMING.md)
+	Développeur·euse sénior·e fullstack JS/PHP
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
