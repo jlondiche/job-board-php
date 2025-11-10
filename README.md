@@ -28,7 +28,9 @@ Full remote = 🏠
 - [HOMUNITY](HOMUNITY.md)
 	- **Développeur·euse fullstack - NEW!**
 -  [INSTANT GAMING](INSTANT_GAMING.md)
-	**Développeur·euse sénior·e fullstack JS/PHP NEW!**
+	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
+-  [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
+	- **Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS NEW!**
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
