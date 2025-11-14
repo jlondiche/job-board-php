@@ -27,10 +27,17 @@ Full remote = 🏠
 	- **Engineering Manager experimenté·e - NEW!** 
 - [HOMUNITY](HOMUNITY.md)
 	- **Développeur·euse fullstack - NEW!**
+<<<<<<< Updated upstream
 -  [INSTANT GAMING](INSTANT_GAMING.md)
 	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
 -  [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS NEW!**
+=======
+- [INSTANT GAMING](INSTANT_GAMING.md)
+	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
+>>>>>>> Stashed changes
+- [MOBILITY WORK](MOBILITY_WORK.md)
+	- **Developpeur(se) senior·e back-end - DDD & CQRS NEW!**  🏠
 - [TOULOISIRS](TOULOISIRS.md)
 	- Développeur·euse front-end
 
@@ -40,7 +47,7 @@ Full remote = 🏠
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se intermédiaire PHP/Symfony [NEW]**
+	- **Développeur·se intermédiaire PHP/Symfony**
 
 ## Nice :
 

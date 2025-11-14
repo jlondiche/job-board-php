@@ -9,11 +9,11 @@ Depuis 2020 Homunity se diversifie et s'ouvre à la distribution de fonds immobi
 
 **Facts & figures:**
 
-• Créé en 2014
+• Créé en 2014 
 • Accompagne des milliers de Français dans le développement de leur patrimoine immobilier 
 • Projets sélectionnées et audités par des experts 
-• Suivis personnalisés 
-• Racheté en 2019 par le groupe Tikehau Capital: petite entreprise filliale d'un grand groupe
+• Suivis personnalisés  
+• Racheté en 2019 par le groupe Tikehau Capital: petite entreprise filliale d'un grand groupe 
 • Présent dans 15 pays  
 
 
