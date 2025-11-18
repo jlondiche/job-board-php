@@ -31,8 +31,6 @@ Full remote = 🏠
 	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
 -  [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS NEW!**
-- [INSTANT GAMING](INSTANT_GAMING.md)
-	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- **Developpeur(se) senior·e back-end - DDD & CQRS NEW!**  🏠
 - [TOULOISIRS](TOULOISIRS.md)
