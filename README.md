@@ -22,17 +22,17 @@ Full remote = 🏠
 - [ALUMNFORCE](ALUMNFORCE.md)
 	- Lead Développeur·euse / Architecte PHP – multi-tenant, CQRS, archi hexa 🏠
 - [DRDATA](DRDATA.md)
-	- Développeur·euse backend PHP / Symfony sénior·e
+	- Développeur·euse backend PHP / Symfony sénior·e **POURVU**
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
-	- **Engineering Manager experimenté·e - NEW!** 
+	- **Engineering Manager experimenté·e** 
 - [HOMUNITY](HOMUNITY.md)
 	- **Développeur·euse fullstack - NEW!**
 - [INSTANT GAMING](INSTANT_GAMING.md)
-	- **Développeur·euse sénior·e fullstack JS/PHP NEW!**
+	- **Développeur·euse sénior·e fullstack JS/PHP**
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
 	- **Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS NEW!**
 - [MOBILITY WORK](MOBILITY_WORK.md)
-	- **Developpeur(se) senior·e back-end - DDD & CQRS NEW!**  🏠
+	- **Developpeur(se) senior·e back-end - IA**  🏠
 - [VASCO](VASCO.md)
 	- **VP Eng / Engineering Manager FinTech NEW!**
 
@@ -42,10 +42,10 @@ Full remote = 🏠
 - [ACTIVINNOV](ACTIVINNOV.md)
 	- Développeur·se PHP/Symfony
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se intermédiaire PHP/Symfony**
+	- Développeur·se intermédiaire PHP/Symfony
 
 ## Nice :
 
 - [FOLLOW](FOLLOW.md)
-	- Senior back-end PHP / Symfony 🏠
+	- Senior back-end PHP / Symfony 🏠 **POURVU**
 
