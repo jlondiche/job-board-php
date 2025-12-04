@@ -24,18 +24,22 @@ Full remote = 🏠
 - [DRDATA](DRDATA.md)
 	- Développeur·euse backend PHP / Symfony sénior·e **POURVU**
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
-	- **Engineering Manager experimenté·e** 
+	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
-	- **Développeur·euse fullstack - NEW!**
+	- Développeur·euse fullstack -
 - [INSTANT GAMING](INSTANT_GAMING.md)
-	- **Développeur·euse sénior·e fullstack JS/PHP**
+	- Développeur·euse sénior·e fullstack JS/PHP
 - [JAPAN EXPERIENCE](JAPAN_EXPERIENCE.md)
-	- **Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS NEW!**
+	- Développeur·se fullstack 70% Symfony / 30% JS #DDD #CQRS 
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- **Developpeur(se) senior·e back-end - IA**  🏠
 - [VASCO](VASCO.md)
 	- **VP Eng / Engineering Manager FinTech NEW!**
 
+## Lille :
+
+- [ONEYTRSUT](ONEYTRUST.md)
+	- **DevOps intémédiaire - Azure, K8S NEW!**
 
 ## Lyon : 
 
@@ -44,8 +48,5 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- Développeur·se intermédiaire PHP/Symfony
 
-## Nice :
 
-- [FOLLOW](FOLLOW.md)
-	- Senior back-end PHP / Symfony 🏠 **POURVU**
 
