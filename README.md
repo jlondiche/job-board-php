@@ -38,7 +38,7 @@ Full remote = 🏠
 
 ## Lille :
 
-- [ONEYTRSUT](ONEYTRUST.md)
+- [ONEYTRUST](ONEYTRUST.md)
 	- **DevOps intémédiaire - Azure, K8S NEW!**
 
 ## Lyon : 
