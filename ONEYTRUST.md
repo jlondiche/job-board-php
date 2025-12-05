@@ -36,7 +36,7 @@ Dans un contexte de fin de transformation et d’industrialisation et fort de no
 * Terraform: infrastructure as code.
 
 
-# DevOps intémédiaire - Azure, K8S
+# DevOps intermédiaire - Azure, K8S
 
 Rejoignez la super team DevOps d'Oneytrust composée aujourd'hui de 4 personnes ! 
 
