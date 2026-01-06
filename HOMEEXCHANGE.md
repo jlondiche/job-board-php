@@ -2,7 +2,7 @@
 
 **Domaine :** Economie collaboratie, voyage. **N°1 d'échange de maison. Voyagez plus et mieux grâce à l'échange de maisons.**
 
-**Où :** Locaux dans le 10ème arr. de Paris, métro Poissonniere - 2 jours de TT /semaine.
+**Où :** Locaux dans le 10ème arr. de Paris, métro Poissonniere - 2 jours de télétravail / semaine. 
 
 **Quoi :** HomeExchange est le leader mondial de l'échange de maisons et d'appartements entre particuliers avec une communauté de plus de 200 000 membres dans 155 pays.
 

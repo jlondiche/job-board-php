@@ -2,7 +2,7 @@
 
 **Domaine:** FinTech, Homunity a pour ambition de devenir le leader de l'investissement immobilier, de manière 100% digital. 
 
-**Où:** 12, rue Jacquemont Paris 17ème - 1 jour de TT tous les 15 jours 
+**Où:** 12, rue Jacquemont Paris 17ème - 1 jour de TT tous les 15 jours. 
 
 **Quoi:** **Spécialisée dans l'investissement locatif à plusieurs**, Homunity est une filliale de Tikehau Capital, un actionnaire solide. Homunity permet aux particuliers d'investir dans des opportunités de crowdfunding immobilier dès 1 000 €. 
 Depuis 2020 Homunity se diversifie et s'ouvre à la distribution de fonds immobiliers ainsi que la distribution de lots neufs et d'investissements locatifs.

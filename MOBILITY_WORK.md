@@ -1,8 +1,8 @@
 # ⚒️ MOBILITY WORK ⚒️
 
-**Domaine :**  Plateforme de gestion de la maintenance nouvelle génération
+**Domaine :**  Plateforme de gestion de la maintenance nouvelle génération. 
 
-**Où :** Paris 8. Poste en FullRemote  🏠
+**Où :** Paris 8. Poste en FullRemote ou en présentiel sur Paris.   🏠 
 
 **Quoi :** Mobility Work est une startup parisienne officiellement lancée en mai 2016 (www.mobility-work.com) Il s’agit d’une plateforme de gestion de la maintenance nouvelle génération. Un outil simple pour les techniciens qui peuvent facilement planifier, rapporter et analyser leurs interventions et un outil de mise en relation, réseau social autour des équipements industriels. La maintenance représente 10% des emplois dans le monde. Née en 2006, Mobility Work s'inspire des codes du B2C pour proposer une solution innovante et communautaire.
 

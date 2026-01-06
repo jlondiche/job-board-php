@@ -3,7 +3,7 @@
 
 **Domaine:** Oneytrust est la FinTech française de lutte contre la fraude et experte de la validation de l’identité digitale.
 
-**Où:** Locaux à Paris et lille. Poste sur l'équipe de Lille 3 jours sur place et 2 jours TT.
+**Où:** Croix - 2 jours de remote par semaine. 
 
 **Quoi:** Née en 2018 de la fusion de deux acteurs français et filiale à 100 % de Oney Bank, Oneytrust développe un ensemble de solutions innovantes afin de fluidifier et sécuriser l’expérience client.
 
@@ -13,7 +13,7 @@ Dans un contexte de fin de transformation et d’industrialisation et fort de no
 
 **Facts & figures:**
 
-* Crée en 2018 
+* Crée en 2018
 * Pionnier dans la lutte contre la fraude sur le web et digital
 * Une filiale indépendante de oney ce n'est pas une banque 
 * Une équipe de 50 personnes en externe et en interne

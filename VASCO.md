@@ -2,7 +2,7 @@
 
 **Domaine:** Fintech / SaaS
 
-**Où:** Paris, rue La Fayette, 75010
+**Où:** Paris, rue La Fayette, 75010 - 2 jours de remote par semaine. 
 
 **Quoi:** Vasco est une solution SaaS dédiée aux fonds d'investissement.
 
