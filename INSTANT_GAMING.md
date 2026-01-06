@@ -2,7 +2,7 @@
 
 **Domaine :** Gaming / E-commerce
 
-**Où :** Hybride - Locaux à Paris (Bourse) 2 jours de TT par semaine
+**Où :** Hybride - Locaux à Paris (Bourse) 2 jours de TT / semaine.
 
 **Quoi :** Leader dans la vente de jeux vidéos cross-platform : PC, Playstation, Xbox, Nintendo Switch. Plateforme de gamers faite par des gamers avec des prix bas et un service client de qualité. 
 
