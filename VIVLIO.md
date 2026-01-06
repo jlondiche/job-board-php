@@ -2,7 +2,7 @@
 
 **Domaine :** Librairie de livres numériques et liseuses PDF. 
 
-**Où :** Lyon 9ème - 2 à 3jours de TT/semaine.
+**Où :** Lyon 9ème - 2 - 3jours de TT/semaine.
 
 **Quoi :** Et si les livres pouvaient changer le monde ? C'est le pari qu'a fait Vivlio il y a 12 ans. Leur mission ? Connecter les êtres humains à travers les livres. 
 
