@@ -39,7 +39,7 @@ Full remote = 🏠
 
 - [VIVLIO](VIVLIO.md)
 	- Développeur·se intermédiaire PHP/Symfony
-	- **Site Reliability Engineering - SRE/Infra**
+	- **Site Reliability Engineering - SRE/Infra NEW!**
 
 
 
