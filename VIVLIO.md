@@ -54,6 +54,52 @@ Vous devez avoir une forte notion de qualité dans vos développements (gestion 
 45K€ max selon profil.
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
+
+# Site Reliability Engineering - SRE/Infra
+
+
+## Missions
+
+* Réalisation des actions de maintenance préventives et correctives sur l’infra Kubernetes et Azure
+* Mise en place et utilisation de Docker pour intégrer ces services
+* Déploiement des services avec Helm sur Kubernetes
+* Déploiement de l’infrastructure (adressage IP, DNS, serveur web, certificats, ...) avec Terraform
+* Opérations sur les BDD (mysql principalement) : mise en place/update de schémas, migrations de données, configuration, optimisation...
+* Mise à jour des services/applications et des configurations suite à des choix d'équipes et /ou du CTO
+* Améliorations de la CI/CD Azure pour offrir des outils de tests et de déploiements aux développeurs
+* Optimisation des performances des outils de CI/CD
+* Optimisation des performances des outils de build et de développement
+* Mise en place et maintenance d’outils de monitoring et supervision sur l’infra
+* Mise en place et maintenance d’outils de mesure des performances sur l’infra
+* Gestion et évolution des alertes
+* Supervision proactive de l'état des services
+* Mise en place de “formations”/”tutorats” réguliers des équipes techniques sur les bonnes pratiques d’archi, déploiement, monitoring
+* Mise en place de documentation de qualité : fonctionnelle, de conception et d’opération
+
+## Profil
+
+* 3+ ans d’expérience en environnement Cloud et/ou DevOps en production
+* Maîtrise de Kubernetes (déploiement, exploitation, supervision) et de son écosystème Helm
+* Très bonne maîtrise de Docker pour la construction et l’intégration de services applicatifs
+* Solides compétences sur Azure (infra, CI/CD, services managés)
+* Bonne pratique de l’IaC avec Terraform (déploiement d’infrastructures complètes)
+* Expérience en CI/CD Azure (mise en place, amélioration, optimisation des pipelines)
+* Bonne maîtrise des bases de données MySQL (schémas, migrations, optimisation des performances)
+* Bonnes compétences en monitoring, supervision et alerting (mise en place, exploitation, amélioration continue)
+* Sensibilité forte aux performances (infra, CI/CD, build, outils de développement)
+* Capacité à documenter (technique, fonctionnelle, opérationnelle) de manière claire et durable
+* Aptitude au partage de connaissances
+* Des connaissances en PHP peuvent être un plus
+
+
+## Salaire 
+
+45K€ / 55K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
+
+
 ## Comment postuler ?
 
 Tout simplement, envoyez-nous un email à jeanne@jlrecrutement.com et jodia@jlrecrutement.com et julie-charlotte@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
