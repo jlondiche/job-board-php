@@ -38,7 +38,7 @@ Full remote = 🏠
 ## Lyon : 
 
 - [VIVLIO](VIVLIO.md)
-	- Développeur·se intermédiaire PHP/Symfony
+	- **Développeur·se sénior·e / lead - PHP/Symfony NEW**
 	- **Site Reliability Engineering - SRE/Infra NEW!**
 
 

@@ -24,7 +24,7 @@ L’écosystème Vivlio se double d’une gamme de liseuses permettant à ses ut
 PHP8, Symfony, Docker, Kubernetes, MySQL, RabbitMQ,  GitHub. 
 
 
-# Développeur·se intermédiaire PHP/Symfony
+# Développeur·se sénior·e / lead -  PHP/Symfony
 
 Intégré dans l'équipe Scrum, vous participerez de manière active et collaborative aux choix techniques. 
 Vous devez avoir une forte notion de qualité dans vos développements (gestion de la complexité algorithmique, tests unitaires, intégration continue, documentation, …).
@@ -51,7 +51,7 @@ Vous devez avoir une forte notion de qualité dans vos développements (gestion 
 
 ## Salaire
 
-45K€ max selon profil.
+55K€ max selon profil.
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
