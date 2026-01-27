@@ -38,7 +38,7 @@ Dans un contexte de fin de transformation et d’industrialisation et fort de no
 
 # DevOps confirmé·e - Azure, K8S
 
-Rejoignez la super team DevOps d'Oneytrust composée aujourd'hui de 4 personnes ! 
+Rejoignez la super team DevOps d'Oneytrust composée de 3 personnes ! 
 
 ## Missions:
 
