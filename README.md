@@ -23,8 +23,6 @@ Full remote = 🏠
 	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
 	- Développeur·euse fullstack -
-- [INSTANT GAMING](INSTANT_GAMING.md)
-	- Développeur·euse sénior·e fullstack JS/PHP **POURVU**
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Developpeur(se) senior·e back-end - IA  🏠
 - [VASCO](VASCO.md)
@@ -36,6 +34,9 @@ Full remote = 🏠
 	- DevOps confirmé·e - Azure, K8S
 
 ## Lyon : 
+
+- [OPERA ENERGIE](OPERA_ENERGIE.md)
+	- **Développeur·se expert·e PHP/Symfony NEW**
 
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·se sénior·e / lead - PHP/Symfony NEW**
