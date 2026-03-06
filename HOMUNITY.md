@@ -2,6 +2,8 @@
 
 **Domaine:** FinTech, Homunity a pour ambition de devenir le leader de l'investissement immobilier, de manière 100% digital. 
 
+L’idée du crowdfunding immobilier vous parle ? Imaginez pouvoir investir dans un appartement à plusieurs, avec des amis ou même avec des inconnus. Les frais et les bénéfices sont partagés. Une belle idée non ?
+
 **Où:** 12, rue Jacquemont Paris 17ème - 1 jour de TT tous les 15 jours. 
 
 **Quoi:** **Spécialisée dans l'investissement locatif à plusieurs**, Homunity est une filliale de Tikehau Capital, un actionnaire solide. Homunity permet aux particuliers d'investir dans des opportunités de crowdfunding immobilier dès 1 000 €. 
@@ -26,7 +28,7 @@ Front-end : HTML, CSS, JS (Vanilla), Tailwind, Bootsrap
 Ops : Linux, GitHub, MySQL, Docker 
 
 
-# Développeur(se) full stack 
+# Développeur(se) PHP, évolution vers du lead 
 
 Tu es passionné·e par du développement pur, tu aimes concevoir, optimiser et aller au fond des choses, et tu souhaites rejoindre une petite équipe tech structurée ce job est pour toi. 
 L'équipe est composée de 3 développeurs full stack, un lead et un head of product, il y règne une bonne ambiance et les avis de chacun comptent. Le management participatif est de rigueur et les projets sont menés en suivant une méthodologie dérivée des méthodes agiles. 
@@ -59,7 +61,7 @@ Tu auras un rôle clé dans la conception, le développement et la maintenance d
 
 ## Salaire : 
 
- 45-60K€ selon profil et expérience. 
+ 55-65K€ selon profil et expérience. 
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

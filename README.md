@@ -24,7 +24,7 @@ Full remote = 🏠
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
 	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
-	- Développeur·euse fullstack
+	- Développeur·euse back-edn évolution vers du lead dev
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Developpeur(se) senior·e back-end - IA  🏠
 - [SEZANE](SEZANE.md)
