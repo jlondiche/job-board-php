@@ -14,7 +14,7 @@ Depuis 2020 Homunity se diversifie et s'ouvre à la distribution de fonds immobi
 • Créé en 2014 
 • Accompagne des milliers de Français dans le développement de leur patrimoine immobilier 
 • Projets sélectionnées et audités par des experts 
-• Suivis personnalisés  
+• Suivis personnalisés
 • Racheté en 2019 par le groupe Tikehau Capital: petite entreprise filliale d'un grand groupe 
 • Présent dans 15 pays  
 
@@ -42,26 +42,27 @@ Homunity ne recherche pas un·e simple "assembleur·se de briques" mais un·e v�
 
 Tu auras un rôle clé dans la conception, le développement et la maintenance de leurs applications web, avec un vrai challenge technique.
 
-• Concevoir et développer des architectures performantes et évolutives
-• Développer du code PHP optimisé et maintenable
-• Intervenir sur le front et le back avec un souci constant de performance et d’UX
-• Développer et maintenir des API avec leurs partenaires (Boursorama, Suravenir, Sofidy, Swisslife, Lemonway, Yousign, …)
-• Garantir la qualité (tests, documentation, intégration continue)
-• Optimiser et faire évoluer la base de données
-• Etre force de proposition et apporter des solutions innovantes
+• Concevoir et développer des architectures performantes et évolutives 
+• Développer du code PHP optimisé et maintenable 
+• Intervenir sur le front et le back avec un souci constant de performance et d’UX 
+• Développer et maintenir des API avec leurs partenaires (Boursorama, Suravenir, Sofidy, Swisslife, Lemonway, Yousign, …) 
+• Garantir la qualité (tests, documentation, intégration continue) 
+• Optimiser et faire évoluer la base de données 
+• Etre force de proposition et apporter des solutions innovantes 
 
 ## Profil recherché:
 
 • Diplôme Bac + 5 spécialisé en informatique / tech 
-• 5 ans d'expèrience en développement web : quelqu'un qui a l'expèrience de bien coder et qui peut concevoir des applis
-• Maitrise solide de PHP, à l'aise avec Symfony mais dont ce n'est pas la religion. 
+• A l'aise en algorythme 
+• 5 ans d'expèrience en développement web : quelqu'un qui a l'expèrience de bien coder et qui peut concevoir des applis 
+• Maitrise solide de PHP, à l'aise avec Symfony mais dont ce n'est pas la religion 
 • A l'aise en SQL, sur des requpetes à la main ou avec un ORM 
 • Connaissance avancée en HTML, CSS, JS 
-• Rigoureux, autonome et curieux
+• Rigoureux, autonome et curieux 
 
 ## Salaire : 
 
- 55-65K€ selon profil et expérience. 
+55-65K€ selon profil et expérience. 
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
