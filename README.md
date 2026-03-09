@@ -44,7 +44,6 @@ Full remote = 🏠
 	- **Développeur·se expert·e PHP/Symfony - NEW**
 
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
+	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW** POURVU
 	- **Site Reliability Engineering - SRE/Infra - NEW!**
-	- **QA junior NEW!**
 	- **PO/PM intérmédiaire - NEW!**

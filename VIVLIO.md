@@ -55,7 +55,6 @@ product design.
 opportunités de financement de la roadmap avec nos partenaires
 clés.
 
-
 ## Profil
 
 * 3 ans d'expérience à un poste de PO/PM 
@@ -74,46 +73,15 @@ fonctionnels détaillés et les sujets haut niveau.
 etc.)
 * Maîtrise de l’anglais, oral et écrit.
 
-
 ## Salaire
 
 45K€/50K€ max selon profil. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
-# Développeur·se sénior·e / lead -  PHP/Symfony
-
-Intégré dans l'équipe Scrum, vous participerez de manière active et collaborative aux choix techniques. 
-Vous devez avoir une forte notion de qualité dans vos développements (gestion de la complexité algorithmique, tests unitaires, intégration continue, documentation, …).
-
-## Missions
-
-* Spécifier, développer et tester les composants de leur backend au sein d’une équipe Agile.
-* Participer à la conception de l’architecture technique en équipe. 
-* Réaliser des tests automatisés (unitaire et intégration notamment).
-* Déployer les applications sur leur infrastructure qui tourne sur Azure.
-* Prendre en compte les métriques de production pour améliorer de manière continue les applications pour atteindre et maintenir la qualité de service.
-* Être partie prenante avec l'équipe sur l’amélioration continue des outils et pratiques. 
-
-## Profil
-
-* Vous devez déjà avoir travaillé sur des projets d’envergure, avec des notions de complexité algorithmiques et de scalabilité.
-* Vous aimez résoudre des problèmes compliqués et créer de manière collaborative.
-* Vous aimez voir votre produit évoluer, et voir des clients satisfaits.
-* Vous maîtrisez le développement de composant et d’API REST, dans le cadre d’infrastructure avec de fortes contraintes (taille des bases de données, temps de réponses, volumétrie de fichiers, etc).
-* Vous maîtrisez les environnements de développements avec Docker.
-* Vous maîtrisez Linux.
-* Vous maîtrisez l’anglais afin de discuter et d’écrire avec des non-francophones.
-* Vous souhaitez travailler régulièrement en pair-programmin.
-
-## Salaire
-
-55K€ max selon profil.
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
 # Site Reliability Engineering - SRE/Infra
-
 
 ## Missions
 
@@ -153,50 +121,6 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 45K€ / 55K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
-
-# QA junior
-
-Vous êtes Junior, motivé(e), avec une bonne culture QA/technique, et vous souhaitez gagner en expérience dans le développement de produits numériques utilisés à grande échelle ?
-
-Vivlio, expert de la lecture numérique et partenaire des plus grandes librairies en Europe depuis 2012, recherche un QA Junior en CDI à Lyon. L’entreprise conçoit un écosystème complet (applications mobile, sites e-commerce, cloud, DRM…) utilisé par des milliers de lecteurs.
-
-## Missions
-
-* Participer au cycle de développement dès les premières étapes
-* Proposer et mettre en place des outils et des métriques QA
-* Exécuter des plans de tests
-* Suivre les métriques et contribuer à l’amélioration continue
-* Promouvoir les bonnes pratiques QA au sein de l’équipe technique
-* Vous travaillerez en Scrum, en collaboration avec le Product Owner et les prestataires techniques.
-* **Être un acteur important du pôle développement de Vivlio**
-
-## Profil
-
-* Vous aimez résoudre des problèmes complexes et créer de manière collaborative
-* Vous avez une culture QA solide et savez expliquer les concepts associés
-* Vous aimez voir votre produit évoluer et des clients satisfaits
-* Vous maîtrisez le principe des API REST
-* Vous avez une expérience dans le test d’applications mobile/smartphone
-* Vous maîtrisez l’anglais afin d’échanger avec des interlocuteurs non francophones
-* Vous faites preuve de curiosité, synthèse, ouverture d’esprit et d’une bonne communication
-
-### Soft skills
-
-* Communication synthétique (écrit et oral)
-* Compréhension du besoin client et sens de l’expérience utilisateur
-* Curiosité et veille technologique
-* Partage des connaissances
-* Capacité à sortir de sa zone de confort
-* Ouverture d’esprit
-
-## Salaire
-
-35K€ selon profil et expérience. 
-
-Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
-
-
 
 ## Comment postuler ?
 
