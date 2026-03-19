@@ -1,10 +1,10 @@
 # 🛎️ DAYUSE 🏨
 
-**Domaine :** Hôtellerie #tourismelocal 
+**Domaine :** Hôtellerie #tourismelocal
 
 **Où :** Paris, rythme hybride : 3 jours au bureau par semaine 
 
-**Quoi :** Le leader des hôtels day use.
+**Quoi :** Le leader des hôtels day use
 
 Dayuse bouscule l’industrie en donnant accès aux chambres et aux services de l'hôtel en journée et en permettant aux hôteliers de diversifier leurs sources de revenus. 
 

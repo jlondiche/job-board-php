@@ -21,8 +21,6 @@ Full remote = 🏠
 
 - [DAYUSE](DAYUSE.md)
 	- **DevOps / Développeur back-end - NEW**
-- [HOMEEXCHANGE](HOMEEXCHANGE.md)
-	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
 	- Développeur·euse back-edn évolution vers du lead dev
 - [MOBILITY WORK](MOBILITY_WORK.md)
@@ -31,7 +29,7 @@ Full remote = 🏠
 	- Développeur·euse frontend senior JS / ReactJS
 	- Développeur·euse backend senior PHP / Symfony
 - [WAMIZ](WAMIZ.md)
-	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 
+	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 POURVU
 
 ## Lille :
 
