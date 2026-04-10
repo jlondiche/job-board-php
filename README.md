@@ -20,16 +20,13 @@ Full remote = 🏠
 ## Paris : 
 
 - [DAYUSE](DAYUSE.md)
-	- **DevOps / Développeur back-end - NEW**
-- [HOMUNITY](HOMUNITY.md)
-	- Développeur·euse back-edn évolution vers du lead dev
+	- DevOps / Développeur back-end - NEW
 - [MOBILITY WORK](MOBILITY_WORK.md)
-	- Developpeur(se) senior·e back-end - IA  🏠
+	- **Développeur·se Backend Expert·e – IA-first & Architecture - NEW!** 🏠
+	- **AI PRODUCT MANAGER - NEW!**
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
 	- Développeur·euse backend senior PHP / Symfony
-- [WAMIZ](WAMIZ.md)
-	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 POURVU
 
 ## Lille :
 
@@ -39,9 +36,8 @@ Full remote = 🏠
 ## Lyon : 
 
 - [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- **Développeur·se expert·e PHP/Symfony - NEW**
+	- Développeur·se expert·e PHP/Symfony 
 
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW** POURVU
-	- **Site Reliability Engineering - SRE/Infra - NEW!**
-	- **PO/PM intérmédiaire - NEW!**
+	- Site Reliability Engineering - SRE/Infra
+	- PO/PM intérmédiaire 

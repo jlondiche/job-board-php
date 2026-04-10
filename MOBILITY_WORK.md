@@ -14,7 +14,7 @@
 
 ## Stack
 
-* PHP 8, Symfony
+* PHP, Symfony
 * MySQL 8.x, AWS, RabbitMQ, ElasticSearch, MongoDB
 * **Approche DDD et CQRS sur l'ensemble des nouveaux développements**
 * EventSourcing (in-house, projections sync & async)
@@ -26,65 +26,87 @@ tests unitaires front jest
 
 ------
 
-# Developpeur(se) back-end expert·e
+# Développeur·se Backend Expert·e – IA-first & Architecture
 
-Mobility Work recherche un développeur back-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
+Vous rejoindrez une équipe où l’exigence technique, l’excellence et l’IA guident l’ensemble des choix d’architecture et de produit 🎯
 
-En relation avec le Tech Lead et l’Engineering Manager, vous êtes attaché·e à la qualité, à l’expérience utilisateur, à la stabilité, à la performance tout en étant pragmatique, vous savez itérer rapidement en apportant régulièrement de la valeur pour nos utilisateurs et notre stratégie, et vous adaptez au contexte et à la maturité organisationnelle du moment.
+## Missions : 
 
-Vous accordez de l’importance à l’humain, faites preuve d’une constante bienveillance et savez être pédagogue et à l’écoute.
+* Participer à la structuration d’une architecture IA-first et event-driven
+* Concevoir et développer des features backend en environnement complexe et distribué
+* Contribuer à la montée en puissance des approches CQRS / Event Sourcing / DDD
+* Améliorer la robustesse, la performance et la scalabilité de la plateforme
+* Participer à la modernisation du codebase (PHP 8, refactoring, modularisation)
+* Garantir la qualité logicielle (tests, guidelines, bonnes pratiques)
+* Collaborer étroitement avec les équipes produit et front pour livrer de la valeur rapidement
+* Participer à la définition des standards techniques et à leur adoption
 
-**Quelques challenges en cours :**
-
-- Systématisation de nos développements autour d’une approche CQRS et Event Sourcing
-- Migration en PHP 8
-- Volonté DDD
-
-## Missions principales :
-
-- Réaliser des features en collaboration avec l'équipe Back-end
-- Améliorer les méthodologies de développement
-- Participer à la volonté de modernisation de la plate-forme (restructuration du projet, etc.)
-- Conception et garant des guidelines
-- Coordination des intégrations de toutes les fonctionnalités
-- Documentation et respects des bonnes pratiques et conventions de la guideline établie
-
-## Contexte : 
-
-* Une équipe de tech d'une quinzaine de personnes (développeurs back-end, front-end, POs, devops)
-* Une approche de l'agilité souple et adaptée à notre culture et nos valeurs
-* Une volonté d'amélioration continue (Kaizen)
-* Une culture du résultat et de l'engagement (= responsabilisation et autonomie
-(horaire, localisation))
-* Une écoute bienveillante et une approche décisionnelle collective
-
-## Profil :
-
-* De intermédiaire à senior
-* Maîtrise de PHP (Symfony), vous maîtrisez les environnements liés à ces langages et
-problématiques inhérents.
-* Expérience notable en production dans la mise en place d’une approche CQRS(Event
-Sourcing en bonus)
-* Vous maîtrisez le français et l'anglais
-* Intérêt et curiosité pour les langages fonctionnels bienvenus
-* La connaissance d’un langage fonctionnel est un plus
+## Profil
+* Développeur·se backend intermédiaire à senior
+* Très bonne maîtrise de PHP / Symfony en production
+* Expérience solide sur des architectures complexes (DDD, CQRS fortement appréciée)
+* Sensibilité aux systèmes distribués et à l’event-driven architecture
+* Intérêt marqué pour les approches IA-first et automatisation des systèmes
+* Curiosité pour les langages fonctionnels et les nouveaux paradigmes backend
+* Français et anglais professionnels
 
 ## Salaire :
 
-Fourchette large car le profil recherché peut-être intermédiaire jusqu'à sénior : 45/60K€
+Fourchette en fonction du profil : 45/65K€
+
+Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
+# AI PRODUCT MANAGER 
+
+L’équipe tech a engagé un virage IA structurant. Elle cherche un·e Product Manager capable de transformer ces innovations en impact business concret, tout en gardant un lien fort avec les utilisateurs terrain 🚀 
+
+## Missions : 
+
+* Porter la vision produit orientée business et impact, en lien avec les équipes tech et produit
+* Mener la discovery produit assistée par l’IA
+* Recueil et structuration des besoins utilisateurs et métiers
+* Analyse des feedbacks et données pour identifier les opportunités
+* Priorisation des sujets à fort impact business
+* Transformer les besoins en roadmap actionnable
+* Rédaction et cadrage des features (user stories, specs fonctionnelles)
+* Définition des objectifs et KPIs
+* Arbitrages produit selon valeur business et contraintes techniques
+* Travailler en binôme avec les développeurs
+* Suivi de delivery et clarification fonctionnelle
+* Interaction au quotidien avec les outils IA côté tech (ex : Claude Code)
+* Garantir la cohérence produit de bout en bout
+* Suivre la qualité et l’adoption produit : Analyse des usages (analytics, retours clients, amélioration continue des parcours et fonctionnalités
+* Contribuer à la structuration produit : Documentation et amélioration des process produit
+
+📍 Point important : le poste implique des déplacements au contact des utilisateurs (techniciens, responsables maintenance, directeurs d’usine) plusieurs fois par mois.
+
+## Profil : 
+
+* Product Manager orienté terrain / discovery / B2B industriel, avec forte culture produit et business
+* Expérience en environnement B2B complexe (industrie, SaaS B2B, environnements non digitaux)
+à l’aise avec des interlocuteurs terrain (usines, environnements industriels)
+* Forte appétence pour l’IA appliquée au produit (prototypage, automatisation, exploration produit)
+* Bonne maîtrise des outils analytics (Mixpanel, Hotjar)
+* Bonne compréhension des contraintes techniques (sans être développeur)
+* Capacité à comprendre les impacts produit / tech sans coder
+* Anglais impératif 🇬🇧
+* Permis de conduire obligatoire 🚗
+
+## Salaire :
+
+Fourchette large car le profil recherché peut-être intermédiaire jusqu'à sénior : 60K€/90K€
 
 Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 ## Pourquoi postuler ?
 
-* Kaizen très ancré dans notre culture
+* Kaizen très ancré dans leur culture
 * Budget pour participations à des conférences
-* Des formations ou des interventions d’experts
-* CDI à temps plein, à pourvoir dès que possible
+* Des formations et / ou interventions d’experts
 * Environnement bienveillant et résultat driven
-* Rémunération selon profil
-* Full-remote
+* Full-remote + plusieurs séminaires par an 
 * Locaux à disposition en plein cœur de Paris 08 (prox. parc Monceau)
 * Excellente mutuelle
 * **Et surtout l'occasion de rejoindre une équipe et un projet en pleine évolution 🚀**
