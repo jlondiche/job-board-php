@@ -41,3 +41,7 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- Site Reliability Engineering - SRE/Infra
 	- PO/PM intérmédiaire 
+
+## Nantes :
+- [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
+	- **Junior data analyste - NEW!**
