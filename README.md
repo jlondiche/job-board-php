@@ -19,13 +19,11 @@ Full remote = 🏠
 
 ## Paris : 
 
-- [DAYUSE](DAYUSE.md)
-	- DevOps / Développeur back-end - NEW
 - [MOBILITY WORK](MOBILITY_WORK.md)
-	- **Développeur·se Backend Expert·e – IA-first & Architecture - NEW!** 🏠
-	- **AI PRODUCT MANAGER - NEW!**
+	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
+	- AI PRODUCT MANAGER
 - [SEZANE](SEZANE.md)
-	- Développeur·euse frontend senior JS / ReactJS
+	- Développeur·euse frontend senior JS / ReactJS [POURVU]
 	- Développeur·euse backend senior PHP / Symfony
 
 ## Lille :
@@ -35,13 +33,11 @@ Full remote = 🏠
 
 ## Lyon : 
 
-- [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- Développeur·se expert·e PHP/Symfony 
-
 - [VIVLIO](VIVLIO.md)
-	- Site Reliability Engineering - SRE/Infra
+	- Site Reliability Engineering - SRE/Infra [POURVU]
 	- PO/PM intérmédiaire 
 
 ## Nantes :
+
 - [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
-	- **Junior data analyste - NEW!**
+	- Junior data analyste
