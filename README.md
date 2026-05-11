@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## Paris : 
 
+- [HOME EXCHANGE](HOME_EXCHANGE.md)
+	- **Sénior Backend expérimenté·e TypeScript / NodeJS** [NEW]
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
