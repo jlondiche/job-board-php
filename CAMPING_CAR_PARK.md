@@ -2,15 +2,13 @@
 
 **Domaine :** Tourisme / TravelTech / Data
 
-**Où :** Pornic (44) - 2 jours sur place en Télétravail
+**Où :** Paris 2/3 Jours de TT + quelques déplacements à Pornic au début de la mission. 
 
 **Quoi :** Camping-Car Park — leader européen des aires pour camping-cars, avec une forte ambition de croissance à l’échelle européenne.
 
-Rejoignez un acteur leader du tourisme itinérant en Europe, en forte croissance, où la data pilote les décisions business.
+Rejoignez un acteur majeur du tourisme itinérant en Europe, en forte croissance, qui développe une plateforme digitale complète permettant à des milliers de voyageurs de réserver, payer et accéder à des services partout en Europe.
 
-Vous interviendrez au cœur de la stratégie en transformant la donnée en insights actionnables, en lien direct avec les équipes métiers et le Lead Data.
-
-**Vous travaillerez avec un Lead Data Analyste excellent qui vous permettra de monter rapidement en compétence, et vous mentorerat. Vous serez en contact direct avec le métier et les équipes produit. CTO reconnu, vous intégrerez une super équipe tech !** 
+Dans un contexte de structuration technique et d’ouverture d’une nouvelle antenne parisienne, vous jouerez un rôle clé pour faire grandir la maturité technique de l’équipe et poser les bases d’un futur pôle tech ambitieux.
 
 **Fact & Figures** 
 
@@ -22,49 +20,52 @@ Vous interviendrez au cœur de la stratégie en transformant la donnée en insig
  - Objectifs ambitieux et claires : Se développer dans d’autres pays européens et lancer des innovations pour enrichir l’expérience client.
 
 
-# Data analyste junior
+ **Stack**
+- PHP, Symfony, Sylius, API Platform, PostgreSQL, Twig, Git,Gitlab, GCP (migration ers AWS)
+
+
+# Lead Développeur·euse PHP/Symfony
+
+**Vous travaillerez directement avec le CTO, le Lead Dev historique et la PM. Vous intégrerez une équipe jeune, motivée et en pleine montée en puissance, dans un environnement où confiance, franchise et ambition technique priment.**
 
 ## Missions
 
-- Produire des analyses pour orienter les décisions business  
-- Construire et maintenir des dashboards (Metabase)  
-- Définir et suivre les KPIs clés  
-- Participer à la mise en place du data warehouse (Snowflake)  
-- Modéliser la donnée avec dbt 
-- Structurer et fiabiliser les pipelines data  
-- Analyser les données CRM (HubSpot) 
-- Accompagner les équipes métiers dans leurs usages data  
+* Développer et faire évoluer les fonctionnalités clés de la plateforme
+* Participer aux choix d’architecture et challenger les décisions techniques
+* Réaliser des code reviews et instaurer des bonnes pratiques durables
+* Accompagner la montée en compétence des développeurs plus juniors
+* Participer à la modernisation du legacy existant
+* Contribuer à la migration de l’infrastructure vers AWS
+* Collaborer étroitement avec les équipes produit et tech
+* Participer à la structuration du futur pôle parisien
 
 ## Profil
 
-- 1 à 2 ans d’expérience en data (stage/alternance inclus)  
-- Très bonne maîtrise de SQL  
-- Bonne connaissance de Python (pandas)  
-- Expérience avec un outil BI (Metabase, Looker, Power BI…)  
-- Appétence pour dbt et la modélisation data  
-- Forte sensibilité business + capacité à vulgariser  
-- Très bonne communication pour pouvoir échanger facilement avec les différents métiers
+* Minimum 5/6 ans d’expérience sur PHP / Symfony, dont 3 ans d’expérience significative sur Symfony en production
+* Maîtrise approfondie de Symfony (injection de dépendances, cycle de vie, Messenger, etc.)
+* Solide expérience avec Doctrine ORM (Lazy/Eager loading, QueryBuilder, optimisation PostgreSQL)
+* Expérience en environnement structuré (revues de code, CI/CD)
+* Première expérience sur Sylius appréciée
+* Bonne culture des bonnes pratiques de développement et du clean code
+* Appétence pour l’accompagnement technique et le mentoring
+* Capacité à structurer, fédérer et faire monter une équipe en maturité
+* Profil pragmatique, curieux et orienté impact
+* Une première expérience de lead technique est un vrai plus 
 
-## Stack
-- SQL  
-- Python  
-- Metabase  
-- dbt  
-- Snowflake  
-- HubSpot  
 
 ## Pourquoi postuler
 
-- Stack data moderne à construire  
-- Impact direct sur le business  
-- Forte proximité avec les équipes  
-- Scale-up rentable en forte croissance
-- Equipe data en création
-- Excellents mentors 
+* Rôle clé avec fort impact technique et organisationnel
+* Participation directe à la structuration d’un nouveau pôle tech à Paris
+* Chantiers concrets de modernisation (AWS, architecture, CI/CD, refonte front)
+* Equipe jeune et motivée
+* Forte proximité avec le CTO et les décideurs
+* Télétravail flexible et management à l’écoute
+* Environnement où vos décisions techniques auront un impact réel sur l’avenir de la plateforme
 
 ## Salaire 
 
-40K€ / 45K€ selon profil et expérience. 
+55/65K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 

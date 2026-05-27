@@ -19,8 +19,10 @@ Full remote = 🏠
 
 ## Paris : 
 
+ [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
+- **Lead Développeur·euse PHP/Symfony** [NEW]
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
-	- **Sénior Backend expérimenté·e TypeScript / NodeJS** [NEW]
+	- Sénior Backend expérimenté·e TypeScript / NodeJS
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
@@ -38,8 +40,3 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- Site Reliability Engineering - SRE/Infra [POURVU]
 	- PO/PM intérmédiaire 
-
-## Nantes :
-
-- [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
-	- Junior data analyste
