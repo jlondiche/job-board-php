@@ -26,7 +26,7 @@ Full remote = 🏠
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
-- [NOVALEND](NOVALEND_WORK.md)
+- [NOVALEND](NOVALEND.md)
 	- **Développeur·euse fullstack SENIOR JS/PHP**[NEW]
 
 - [SEZANE](SEZANE.md)
