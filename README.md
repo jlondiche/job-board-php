@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## Paris : 
 
+- [BFAN](BFAN.md)
+	- **Senior Full-stack Developer Python / Reactjs - AI** [NEW] 🏠
 - [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
 	- **Lead Développeur·euse PHP/Symfony** [NEW]
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
