@@ -24,7 +24,7 @@ Dans un contexte de structuration technique et d’ouverture d’une nouvelle an
 - PHP, Symfony, Sylius, API Platform, PostgreSQL, Twig, Git,Gitlab, GCP (migration ers AWS)
 
 
-# Lead Développeur·euse PHP/Symfony
+# Tech Lead - PHP/Symfony
 
 **Vous travaillerez directement avec le CTO, le Lead Dev historique et la PM. Vous intégrerez une équipe jeune, motivée et en pleine montée en puissance, dans un environnement où confiance, franchise et ambition technique priment.**
 

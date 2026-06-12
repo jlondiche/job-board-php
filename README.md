@@ -22,7 +22,9 @@ Full remote = 🏠
 - [BFAN](BFAN.md)
 	- **Senior Full-stack Developer Python / Reactjs - AI** [NEW] 🏠
 - [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
-	- **Lead Développeur·euse PHP/Symfony** [NEW]
+	- **Tech lead PHP/Symfony** [NEW]
+- [GEMMYO](GEMMYO.md)
+	- **Développeur·euse Full Stack PHP/JS** [NEW]
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Sénior Backend expérimenté·e TypeScript / NodeJS
 - [MOBILITY WORK](MOBILITY_WORK.md)
@@ -30,9 +32,7 @@ Full remote = 🏠
 	- AI PRODUCT MANAGER
 - [NOVALEND](NOVALEND.md)
 	- **Développeur·euse fullstack SENIOR JS/PHP**[NEW]
-
 - [SEZANE](SEZANE.md)
-	- Développeur·euse frontend senior JS / ReactJS [POURVU]
 	- Développeur·euse backend senior PHP / Symfony
 
 ## Lille :
