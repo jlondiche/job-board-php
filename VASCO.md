@@ -58,7 +58,7 @@ L'objectif n'est pas uniquement de gérer une roadmap : il s'agit de repenser la
 
 ## Salaire 
 
-Rémunération :50K€/60K€ selon profil. 
+Rémunération : 50K€/60K€ selon profil. 
 
 *Pour rappel : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez. L'entreprise est prête à payer votre expérience à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.*
 
