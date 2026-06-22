@@ -34,7 +34,8 @@ Full remote = 🏠
 	- **Développeur·euse fullstack SENIOR JS/PHP**[NEW]
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
-
+- [VASCP](VASCO.md)
+	- Product Owner - confirmé·e
 ## Lille :
 
 - [ONEYTRUST](ONEYTRUST.md)
