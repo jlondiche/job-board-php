@@ -33,7 +33,7 @@ https://evenizer.io
 
 | Domaine | Technologies |
 |---|---|
-| **Backend** | PHP 8.4+ · Symfony 7.3 · MySQL · Doctrine · DDD · CQRS · Architecture hexagonale · Event sourcing · Message Bus · Deptrac · OAuth2 (League) · JWT · Chiffrement RSA/AES · Multi-tenancy |
+| **Backend** | PHP 8.4+ · Symfony 7.3 · MySQL · Doctrine · DDD · CQRS · Architecture hexagonale · Event driven · Message Bus · Deptrac · OAuth2 (League) · JWT · Chiffrement RSA/AES · Multi-tenancy |
 | **Frontend** | Vue 3.5 · Vite 7 · TypeScript strict · Pinia · Element Plus · TailwindCSS v4 · VueUse · Axios · i18n · pnpm · Webpack Encore · Stimulus · Twig |
 | **Infrastructure** | Cloudflare · Stockage objet S3-compatible |
 | **Messaging & Async** | RabbitMQ |
@@ -128,7 +128,7 @@ Les conditions de travail :
 
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à jeanne@jlrecrutement.com, julie-charlotte@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
