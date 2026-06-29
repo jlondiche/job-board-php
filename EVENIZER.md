@@ -2,7 +2,7 @@
 
 **Domaine :** Editeur de logiciel SaaS pour la gestion des hospitalités - mise en relation - gestion d'évènements 
 
-**Où :** Paris 2ème - 2jours de TT/semaine - flexibilité possible 
+**Où :** Paris 2ème, fullremote, déplacement à Paris 1 fois par mois.
 
 **Quoi :** 
 
