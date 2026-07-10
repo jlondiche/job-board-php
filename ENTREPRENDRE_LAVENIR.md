@@ -1,4 +1,4 @@
-#🛡Entreprendre l'Avenir - Marques Simplis et Stello🛡️
+# 🛡Entreprendre l'Avenir - Marques Simplis et Stello🛡️
 
 **Domaine :** Courtage en assurance & solutions digitales pour les professionnels. Entreprise spécialisée dans le courtage en assurance B2B.
 
