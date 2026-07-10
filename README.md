@@ -27,8 +27,6 @@ Full remote = 🏠
 	- **Développeur backend PHP / Symfony senior** [NEW]
 - [EVENIZER](EVENIZER.md)
 	- **Senior Développeur·euse fullstack, archi hexa +++** [NEW] 🏠
-- [GEMMYO](GEMMYO.md)
-	- Développeur·euse Full Stack PHP/JS [POURVU]
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Sénior Backend expérimenté·e TypeScript / NodeJS
 - [MOBILITY WORK](MOBILITY_WORK.md)
@@ -50,6 +48,4 @@ Full remote = 🏠
 
 - [OPERA ENERGIE](OPERA_ENERGIE.md)
 	- **IT manager, RSI** [NEW]
-- [VIVLIO](VIVLIO.md)
-	- Site Reliability Engineering - SRE/Infra [POURVU]
-	- PO/PM intérmédiaire 
+
