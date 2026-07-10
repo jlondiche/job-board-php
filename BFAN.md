@@ -1,11 +1,11 @@
-# bfan
+# Bfan
 
 **Domaine :** Sport Tech / SaaS / Engagement Fan  
 
 **Où :** Boulogne-Billancourt / Chambéry — Full remote possible (1 A/R Paris/mois)  
 
 **Quoi :**  
-bfan est une startup SaaS membre du réseau Fan XP, spécialisée dans les plateformes d’engagement fan pour les organisations sportives professionnelles (clubs, ligues, fédérations, compétitions).  
+Bfan est une startup SaaS membre du réseau Fan XP, spécialisée dans les plateformes d’engagement fan pour les organisations sportives professionnelles (clubs, ligues, fédérations, compétitions).  
 
 La société développe des applications mobiles et plateformes en marque blanche permettant aux clubs d’améliorer l’expérience fan : contenu, gamification, fidélité, paiement, m-billet, gestion des identités, etc.  
 
@@ -58,7 +58,7 @@ L’objectif principal sera de renforcer les fondations backend de la plateforme
 * Mettre en place des tests unitaires et fonctionnels dans une approche TDD  
 * Contribuer aux pipelines GitHub Actions et à la containerisation Docker  
 * Intégrer les bonnes pratiques sécurité OWASP et les contraintes RGPD dès la conception  
-* Développer et maintenir des interfaces React.js pour les outils internes et les applications bfan  
+* Développer et maintenir des interfaces React.js pour les outils internes et les applications Bfan  
 * Participer à l’intégration de pipelines RAG et d’agents IA pour enrichir l’expérience fan  
 * Collaborer à l’intégration de LLMs comme OpenAI, Anthropic ou Mistral  
 
@@ -76,7 +76,7 @@ L’objectif principal sera de renforcer les fondations backend de la plateforme
 
 ## Pourquoi nous rejoindre  
 
-Rejoindre bfan, c’est intégrer un acteur reconnu de la sport tech européenne et participer à la construction de la plateforme d’engagement fan de référence.  
+Rejoindre Bfan, c’est intégrer un acteur reconnu de la sport tech européenne et participer à la construction de la plateforme d’engagement fan de référence.  
 
 Vous évoluerez dans un environnement technique moderne avec une vraie culture produit et engineering, où **les sujets d’architecture, de scalabilité et d’IA sont centraux**.  
 

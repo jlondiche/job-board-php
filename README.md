@@ -23,6 +23,8 @@ Full remote = 🏠
 	- **Senior Full-stack Developer Python / Reactjs - AI** [NEW] 🏠
 - [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
 	- **Tech lead PHP/Symfony** [NEW]
+- [ENTREPRENDRE L'AVENIR](ENTREPRENDRE_LAVENIR.md)
+	- **Développeur backend PHP / Symfony senior** [NEW]
 - [EVENIZER](EVENIZER.md)
 	- **Senior Développeur·euse fullstack, archi hexa +++** [NEW] 🏠
 - [GEMMYO](GEMMYO.md)
